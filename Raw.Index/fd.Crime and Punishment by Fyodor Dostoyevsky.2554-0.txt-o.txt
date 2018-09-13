@@ -1,0 +1,4193 @@
+486	Jack
+570	Petersburg
+1023	Zimmerman
+1972	Raskolnikov
+2052	Raskolnikov
+2197	Raskolnikov
+2376	Raskolnikov
+2580	Alyona Ivanovna
+3076	Alyona Ivanovna
+3184	Alyona Ivanovna
+3188	Raskolnikov
+3475	Raskolnikov
+3977	Raskolnikov
+4274	Raskolnikov
+4623	Raskolnikov
+4646	Forasmuch
+4909	Raskolnikov
+5065	Lebeziatnikov
+5126	Raskolnikov
+5273	Marmeladov
+5399	Marmeladov
+5407	Raskolnikov
+5450	Lebeziatnikov
+5584	Lebeziatnikov
+5662	Raskolnikov
+5942	Katerina Ivanovna
+6022	Katerina Ivanovna
+6159	Marmeladov
+6271	Katerina Ivanovna
+6674	Lebeziatnikov
+7204	Amalia Fyodorovna
+7206	Lippevechsel
+7290	Katerina Ivanovna
+7320	Sonia
+7434	Lebeziatnikov
+7534	Ivan Ivanitch
+7536	Klopstock
+7603	Katerina Ivanovna
+7698	Sonia
+7728	Katerina Ivanovna
+7743	Darya Frantsovna
+7780	Katerina Ivanovna
+7857	Katerina Ivanovna
+7884	Sonia
+7915	Katerina Ivanovna
+8026	Katerina Ivanovna
+8036	Sonia
+8050	Sonia
+8086	Marmeladov
+8147	Darya Frantsovna
+8170	Sofya Semyonovna
+8199	Amalia Fyodorovna
+8212	Darya Frantsovna
+8218	Lebeziatnikov
+8230	Katerina Ivanovna
+8234	Sonia
+8246	Sonia
+8288	Katerina Ivanovna
+8311	Sonia
+8323	Katerina Ivanovna
+8349	Kapernaumov
+8388	Sonia
+8438	Ivan Afanasyvitch
+8443	Ivan Afanasyvitch
+8497	Marmeladov
+8611	Marmeladov
+8680	Marmeladov
+8745	Raskolnikov
+8764	Katerina Ivanovna
+8767	Sonia
+8816	Semyon Zaharovitch
+8925	Katerina Ivanovna
+9030	Sonia
+9098	Katerina Ivanovna
+9109	Amalia Fyodorovna
+9138	Semyon Zaharovitch
+9181	Semyon Zaharovitch
+9211	Semyon Zaharovitch
+9438	Marmeladov
+9497	Raskolnikov
+9524	Marmeladov
+9673	Marmeladov
+9733	Katerina Ivanovna
+9826	Marmeladov
+9873	Raskolnikov
+9886	Sonia
+9940	Marmeladov
+9947	Raskolnikov
+10299	Marmeladov
+10570	Sonia
+10688	Ye
+10817	Katerina Ivanovna
+10923	Marmeladov
+10933	Raskolnikov
+10941	Kozel
+10954	Katerina Ivanovna
+10962	Raskolnikov
+10979	Marmeladov
+11031	Katerina Ivanovna
+11152	Sonia
+11239	Kozel
+11469	Amalia Lippevechsel
+11513	Raskolnikov
+11515	Katerina Ivanovna
+11619	Raskolnikov
+11866	Marmeladov
+11884	Raskolnikov
+12037	Marmeladov
+12106	Marmeladov
+12281	Raskolnikov
+12386	Marmeladov
+12424	Amalia Lippevechsel
+12471	Raskolnikov
+12540	Sonia
+12589	Sonia
+12620	Sonia
+12658	Sonia
+12961	Raskolnikov
+13047	Raskolnikov
+13148	Nastasya
+13241	Raskolnikov
+13249	Nastasya
+13312	Nastasya
+13432	Nastasya
+13632	Raskolnikov
+13669	Nastasya
+13923	Raskolnikov
+14047	Nastasya
+14139	Rodya
+14205	Dounia
+14301	Vassily Ivanovitch
+14303	Vahrushin
+14416	Rodya
+14491	Dounia
+14617	Dounia
+14676	Rodya
+14715	Dounia
+14753	Dounia
+14767	Svidrigaïlov
+14824	Marfa Petrovna
+14828	Svidrigaïlov
+14840	Dounia
+14850	Svidrigaïlov
+14890	Dounia
+14938	Dounia
+14973	Dounia
+15040	Marfa Petrovna
+15052	Dounia
+15074	Dounia
+15091	Dounia
+15108	Dounia
+15127	Dounia
+15177	Marfa Petrovna
+15184	Dounia
+15230	Marfa Petrovna
+15238	Dounia
+15258	Dounia
+15311	Dounia
+15405	Dounia
+15453	Dounia
+15539	Marfa Petrovna
+15545	Dounia
+15635	Dounia
+15683	Svidrigaïlov
+15696	Dounia
+15701	Marfa Petrovna
+15709	Dounia
+15719	Dounia
+15731	Marfa Petrovna
+15747	Svidrigaïlov
+15792	Marfa Petrovna
+15832	Rodya
+15872	Dounia
+15887	Svidrigaïlov
+15901	Marfa Petrovna
+15926	Dounia
+15994	Dounia
+16032	Dounia
+16058	Dounia
+16064	Svidrigaïlov
+16144	Marfa Petrovna
+16206	Marfa Petrovna
+16217	Dounia
+16264	Dounia
+16321	Rodya
+16324	Dounia
+16427	Pyotr Petrovitch
+16429	Luzhin
+16436	Marfa Petrovna
+16648	Rodya
+16744	Pyotr Petrovitch
+16844	Dounia
+16876	Rodya
+16921	Dounia
+17012	Dounia
+17045	Dounia
+17142	Dounia
+17157	Dounia
+17303	Dounia
+17306	Dounia
+17330	Dounia
+17398	Pyotr Petrovitch
+17468	Rodya
+17487	Dounia
+17545	Dounia
+17566	Pyotr Petrovitch
+17661	Dounia
+17703	Pyotr Petrovitch
+17730	Rodya
+17754	Pyotr Petrovitch
+17772	Dounia
+17812	Pyotr Petrovitch
+17847	Dounia
+17916	Dounia
+17956	Dounia
+18004	Dounia
+18053	Rodya
+18067	Pyotr Petrovitch
+18224	Dounia
+18245	Rodya
+18300	Dounia
+18308	Petersburg
+18332	Pyotr Petrovitch
+18408	Dounia
+18433	Pyotr Petrovitch
+18543	Dounia
+18547	Pyotr Petrovitch
+18559	Afanasy Ivanovitch
+18609	Pyotr Petrovitch
+18693	Dounia
+18747	Dounia
+18810	Rodya
+18827	Dounia
+18831	Rodya
+18859	Rodya
+19015	Raskolnikov
+19140	Vassilyevsky Ostrov
+19145	Vassilyevsky Prospect
+19257	Luzhin
+19293	Dounia
+19350	Pyotr Petrovitch
+19374	Dounia
+19421	Kazan
+19455	Avdotya Romanovna
+19514	Dounia
+19528	Dounia
+19584	Luzhin
+19701	Dounia
+19759	Dounia
+19820	Luzhin
+19882	Luzhin
+20009	Luzhin
+20208	Petersburg
+20258	Dounia
+20322	Afanasy Ivanovitch
+20377	Luzhin
+20519	Luzhin
+20531	Anna
+20594	Dounia
+20596	Dounia
+20622	Mother
+20626	Dounia
+20675	Dounia
+20692	Svidrigaïlov
+20728	Luzhin
+20803	Dounia
+20805	Dounia
+20865	Luzhin
+20871	Dounia
+20939	Lett
+20984	Luzhin
+21196	Rodion Romanovitch
+21198	Raskolnikov
+21274	Rodya
+21277	Rodya
+21313	Sonia
+21317	Sonia
+21319	Sonia Marmeladov
+21371	Dounia
+21373	Sonia
+21383	Luzhin
+21463	Sonia
+21479	Dounia
+21493	Sonia
+21516	Dounia
+21560	Marfa Petrovna
+21612	Dounia
+21799	Afanasy Ivanovitch
+21801	Vahrushin
+22116	Marmeladov
+22588	Raskolnikov
+22752	Raskolnikov
+22860	Raskolnikov
+22927	Raskolnikov
+23027	Raskolnikov
+23097	Raskolnikov
+23104	Raskolnikov
+23136	Raskolnikov
+23150	Raskolnikov
+23582	Raskolnikov
+23728	Raskolnikov
+23949	Raskolnikov
+23992	Raskolnikov
+24075	Missy
+24222	Raskolnikov
+24303	Raskolnikov
+24332	Raskolnikov
+24351	Raskolnikov
+24561	Darya Frantsovnas
+24781	Dounia
+24834	Vassilyevsky Ostrov
+24880	Razumihin
+24895	Raskolnikov
+25068	Razumihin
+25218	Razumihin
+25357	Raskolnikov
+25371	Razumihin
+25392	Raskolnikov
+25412	Razumihin
+25444	Razumihin
+25462	Raskolnikov
+25559	Razumihin
+25603	Razumihin
+25653	Razumihin
+25679	Razumihin
+25932	Vassilyevsky Ostrov
+26124	Nastasya
+26262	Petrovsky Ostrov
+26351	Pushkin
+26388	Raskolnikov
+27244	Mikolka
+27270	Matvey
+27425	Mikolka
+27524	Mikolka
+27589	Mikolka
+27642	Mikolka
+27792	Mikolka
+27996	Mikolka
+28175	Mikolka
+28248	Mikolka
+28288	Mikolka
+28378	Mikolka
+28461	Mikolka
+28550	Mikolka
+28591	Mikolka
+28646	Mikolka
+29767	Raskolnikov
+29863	Lizaveta Ivanovna
+29883	Alyona Ivanovna
+29887	Raskolnikov
+29910	Lizaveta
+29996	Raskolnikov
+30035	Lizaveta Ivanovna
+30064	Lizaveta
+30090	Alyona Ivanovna
+30151	Alyona Ivanovna
+30245	Lizaveta
+30257	Raskolnikov
+30507	Raskolnikov
+30520	Lizaveta
+30582	Lizaveta
+30633	Raskolnikov
+30693	Pokorev
+30699	Harkov
+30711	Alyona Ivanovna
+30934	Alyona Ivanovna
+30948	Raskolnikov
+31003	Alyona Ivanovna
+31137	Lizaveta
+31159	Lizaveta
+31187	Lizaveta
+31214	Lizaveta
+31222	Raskolnikov
+31234	Lizaveta
+31321	Lizaveta
+31372	Lizaveta
+31429	Lizaveta
+31595	Raskolnikov
+31932	Lizaveta
+32158	Raskolnikov
+32405	Nastasya
+32504	Nastasya
+32547	Nastasya
+32589	Nastasya
+32645	Nastasya
+33944	Nastasya
+34049	Nastasya
+34827	Nastasya
+35420	Yusupov
+36427	Raskolnikov
+36566	Alyona Ivanovna
+36658	Alyona Ivanovna
+36665	Raskolnikov
+37010	Raskolnikov
+37976	Raskolnikov
+38540	Lizaveta
+38693	Lizaveta
+38796	Raskolnikov
+39961	Raskolnikov
+39997	Raskolnikov
+40036	Raskolnikov
+40151	Alyona Ivanovna
+40157	Lizaveta Ivanovna
+40233	Raskolnikov
+40281	Koch
+40296	Raskolnikov
+40314	Koch
+40749	Koch
+40920	Koch
+41001	Raskolnikov
+41124	Koch
+41181	Raskolnikov
+43764	Nastasya
+43866	Nastasya
+43949	Nastasya
+43954	Nastasya
+44082	Nastasya
+44114	Raskolnikov
+44139	Nastasya
+44274	Nastasya
+44459	Nastasya
+45480	Raskolnikov
+45603	Raskolnikov
+45872	Luise Ivanovna
+46137	Raskolnikov
+46166	Raskolnikov
+46223	Raskolnikov
+46260	Raskolnikov
+46282	Raskolnikov
+46380	Raskolnikov
+46519	Raskolnikov
+46600	Alexandr Grigorievitch
+46625	Raskolnikov
+46818	Zarnitsyn
+46830	Zarnitsyn
+46834	Tchebarov
+47041	Raskolnikov
+47185	Raskolnikov
+47245	Ilya Petrovitch
+47536	Karl
+47542	Karl
+47553	Henriette
+47632	Karl
+47765	Ilya Petrovitch
+47800	Luise Ivanovna
+47888	Raskolnikov
+48022	Luise Ivanovna
+48072	Nikodim Fomitch
+48075	Luise Ivanovna
+48110	Nikodim Fomitch
+48113	Ilya Petrovitch
+48148	Ilya Petrovitch
+48313	Nikodim Fomitch
+48319	Raskolnikov
+48399	Ilya Petrovitch
+48413	Raskolnikov
+48440	Nikodim Fomitch
+48642	Raskolnikov
+48649	Nikodim Fomitch
+48658	Ilya Petrovitch
+48809	Ilya Petrovitch
+48821	Raskolnikov
+49034	Ilya Petrovitch
+49077	Nikodim Fomitch
+49106	Raskolnikov
+49127	Raskolnikov
+49280	Ilya Petrovitch
+49564	Raskolnikov
+49606	Raskolnikov
+49667	Nikodim Fomitch
+49758	Nikodim Fomitch
+49764	Ilya Petrovitch
+49829	Pestryakov
+49902	Koch
+50011	Koch
+50043	Koch
+50106	Noah
+50129	Nikodim Fomitch
+50144	Ilya Petrovitch
+50148	Raskolnikov
+50207	Nikodim Fomitch
+50235	Nikodim Fomitch
+50282	Ilya Petrovitch
+50329	Raskolnikov
+50391	Raskolnikov
+50411	Ilya Petrovitch
+50427	Nikodim Fomitch
+50437	Ilya Petrovitch
+50443	Nikodim Fomitch
+50489	Ilya Petrovitch
+50500	Raskolnikov
+50524	Nikodim Fomitch
+50617	Nastasya
+52082	Ilya Petrovitch
+52546	Vassilyevsky Ostrov
+52572	Razumihin
+52652	Razumihin
+52693	Razumihin
+52769	Raskolnikov
+52810	Razumihin
+52840	Raskolnikov
+52893	Razumihin
+52908	Raskolnikov
+52922	Razumihin
+52992	Razumihin
+53201	Heruvimov
+53260	Jove
+53468	Heruvimov
+53471	Rousseau
+53676	Raskolnikov
+53695	Razumihin
+53704	Raskolnikov
+53719	Razumihin
+53754	Razumihin
+53799	Raskolnikov
+53819	Raskolnikov
+53850	Raskolnikov
+54085	Christ
+54246	Raskolnikov
+54834	Raskolnikov
+54847	Ilya Petrovitch
+54850	Ilya Petrovitch
+55049	Ilya Petrovitch
+55183	Raskolnikov
+55231	Nastasya
+55343	Ilya Petrovitch
+55371	Nastasya
+55399	Nastasya
+55455	Nastasya
+55588	Nastasya
+55763	Nastasya
+55956	Nastasya
+56009	Raskolnikov
+56018	Nastasya
+56149	Razumihin
+56204	Nastasya
+56228	Razumihin
+56239	Vrazumihin
+56246	Razumihin
+56255	Vrazumihin
+56302	Razumihin
+56331	Raskolnikov
+56358	Zossimov
+56366	Zossimov
+56427	Zossimov
+56525	Alexey Semyonovitch
+56585	Afanasy Ivanovitch
+56587	Vahrushin
+56616	Raskolnikov
+56637	Semyon Semyonovitch
+56642	Afanasy Ivanovitch
+56676	Raskolnikov
+56690	Razumihin
+56733	Afanasy Ivanovitch
+56771	Semyon Semyonovitch
+56880	Rodya
+56896	Raskolnikov
+56925	Raskolnikov
+57079	Rodya
+57100	Raskolnikov
+57156	Raskolnikov
+57173	Nastasya
+57215	Raskolnikov
+57267	Nastasya
+57333	Nastasya
+57336	Praskovya Pavlovna
+57367	Nastasya
+57378	Raskolnikov
+57387	Razumihin
+57406	Raskolnikov
+57448	Raskolnikov
+57473	Razumihin
+57483	Zossimov
+57491	Nastasya
+57577	Rodya
+57654	Nastasya
+57778	Raskolnikov
+57952	Razumihin
+57980	Nastasya
+58014	Rodya
+58115	Harlamov
+58125	Harlamov
+58138	Harlamov
+58142	Buch
+58205	Kobelev
+58253	Nastasya
+58264	Nikodim Fomitch
+58267	Ilya Petrovitch
+58275	Zametov
+58277	Alexandr Grigorievitch
+58299	Nastasya
+58312	Nastasya
+58330	Nastasya Nikiforovna
+58341	Nastasya
+58355	Nikiforovna
+58358	Petrovna
+58409	Pashenka
+58436	Raskolnikov
+58490	Nastasya
+58598	Natalya Yegorovna
+58637	Praskovya Pavlovna
+58658	Raskolnikov
+58685	Razumihin
+58933	Raskolnikov
+58958	Tchebarov
+58966	Pashenka
+59029	Rodya
+59101	Pashenka
+59164	Tchebarov
+59237	Tchebarov
+59284	Razumihin
+59292	Raskolnikov
+59307	Razumihin
+59370	Raskolnikov
+59399	Zametov
+59405	Zametov
+59415	Raskolnikov
+59522	Luise Ivanovna
+59532	Luise
+59534	Luise Ivanovna
+59671	Nikodim Fomitch
+59674	Ilya Petrovitch
+59706	Zametov
+59834	Zossimov
+59886	Pashenka
+59911	Nastasya
+59955	Razumihin
+60237	Razumihin
+60266	Zametov
+60278	Zametov
+60333	Zametov
+60339	Razumihin
+60494	Razumihin
+60753	Razumihin
+60767	Raskolnikov
+60798	Nastasya
+60806	Razumihin
+60829	Raskolnikov
+60997	Nastasya
+61090	Raskolnikov
+61247	Raskolnikov
+61257	Rodya
+61325	Tolstyakov
+61407	Raskolnikov
+61434	Rodya
+61445	Nastasya
+61457	Raskolnikov
+61475	Nastasya
+61575	Raskolnikov
+61634	Rodya
+61783	Fedyaev
+61899	Nastasya
+61916	Raskolnikov
+62184	Raskolnikov
+62195	Razumihin
+62223	Razumihin
+62227	Nastasya
+62247	Raskolnikov
+62342	Raskolnikov
+62350	Razumihin
+62373	Raskolnikov
+62379	Zossimov
+62530	Razumihin
+62550	Zossimov
+62552	Raskolnikov
+62584	Razumihin
+62646	Raskolnikov
+62681	Zossimov
+62761	Razumihin
+62807	Razumihin
+62815	Yusupov
+62893	Razumihin
+62896	Zossimov
+63034	Porfiry Petrovitch
+63124	Zametov
+63140	Zossimov
+63143	Raskolnikov
+63205	Zametov
+63242	Razumihin
+63342	Zametov
+63552	Lizaveta
+63559	Nastasya
+63565	Raskolnikov
+63587	Raskolnikov
+63592	Lizaveta
+63621	Raskolnikov
+63708	Zossimov
+63710	Nastasya
+63734	Razumihin
+63778	Koch
+63780	Pestryakov
+63807	Pestryakov
+63818	Rodya
+63852	Zossimov
+63856	Raskolnikov
+63868	Razumihin
+63882	Zossimov
+63900	Razumihin
+63955	Porfiry
+63987	Koch
+63989	Pestryakov
+64030	Koch
+64240	Koch
+64242	Pestryakov
+64270	Dushkin
+64325	Nikolay
+64392	Dushkin
+64502	Dushkin
+64520	Nikolay
+64547	Dushkin
+64558	Nikolay Dementyev
+64584	Nikolay
+64607	Dmitri
+64647	Dmitri
+64662	Alyona Ivanovna
+64668	Lizaveta Ivanovna
+64727	Nikolay
+64731	Dmitri
+64735	Nikolay
+64764	Dmitri
+64811	Dushkin
+64856	Nikolay
+64916	Dmitri
+65102	Nikolay
+65187	Zossimov
+65204	Nikolay
+65208	Dushkin
+65214	Dmitri
+65237	Nikolay
+65420	Dmitri
+65488	Nikolay
+65523	Afanasy Pavlovitch
+65559	Dmitri
+65596	Dushkin
+65641	Zossimov
+65746	Dmitri
+65759	Dmitri
+65778	Dmitri
+65883	Dmitri
+65896	Dmitri
+65909	Dmitri
+65942	Dmitri
+65986	Dmitri
+66057	Raskolnikov
+66100	Razumihin
+66114	Raskolnikov
+66140	Razumihin
+66165	Zossimov
+66185	Dmitri
+66197	Dushkin
+66415	Nikolay
+66452	Razumihin
+66572	Koch
+66574	Pestryakov
+66600	Kryukov
+66635	Nikolay
+66637	Dmitri
+66650	Dmitri
+66748	Nikolay
+66904	Nikolay
+67120	Razumihin
+67128	Koch
+67161	Nikolay
+67166	Koch
+67168	Pestryakov
+67191	Razumihin
+67205	Koch
+67207	Pestryakov
+67365	Koch
+67367	Pestryakov
+67373	Koch
+67409	Koch
+67411	Pestryakov
+67419	Nikolay
+67421	Dmitri
+67459	Dmitri
+67461	Nikolay
+67596	Razumihin
+67689	Raskolnikov
+67705	Raskolnikov
+67742	Razumihin
+67828	Zossimov
+67831	Rodion Romanovitch
+67833	Raskolnikov
+67844	Zossimov
+67857	Razumihin
+67901	Razumihin
+67911	Zossimov
+67917	Raskolnikov
+67921	Zossimov
+67982	Raskolnikov
+68067	Zossimov
+68072	Raskolnikov
+68102	Raskolnikov
+68119	Pyotr Petrovitch
+68121	Luzhin
+68142	Raskolnikov
+68169	Pyotr Petrovitch
+68194	Pyotr Petrovitch
+68202	Raskolnikov
+68232	Zossimov
+68234	Razumihin
+68294	Razumihin
+68309	Nastasya
+68316	Nastasya
+68421	Rodya
+68465	Rodya
+68518	Pyotr Petrovitch
+68522	Zossimov
+68529	Zossimov
+68558	Razumihin
+68569	Pyotr Petrovitch
+68606	Razumihin
+68628	Luzhin
+68702	Raskolnikov
+68732	Pyotr Petrovitch
+68765	Raskolnikov
+68828	Pyotr Petrovitch
+68867	Pyotr Petrovitch
+68929	Pyotr Petrovitch
+68974	Pyotr Petrovitch
+69030	Pyotr Petrovitch
+69083	Pyotr Petrovitch
+69198	Luzhin
+69201	Raskolnikov
+69220	Luzhin
+69319	Raskolnikov
+69335	Pyotr Petrovitch
+69372	Raskolnikov
+69390	Voskresensky
+69410	Yushin
+69499	Pyotr Petrovitch
+69543	Raskolnikov
+69568	Andrey Semyonovitch
+69570	Lebeziatnikov
+69586	Bakaleyev
+69594	Lebeziatnikov
+69598	Raskolnikov
+69609	Andrey Semyonovitch
+69611	Lebeziatnikov
+69631	Raskolnikov
+69691	Razumihin
+69703	Pyotr Petrovitch
+69836	Razumihin
+69887	Pyotr Petrovitch
+69940	Pyotr Petrovitch
+70101	Raskolnikov
+70110	Pyotr Petrovitch
+70131	Zossimov
+70143	Pyotr Petrovitch
+70164	Razumihin
+70240	Pyotr Petrovitch
+70472	Razumihin
+70525	Jove
+70626	Luzhin
+70668	Razumihin
+70676	Zossimov
+70683	Pyotr Petrovitch
+70719	Raskolnikov
+70754	Raskolnikov
+70762	Pyotr Petrovitch
+70782	Zossimov
+70795	Razumihin
+70798	Porfiry
+70823	Raskolnikov
+70849	Zossimov
+70852	Koch
+70911	Razumihin
+71111	Pyotr Petrovitch
+71117	Zossimov
+71408	Razumihin
+71578	Raskolnikov
+71646	Raskolnikov
+71670	Luzhin
+71700	Raskolnikov
+71788	Luzhin
+71924	Raskolnikov
+71952	Luzhin
+72007	Razumihin
+72018	Luzhin
+72104	Raskolnikov
+72120	Luzhin
+72137	Razumihin
+72157	Zossimov
+72230	Razumihin
+72252	Raskolnikov
+72306	Zossimov
+72337	Razumihin
+72359	Zossimov
+72442	Pyotr Petrovitch
+72527	Razumihin
+72626	Raskolnikov
+72675	Nastasya
+72701	Razumihin
+72868	Razumihin
+72894	Nastasya
+73231	Raskolnikov
+73292	Raskolnikov
+73326	Raskolnikov
+73422	Raskolnikov
+73439	Raskolnikov
+73463	Lizaveta
+73536	Raskolnikov
+73571	Raskolnikov
+73631	Raskolnikov
+73933	Raskolnikov
+74068	Raskolnikov
+74288	Raskolnikov
+74352	Raskolnikov
+74426	Raskolnikov
+74466	Raskolnikov
+74630	Razumihin
+74655	Zossimov
+74718	Raskolnikov
+74721	Zametov
+74809	Raskolnikov
+74948	Zametov
+75044	Razumihin
+75068	Raskolnikov
+75085	Zametov
+75134	Razumihin
+75150	Luise Ivanovna
+75219	Razumihin
+75231	Zametov
+75286	Raskolnikov
+75304	Zametov
+75337	Dmitri
+75552	Zametov
+75589	Raskolnikov
+75597	Zametov
+75847	Zametov
+75849	Zametov
+75865	Zametov
+75934	Raskolnikov
+75944	Zametov
+75984	Zametov
+75991	Raskolnikov
+76112	Zametov
+76152	Zametov
+76174	Raskolnikov
+76202	Zametov
+76227	Zametov
+76239	Raskolnikov
+76300	Zametov
+76361	Raskolnikov
+76604	Zametov
+76704	Raskolnikov
+76734	Raskolnikov
+77017	Zametov
+77131	Raskolnikov
+77236	Zametov
+77291	Raskolnikov
+77334	Zametov
+77376	Raskolnikov
+77385	Zametov
+77579	Zametov
+77596	Raskolnikov
+77625	Zametov
+77708	Lizaveta
+77722	Zametov
+77753	Raskolnikov
+77789	Zametov
+77823	Zametov
+77938	Zametov
+78078	Zametov
+78097	Raskolnikov
+78121	Ilya Petrovitch
+78131	Raskolnikov
+78144	Razumihin
+78175	Razumihin
+78237	Nastasya
+78291	Raskolnikov
+78349	Raskolnikov
+78361	Razumihin
+78427	Raskolnikov
+78543	Zossimov
+78672	Luzhin
+78674	Razumihin
+78709	Raskolnikov
+78828	Raskolnikov
+78905	Rodya
+78999	Zossimov
+79018	Razumihin
+79079	Potchinkov
+79092	Razumihin
+79126	Potchinkov
+79132	Babushkin
+79143	Razumihin
+79146	Raskolnikov
+79159	Razumihin
+79180	Zametov
+79223	Potchinkov
+79229	Babushkin
+79236	Raskolnikov
+79247	Razumihin
+79308	Zossimov
+79358	Raskolnikov
+79383	Zametov
+79385	Raskolnikov
+79413	Razumihin
+79722	Raskolnikov
+80011	Raskolnikov
+80076	Zametov
+80534	Nikolay
+80536	Dmitri
+80727	Raskolnikov
+80787	Raskolnikov
+80796	Raskolnikov
+81014	Raskolnikov
+81103	Raskolnikov
+81192	Raskolnikov
+81253	Raskolnikov
+81377	Raskolnikov
+81434	Raskolnikov
+81509	Raskolnikov
+81632	Raskolnikov
+81655	Rodion Romanovitch
+81657	Raskolnikov
+81666	Shil
+81688	Raskolnikov
+81757	Raskolnikov
+81872	Raskolnikov
+81946	Raskolnikov
+82082	Raskolnikov
+82193	Raskolnikov
+82356	Raskolnikov
+82703	Raskolnikov
+82757	Marmeladov
+82764	Kozel
+82816	Raskolnikov
+82844	Marmeladov
+82869	Kozel
+83011	Kozel
+83019	Raskolnikov
+83025	Marmeladov
+83067	Katerina Ivanovna
+83175	Polenka
+83351	Katerina Ivanovna
+83456	Ivan Mihailovitch
+83513	Bezzemelny
+83530	Polenka
+83598	Schegolskoy
+83651	Polya
+83831	Marmeladov
+83863	Raskolnikov
+83883	Katerina Ivanovna
+83917	Marmeladov
+83920	Raskolnikov
+83923	Katerina Ivanovna
+84005	Katerina Ivanovna
+84016	Raskolnikov
+84081	Raskolnikov
+84116	Katerina Ivanovna
+84174	Katerina Ivanovna
+84221	Katerina Ivanovna
+84254	Katerina Ivanovna
+84314	Raskolnikov
+84345	Marmeladov
+84349	Katerina Ivanovna
+84372	Raskolnikov
+84405	Katerina Ivanovna
+84411	Sonia
+84547	Madame Lippevechsel
+84580	Katerina Ivanovna
+84680	Katerina Ivanovna
+84774	Katerina Ivanovna
+84800	Madame Lippevechsel
+84861	Amalia Ludwigovna
+84875	Katerina Ivanovna
+84909	Amalia Ludwigovna
+84925	Amalia Ludwigovna
+84933	Amalia Ivanovna
+84941	Amalia Ivanovna
+84945	Amalia Ludwigovna
+84960	Lebeziatnikov
+84999	Amalia Ludwigovna
+85022	Semyon Zaharovitch
+85079	Semyon Zaharovitch
+85094	Semyon Zaharovitch
+85122	Raskolnikov
+85141	Semyon Zaharovitch
+85154	Amalia Ludwigovna
+85177	Katerina Ivanovna
+85213	Raskolnikov
+85249	Raskolnikov
+85257	Katerina Ivanovna
+85309	Semyon Zaharovitch
+85322	Marmeladov
+85335	Katerina Ivanovna
+85385	Katerina Ivanovna
+85485	Katerina Ivanovna
+85512	Katerina Ivanovna
+85535	Raskolnikov
+85579	Katerina Ivanovna
+85682	Raskolnikov
+85846	Raskolnikov
+85888	Katerina Ivanovna
+85965	Katerina Ivanovna
+86071	Polenka
+86196	Sonia
+86294	Sonia
+86371	Katerina Ivanovna
+86396	Katerina Ivanovna
+86484	Katerina Ivanovna
+86526	Katerina Ivanovna
+86626	Katerina Ivanovna
+86839	Marmeladov
+86856	Katerina Ivanovna
+86887	Katerina Ivanovna
+86942	Sonia
+87013	Katerina Ivanovna
+87148	Sonia
+87179	Katerina Ivanovna
+87217	Raskolnikov
+87221	Katerina Ivanovna
+87225	Katerina Ivanovna
+87280	Katerina Ivanovna
+87395	Nikodim Fomitch
+87426	Nikodim Fomitch
+87451	Raskolnikov
+87527	Nikodim Fomitch
+87538	Raskolnikov
+87552	Raskolnikov
+87634	Raskolnikov
+87711	Raskolnikov
+87817	Sonia
+87837	Sonia
+87851	Sonia
+87876	Sonia
+87888	Polenka
+88173	Kolya
+88188	Maria
+88202	Sonia
+88249	Rodion
+88262	Rodion
+88304	Raskolnikov
+88514	Potchinkov
+88710	Rodion
+88755	Razumihin
+88764	Potchinkov
+88809	Razumihin
+88823	Raskolnikov
+88863	Raskolnikov
+88867	Razumihin
+88915	Raskolnikov
+89170	Raskolnikov
+89243	Raskolnikov
+89266	Zossimov
+89304	Zossimov
+89315	Razumihin
+89344	Zossimov
+89468	Zametov
+89472	Zametov
+89498	Zametov
+89593	Zametov
+89635	Luise Ivanovna
+89650	Ilya Petrovitch
+89684	Raskolnikov
+89688	Razumihin
+89714	Raskolnikov
+89741	Zossimov
+89878	Jove
+89902	Porfiry
+90046	Raskolnikov
+90148	Razumihin
+90254	Raskolnikov
+90261	Nastasya
+90267	Razumihin
+90357	Rodya
+90382	Razumihin
+90385	Zossimov
+90428	Razumihin
+90430	Raskolnikov
+90519	Nastasya
+90602	Raskolnikov
+90774	Dounia
+90845	Pulcheria Alexandrovna
+90847	Raskolnikov
+90855	Dounia
+90861	Raskolnikov
+90945	Pulcheria Alexandrovna
+90951	Avdotya Romanovna
+90981	Razumihin
+91003	Rodya
+91007	Pulcheria Alexandrovna
+91065	Razumihin
+91108	Pulcheria Alexandrovna
+91116	Razumihin
+91121	Raskolnikov
+91179	Dounia
+91208	Pulcheria Alexandrovna
+91242	Rodya
+91256	Rodya
+91259	Pyotr Petrovitch
+91271	Pulcheria Alexandrovna
+91285	Dounia
+91305	Rodya
+91323	Pulcheria Alexandrovna
+91337	Avdotya Romanovna
+91388	Raskolnikov
+91430	Pulcheria Alexandrovna
+91443	Avdotya Romanovna
+91551	Dounia
+91588	Razumihin
+91620	Luzhin
+91653	Pulcheria Alexandrovna
+91665	Dounia
+91677	Rodya
+91765	Razumihin
+91768	Raskolnikov
+91793	Avdotya Romanovna
+91806	Razumihin
+91813	Pulcheria Alexandrovna
+91842	Dounia
+91853	Razumihin
+91873	Nastasya
+91980	Avdotya Romanovna
+92002	Pyotr Petrovitch
+92048	Pulcheria Alexandrovna
+92062	Dounia
+92096	Nastasya
+92104	Razumihin
+92119	Raskolnikov
+92298	Pulcheria Alexandrovna
+92341	Avdotya Romanovna
+92378	Nastasya
+92438	Razumihin
+92526	Nastasya
+92630	Zossimov
+92761	Zossimov
+92840	Avdotya Romanovna
+92907	Avdotya Romanovna
+92923	Rodya
+92963	Razumihin
+92997	Pulcheria Alexandrovna
+93010	Razumihin
+93068	Razumihin
+93300	Zossimov
+93344	Avdotya Romanovna
+93410	Zossimov
+93540	Pulcheria Alexandrovna
+93562	Razumihin
+93799	Razumihin
+93823	Pulcheria Alexandrovna
+93843	Avdotya Romanovna
+93954	Pulcheria Alexandrovna
+93970	Dounia
+94071	Rodya
+94077	Pyotr Petrovitch
+94147	Razumihin
+94154	Pulcheria Alexandrovna
+94180	Razumihin
+94406	Pyotr Petrovitch
+94440	Zametov
+94455	Zossimov
+94559	Zossimov
+94576	Dounia
+94586	Pulcheria Alexandrovna
+94607	Dounia
+94658	Dounia
+94674	Rodya
+94766	Dounia
+94790	Dounia
+94844	Avdotya Romanovna
+94867	Pulcheria Alexandrovna
+94874	Dounia
+94898	Razumihin
+94935	Avdotya Romanovna
+94956	Razumihin
+94969	Avdotya Romanovna
+94990	Avdotya Romanovna
+95012	Avdotya Romanovna
+95210	Razumihin
+95244	Dounia
+95309	Praskovya Pavlovna
+95312	Raskolnikov
+95321	Pulcheria Alexandrovna
+95327	Avdotya Romanovna
+95334	Pulcheria Alexandrovna
+95449	Dounia
+95463	Pulcheria Alexandrovna
+95528	Razumihin
+95591	Nastasya
+95610	Zossimov
+95658	Pulcheria Alexandrovna
+95671	Avdotya Romanovna
+95715	Razumihin
+95725	Zossimov
+95727	Zossimov
+95740	Raskolnikov
+95758	Razumihin
+95798	Pulcheria Alexandrovna
+95860	Avdotya Romanovna
+95879	Pulcheria Alexandrovna
+95969	Avdotya Romanovna
+95979	Zossimov
+96036	Zossimov
+96130	Avdotya Romanovna
+96167	Razumihin
+96201	Avdotya Romanovna
+96206	Zossimov
+96230	Razumihin
+96291	Zossimov
+96314	Razumihin
+96384	Raskolnikov
+96388	Razumihin
+96679	Zossimov
+96815	Rubinstein
+96870	Tchebarov
+97616	Avdotya Romanovna
+97723	Razumihin
+97755	Razumihin
+97788	Avdotya Romanovna
+98047	Praskovya Pavlovna
+98206	Avdotya Romanovna
+98253	Zossimov
+98285	Razumihin
+98289	Raskolnikov
+98296	Zossimov
+98379	Razumihin
+98455	Razumihin
+98661	Zametov
+98775	Zametov
+98867	Razumihin
+98879	Luzhin
+98917	Razumihin
+99026	Razumihin
+99031	Bakaleyev
+99081	Pulcheria Alexandrovna
+99183	Rodya
+99189	Pulcheria Alexandrovna
+99242	Avdotya Romanovna
+99284	Razumihin
+99303	Pulcheria Alexandrovna
+99351	Raskolnikov
+99444	Pulcheria Alexandrovna
+99451	Dmitri Prokofitch
+99466	Dmitri Prokofitch
+99552	Dounia
+99571	Dmitri Prokofitch
+99580	Razumihin
+99636	Rodion
+99850	Pulcheria Alexandrovna
+99855	Razumihin
+99863	Razumihin
+99870	Avdotya Romanovna
+99897	Avdotya Romanovna
+99970	Razumihin
+100095	Avdotya Romanovna
+100153	Razumihin
+100173	Avdotya Romanovna
+100225	Avdotya Romanovna
+100244	Rodya
+100247	Pulcheria Alexandrovna
+100264	Dounia
+100267	Pyotr Petrovitch
+100290	Dmitri Prokofitch
+100397	Avdotya Romanovna
+100406	Pulcheria Alexandrovna
+100476	Razumihin
+100487	Praskovya Pavlovna
+100652	Avdotya Romanovna
+100695	Pulcheria Alexandrovna
+100744	Razumihin
+100763	Raskolnikov
+100767	Pyotr Petrovitch
+100803	Pulcheria Alexandrovna
+100819	Razumihin
+100831	Pyotr Petrovitch
+100834	Avdotya Romanovna
+100851	Pyotr Petrovitch
+100855	Pulcheria Alexandrovna
+100877	Razumihin
+100901	Avdotya Romanovna
+100965	Avdotya Romanovna
+101031	Dmitri Prokofitch
+101045	Dmitri Prokofitch
+101048	Dounia
+101059	Avdotya Romanovna
+101102	Pyotr Petrovitch
+101205	Dmitri Prokofitch
+101210	Rodya
+101227	Dounia
+101263	Razumihin
+101282	Pulcheria Alexandrovna
+101368	Avdotya Romanovna
+101416	Rodion Romanovitch
+101502	Rodion Romanovitch
+101527	Rodion Romanovitch
+101633	Avdotya Romanovna
+101663	Dmitri Prokofitch
+101668	Pulcheria Alexandrovna
+101679	Rodya
+101692	Pyotr Petrovitch
+101724	Avdotya Romanovna
+101730	Razumihin
+101783	Rodya
+101884	Razumihin
+102044	Razumihin
+102101	Dounia
+102114	Razumihin
+102156	Razumihin
+102210	Pulcheria Alexandrovna
+102237	Dmitri Prokofitch
+102259	Dounia
+102309	Dounia
+102374	Dmitri Prokofitch
+102378	Marfa Petrovna
+102394	Marfa Petrovna
+102451	Dmitri Prokofitch
+102539	Razumihin
+102554	Dounia
+102620	Dmitri Prokofitch
+102674	Dmitri Prokofitch
+102716	Dounia
+102765	Razumihin
+102824	Pulcheria Alexandrovna
+102841	Zossimov
+102869	Raskolnikov
+102902	Nastasya
+102914	Raskolnikov
+103070	Zossimov
+103197	Raskolnikov
+103235	Razumihin
+103260	Zossimov
+103378	Raskolnikov
+103390	Zossimov
+103564	Zossimov
+103608	Pulcheria Alexandrovna
+103614	Zossimov
+103637	Raskolnikov
+103659	Rodya
+103668	Dounia
+103693	Raskolnikov
+103721	Zossimov
+103780	Zossimov
+103845	Raskolnikov
+103849	Razumihin
+103888	Razumihin
+103918	Avdotya Romanovna
+104025	Dounia
+104087	Razumihin
+104213	Vasya
+104219	Afanasy Ivanitch
+104279	Rodya
+104303	Dounia
+104356	Nastasya
+104412	Potanchikov
+104427	Rodya
+104475	Pyotr Petrovitch
+104511	Pyotr Petrovitch
+104537	Raskolnikov
+104551	Dounia
+104587	Dounia
+104620	Rodya
+104624	Pulcheria Alexandrovna
+104644	Dounia
+104720	Pulcheria Alexandrovna
+104772	Razumihin
+104781	Raskolnikov
+104826	Zossimov
+104882	Raskolnikov
+104900	Dounia
+104991	Zossimov
+105003	Raskolnikov
+105047	Razumihin
+105055	Raskolnikov
+105220	Dounia
+105232	Dounia
+105356	Rodya
+105441	Raskolnikov
+105455	Pulcheria Alexandrovna
+105500	Pulcheria Alexandrovna
+105508	Marfa Petrovna
+105519	Marfa Petrovna
+105521	Svidrigaïlov
+105577	Pulcheria Alexandrovna
+105727	Dounia
+105749	Dounia
+105914	Zossimov
+105958	Raskolnikov
+106017	Dounia
+106059	Dounia
+106068	Rodya
+106077	Dounia
+106080	Pulcheria Alexandrovna
+106147	Dounia
+106316	Razumihin
+106422	Pulcheria Alexandrovna
+106434	Rodya
+106438	Avdotya Romanovna
+106482	Zossimov
+106529	Pulcheria Alexandrovna
+106544	Raskolnikov
+106607	Dounia
+106630	Dounia
+106643	Razumihin
+106659	Pulcheria Alexandrovna
+106665	Raskolnikov
+106692	Zossimov
+106722	Dounia
+106750	Dounia
+106761	Pulcheria Alexandrovna
+106787	Dounia
+106804	Razumihin
+106822	Raskolnikov
+106831	Dounia
+106893	Pulcheria Alexandrovna
+106898	Dounia
+106900	Razumihin
+107066	Dounia
+107131	Pulcheria Alexandrovna
+107252	Rodya
+107262	Pulcheria Alexandrovna
+107438	Dounia
+107502	Luzhin
+107520	Rodya
+107531	Pulcheria Alexandrovna
+107564	Dounia
+107738	Dounia
+107744	Pyotr Petrovitch
+107822	Pyotr Petrovitch
+107956	Dounia
+108113	Rodya
+108135	Pulcheria Alexandrovna
+108214	Rodya Pyotr
+108216	Petrovitch
+108222	Dounia
+108228	Pulcheria Alexandrovna
+108361	Pulcheria Alexandrovna
+108454	Razumihin
+108475	Rodya
+108485	Pulcheria Alexandrovna
+108502	Razumihin
+108546	Pyotr Petrovitch
+108573	Avdotya Romanovna
+108775	Dounia
+109039	Dounia
+109064	Rodya
+109068	Pulcheria Alexandrovna
+109096	Pyotr Petrovitch
+109159	Dounia
+109185	Dounia
+109198	Pulcheria Alexandrovna
+109211	Rodya
+109229	Dounia
+109262	Razumihin
+109279	Dounia
+109290	Pulcheria Alexandrovna
+109321	Pyotr Petrovitch
+109370	Raskolnikov
+109378	Sofya Semyonovna
+109380	Marmeladov
+109518	Raskolnikov
+109691	Katerina Ivanovna
+109709	Razumihin
+109718	Raskolnikov
+109736	Raskolnikov
+109748	Zossimov
+109778	Razumihin
+109791	Razumihin
+109799	Sonia
+109853	Raskolnikov
+109883	Katerina Ivanovna
+109894	Katerina Ivanovna
+109938	Sonia
+109956	Raskolnikov
+110026	Sonia
+110051	Raskolnikov
+110081	Sofya Semyonovna
+110083	Marmeladov
+110091	Marmeladov
+110112	Pulcheria Alexandrovna
+110131	Rodya
+110146	Dounia
+110164	Sonia
+110193	Raskolnikov
+110289	Katerina Ivanovna
+110413	Raskolnikov
+110531	Katerina Ivanovna
+110553	Raskolnikov
+110585	Katerina Ivanovna
+110604	Katerina Ivanovna
+110676	Sonia
+110713	Raskolnikov
+110735	Dounia
+110770	Dounia
+110776	Rodya
+110847	Razumihin
+110853	Raskolnikov
+110917	Dmitri Prokofitch
+110936	Dounia
+110938	Razumihin
+110957	Rodya
+110974	Nastasya
+110985	Pulcheria Alexandrovna
+110990	Sonia
+111014	Avdotya Romanovna
+111029	Sonia
+111036	Sonia
+111061	Avdotya Romanovna
+111075	Dounia
+111081	Raskolnikov
+111110	Dounia
+111137	Dounia
+111164	Sonia
+111198	Sonia
+111238	Dounia
+111241	Pulcheria Alexandrovna
+111338	Pulcheria Alexandrovna
+111353	Dounia
+111405	Dounia
+111444	Dounia
+111457	Pyotr Petrovitch
+111465	Pulcheria Alexandrovna
+111485	Dounia
+111500	Pulcheria Alexandrovna
+111622	Sofya Semyonovna
+111642	Dounia
+111686	Dounia
+111781	Pyotr Petrovitch
+111858	Pyotr Petrovitch
+111866	Dounia
+111872	Pulcheria Alexandrovna
+111897	Raskolnikov
+111900	Razumihin
+111910	Katerina Ivanovna
+111918	Sonia
+111930	Sofya Semyonovna
+111963	Razumihin
+111976	Porfiry Petrovitch
+112031	Razumihin
+112136	Dounia
+112196	Porfiry
+112238	Razumihin
+112344	Sofya Ivanovna
+112349	Sofya Semyonovna
+112354	Raskolnikov
+112357	Sofya Semyonovna
+112364	Razumihin
+112383	Sonia
+112406	Raskolnikov
+112416	Sofya Semyonovna
+112444	Sonia
+112471	Razumihin
+112485	Raskolnikov
+112518	Sonia
+112535	Sofya Semyonovna
+112597	Polenka
+112679	Raskolnikov
+112700	Katerina Ivanovna
+112803	Raskolnikov
+112898	Razumihin
+112900	Raskolnikov
+112923	Sonia
+112933	Raskolnikov
+112950	Raskolnikov
+112954	Sonia
+113000	Sonia
+113011	Sonia
+113051	Sonia
+113239	Sonia
+113272	Sonia
+113315	Sonia
+113388	Kapernaumov
+113424	Sonia
+113458	Sonia
+113485	Porfiry
+113488	Razumihin
+113525	Raskolnikov
+113581	Raskolnikov
+113660	Razumihin
+113787	Razumihin
+114007	Rodya
+114117	Raskolnikov
+114173	Razumihin
+114179	Raskolnikov
+114193	Razumihin
+114198	Porfiry
+114322	Razumihin
+114331	Porfiry
+114396	Razumihin
+114435	Razumihin
+114553	Jove
+114625	Razumihin
+114724	Raskolnikov
+114739	Porfiry Petrovitch
+114747	Raskolnikov
+114781	Razumihin
+114786	Raskolnikov
+114793	Raskolnikov
+114820	Razumihin
+114856	Raskolnikov
+114860	Raskolnikov
+114870	Porfiry Petrovitch
+114966	Razumihin
+114986	Razumihin
+115049	Porfiry Petrovitch
+115054	Raskolnikov
+115063	Porfiry Petrovitch
+115086	Razumihin
+115134	Porfiry Petrovitch
+115151	Zametov
+115195	Raskolnikov
+115201	Zametov
+115206	Raskolnikov
+115237	Raskolnikov
+115270	Porfiry Petrovitch
+115326	Razumihin
+115353	Porfiry
+115370	Razumihin
+115383	Porfiry
+115414	Rodion Romanovitch
+115416	Raskolnikov
+115449	Zametov
+115477	Raskolnikov
+115480	Zametov
+115530	Porfiry
+115547	Porfiry Petrovitch
+115688	Porfiry Petrovitch
+115775	Raskolnikov
+115800	Porfiry
+115802	Porfiry Petrovitch
+115813	Razumihin
+115844	Raskolnikov
+115860	Porfiry
+115935	Raskolnikov
+115994	Porfiry Petrovitch
+116053	Raskolnikov
+116077	Porfiry Petrovitch
+116104	Raskolnikov
+116124	Raskolnikov
+116219	Zossimov
+116221	Porfiry
+116231	Razumihin
+116243	Raskolnikov
+116374	Porfiry
+116388	Razumihin
+116437	Razumihin
+116455	Raskolnikov
+116482	Porfiry Petrovitch
+116502	Porfiry
+116556	Razumihin
+116568	Raskolnikov
+116572	Porfiry
+116587	Razumihin
+116612	Razumihin
+116614	Porfiry Petrovitch
+116619	Raskolnikov
+116668	Raskolnikov
+116769	Porfiry
+116828	Raskolnikov
+116882	Razumihin
+116903	Porfiry
+116961	Porfiry
+116988	Raskolnikov
+116996	Porfiry Petrovitch
+117023	Razumihin
+117081	Raskolnikov
+117083	Porfiry
+117118	Zametov
+117127	Zametov
+117145	Zametov
+117179	Zametov
+117185	Nikodim Fomitch
+117195	Porfiry Petrovitch
+117226	Razumihin
+117304	Zametov
+117334	Porfiry Petrovitch
+117411	Razumihin
+117444	Porfiry Petrovitch
+117452	Raskolnikov
+117504	Nikodim Fomitch
+117565	Porfiry Petrovitch
+117682	Zametov
+117703	Razumihin
+117768	Zametov
+117774	Zametov
+117777	Zametov
+117804	Porfiry
+118045	Porfiry Petrovitch
+118183	Raskolnikov
+118199	Porfiry
+118210	Razumihin
+118225	Rodion
+118308	Porfiry Petrovitch
+118338	Razumihin
+118765	Porfiry
+118776	Raskolnikov
+118865	Porfiry
+118889	Razumihin
+118926	Ivan the
+118928	Great
+118994	Razumihin
+119024	Rodion
+119173	Raskolnikov
+119279	Raskolnikov
+119394	Raskolnikov
+119451	Rodya
+119462	Razumihin
+119685	Raskolnikov
+119720	Razumihin
+119738	Porfiry
+119834	Razumihin
+119839	Raskolnikov
+120061	Kepler
+120063	Newton
+120088	Newton
+120134	Newton
+120180	Mahomet
+120182	Napoleon
+120861	Raskolnikov
+120908	Raskolnikov
+120914	Porfiry
+120923	Lazarus
+121503	Raskolnikov
+121751	Razumihin
+121771	Rodya
+121774	Raskolnikov
+121801	Porfiry
+121949	Porfiry
+122001	Raskolnikov
+122009	Porfiry
+122130	Zametov
+122139	Raskolnikov
+122201	Raskolnikov
+122352	Razumihin
+122509	Porfiry Petrovitch
+122566	Raskolnikov
+122657	Raskolnikov
+122661	Razumihin
+122732	Raskolnikov
+122772	Raskolnikov
+122799	Napoleon
+122842	Porfiry Petrovitch
+122873	Alyona Ivanovna
+122879	Zametov
+122886	Raskolnikov
+122899	Razumihin
+122926	Raskolnikov
+122938	Porfiry
+123059	Raskolnikov
+123144	Razumihin
+123155	Nikolay
+123172	Raskolnikov
+123192	Dmitri
+123226	Raskolnikov
+123318	Raskolnikov
+123412	Alyona Ivanovna
+123482	Razumihin
+123534	Porfiry
+123556	Raskolnikov
+123613	Razumihin
+123626	Porfiry Petrovitch
+123658	Raskolnikov
+123681	Razumihin
+123688	Raskolnikov
+123697	Bakaleyev
+123702	Pulcheria Alexandrovna
+123705	Dounia
+123714	Razumihin
+123757	Raskolnikov
+123803	Porfiry
+123815	Zametov
+124203	Tchebarov
+124353	Raskolnikov
+124396	Zametov
+124412	Porfiry
+124457	Raskolnikov
+124464	Razumihin
+124584	Raskolnikov
+124673	Porfiry
+124896	Raskolnikov
+125003	Bakaleyev
+125013	Raskolnikov
+125096	Razumihin
+125113	Raskolnikov
+125140	Porfiry
+125155	Pulcheria Alexandrovna
+125169	Raskolnikov
+125270	Bakaleyev
+125487	Raskolnikov
+125541	Raskolnikov
+125610	Raskolnikov
+125726	Raskolnikov
+125782	Raskolnikov
+125810	Raskolnikov
+125828	Raskolnikov
+125911	Raskolnikov
+125946	Raskolnikov
+125972	Raskolnikov
+125997	Raskolnikov
+126029	Raskolnikov
+126279	Razumihin
+126309	Raskolnikov
+126311	Nastasya
+126339	Razumihin
+126353	Raskolnikov
+126443	Raskolnikov
+126455	Nikolay
+126685	Napoleon
+126715	Porfiry Petrovitch
+126733	Napoleon
+127526	Sonia
+127565	Sonia
+127567	Sonia
+127664	Raskolnikov
+127761	Raskolnikov
+127797	Raskolnikov
+127834	Raskolnikov
+127847	Raskolnikov
+127882	Raskolnikov
+127906	Raskolnikov
+128149	Raskolnikov
+128616	Raskolnikov
+128697	Raskolnikov
+128747	Raskolnikov
+128825	Raskolnikov
+128867	Arkady Ivanovitch
+128869	Svidrigaïlov
+128891	Raskolnikov
+129002	Avdotya Romanovna
+129042	Raskolnikov
+129056	Raskolnikov
+129085	Rodion Romanovitch
+129124	Raskolnikov
+129317	Raskolnikov
+129360	Svidrigaïlov
+129432	Svidrigaïlov
+129490	Marfa Petrovna
+129500	Marfa Petrovna
+129510	Raskolnikov
+129677	Raskolnikov
+129749	Marfa Petrovna
+129783	Marfa Petrovna
+129927	Raskolnikov
+129976	Svidrigaïlov
+129983	Marfa Petrovna
+130088	Rodion Romanovitch
+130290	Svidrigaïlov
+130298	Raskolnikov
+130512	Rodion Romanovitch
+130587	Raskolnikov
+130648	Svidrigaïlov
+130750	Svidrigaïlov
+130930	Jove
+131099	Marfa Petrovna
+131268	Marfa Petrovna
+131399	Berg
+131448	Svidrigaïlov
+131469	Raskolnikov
+131483	Svidrigaïlov
+131546	Arkady Ivanovitch
+131588	Marfa Petrovna
+131610	Marfa Petrovna
+131689	Svidrigaïlov
+131697	Marfa Petrovna
+131874	Raskolnikov
+131904	Svidrigaïlov
+131937	Raskolnikov
+132008	Raskolnikov
+132023	Svidrigaïlov
+132058	Raskolnikov
+132162	Arkady Ivanovitch
+132248	Marfa Petrovna
+132272	Arkady Ivanovitch
+132336	Marfa Petrovna
+132360	Arkady Ivanovitch
+132370	Aniska
+132379	Aniska
+132444	Marfa Petrovna
+132476	Marfa Petrovna
+132487	Arkady Ivanovitch
+132575	Raskolnikov
+132586	Svidrigaïlov
+132732	Marfa Petrovna
+132829	Raskolnikov
+132845	Svidrigaïlov
+132927	Raskolnikov
+132941	Svidrigaïlov
+133128	Raskolnikov
+133130	Svidrigaïlov
+133165	Raskolnikov
+133251	Raskolnikov
+133261	Juster
+133290	Svidrigaïlov
+133305	Raskolnikov
+133307	Svidrigaïlov
+133392	Raskolnikov
+133447	Avdotya Romanovna
+133457	Luzhin
+133459	Pyotr Petrovitch
+133497	Svidrigaïlov
+133547	Luzhin
+133587	Avdotya Romanovna
+133670	Raskolnikov
+133690	Rodion Romanovitch
+133734	Avdotya Romanovna
+133786	Raskolnikov
+133883	Avdotya Romanovna
+133892	Luzhin
+133994	Marfa Petrovna
+134032	Luzhin
+134054	Marfa Petrovna
+134072	Avdotya Romanovna
+134104	Luzhin
+134132	Luzhin
+134164	Raskolnikov
+134219	Avdotya Romanovna
+134412	Avdotya Romanovna
+134425	Luzhin
+134445	Rodion Romanovitch
+134456	Svidrigaïlov
+134480	Raskolnikov
+134609	Avdotya Romanovna
+134626	Rodion Romanovitch
+134729	Svidrigaïlov
+134783	Raskolnikov
+134832	Prince Svirbey
+134851	Raphael
+134854	Madonna
+134858	Prilukov
+134866	Marfa Petrovna
+134882	Viazemsky
+134903	Berg
+135041	Avdotya Romanovna
+135070	Rodion Romanovitch
+135074	Marfa Petrovna
+135093	Marfa Petrovna
+135111	Avdotya Romanovna
+135159	Svidrigaïlov
+135163	Razumihin
+135182	Bakaleyev
+135199	Razumihin
+135213	Svidrigaïlov
+135246	Marfa Petrovna
+135250	Marfa Petrovna
+135253	Dounia
+135314	Dounia
+135342	Avdotya Romanovna
+135348	Rodya
+135406	Raskolnikov
+135437	Raskolnikov
+135481	Raskolnikov
+135524	Raskolnikov
+135597	Rodya
+135619	Raskolnikov
+135624	Razumihin
+135661	Porfiry
+135664	Zametov
+135710	Porfiry
+135780	Zametov
+135901	Raskolnikov
+135933	Razumihin
+135945	Raskolnikov
+135950	Razumihin
+135957	Porfiry
+136019	Pyotr Petrovitch
+136038	Pulcheria Alexandrovna
+136051	Dounia
+136057	Pyotr Petrovitch
+136095	Pulcheria Alexandrovna
+136122	Dounia
+136136	Razumihin
+136138	Raskolnikov
+136141	Pulcheria Alexandrovna
+136144	Razumihin
+136150	Raskolnikov
+136162	Pyotr Petrovitch
+136328	Pyotr Petrovitch
+136341	Avdotya Romanovna
+136373	Dounia
+136436	Pyotr Petrovitch
+136446	Pulcheria Alexandrovna
+136458	Dmitri Prokofitch
+136485	Dmitri Prokofitch
+136487	Razumihin
+136508	Pyotr Petrovitch
+136525	Pyotr Petrovitch
+136584	Raskolnikov
+136589	Avdotya Romanovna
+136600	Razumihin
+136607	Pulcheria Alexandrovna
+136614	Marfa Petrovna
+136661	Arkady Ivanovitch
+136663	Svidrigaïlov
+136669	Petersburg
+136690	Petersburg
+136695	Dounia
+136750	Pulcheria Alexandrovna
+136760	Avdotya Romanovna
+136806	Pyotr Petrovitch
+136822	Pulcheria Alexandrovna
+136852	Marfa Petrovna
+136935	Marfa Petrovna
+136999	Marfa Petrovna
+137088	Pulcheria Alexandrovna
+137091	Raskolnikov
+137113	Dounia
+137130	Marfa Petrovna
+137187	Svidrigaïlov
+137227	Resslich
+137289	Svidrigaïlov
+137330	Marfa Petrovna
+137360	Avdotya Romanovna
+137373	Philip
+137402	Philip
+137432	Svidrigaïlov
+137444	Dounia
+137456	Philip
+137492	Svidrigaïlov
+137528	Philip
+137537	Avdotya Romanovna
+137554	Luzhin
+137586	Marfa Petrovna
+137652	Marfa Petrovna
+137710	Pyotr Petrovitch
+137719	Dounia
+137727	Svidrigaïlov
+137746	Raskolnikov
+137770	Pyotr Petrovitch
+137799	Raskolnikov
+137829	Dounia
+137873	Marfa Petrovna
+137903	Pulcheria Alexandrovna
+137915	Dounia
+137937	Dounia
+137939	Raskolnikov
+138002	Dounia
+138006	Pulcheria Alexandrovna
+138037	Raskolnikov
+138048	Pyotr Petrovitch
+138095	Pyotr Petrovitch
+138100	Dounia
+138130	Avdotya Romanovna
+138134	Pyotr Petrovitch
+138184	Svidrigaïlov
+138233	Luzhin
+138261	Dounia
+138293	Rodya
+138311	Pyotr Petrovitch
+138323	Avdotya Romanovna
+138371	Pyotr Petrovitch
+138375	Dounia
+138477	Luzhin
+138549	Pyotr Petrovitch
+138553	Dounia
+138782	Luzhin
+138893	Dounia
+138943	Raskolnikov
+138947	Razumihin
+138951	Pyotr Petrovitch
+139072	Pulcheria Alexandrovna
+139082	Razsudkin
+139211	Pulcheria Alexandrovna
+139250	Rodion Romanovitch
+139262	Pulcheria Alexandrovna
+139305	Pyotr Petrovitch
+139309	Pulcheria Alexandrovna
+139319	Dounia
+139348	Dounia
+139361	Luzhin
+139368	Pyotr Petrovitch
+139374	Rodion
+139389	Pulcheria Alexandrovna
+139411	Raskolnikov
+139502	Luzhin
+139666	Dounia
+139674	Pulcheria Alexandrovna
+139677	Dounia
+139680	Razumihin
+139685	Luzhin
+139698	Avdotya Romanovna
+139799	Pulcheria Alexandrovna
+139822	Pulcheria Alexandrovna
+139841	Pyotr Petrovitch
+139844	Dounia
+139943	Pulcheria Alexandrovna
+140003	Dounia
+140034	Arkady Ivanovitch
+140036	Svidrigaïlov
+140070	Pulcheria Alexandrovna
+140073	Razumihin
+140093	Raskolnikov
+140100	Rodya
+140104	Dounia
+140107	Pyotr Petrovitch
+140123	Pyotr Petrovitch
+140172	Avdotya Romanovna
+140224	Dounia
+140292	Avdotya Romanovna
+140314	Pulcheria Alexandrovna
+140376	Pulcheria Alexandrovna
+140380	Luzhin
+140419	Pyotr Petrovitch
+140423	Raskolnikov
+140444	Pulcheria Alexandrovna
+140487	Pyotr Petrovitch
+140514	Avdotya Romanovna
+140519	Pyotr Petrovitch
+140660	Razumihin
+140676	Dounia
+140689	Raskolnikov
+140692	Razumihin
+140724	Pyotr Petrovitch
+140765	Raskolnikov
+140881	Pyotr Petrovitch
+140966	Dounia
+140980	Pyotr Petrovitch
+141008	Dounia
+141031	Marfa Petrovna
+141077	Dounia
+141093	Dounia
+141125	Raskolnikov
+141165	Dounia
+141320	Avdotya Romanovna
+141593	Dounia
+141660	Razumihin
+141728	Dounia
+141796	Pulcheria Alexandrovna
+141831	Dounia
+141842	Pulcheria Alexandrovna
+141869	Razumihin
+141942	Raskolnikov
+141979	Dounia
+141993	Pulcheria Alexandrovna
+142002	Svidrigaïlov
+142009	Dounia
+142021	Pulcheria Alexandrovna
+142024	Raskolnikov
+142063	Pulcheria Alexandrovna
+142086	Svidrigaïlov
+142116	Dounia
+142199	Rodya
+142354	Marfa Petrovna
+142375	Pulcheria Alexandrovna
+142394	Dounia
+142426	Dounia
+142451	Dounia
+142456	Svidrigaïlov
+142486	Raskolnikov
+142510	Dounia
+142526	Razumihin
+142539	Rodya
+142569	Avdotya Romanovna
+142573	Dounia
+142592	Pulcheria Alexandrovna
+142629	Raskolnikov
+142642	Razumihin
+142898	Razumihin
+142956	Razumihin
+142995	Raskolnikov
+143033	Raskolnikov
+143067	Razumihin
+143088	Avdotya Romanovna
+143093	Rodion
+143323	Dounia
+143336	Dmitri Prokofitch
+143407	Dounia
+143507	Razumihin
+143587	Rodya
+143600	Rodya
+143614	Pulcheria Alexandrovna
+143628	Razumihin
+143630	Dounia
+143744	Rodya
+143748	Dounia
+143810	Dounia
+143971	Pulcheria Alexandrovna
+143984	Razumihin
+144024	Dounia
+144101	Dounia
+144129	Razumihin
+144163	Raskolnikov
+144259	Razumihin
+144268	Raskolnikov
+144348	Razumihin
+144356	Raskolnikov
+144378	Razumihin
+144418	Razumihin
+144430	Raskolnikov
+144468	Razumihin
+144484	Rodya
+144493	Rodya
+144525	Razumihin
+144551	Razumihin
+144566	Raskolnikov
+144577	Sonia
+144605	Kapernaumov
+144663	Kapernaumov
+144708	Raskolnikov
+144740	Sonia
+144762	Raskolnikov
+144777	Sonia
+144835	Raskolnikov
+144918	Sonia
+145122	Sonia
+145194	Sonia
+145246	Raskolnikov
+145292	Katerina Ivanovna
+145297	Sonia
+145411	Sonia
+145549	Sonia
+145720	Katerina Ivanovna
+145729	Sonia
+145789	Katerina Ivanovna
+145806	Sonia
+145819	Katerina Ivanovna
+145843	Sonia
+145868	Sonia
+145944	Sonia
+146157	Sonia
+146212	Sonia
+146257	Katerina Ivanovna
+146306	Sonia
+146651	Raskolnikov
+146673	Sonia
+146765	Sonia
+146814	Sonia
+146838	Andrey Semyonovitch
+146840	Lebeziatnikov
+146884	Katerina Ivanovna
+146889	Lizaveta
+146909	Katerina Ivanovna
+146941	Sonia
+147064	Katerina Ivanovna
+147170	Lizaveta
+147186	Sonia
+147193	Katerina Ivanovna
+147209	Raskolnikov
+147230	Sonia
+147269	Sonia
+147303	Sonia
+147349	Katerina Ivanovna
+147386	Sonia
+147400	Raskolnikov
+147506	Sonia
+147534	Raskolnikov
+147549	Sonia
+147591	Sonia
+147651	Sonia
+147706	Sonia
+147769	Raskolnikov
+147783	Sonia
+147830	Katerina Ivanovna
+147930	Sonia
+148070	Sonia
+148276	Sonia
+148296	Raskolnikov
+148453	Katerina Ivanovna
+148468	Sonia
+148546	Sonia
+148806	Sonia
+148957	Sonia
+148964	Sonia
+149035	Sonia
+149343	Sonia
+149375	Lazarus
+149382	Sonia
+149407	Lazarus
+149414	Sonia
+149523	Sonia
+149525	Raskolnikov
+149612	Sonia
+149614	Raskolnikov
+149694	Lizaveta
+149753	Lizaveta
+149787	Sonia
+149857	Sonia
+149898	Lazarus
+149900	Bethany
+149932	Raskolnikov
+149937	Sonia
+150131	St. John
+150150	Martha
+150152	Mary
+150162	Martha
+150169	Jesus
+150178	Mary
+150188	Martha
+150190	Jesus
+150245	Jesus
+150257	Martha
+150279	Jesus
+150337	Sonia
+150365	Christ
+150395	Raskolnikov
+150421	Mary
+150425	Jesus
+150457	Jesus
+150504	Jesus
+150550	Raskolnikov
+150742	Jesus
+150766	Jesus
+150775	Martha
+150816	Jesus
+150857	Jesus
+150923	Lazarus
+150978	Jesus
+150999	Mary
+151006	Jesus
+151038	Lazarus
+151116	Raskolnikov
+151128	Sonia
+151195	Sonia
+151273	Sonia
+151383	Sonia
+151517	Sonia
+151605	Polenka
+151713	Sonia
+151865	Sonia
+151945	Lizaveta
+151968	Sonia
+152004	Lizaveta
+152111	Sonia
+152145	Katerina Ivanovna
+152148	Lizaveta
+152185	Sonia
+152225	Sonia
+152242	Svidrigaïlov
+152257	Raskolnikov
+152294	Sonia
+152362	Raskolnikov
+152379	Porfiry Petrovitch
+152465	Raskolnikov
+152706	Porfiry Petrovitch
+152794	Porfiry Petrovitch
+152799	Porfiry Petrovitch
+152874	Raskolnikov
+152877	Porfiry Petrovitch
+152917	Raskolnikov
+152961	Porfiry
+153021	Raskolnikov
+153152	Porfiry Petrovitch
+153251	Raskolnikov
+153311	Porfiry
+153385	Porfiry Petrovitch
+153419	Raskolnikov
+153568	Raskolnikov
+153587	Porfiry Petrovitch
+153618	Raskolnikov
+153653	Raskolnikov
+153828	Porfiry Petrovitch
+153879	Raskolnikov
+153896	Porfiry
+153915	Raskolnikov
+153960	Porfiry Petrovitch
+153994	Raskolnikov
+154001	Porfiry Petrovitch
+154015	Raskolnikov
+154073	Porfiry Petrovitch
+154310	Porfiry Petrovitch
+154341	Raskolnikov
+154398	Rodion Romanovitch
+154401	Rodion Romanovitch
+154472	Raskolnikov
+154510	Rodion Romanovitch
+154514	Porfiry Petrovitch
+154574	Rodion Romanovitch
+154747	Raskolnikov
+154769	Porfiry Petrovitch
+154807	Porfiry
+154968	Raskolnikov
+155234	Porfiry Petrovitch
+155306	Raskolnikov
+155351	Porfiry
+155458	Rodion Romanovitch
+155640	Raskolnikov
+155659	Porfiry Petrovitch
+155847	Alma
+155947	Rodion Romanovitch
+156508	Raskolnikov
+156526	Porfiry
+156722	Porfiry
+156833	Porfiry
+156901	Rodion Romanovitch
+156972	Napoleon
+156998	Mack
+157013	Rodion Romanovitch
+157092	Napoleon
+157167	Rodion Romanovitch
+157175	Porfiry Petrovitch
+157659	Rodion Romanovitch
+157685	Raskolnikov
+157701	Porfiry
+157715	Raskolnikov
+157729	Porfiry Petrovitch
+157770	Lizaveta
+157868	Porfiry Petrovitch
+157889	Porfiry Petrovitch
+157897	Rodion Romanovitch
+157920	Raskolnikov
+157949	Porfiry Petrovitch
+157960	Raskolnikov
+157977	Raskolnikov
+157990	Porfiry
+158073	Porfiry Petrovitch
+158083	Raskolnikov
+158105	Rodion Romanovitch
+158147	Raskolnikov
+158188	Porfiry Petrovitch
+158214	Dmitri Prokofitch
+158318	Raskolnikov
+158340	Rodion Romanovitch
+158520	Razumihin
+158593	Raskolnikov
+158616	Porfiry Petrovitch
+158650	Porfiry
+158711	Porfiry
+158909	Rodion Romanovitch
+158953	Raskolnikov
+159040	Porfiry
+159091	Rodion Romanovitch
+159186	Raskolnikov
+159193	Porfiry
+159251	Raskolnikov
+159417	Porfiry
+159476	Raskolnikov
+159490	Porfiry
+159493	Raskolnikov
+159605	Razumihin
+159877	Raskolnikov
+159881	Porfiry Petrovitch
+159961	Raskolnikov
+160094	Raskolnikov
+160121	Porfiry
+160148	Porfiry Petrovitch
+160173	Porfiry
+160247	Raskolnikov
+160270	Porfiry
+160348	Porfiry
+160394	Raskolnikov
+160499	Porfiry
+160515	Raskolnikov
+160595	Porfiry
+160620	Raskolnikov
+160687	Raskolnikov
+160731	Raskolnikov
+160748	Porfiry
+160795	Rodion Romanovitch
+160869	Zametov
+160970	Porfiry
+160994	Raskolnikov
+161043	Raskolnikov
+161045	Porfiry Petrovitch
+161070	Raskolnikov
+161097	Porfiry Petrovitch
+161155	Nikolay
+161189	Porfiry
+161359	Nikolay
+161414	Porfiry Petrovitch
+161432	Nikolay
+161445	Porfiry
+161465	Nikolay
+161514	Porfiry Petrovitch
+161533	Nikolay
+161553	Porfiry Petrovitch
+161559	Nikolay
+161568	Alyona Ivanovna
+161573	Lizaveta Ivanovna
+161607	Porfiry Petrovitch
+161640	Raskolnikov
+161652	Nikolay
+161664	Nikolay
+161666	Raskolnikov
+161671	Nikolay
+161736	Nikolay
+161772	Nikolay
+161793	Mitka
+161849	Mitka
+161852	Nikolay
+161901	Raskolnikov
+161911	Nikolay
+161919	Raskolnikov
+161931	Rodion Romanovitch
+162003	Raskolnikov
+162049	Porfiry Petrovitch
+162073	Porfiry
+162077	Raskolnikov
+162099	Raskolnikov
+162151	Porfiry
+162165	Raskolnikov
+162218	Porfiry Petrovitch
+162242	Rodion Romanovitch
+162287	Porfiry
+162328	Porfiry Petrovitch
+162344	Raskolnikov
+162375	Porfiry
+162435	Raskolnikov
+162449	Porfiry Petrovitch
+162462	Raskolnikov
+162510	Raskolnikov
+162549	Porfiry Petrovitch
+162580	Nikolay
+162677	Nikolay
+162738	Gogol
+162749	Gogol
+162756	Gogol
+162773	Raskolnikov
+162813	Nikolay
+162836	Nikolay
+162920	Porfiry
+162940	Porfiry
+162968	Raskolnikov
+162971	Porfiry
+163010	Porfiry
+163028	Raskolnikov
+163069	Porfiry
+163114	Nikolay
+163116	Porfiry
+163146	Raskolnikov
+163207	Porfiry
+163302	Katerina Ivanovna
+163336	Sonia
+163434	Raskolnikov
+163516	Raskolnikov
+163551	Raskolnikov
+163651	Raskolnikov
+163740	Raskolnikov
+163935	Porfiry
+163958	Porfiry
+164386	Nikolay
+164422	Nikolay
+164445	Nikolay
+164487	Raskolnikov
+164532	Raskolnikov
+164599	Dounia
+164609	Pyotr Petrovitch
+164666	Pyotr Petrovitch
+164705	Pyotr Petrovitch
+164755	Andrey Semyonovitch
+164757	Lebeziatnikov
+164770	Pyotr Petrovitch
+164814	Andrey Semyonovitch
+164926	Pyotr Petrovitch
+164981	Pyotr Petrovitch
+165024	Dounia
+165048	Raskolnikov
+165054	Pyotr Petrovitch
+165087	Lebeziatnikov
+165165	Knopp
+165262	Pyotr Petrovitch
+165295	Katerina Ivanovna
+165339	Madame Lippevechsel
+165348	Katerina Ivanovna
+165389	Andrey Semyonovitch
+165391	Lebeziatnikov
+165401	Katerina Ivanovna
+165407	Pyotr Petrovitch
+165429	Amalia Ivanovna
+165490	Pyotr Petrovitch
+165501	Lebeziatnikov
+165511	Raskolnikov
+165520	Andrey Semyonovitch
+165533	Pyotr Petrovitch
+165545	Pyotr Petrovitch
+165603	Andrey Semyonovitch
+165643	Pyotr Petrovitch
+165847	Pyotr Petrovitch
+165883	Andrey Semyonovitch
+165892	Raskolnikov
+165907	Andrey Semyonovitch
+165920	Pyotr Petrovitch
+165958	Andrey Semyonovitch
+166066	Andrey Semyonovitch
+166137	Amalia Ivanovna
+166153	Andrey Semyonovitch
+166223	Lebeziatnikov
+166236	Pyotr Petrovitch
+166248	Andrey Semyonovitch
+166258	Pyotr Petrovitch
+166290	Fourier
+166299	Pyotr Petrovitch
+166322	Lebeziatnikov
+166409	Pyotr Petrovitch
+166422	Andrey Semyonovitch
+166434	Andrey Semyonovitch
+166466	Dounia
+166481	Pyotr Petrovitch
+166504	Pyotr Petrovitch
+166531	Andrey Semyonovitch
+166563	Pyotr Petrovitch
+166566	Andrey Semyonovitch
+166588	Pyotr Petrovitch
+166637	Andrey Semyonovitch
+166663	Pyotr Petrovitch
+166686	Andrey Semyonovitch
+166689	Pyotr Petrovitch
+166698	Dounia
+166759	Pyotr Petrovitch
+166765	Andrey Semyonovitch
+166839	Raskolnikov
+166870	Pyotr Petrovitch
+166970	Lebeziatnikov
+167000	Lebeziatnikov
+167011	Katerina Ivanovna
+167047	Pyotr Petrovitch
+167071	Lebeziatnikov
+167539	Terebyeva
+167630	Varents
+167897	Pyotr Petrovitch
+168071	Sofya Semyonovna
+168122	Lebeziatnikov
+168147	Katerina Ivanovna
+168164	Sofya Semyonovna
+168191	Sofya Semyonovna
+168312	Sofya Semyonovna
+168396	Sofya Semyonovna
+168976	Lebeziatnikov
+169142	Raphael
+169242	Pyotr Petrovitch
+169292	Lebeziatnikov
+169299	Luzhin
+169330	Lebeziatnikov
+169350	Pyotr Petrovitch
+169376	Pyotr Petrovitch
+169443	Lebeziatnikov
+169553	Lebeziatnikov
+169557	Sonia
+169601	Pyotr Petrovitch
+169666	Sonia
+169675	Lebeziatnikov
+169688	Pyotr Petrovitch
+169698	Lebeziatnikov
+169705	Pyotr Petrovitch
+169709	Sonia
+169715	Lebeziatnikov
+169719	Raskolnikov
+169736	Raskolnikov
+169806	Raskolnikov
+169824	Lebeziatnikov
+169887	Pyotr Petrovitch
+169897	Sonia
+169930	Sonia
+169942	Sofya Semyonovna
+169964	Katerina Ivanovna
+169977	Pyotr Petrovitch
+170009	Sonia
+170065	Sonia
+170082	Pyotr Petrovitch
+170106	Sofya Semyonovna
+170139	Sonia
+170171	Pyotr Petrovitch
+170201	Pyotr Petrovitch
+170241	Pyotr Petrovitch
+170272	Katerina Ivanovna
+170309	Sonia
+170399	Sonia
+170593	Sonia
+170626	Sonia
+170764	Sonia
+170769	Pyotr Petrovitch
+170814	Lebeziatnikov
+170845	Sofya Semyonovna
+170868	Katerina Ivanovna
+171062	Sonia
+171138	Pyotr Petrovitch
+171143	Sonia
+171150	Sonia
+171167	Pyotr Petrovitch
+171192	Katerina Ivanovna
+171202	Lebeziatnikov
+171222	Sonia
+171229	Pyotr Petrovitch
+171340	Pyotr Petrovitch
+171349	Lebeziatnikov
+171410	Pyotr Petrovitch
+171446	Lebeziatnikov
+171455	Pyotr Petrovitch
+171478	Pyotr Petrovitch
+171575	Luzhin
+171599	Lebeziatnikov
+171680	Pushkin
+171981	Pyotr Petrovitch
+172007	Lebeziatnikov
+172013	Pyotr Petrovitch
+172022	Lebeziatnikov
+172052	Katerina Ivanovna
+172067	Raskolnikov
+172069	Marmeladov
+172079	Katerina Ivanovna
+172102	Amalia Ivanovna
+172201	Katerina Ivanovna
+172307	Katerina Ivanovna
+172348	Sonia
+172465	Amalia Ivanovna
+172485	Katerina Ivanovna
+172523	Katerina Ivanovna
+172566	Katerina Ivanovna
+172584	Pani
+172624	Katerina Ivanovna
+172786	Amalia Ivanovna
+172796	Katerina Ivanovna
+172812	Amalia Ivanovna
+172851	Katerina Ivanovna
+172916	Amalia Ivanovna
+172957	Katerina Ivanovna
+172975	Amalia Ivanovna
+173027	Katerina Ivanovna
+173054	Amalia Ivanovna
+173059	Ludwigovna
+173071	Katerina Ivanovna
+173103	Amalia Ivanovna
+173124	Katerina Ivanovna
+173203	Pyotr Petrovitch
+173205	Luzhin
+173229	Katerina Ivanovna
+173242	Amalia Ivanovna
+173247	Sonia
+173312	Katerina Ivanovna
+173352	Luzhin
+173358	Lebeziatnikov
+173387	Pyotr Petrovitch
+173450	Katerina Ivanovna
+173457	Marmeladov
+173463	Katerina Ivanovna
+173468	Amalia Ivanovna
+173474	Katerina Ivanovna
+173510	Katerina Ivanovna
+173717	Amalia Ivanovna
+173765	Katerina Ivanovna
+173789	Amalia Ivanovna
+173815	Amalia Ivanovna
+173830	Katerina Ivanovna
+173887	Polenka
+173911	Katerina Ivanovna
+173955	Amalia Ivanovna
+173999	Raskolnikov
+174013	Katerina Ivanovna
+174088	Amalia Ivanovna
+174150	Raskolnikov
+174206	Katerina Ivanovna
+174462	Amalia Ivanovna
+174501	Raskolnikov
+174588	Raskolnikov
+174755	Pyotr Petrovitch
+174764	Sonia
+174783	Sonia
+174806	Rodion Romanovitch
+174821	Sonia
+174881	Kolya
+174901	Sonia
+174904	Sonia
+174909	Pyotr Petrovitch
+174934	Pyotr Petrovitch
+174940	Pyotr Petrovitch
+174983	Sonia
+174989	Katerina Ivanovna
+175004	Raskolnikov
+175046	Katerina Ivanovna
+175057	Katerina Ivanovna
+175066	Sonia
+175073	Katerina Ivanovna
+175090	Pyotr Petrovitch
+175098	Sonia
+175102	Katerina Ivanovna
+175109	Pyotr Petrovitch
+175120	Raskolnikov
+175132	Pyotr Petrovitch
+175175	Rodion Romanovitch
+175328	Pyotr Petrovitch
+175339	Katerina Ivanovna
+175362	Amalia Ivanovna
+175465	Katerina Ivanovna
+175526	Rodion Romanovitch
+175568	Katerina Ivanovna
+175606	Raskolnikov
+175759	Katerina Ivanovna
+175885	Raskolnikov
+175905	Katerina Ivanovna
+175922	Sonia
+175926	Sonia
+175952	Katerina Ivanovna
+175963	Sonia
+175979	Katerina Ivanovna
+175988	Amalia Ivanovna
+176022	Sonia
+176027	Katerina Ivanovna
+176037	Sonia
+176041	Katerina Ivanovna
+176056	Sonia
+176059	Katerina Ivanovna
+176086	Sonia
+176112	Katerina Ivanovna
+176137	Amalia Ivanovna
+176152	Katerina Ivanovna
+176214	Karl
+176240	Katerina Ivanovna
+176249	Amalia Ivanovna
+176293	Katerina Ivanovna
+176304	Amalia Ivanovna
+176321	Katerina Ivanovna
+176366	Rodion Romanovitch
+176515	Katerina Ivanovna
+176521	Raskolnikov
+176576	Katerina Ivanovna
+176589	Marmeladov
+176593	Raskolnikov
+176603	Katerina Ivanovna
+176635	Katerina Ivanovna
+176674	Katerina Ivanovna
+176728	Katerina Ivanovna
+176783	Katerina Ivanovna
+176824	Mangot
+176829	Katerina Ivanovna
+176859	Sonia
+176892	Katerina Ivanovna
+176916	Sonia
+176940	Sonia
+176950	Sonia
+176955	Katerina Ivanovna
+177007	Amalia Ivanovna
+177060	Wäsche
+177094	Katerina Ivanovna
+177118	Amalia Ivanovna
+177157	Wäsche
+177179	Amalia Ivanovna
+177226	Katerina Ivanovna
+177272	Amalia Ivanovna
+177313	Katerina Ivanovna
+177339	Amalia Ivanovna
+177424	Amalia Ivanovna
+177438	Katerina Ivanovna
+177454	Amalia Ivanovna
+177467	Petersburg Finn
+177482	Amalia Ivanovna
+177494	Katerina Ivanovna
+177524	Katerina Ivanovna
+177556	Amalia Ivanovna
+177593	Amalia Ivanovna
+177596	Amalia Ludwigovna
+177601	Amalia Ivanovna
+177620	Amalia Ivanovna
+177625	Ludwigovna
+177635	Johann
+177645	Katerina Ivanovna
+177658	Katerina Ivanovna
+177710	Katerina Ivanovna
+177727	Amalia Ivanovna
+177751	Katerina Ivanovna
+177788	Sonia
+177792	Katerina Ivanovna
+177797	Amalia Ivanovna
+177808	Katerina Ivanovna
+177811	Sonia
+177833	Pyotr Petrovitch
+177835	Luzhin
+177852	Katerina Ivanovna
+177861	Pyotr Petrovitch
+177941	Pyotr Petrovitch
+177982	Amalia Ivanovna
+178008	Sofya
+178010	Ivanovna
+178023	Pyotr Petrovitch
+178036	Sonia
+178039	Katerina Ivanovna
+178056	Pyotr Petrovitch
+178098	Pyotr Petrovitch
+178163	Raskolnikov
+178167	Sonia
+178176	Pyotr Petrovitch
+178188	Lebeziatnikov
+178240	Pyotr Petrovitch
+178260	Amalia Ivanovna
+178283	Sofya Ivanovna
+178286	Sofya Ivanovna
+178295	Sonia
+178330	Lebeziatnikov
+178407	Sonia
+178444	Luzhin
+178465	Sonia
+178628	Lebeziatnikov
+178715	Lebeziatnikov
+178741	Lebeziatnikov
+178759	Katerina Ivanovna
+178863	Lebeziatnikov
+178894	Lebeziatnikov
+178905	Lebeziatnikov
+178952	Lebeziatnikov
+179229	Sonia
+179249	Sonia
+179297	Sonia
+179321	Raskolnikov
+179348	Sonia
+179351	Amalia Ivanovna
+179378	Luzhin
+179387	Gott der
+179389	Barmherzige
+179401	Amalia Ivanovna
+179415	Luzhin
+179439	Amalia Ivanovna
+179475	Katerina Ivanovna
+179498	Sonia
+179512	Sonia
+179566	Katerina Ivanovna
+179592	Amalia Ivanovna
+179600	Pyotr Petrovitch
+179624	Lebeziatnikov
+179650	Katerina Ivanovna
+179666	Sonia
+179668	Sonia
+179673	Sonia
+179689	Katerina Ivanovna
+179784	Rodion Romanovitch
+179936	Katerina Ivanovna
+179947	Sonia
+179988	Luzhin
+180039	Amalia Ivanovna
+180079	Katerina Ivanovna
+180083	Sonia
+180122	Katerina Ivanovna
+180167	Pyotr Petrovitch
+180200	Pyotr Petrovitch
+180225	Amalia Ivanovna
+180245	Raskolnikov
+180254	Sonia
+180265	Sonia
+180333	Katerina Ivanovna
+180358	Sonia
+180547	Rodion Romanovitch
+180656	Pyotr Petrovitch
+180751	Sofya Semyonovna
+180862	Sonia
+180877	Pyotr Petrovitch
+180883	Raskolnikov
+180893	Raskolnikov
+180904	Katerina Ivanovna
+180915	Sonia
+180927	Sonia
+180967	Sonia
+180985	Pyotr Petrovitch
+180996	Lebeziatnikov
+181006	Pyotr Petrovitch
+181021	Lebeziatnikov
+181044	Pyotr Petrovitch
+181061	Luzhin
+181081	Lebeziatnikov
+181099	Raskolnikov
+181119	Pyotr Petrovitch
+181288	Sofya Semyonovna
+181317	Lebeziatnikov
+181376	Lebeziatnikov
+181472	Luzhin
+181575	Sofya Semyonovna
+181723	Lebeziatnikov
+181749	Pyotr Petrovitch
+181752	Katerina Ivanovna
+181756	Lebeziatnikov
+181789	Katerina Ivanovna
+181814	Luzhin
+182164	Sofya Semyonovna
+182214	Madame Kobilatnikov
+182233	Piderit
+182239	Wagner
+182286	Lebeziatnikov
+182370	Pyotr Petrovitch
+182464	Pyotr Petrovitch
+182490	Lebeziatnikov
+182559	Raskolnikov
+182617	Raskolnikov
+182620	Lebeziatnikov
+182714	Avdotya Romanovna
+182716	Raskolnikov
+182798	Katerina Ivanovna
+182813	Marmeladov
+182838	Katerina Ivanovna
+182842	Sofya Semyonovna
+182857	Sofya Semyonovna
+182871	Sofya Semyonovna
+182936	Katerina Ivanovna
+182944	Sofya Semyonovna
+182953	Sofya Semyonovna
+182973	Pyotr Petrovitch
+182975	Luzhin
+182985	Sofya Semyonovna
+183006	Sofya Semyonovna
+183087	Sofya Semyonovna
+183127	Sofya Semyonovna
+183205	Sofya Semyonovna
+183254	Raskolnikov
+183318	Lebeziatnikov
+183336	Sofya Semyonovna
+183354	Katerina Ivanovna
+183392	Luzhin
+183552	Sonia
+183588	Raskolnikov
+183599	Katerina Ivanovna
+183610	Amalia Ivanovna
+183637	Pyotr Petrovitch
+183645	Raskolnikov
+183663	Luzhin
+183672	Pyotr Petrovitch
+183683	Sonia
+183971	Pyotr Petrovitch
+183980	Amalia Ivanovna
+183998	Pyotr Petrovitch
+184016	Sonia
+184187	Amalia Ivanovna
+184208	Katerina Ivanovna
+184249	Katerina Ivanovna
+184259	Katerina Ivanovna
+184286	Amalia Ivanovna
+184474	Marmeladov
+184478	Raskolnikov
+184480	Katerina Ivanovna
+184558	Amalia Ivanovna
+184623	Raskolnikov
+184628	Sofya Semyonovna
+184649	Sonia
+184655	Raskolnikov
+184664	Sonia
+184716	Sonia
+184736	Sonia
+184748	Lizaveta
+184780	Katerina Ivanovna
+184787	Sofya Semyonovna
+184827	Sonia
+184861	Lizaveta
+184945	Sonia
+184968	Raskolnikov
+185031	Raskolnikov
+185071	Sonia
+185202	Amalia Ivanovna
+185213	Katerina Ivanovna
+185231	Sonia
+185258	Raskolnikov
+185281	Katerina Ivanovna
+185290	Katerina Ivanovna
+185332	Sonia
+185339	Raskolnikov
+185398	Lebeziatnikov
+185443	Lebeziatnikov
+185449	Sonia
+185502	Raskolnikov
+185554	Lebeziatnikov
+185580	Sonia
+185608	Katerina Ivanovna
+185671	Katerina Ivanovna
+185692	Sonia
+185768	Sonia
+185883	Raskolnikov
+185899	Sonia
+185953	Sonia
+186029	Sonia
+186075	Sonia
+186238	Sonia
+186340	Sonia
+186364	Sonia
+186427	Sonia
+186492	Sonia
+186519	Sonia
+186553	Lizaveta
+186606	Sonia
+186739	Raskolnikov
+186768	Lizaveta
+186795	Lizaveta
+186847	Sonia
+186898	Lizaveta
+186973	Sonia
+187248	Sonia
+187404	Raskolnikov
+187423	Sonia
+187531	Sonia
+187555	Sonia
+187681	Sonia
+187687	Sonia
+187848	Sonia
+187859	Sonia
+187890	Sonia
+187938	Sonia
+187941	Sonia
+187995	Katerina Ivanovna
+188010	Sonia
+188053	Razumihin
+188073	Sonia
+188186	Sonia
+188283	Sonia
+188322	Sonia
+188425	Sonia
+188440	Sonia
+188475	Sonia
+188508	Sonia
+188570	Sonia
+188620	Sonia
+188718	Sonia
+188741	Sonia
+188872	Sonia
+188925	Napoleon
+188945	Sonia
+189015	Napoleon
+189041	Mont Blanc
+189264	Sonia
+189282	Sonia
+189334	Sonia
+189695	Sonia
+189759	Sonia
+189805	Sonia
+189852	Sonia
+189892	Sonia
+189940	Sonia
+190151	Sonia
+190219	Nastasya
+190387	Sonia
+190452	Sonia
+190465	Sonia
+190542	Raskolnikov
+190545	Sonia
+190590	Sonia
+190608	Sonia
+190740	Sonia
+190759	Sonia
+190788	Sonia
+190849	Sonia
+190869	Sonia
+190959	Sonia
+191086	Napoleon
+191103	Napoleon
+191118	Sonia
+191259	Sonia
+191383	Sonia
+191391	Sonia
+191416	Sonia
+191607	Sonia
+191661	Sonia
+191850	Sonia
+191890	Sonia
+191910	Sonia
+192003	Sonia
+192059	Sonia
+192159	Sonia
+192323	Sonia
+192485	Sonia
+192656	Sonia
+192698	Sonia
+192746	Sonia
+192768	Sonia
+192841	Lizaveta
+192859	Lizaveta
+192910	Raskolnikov
+192939	Sonia
+193011	Sofya Semyonovna
+193030	Sonia
+193044	Lebeziatnikov
+193052	Lebeziatnikov
+193063	Sofya Semyonovna
+193086	Raskolnikov
+193108	Katerina Ivanovna
+193125	Raskolnikov
+193127	Sonia
+193129	Sonia
+193306	Amalia Ivanovna
+193483	Lebeziatnikov
+193490	Sonia
+193521	Raskolnikov
+193525	Lebeziatnikov
+193541	Raskolnikov
+193558	Sofya Semyonovna
+193696	Raskolnikov
+193713	Katerina Ivanovna
+193855	Raskolnikov
+193872	Lebeziatnikov
+193880	Lebeziatnikov
+193894	Raskolnikov
+194059	Sonia
+194180	Dounia
+194252	Dounia
+194293	Dmitri Prokofitch
+194316	Dmitri Prokofitch
+194505	Dounia
+194552	Raskolnikov
+194564	Dmitri Prokofitch
+194574	Dounia
+194606	Dounia
+194609	Dounia
+194802	Sonia
+195014	Dounia
+195020	Sonia
+195037	Lebeziatnikov
+195073	Sofya Semyonovna
+195130	Sonia
+195133	Raskolnikov
+195139	Lebeziatnikov
+195151	Sofya Semyonovna
+195157	Katerina Ivanovna
+195161	Sofya Semyonova
+195168	Katerina Ivanovna
+195216	Sofya Semyonovna
+195240	Sonia
+195261	Katerina Ivanovna
+195284	Katerina Ivanovna
+195511	Lebeziatnikov
+195520	Raskolnikov
+195534	Katerina Ivanovna
+195547	Kolya
+195657	Marmeladov
+195672	Katerina Ivanovna
+195686	Polenka
+195737	Sonia
+195739	Katerina Ivanovna
+195751	Katerina Ivanovna
+195763	Sonia
+195815	Petersburg
+195852	Katerina Ivanovna
+195882	Sonia
+195909	Rodion Romanovitch
+195921	Raskolnikov
+196064	Kolya
+196097	Rodion Romanovitch
+196144	Raskolnikov
+196206	Katerina Ivanovna
+196219	Rodion Romanovitch
+196241	Rodion Romanovitch
+196324	Sonia
+196410	Polenka
+196468	Judy
+196510	Rodion Romanovitch
+196617	Polenka
+196769	Kolya
+196890	Sonia
+197004	Katerina Ivanovna
+197036	Katerina Ivanovna
+197155	Semyon Zaharovitch
+197307	Katerina Ivanovna
+197377	Katerina Ivanovna
+197389	Sonia
+197391	Sonia
+197444	Kolya
+197494	Katerina Ivanovna
+197518	Sonia
+197534	Sonia
+197583	Sonia
+197596	Raskolnikov
+197598	Lebeziatnikov
+197731	Katerina Ivanovna
+197748	Sonia
+197777	Raskolnikov
+197779	Lebeziatnikov
+197845	Sonia
+197910	Katerina Ivanovna
+197917	Sonia
+197945	Raskolnikov
+197947	Lebeziatnikov
+197953	Sonia
+197981	Kolya
+198045	Svidrigaïlov
+198051	Raskolnikov
+198086	Raskolnikov
+198108	Kapernaumov
+198113	Katerina Ivanovna
+198137	Sonia
+198197	Polenka
+198240	Sonia
+198269	Sonia
+198275	Kolya
+198286	Sonia
+198462	Amalia Ludwigovna
+198469	Kolya
+198480	Glissez
+198503	Diamanten
+198505	Perlen
+198524	Augen Mädchen
+198751	Sonia
+198754	Sonia
+198756	Sonia
+198873	Sonia
+198899	Polenka
+198915	Kolya
+199002	Katerina Ivanovna
+199012	Raskolnikov
+199023	Lebeziatnikov
+199039	Rodion Romanovitch
+199052	Svidrigaïlov
+199059	Lebeziatnikov
+199070	Svidrigaïlov
+199072	Raskolnikov
+199144	Sofya Semyonovna
+199177	Avdotya Romanovna
+199202	Raskolnikov
+199213	Svidrigaïlov
+199304	Polenka
+199331	Raskolnikov
+199346	Sonia
+199393	Kapernaumov
+199398	Madame Resslich
+199424	Svidrigaïlov
+199439	Rodion Romanovitch
+199499	Raskolnikov
+199756	Svidrigaïlov
+199767	Svidrigaïlov
+199773	Svidrigaïlov
+199781	Sonia
+199788	Katerina Ivanovna
+199814	Raskolnikov
+199955	Katerina Ivanovna
+199967	Svidrigaïlov
+199969	Sonia
+200011	Katerina Ivanovna
+200022	Svidrigaïlov
+200031	Sonia
+200041	Svidrigaïlov
+200043	Raskolnikov
+200058	Katerina Ivanovna
+200128	Sonia
+200141	Raskolnikov
+200175	Svidrigaïlov
+200179	Raskolnikov
+200200	Rodion Romanovitch
+200254	Rodion Romanovitch
+200309	Svidrigaïlov
+200320	Svidrigaïlov
+200325	Raskolnikov
+200338	Sonia
+200418	Polenka
+200424	Sonia
+200459	Raskolnikov
+200489	Raskolnikov
+200515	Raskolnikov
+200519	Sonia
+200540	Raskolnikov
+200581	Sonia
+200585	Raskolnikov
+200896	Dounia
+200966	Katerina Ivanovna
+200988	Nastasya
+201040	Razumihin
+201059	Razumihin
+201072	Raskolnikov
+201353	Avdotya Romanovna
+201531	Sofya Semyonovna
+201550	Sofya Semyonovna
+201578	Sofya Semyonovna
+201600	Avdotya Romanovna
+201807	Razumihin
+201878	Razumihin
+201899	Razumihin
+202037	Razumihin
+202271	Razumihin
+202319	Dounia
+202464	Raskolnikov
+202488	Rodion
+202586	Porfiry
+202809	Raskolnikov
+202870	Raskolnikov
+202963	Rodya
+202999	Razumihin
+203026	Avdotya Romanovna
+203124	Nikolay
+203231	Razumihin
+203235	Raskolnikov
+203333	Nikolay
+203335	Porfiry
+203350	Nikolay
+203363	Sonia
+203399	Sonia
+203424	Svidrigaïlov
+203454	Svidrigaïlov
+203456	Svidrigaïlov
+203468	Porfiry
+203477	Porfiry
+203483	Razumihin
+203502	Porfiry
+203508	Porfiry
+203515	Nikolay
+203526	Nikolay
+203548	Raskolnikov
+203557	Porfiry
+203604	Nikolay
+203607	Porfiry
+203634	Razumihin
+203680	Razumihin
+203683	Nikolay
+203725	Porfiry
+203736	Raskolnikov
+203775	Svidrigaïlov
+203882	Porfiry
+203896	Raskolnikov
+203921	Porfiry
+203954	Porfiry
+203989	Rodion Romanovitch
+203993	Porfiry
+204048	Porfiry Petrovitch
+204055	Raskolnikov
+204130	Raskolnikov
+204135	Porfiry
+204144	Porfiry
+204168	Raskolnikov
+204190	Porfiry Petrovitch
+204329	Rodion Romanovitch
+204349	Raskolnikov
+204403	Porfiry Petrovitch
+204475	Raskolnikov
+204484	Porfiry
+204504	Rodion Romanovitch
+204533	Raskolnikov
+204556	Raskolnikov
+204591	Rodion Romanovitch
+204716	Raskolnikov
+204731	Porfiry
+204744	Porfiry Petrovitch
+204788	Nikolay
+204929	Rodion Romanovitch
+204971	Rodion Romanovitch
+205122	Rodion Romanovitch
+205153	Raskolnikov
+205238	Rodion Romanovitch
+205416	Porfiry Petrovitch
+205423	Raskolnikov
+205434	Porfiry
+205459	Porfiry Petrovitch
+205645	Rodion Romanovitch
+205760	Rodion Romanovitch
+206045	Nikolay
+206240	Razumihin
+206271	Razumihin
+206282	Zametov
+206349	Zametov
+206457	Razumihin
+206494	Zametov
+206544	Rodion Romanovitch
+206748	Rodion Romanovitch
+206780	Jove
+206784	Nikolay
+206794	Nikolay
+206907	Nikolay
+206916	Razumihin
+206924	Nikolay
+206999	Razumihin
+207003	Porfiry Petrovitch
+207012	Raskolnikov
+207030	Razumihin
+207042	Razumihin
+207079	Nikolay
+207299	Nikolay
+207358	Petersburg
+207506	Rodion Romanovitch
+207682	Nikolay
+207799	Nikolay
+207861	Rodion Romanovitch
+207864	Nikolay
+208113	Rodion Romanovitch
+208138	Raskolnikov
+208170	Porfiry Petrovitch
+208212	Rodion Romanovitch
+208236	Raskolnikov
+208274	Porfiry Petrovitch
+208290	Rodion Romanovitch
+208334	Raskolnikov
+208353	Rodion Romanovitch
+208362	Porfiry
+208384	Raskolnikov
+208399	Porfiry Petrovitch
+208406	Raskolnikov
+208421	Porfiry Petrovitch
+208520	Raskolnikov
+208844	Raskolnikov
+208953	Raskolnikov
+208961	Porfiry Petrovitch
+209000	Rodion Romanovitch
+209036	Rodion Romanovitch
+209092	Rodion Romanovitch
+209096	Raskolnikov
+209153	Rodion Romanovitch
+209324	Rodion Romanovitch
+209334	Raskolnikov
+209381	Porfiry
+209411	Porfiry
+209442	Raskolnikov
+209459	Porfiry
+209562	Raskolnikov
+209619	Raskolnikov
+209825	Nikolay
+210088	Raskolnikov
+210277	Schiller
+210420	Raskolnikov
+210659	Rodion Romanovitch
+210693	Nikolay
+210705	Rodion Romanovitch
+210709	Raskolnikov
+210717	Porfiry Petrovitch
+210767	Porfiry Petrovitch
+210786	Raskolnikov
+211011	Porfiry
+211020	Raskolnikov
+211037	Porfiry
+211061	Svidrigaïlov
+211115	Svidrigaïlov
+211118	Porfiry
+211147	Porfiry
+211331	Svidrigaïlov
+211336	Porfiry
+211357	Svidrigaïlov
+211375	Svidrigaïlov
+211423	Svidrigaïlov
+211432	Svidrigaïlov
+211440	Sonia
+211448	Sonia
+211462	Sonia
+211466	Sonia
+211506	Svidrigaïlov
+211581	Katerina Ivanovna
+211620	Raskolnikov
+211649	Svidrigaïlov
+211655	Svidrigaïlov
+211666	Dounia
+211709	Dounia
+211734	Svidrigaïlov
+211769	Dounia
+211781	Dounia
+211793	Dounia
+211808	Luzhin
+211815	Razumihin
+211823	Razumihin
+211837	Razumihin
+211852	Svidrigaïlov
+211889	Svidrigaïlov
+211898	Dounia
+211902	Raskolnikov
+212083	Svidrigaïlov
+212101	Raskolnikov
+212110	Svidrigaïlov
+212121	Raskolnikov
+212137	Raskolnikov
+212178	Svidrigaïlov
+212222	Raskolnikov
+212249	Raskolnikov
+212258	Svidrigaïlov
+212281	Svidrigaïlov
+212311	Raskolnikov
+212320	Svidrigaïlov
+212375	Svidrigaïlov
+212461	Svidrigaïlov
+212465	Raskolnikov
+212502	Philip
+212509	Svidrigaïlov
+212520	Raskolnikov
+212537	Katia
+212567	Katia
+212593	Svidrigaïlov
+212628	Svidrigaïlov
+212656	Philip
+212680	Svidrigaïlov
+212719	Raskolnikov
+212820	Svidrigaïlov
+212870	Rodion Romanovitch
+212921	Svidrigaïlov
+212971	Raskolnikov
+213066	Raskolnikov
+213131	Rodion Romanovitch
+213397	Raskolnikov
+213415	Svidrigaïlov
+213432	Raskolnikov
+213568	Raskolnikov
+213673	Svidrigaïlov
+213717	Raskolnikov
+213899	Svidrigaïlov
+213913	Raskolnikov
+213940	Svidrigaïlov
+214175	Svidrigaïlov
+214287	Katia
+214569	Marfa Petrovna
+214701	Marfa Petrovna
+214710	Svidrigaïlov
+215062	Svidrigaïlov
+215149	Marfa Petrovna
+215312	Rodion Romanovitch
+215336	Schiller
+215397	Schiller
+215416	Raskolnikov
+215433	Svidrigaïlov
+215469	Marfa Petrovna
+215553	Raskolnikov
+215582	Svidrigaïlov
+215606	Svidrigaïlov
+215726	Avdotya Romanovna
+215752	Svidrigaïlov
+215987	Marfa Petrovna
+216027	Marfa Petrovna
+216085	Marfa Petrovna
+216095	Marfa Petrovna
+216200	Marfa Petrovna
+216342	Marfa Petrovna
+216373	Avdotya Romanovna
+216400	Avdotya Romanovna
+216419	Marfa Petrovna
+216464	Marfa Petrovna
+216467	Avdotya Romanovna
+216518	Avdotya Romanovna
+216585	Svidrigaïlov
+216644	Svidrigaïlov
+216676	Raskolnikov
+216683	Svidrigaïlov
+216689	Raskolnikov
+216703	Svidrigaïlov
+216774	Avdotya Romanovna
+216807	Avdotya Romanovna
+216936	Rodion Romanovitch
+217117	Razumihin
+217224	Avdotya Romanovna
+217354	Parasha
+217812	I. Poor
+217814	Marfa Petrovna
+217898	Avdotya Romanovna
+218008	Rodion Romanovitch
+218145	Rodion Romanovitch
+218151	Avdotya Romanovna
+218277	Marfa Petrovna
+218320	Marfa Petrovna
+218380	Svidrigaïlov
+218393	Raskolnikov
+218463	Svidrigaïlov
+218479	Svidrigaïlov
+218532	Svidrigaïlov
+218598	Avdotya Romanovna
+218629	Dounia
+218650	Svidrigaïlov
+218768	Philip
+218781	Svidrigaïlov
+219021	Madame Resslich
+219134	Resslich
+219649	Raphael
+219651	Madonna
+219657	Sistine Madonna
+219738	Madonna
+220041	Katerina Ivanovna
+220076	Svidrigaïlov
+220146	Marfa Petrovna
+220646	Schiller
+220652	Schiller
+220699	Raskolnikov
+220702	Svidrigaïlov
+220709	Philip
+220759	Raskolnikov
+220819	Svidrigaïlov
+220823	Raskolnikov
+220898	Svidrigaïlov
+220905	Raskolnikov
+220911	Svidrigaïlov
+220960	Raskolnikov
+220979	Raskolnikov
+221059	Raskolnikov
+221126	Raskolnikov
+221206	Raskolnikov
+221253	Svidrigaïlov
+221262	Raskolnikov
+221394	Sofya Semyonovna
+221419	Sofya Semyonovna
+221475	Katerina Ivanovna
+221492	Sofya Semyonovna
+221512	Sofya Semyonovna
+221649	Svidrigaïlov
+221689	Sofya Semyonovna
+221778	Schiller
+221901	Raskolnikov
+222058	Sofya Semyonovna
+222077	Kapernaumov
+222088	Madame de
+222090	Kapernaumov
+222314	Svidrigaïlov
+222321	Raskolnikov
+222361	Svidrigaïlov
+222396	Svidrigaïlov
+222426	Raskolnikov
+222458	Raskolnikov
+222462	Svidrigaïlov
+222549	Dounia
+222584	Svidrigaïlov
+222624	Raskolnikov
+222632	Dounia
+222668	Dounia
+222680	Svidrigaïlov
+222690	Svidrigaïlov
+222700	Rodion Romanovitch
+222784	Dounia
+222845	Sofya Semyonovna
+222911	Dounia
+222965	Sofya Semyonovna
+223135	Sofya Semyonovna
+223175	Svidrigaïlov
+223214	Dounia
+223289	Svidrigaïlov
+223292	Sonia
+223359	Sofya Semyonovna
+223450	Svidrigaïlov
+223458	Dounia
+223489	Svidrigaïlov
+223531	Svidrigaïlov
+223533	Dounia
+223543	Dounia
+223560	Svidrigaïlov
+223619	Sofya Semyonovna
+223629	Rodion Romanovitch
+223692	Avdotya Romanovna
+223771	Svidrigaïlov
+223951	Dounia
+224031	Razumihin
+224065	Rodion Romanovitch
+224139	Sofya Semyonovna
+224190	Lizaveta
+224245	Sofya Semyonovna
+224301	Dounia
+224417	Dounia
+224452	Svidrigaïlov
+224472	Avdotya Romanovna
+224547	Sofya Semyonovna
+224586	Avdotya Romanovna
+224839	Napoleon
+224976	Avdotya Romanovna
+225005	Avdotya Romanovna
+225105	Avdotya Romanovna
+225210	Avdotya Romanovna
+225234	Razumihin
+225243	Razumihin
+225276	Avdotya Romanovna
+225285	Sofya Semyonovna
+225289	Dounia
+225319	Avdotya Romanovna
+225332	Sofya Semyonovna
+225406	Dounia
+225423	Svidrigaïlov
+225431	Avdotya Romanovna
+225458	Dounia
+225472	Svidrigaïlov
+225480	Avdotya Romanovna
+225791	Dounia
+225795	Svidrigaïlov
+225836	Dounia
+225933	Razumihin
+226054	Dounia
+226089	Svidrigaïlov
+226190	Dounia
+226236	Svidrigaïlov
+226284	Avdotya Romanovna
+226299	Sofya Semyonovna
+226405	Avdotya Romanovna
+226414	Dounia
+226537	Svidrigaïlov
+226589	Svidrigaïlov
+226633	Avdotya Romanovna
+226647	Razumihin
+226695	Marfa Petrovna
+226759	Svidrigaïlov
+226816	Marfa Petrovna
+226908	Avdotya Romanovna
+226962	Dounia
+227028	Dounia
+227187	Dounia
+227238	Svidrigaïlov
+227268	Dounia
+227339	Dounia
+227400	Dounia
+227444	Svidrigaïlov
+227508	Dounia
+227561	Dounia
+227564	Svidrigaïlov
+227587	Dounia
+227706	Dounia
+227726	Svidrigaïlov
+227750	Dounia
+227796	Svidrigaïlov
+227873	Dounia
+227960	Katia
+227982	Katia
+227985	Svidrigaïlov
+227987	Katia
+228127	Svidrigaïlov
+228224	Svidrigaïlov
+228424	Sonia
+228452	Svidrigaïlov
+228475	Svidrigaïlov
+228483	Sonia
+228503	Sofya Semyonovna
+228508	Svidrigaïlov
+228556	Sonia
+228689	Sofya Semyonovna
+228726	Sonia
+228761	Arkady Ivanovitch
+228812	Sofya Semyonovna
+228836	Rodion Romanovitch
+228852	Sonia
+228976	Amalia Ivanovna
+228997	Sofya Semyonovna
+229002	Katerina Ivanovna
+229094	Rodion Romanovitch
+229112	Razumihin
+229119	Razumihin
+229154	Sonia
+229232	Sofya Semyonovna
+229257	Razumihin
+229267	Arkady Ivanovitch
+229269	Svidrigaïlov
+229284	Sonia
+229368	Svidrigaïlov
+229392	Svidrigaïlov
+229469	Svidrigaïlov
+229520	Arkady Ivanovitch
+229559	Svidrigaïlov
+229692	Svidrigaïlov
+229802	Svidrigaïlov
+229983	Madame Resslich
+230015	Svidrigaïlov
+230090	Y. Prospect
+230247	Svidrigaïlov
+230300	Svidrigaïlov
+230370	Svidrigaïlov
+230433	Svidrigaïlov
+230530	Svidrigaïlov
+230596	Svidrigaïlov
+230827	Svidrigaïlov
+230871	Svidrigaïlov
+231053	Petrovsky Park
+231219	Marfa Petrovna
+231266	Dounia
+231271	Raskolnikov
+231276	Razumihin
+231290	Raskolnikov
+231302	Raskolnikov
+231378	Dounia
+231519	Dounia
+232306	Svidrigaïlov
+232403	Svidrigaïlov
+232524	Svidrigaïlov
+232881	Svidrigaïlov
+233546	Svidrigaïlov
+233582	Svidrigaïlov
+233845	Svidrigaïlov
+234050	Petrovsky
+234161	Svidrigaïlov
+234163	Achilles
+234180	Achilles
+234231	Svidrigaïlov
+234267	Svidrigaïlov
+234276	Achilles
+234373	Achilles
+234385	Svidrigaïlov
+234403	Raskolnikov
+234424	Razumihin
+234438	Raskolnikov
+234568	Dounia
+234584	Pulcheria Alexandrovna
+234628	Rodya
+234722	Raskolnikov
+234731	Pulcheria Alexandrovna
+234879	Rodya
+234881	Dmitri Prokofitch
+234996	Raskolnikov
+235161	Dounia
+235163	Dounia
+235330	Dmitri Prokofitch
+235366	Dounia
+235413	Dounia
+235450	Rodya
+235586	Pulcheria Alexandrovna
+235676	Pulcheria Alexandrovna
+235739	Rodya
+235804	Dounia
+235895	Pulcheria Alexandrovna
+235922	Rodya
+236093	Dounia
+236107	Sofya Semyonovna
+236132	Dmitri Prokofitch
+236491	Rodya
+236493	Rodya
+236591	Raskolnikov
+236621	Raskolnikov
+236687	Raskolnikov
+236722	Nastasya
+236751	Porfiry
+236759	Dounia
+236851	Sofya Semyonovna
+236873	Raskolnikov
+236890	Dounia
+237003	Sofya Semyonovna
+237023	Raskolnikov
+237068	Dounia
+237092	Dounia
+237166	Dounia
+237210	Dounia
+237252	Dounia
+237258	Rodya
+237318	Rodya
+237324	Dounia
+237343	Dounia
+237627	Dounia
+237963	Dounia
+238122	Razumihin
+238203	Dounia
+238323	Dounia
+238372	Dounia
+238543	Dounia
+238639	Dounia
+238908	Sonia
+238920	Sonia
+238930	Dounia
+238946	Svidrigaïlov
+238950	Sonia
+238972	Dounia
+238996	Sonia
+239027	Dounia
+239055	Sonia
+239077	Dounia
+239079	Dounia
+239098	Raskolnikov
+239116	Dounia
+239124	Sonia
+239152	Sonia
+239166	Dounia
+239210	Sonia
+239213	Svidrigaïlov
+239222	Raskolnikov
+239277	Sonia
+239347	Raskolnikov
+239359	Sonia
+239386	Sonia
+239441	Sonia
+239530	Porfiry
+239670	Sonia
+239753	Lizaveta
+239845	Sonia
+239973	Dounia
+239993	Sonia
+240014	Sonia
+240034	Sonia
+240058	Marmeladov
+240068	Raskolnikov
+240113	Sonia
+240174	Sonia
+240280	Sonia
+240898	Raskolnikov
+240978	Sonia
+241261	Raskolnikov
+241360	Sonia
+241387	Raskolnikov
+241398	Sonia
+241525	Raskolnikov
+241620	Ilya Petrovitch
+241639	Nikodim Fomitch
+241651	Nikodim Fomitch
+241733	Raskolnikov
+241780	Zametov
+241790	Nikodim Fomitch
+241799	Raskolnikov
+241863	Raskolnikov
+241893	Raskolnikov
+241915	Ilya Petrovitch
+241986	Dostoevsky
+242002	Raskolnikov
+242024	Raskolnikov
+242031	Raskolnikov
+242049	Rodion Ro
+242054	Rodionovitch
+242066	Rodion Romanovitch
+242078	Rodion Romanovitch
+242397	Zametov
+242421	Zametov
+242431	Zametov
+242525	Razumihin
+242606	Livingstone
+242771	Zametov
+242773	Zametov
+242799	Zametov
+242881	Raskolnikov
+242890	Ilya Petrovitch
+242942	Ilya Petrovitch
+242998	Ilya Petrovitch
+243040	Zametov
+243101	Nil Pavlitch
+243133	Raskolnikov
+243139	Svidrigaïlov
+243154	Svidrigaïlov
+243306	Raskolnikov
+243343	Raskolnikov
+243381	Ilya Petrovitch
+243428	Raskolnikov
+243528	Sonia
+243591	Ilya Petrovitch
+243635	Raskolnikov
+243694	Raskolnikov
+243711	Ilya Petrovitch
+243742	Raskolnikov
+243750	Raskolnikov
+243780	Lizaveta
+243790	Ilya Petrovitch
+243803	Raskolnikov
+243854	Rodion Raskolnikov
+243985	Lizaveta
+243991	Koch
+244019	Nikolay
+244021	Dmitri
+244320	Raskolnikov
+244332	Zossimov
+244353	Raskolnikov
+244609	Lizaveta
+244652	Nikolay
+244676	Porfiry Petrovitch
+244708	Razumihin
+244715	Raskolnikov
+244762	Raskolnikov
+244780	Raskolnikov
+244800	Raskolnikov
+244875	Raskolnikov
+244881	Dounia
+244883	Razumihin
+244897	Razumihin
+244928	Avdotya Romanovna
+244935	Pulcheria Alexandrovna
+244956	Dounia
+244980	Razumihin
+244995	Raskolnikov
+245043	Pulcheria Alexandrovna
+245102	Rodya
+245146	Razumihin
+245193	Rodya
+245274	Dounia
+245314	Dounia
+245357	Rodya
+245384	Dounia
+245427	Dounia
+245451	Svidrigaïlov
+245547	Raskolnikov
+245555	Razumihin
+245557	Sonia
+245577	Dounia
+245591	Razumihin
+245596	Razumihin
+245679	Raskolnikov
+245714	Dounia
+245730	Sonia
+245749	Svidrigaïlov
+245751	Sonia
+245777	Raskolnikov
+245804	Razumihin
+245835	Sonia
+245846	Dounia
+245850	Razumihin
+245860	Porfiry Petrovitch
+245863	Zossimov
+245872	Razumihin
+245880	Dounia
+245952	Sonia
+245954	Pulcheria Alexandrovna
+245963	Dounia
+245967	Razumihin
+245985	Razumihin
+245989	Raskolnikov
+246026	Pulcheria Alexandrovna
+246053	Dounia
+246103	Dounia
+246129	Raskolnikov
+246139	Pulcheria Alexandrovna
+246196	Rodya
+246257	Dounia
+246287	Pulcheria Alexandrovna
+246345	Raskolnikov
+246376	Sonia
+246397	Sonia
+246436	Sonia
+246454	Raskolnikov
+246573	Dounia
+246590	Sonia
+246801	Sonia
+246832	Sonia
+246913	Sonia
+247047	Sonia
+247105	Raskolnikov
+247122	Dounia
+247171	Sonia
+247333	Sonia
+247335	Sonia
+247356	Sonia
+247468	Raskolnikov
+248080	Svidrigaïlov
+248479	Raskolnikov
+248521	Raskolnikov
+248710	Raskolnikov
+248763	Sonia
+248854	Sonia
+248883	Sonia
+248906	Raskolnikov
+248933	Sofya Semyonovna
+249477	Raskolnikov
+249530	Sonia
+249598	Raskolnikov
+249617	Sonia
+249655	Sonia
+249690	Sofya Semyonovna
+249733	Sonia
+249863	Raskolnikov
+249969	Abraham
+249977	Raskolnikov
+250007	Sonia
+250421	Raskolnikov
+250653	Sonia
+250667	Lazarus

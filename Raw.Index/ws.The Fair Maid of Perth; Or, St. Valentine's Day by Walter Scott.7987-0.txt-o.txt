@@ -1,0 +1,3115 @@
+17	Tay
+145	Mary Wortley
+147	Montagu
+309	Gray
+446	Gad
+538	Tay
+566	Martins
+605	James
+638	Gowrie
+839	Moncrieff
+841	Kinnoul
+1033	Chrystal Croftangry
+1361	John
+1376	Robert
+1404	DRYDEN
+1640	Robert III
+1705	Catharine
+1708	Katie
+1710	Glover
+1801	Simon Glover
+1859	Simon
+1989	Catharine Glover
+2086	Catharine
+2127	St. Valentine
+2154	Robin Redbreast
+2368	Lady Drummond
+2403	Simon Glover
+2446	Catharine
+2646	Catharine Glover
+2768	Simon
+2808	Conachar
+2922	Conachar
+2954	Simon Glover
+3037	Catharine
+3219	Catharine
+3318	Catharine
+3441	Catharine
+3530	Catharine
+3593	Conachar
+3649	Valentine
+3899	Conachar
+4038	Conachar
+4115	Simon Glover
+4238	Robert III
+4399	Conachar
+4484	Conachar
+4521	Conachar
+4583	Catharine
+4675	Simon Glover
+4717	Conachar
+4861	Master Glover
+4904	Simon
+4923	Harry Gow
+4971	Dorothy
+4998	Kate
+5110	Dorothy
+5380	Henry Gow
+5384	Smith
+5491	Simon Glover
+5500	Dorothy
+5506	Catharine
+5514	Henry
+5644	St. Valentine
+5812	Catharine
+5818	Dorothy
+5852	Catharine
+5865	Dorothy
+5944	Dorothy
+5983	Conachar
+6109	Conachar
+6149	Catharine Glover
+6224	Henry
+6228	Glover
+6259	Tay
+6268	Johnston
+6310	Wicks
+6428	Henry Smith
+6537	Magnus Redman
+6593	Simon
+6647	Conachar
+6690	Henry
+6738	St. Dunstan
+6873	Catharine
+6936	Catharine
+7012	Henry
+7033	Kate
+7098	Simon
+7251	Leonard
+7356	Gervis
+7438	Andrew
+7454	Simon
+7476	Henry Smith
+7656	Conachar
+7667	Catharine
+7706	Henry Smith
+7712	Smith
+7757	Henry
+7822	Simon
+7954	Conachar
+8010	Conachar
+8050	Henry Smith
+8145	Conachar
+8242	Conachar
+8259	Simon
+8267	Dorothy
+8279	Catharine
+8296	Simon
+8300	Henry Smith
+8341	Catharine
+8435	Catharine
+8445	Catharine
+8449	Dorothy
+8457	Simon
+8486	Henry
+8541	Catharine
+8682	Catharine
+8748	Catharine
+8768	Catharine
+8973	Henry
+9107	Simon
+9155	Catharine
+9242	Robert
+9344	Catharine
+9474	Henry Gow
+9586	Henry
+9628	Catharine
+9906	Henry
+10014	Catharine
+10027	Henry
+10128	Henry
+10294	Catharine
+10458	Henry
+10660	Henry
+10680	Catharine
+10774	Catharine
+10841	Henry the
+10843	Smith
+10862	Catharine
+10947	Henry
+10977	Henry the
+10979	Smith
+11185	Catharine
+11392	Henry the
+11394	Smith
+11481	Smith
+11585	Simon
+11708	Dorothy
+11724	Dorothy
+11773	Henry
+11808	David
+11843	Crabbe
+11896	Dorothy
+11934	Henry Smith
+11944	Dorothy
+11993	Henry
+11997	Simon
+12195	Catharine
+12208	Dorothy
+12294	John Ramorny
+12330	Simon
+12509	Simon Glover
+12544	Harry
+12593	Glover
+12651	Catharine
+12691	Harry Smith
+12696	Simon
+12710	Catharine
+12771	Catharine
+12792	Smith
+12795	Catharine
+12881	Catharine
+12917	Henry Smith
+12946	Henry
+12990	Catharine
+13066	Conachar
+13099	Catharine
+13136	Harry Smith
+13172	Catharine
+13227	Moncrieff
+13273	Glover
+13293	Catharine
+13327	Simon
+13367	Simon
+13440	Highlandmen
+13454	Henry
+13596	Harry
+13634	Harry Gow
+13716	Catharine
+13721	Glover
+13766	Simon
+13806	Henry
+13889	Catharine
+13951	Harry
+13999	Henry
+14036	Eve
+14040	Catharine
+14136	Harry Burn-the-wind
+14151	Harry Smith
+14178	Harry Gow
+14223	Catharine
+14254	Conachar
+14339	Nick
+14361	Catharine
+14383	Catharine
+14400	Clement
+14428	Clement
+14509	Simon
+14513	Clement
+14624	Clement
+14659	St. Johnston
+14721	Simon
+14731	Father Clement
+14856	Simon
+14874	Wise Glover
+14922	Hodge Jackson
+14999	Catharine
+15009	Clement
+15019	Francis the
+15021	Dominican
+15045	Clement
+15114	Mother Church
+15284	Henry
+15321	Catharine
+15341	Valentine
+15517	DRYDEN
+15845	Henry
+15926	Henry
+16023	Catharine Glover
+16031	Valentine
+16318	Simon
+16403	Simon
+16637	Bandy
+16656	Henry
+16673	St. Valentine
+16716	Simon Glover
+16838	Henry
+16893	Henry Smith
+17023	Catharine
+17090	Kenneth
+17105	Henry
+17188	Henry Smith
+17212	Henry
+17311	Henry
+17347	Johnston
+17510	Henry
+17660	Henry --
+17662	`` I
+17664	am Hal
+17748	Harry
+17752	Simon
+17806	Simon
+17838	Simon Glover
+17910	Simon Glover
+17928	Son Smith
+18004	Henry
+18145	St. Johnston
+18237	Johnston
+18307	Harry
+18493	Oliver Proudfute
+18665	Oliver Proudfute
+18722	Simon Glover
+18775	Harry Smith
+18829	Michael Webster
+19000	Bailie Craigdallie
+19262	Craigdallie
+19264	St. Johnston
+19270	Oliver Proudfute
+19586	JOANNA BAILLIE
+19671	Henry Smith
+19806	Catharine
+19811	Valentine
+19833	Catharine
+19932	Harry
+19955	Catherine
+20054	Henry
+20139	Catharine
+20196	Harry
+20337	Simon
+20416	Henry
+20481	Henry Smith
+20527	Henry
+20537	Henry
+20684	Catharine
+20879	Henry
+20983	Simon
+21138	Catharine
+21249	Henry
+21393	Catharine
+21437	Gow
+21478	Henry
+21639	Valentine
+21645	Catharine
+21755	Conachar
+21765	Harry Gow
+22089	Catharine
+22148	Simon
+22181	Catharine
+22231	Henry Gow
+22282	Henry
+22370	Valentine
+22477	Catharine
+22562	Catharine
+22602	Catharine
+22664	Dorothy
+22699	Henry
+22807	Henry
+22835	Catharine
+22882	Henry
+22886	Catharine
+22905	St. Valentine
+23005	Henry
+23209	Jamie Keddie
+23257	Henry
+23315	Simon Glover
+23385	Henry
+23396	Catharine
+23443	Henry Gow
+23447	Valentine
+23524	Valentine
+23549	Simon
+23636	Dorothy
+23738	Catharine
+23757	Henry
+23881	John
+24114	Valentine
+24167	St. John
+24173	Dorothy
+24203	Valentine
+24551	Henry
+24714	Simon
+24723	Catharine
+24793	Catharine
+24867	Catharine
+24934	Dorothy
+24965	Catharine
+24992	Conachar
+25047	Henry
+25098	Simon
+25103	Arthur
+25118	Henry
+25166	Henry
+25372	Simon
+25447	Dorothy
+25472	Catharine
+25566	Conachar
+25706	Simon
+25852	Conachar
+25961	Conachar
+25973	Simon Glover
+26082	Conachar
+26167	Conachar
+26207	Glover
+26329	Henry
+26380	Conachar
+26508	Jankin
+26512	Catharine
+26525	Valentine
+26539	Conachar
+26583	Conachar
+26739	Henry
+26820	Henry
+26912	Henry
+26983	Simon
+27011	Henry
+27070	Henry
+27326	Conachar
+27426	Conachar
+27457	Conachar
+27494	Henry Gow
+27513	Simon
+27520	Henry
+27563	Catharine
+27599	Dorothy
+27622	Henry Smith
+27626	Catharine
+27663	Henry
+27679	Simon
+27735	Catharine
+27744	St. Valentine
+27773	Henry
+27780	Catharine
+27923	Catharine
+28006	Henry Gow
+28036	Henry
+28075	Dorothy
+28150	Henry
+28238	Catharine
+28255	Henry
+28357	Henry
+28379	Catharine
+28452	Henry
+28475	Catharine Glover
+28698	Catharine
+28701	Henry
+28741	Catharine
+28757	Valentine
+28847	St. Mary
+28867	Smith
+28880	Henry
+28937	Catharine
+28982	Catharine
+29047	Catharine
+29055	Blind Harry
+29090	William Wallace
+29110	Catharine
+29152	Henry
+29221	Henry
+29237	Henry
+29314	Catharine
+29447	Henry
+29451	Catharine
+29668	Henry
+29766	Conachar
+29772	Henry
+29794	Henry
+29839	Henry
+29951	Henry Smith
+29956	Catharine
+30203	Henry Gow
+30213	Catharine
+30273	Henry
+30315	Henry
+30321	Catharine
+30397	Catharine
+30486	Henry IV
+30514	Simon Glover
+30604	Oliver Proudfute
+30831	St. John
+30876	Simon Glover
+30906	Crookshank
+30922	Balneaves
+30924	Rollock
+30927	Chrysteson
+30949	Bailie Craigdallie
+30966	Bailie Craigdallie
+31041	Simon Glover
+31063	Simon
+31168	Craigdallie
+31174	Harry
+31298	Henry Gow
+31321	Oliver Proudfute
+31340	Henry Gow
+31348	Glover
+31419	Craigdallie
+31457	Simon
+31497	Henry
+31572	Henry
+31598	Oliver
+31749	Henry
+31788	Oliver
+31800	Bailie
+31843	Simon Glover
+31846	Henry Gow
+31982	Simon Glover
+32177	Simon
+32240	Simon
+32301	Henry Smith
+32364	Simon
+32393	Bailie Craigdallie
+32417	Smith
+32451	Henry
+32482	Henry
+32568	Oliver Proudfute
+32765	Simon Glover
+32997	Simon Glover
+33072	Catharine Glover
+33121	Henry
+33150	Bailie Craigdallie
+33196	Catharine
+33220	Neighbour Henry
+33280	Henry Gow
+33502	Smith
+33517	Craigdallie
+33539	Patrick Charteris
+33656	Harry Smith
+33676	Oliver Proudfute
+33816	Simon Glover
+33828	Henry Smith
+33995	Wallace
+34081	Bailie Craigdallie
+34097	Patrick Charteris
+34145	Sim Glover
+34154	Oliver Proudfute
+34167	Patrick Charteris
+34222	Bailie Craigdallie
+34240	Sim Glover
+34251	Harry Gow
+34268	Proudfute
+34985	Charteris
+35008	Robert III
+35122	William Wallace
+35253	Wallace
+35320	Thomas de
+35322	Longueville
+35441	Wallace
+35481	De Longueville
+35512	Wallace
+35526	Boyd
+35637	Wallace
+35665	De Longueville
+35756	Wallace
+35819	Wallace
+35898	Wallace
+35995	Wallace
+36008	De Longueville
+36093	Wallace
+36118	Thomas de
+36120	Longueville
+36154	Wallace
+36179	Thomas de
+36181	Longueville
+36238	Charteris
+36274	Charteris
+36295	Thomas de
+36297	Longueville
+36339	De Longueville
+36343	Charteris
+36362	Gray
+36367	Kinfauns
+36406	Patrick
+36610	Patrick Charteris
+36664	Simon Glover
+36794	Galloway
+37113	Oliver Proudfute
+37168	Smith
+37244	Henry Smith
+37291	Simon Glover
+37311	Henry
+37365	Henry Gow
+37449	Jezabel
+37458	Jezabel
+37498	Bailie Craigdallie
+37603	Smith
+37614	Oliver
+37719	Bailie Craigdallie
+37953	Dwining
+38013	Bailie Craigdallie
+38082	Simon
+38135	Bailie Craigdallie
+38216	John Highlandman
+38225	Kinfauns
+38268	Proudfute
+38299	Patrick Charteris
+38312	Patrick
+38496	Gow
+38503	Craigdallie
+38505	Henry
+38691	Jezabel
+38837	Jezabel
+39060	Oliver Proudfute
+39079	Adam Craigdallie
+39092	Smith
+39204	Oliver Proudfute
+39225	Henry Gow
+39285	Dick
+39296	Johnstone
+39302	Laird
+39304	Wamphray
+39315	Johnstone
+39374	Oliver Proudfute
+39437	Dick
+39494	Jezabel
+39693	Oliver
+39733	Henry Smith
+39741	Oliver
+39782	Bailie
+39817	Proudfute
+39844	Bailie Craigdallie
+39893	Henry of
+39895	the Wynd
+39973	Henry
+39999	Oliver Proudfute
+40010	Jezabel
+40176	Oliver
+40198	Smith
+40242	Oliver
+40263	Henry
+40333	Oliver
+40413	Jezabel
+40426	Oliver
+40439	Dick
+40457	Johnstone
+40619	Proudfute
+40688	Oliver
+40741	Henry Gow
+40744	Henry Gow
+40799	Henry Smith
+40882	Proudfute
+40953	Henry
+40964	Mark
+40969	Bailie Craigdallie
+41057	Smith
+41245	Andrew
+41286	Saracen
+41402	Henry
+41593	Oliver
+41607	Bailie Craigdallie
+41688	Henry Gow
+41698	Kinfauns
+41727	Bailie Craigdallie
+41733	Henry Smith
+41765	Bailie
+41823	Oliver Proudfute
+41953	Gow
+42017	Henry
+42119	Henry
+42123	Simon
+42196	Henry
+42237	Kinfauns
+42280	Tay
+42321	Elcho
+42328	Elcho
+42415	Kinfauns
+42445	Patrick Charteris
+42702	Bailie
+42708	Simon Glover
+42811	Butler Gilbert
+42899	Patrick Charteris
+42910	Craigdallie
+42989	Oliver Bonnet
+42991	Maker
+43051	John
+43100	Richard the
+43102	Devil
+43134	Robert
+43165	Dick
+43172	Johnstone
+43211	Patrick
+43231	Johnstone
+43248	Smith
+43267	Patrick
+43307	Oliver Proudfute
+43360	St. Johnston
+43501	Craigdallie
+43580	Simon Glover
+43600	Henry Smith
+43624	Patrick
+43657	Thomas of
+43659	Longueville
+43684	Simon Glover
+43716	Simon
+43859	Patrick Charteris
+44004	Patrick
+44017	Henry Gow
+44076	Henry Gow
+44128	Patrick Charteris
+44403	Henry Smith
+44423	Patrick Charteris
+44491	Thomas of
+44493	Longueville
+44499	Patrick Charteris
+44566	Gerard
+44635	Henry Gow
+44757	Richard II
+45057	Robert
+45073	Stuart
+45176	Robert
+45258	Earl of
+45260	Carrick
+45276	James Douglas
+45279	Dalkeith
+45317	Robert
+45438	Duke
+45628	King
+45727	George Earl
+45729	of Dunbar
+45883	Douglas
+45926	Marjory
+45946	Douglas
+45976	Marjory Douglas
+46005	Elizabeth
+46007	Dunbar
+46193	Annabella
+46202	Drummond
+46270	Robert
+46304	Douglas
+46513	Robert
+46877	Anselm
+47018	Robert King
+47032	Robert Stuart
+47035	Carrick
+47180	Robert
+47341	Robert
+47354	Andrews Henry
+47356	of Wardlaw
+47595	Douglas
+47683	Douglas
+47776	Robert
+47947	Jesse
+48034	Douglas
+48152	Douglas
+48797	Robert
+49236	Robert
+49331	JOANNA BAILLIE
+49346	Robert
+49356	John
+49386	John
+49390	John
+49395	John Baliol
+49420	Robert
+49430	Robert Bruce
+49898	Robert
+49983	Anselm
+50111	Elizabeth More
+50163	Robin
+50283	Robert
+50412	Robin
+50689	Douglas
+50751	Robin
+50833	Robin
+50992	Robin
+51063	Robin
+51238	Robert
+51892	Earl of
+51894	Douglas
+52015	Thomas Randolph
+52024	Robert Bruce
+52045	James
+52047	Douglas
+52085	Aberbrothock
+52097	Douglas
+52125	Henry Hotspur
+52342	Douglas
+52356	Duke
+52409	Robert
+52565	Douglas
+52811	Marjory Douglas
+53009	Louise
+53014	Louise
+53046	Louise
+53051	Louise
+53086	Louise
+53091	Louise
+53121	Louise
+53126	Louise
+53156	Louise
+53161	Louise
+53194	Louise
+53199	Louise
+53233	Louise
+53237	Louise
+53269	Louise
+53296	Robert
+53657	David
+53769	Elizabeth
+53771	Dunbar
+53779	Douglas
+53928	Robert
+54015	George of
+54017	Dunbar
+54102	Marjory Douglas
+54192	Douglas
+54206	George
+54208	Dunbar
+54230	Douglas
+54254	Marjory
+54256	Douglas
+54351	Douglas
+54577	Lucinda
+55085	Louise
+55416	Aymer
+55496	Louise
+55596	Louise
+55940	St. Giles
+55981	Louise
+56167	Louise
+56225	Louise
+56332	Louise
+56410	Prince
+56446	Louise
+56473	Archibald Earl
+56475	of Douglas
+56625	Douglas
+56756	St. Valentine
+56774	Louise
+56863	Louise
+57031	Douglas
+57097	Douglas
+57149	Douglas
+57267	Douglas
+57287	Prince
+57311	Douglas
+57344	Douglas
+57384	Douglas
+57407	Louise
+57503	Douglas
+57572	Douglas
+57660	Prince
+57662	Douglas
+57768	Douglas
+57783	St. Bride
+57785	of Douglas
+57811	Douglas
+57875	George
+57877	Dunbar
+57936	Douglas
+57951	Douglas
+57989	Douglas
+58179	Douglas
+58562	Harry Smith
+58648	Henry
+58749	Duke
+58754	Duke
+58774	Douglas
+58797	Prince
+58818	Douglas
+58895	George
+58897	Dunbar
+59016	Smith
+59083	Prince
+59095	Smith
+59127	Henry Smith
+59257	Hal
+59277	Edgar
+59383	Henry Gow
+59520	Douglas
+59617	John Ramorny
+59658	David
+59666	Prince
+59698	John Ramorny
+59797	Nicholas
+59805	Cyprian
+59824	Cyprian
+59835	Cyprian
+59873	Louise
+59921	Smith
+59981	Henry Gow
+60073	Douglas
+60186	Louise
+60266	Trumbull
+60361	Louise
+60552	Catharine
+60597	Louise
+60775	Louise
+60821	Louise
+61127	Cyprian
+61240	Louise
+61388	Louise
+61480	Henry
+61508	Benedicite
+61568	Galloway
+61586	Louise
+61663	Charlot
+61694	Charlot
+61741	Louise
+61783	Henry
+61863	Louise
+61935	Harry of
+61937	the Wynd
+62021	Henry
+62221	Douglas
+62236	John Ramorny
+62294	Ramorny
+62453	Henry
+62662	Henry
+62695	Louise
+62768	St. Ringan
+62825	Louise
+62997	Valentine
+63072	Valentine
+63220	Highlandmen
+63664	Valentine
+63726	Louise
+63745	Charlot
+63958	Catharine
+64084	Venus
+64187	Kinfauns
+64383	Henry
+64470	Louise
+64510	Henry
+64562	Charlot
+64566	Louise
+64614	Charlot
+64656	Charlot
+64675	Henry
+64726	Henry
+65224	Joan Letham
+65316	Henry Smith
+65376	Joan
+65450	St. Dunstan
+65461	Oliver Proudfute
+65503	Tom
+65505	Tom
+65557	Venus
+65571	Valentine
+65591	Oliver
+65725	Henry
+65989	Oliver
+65998	St. Dunstan
+66143	St. Valentine
+66183	Henry
+66278	Henry
+66309	Simon Glover
+66387	Luckie Shoolbred
+66530	Henry Smith
+66670	Harry Smith
+66690	Harry
+66800	Harry Wynd
+66835	Louise
+66872	Charlot
+66897	Dame Shoolbred
+66929	St. Dunstan
+67424	Henry Gow
+67517	Harry
+67620	Sim Glover
+67661	Simon
+67741	Dame Shoolbred
+68072	Dame Shoolbred
+68097	Louise
+68125	Harry Smith
+68151	Harry
+68156	Sim Glover
+68164	Catharine
+68258	Savage
+68291	BYRON
+68498	Douglas
+68589	Robert
+68741	St. Dominic
+68986	Prince
+69063	Douglas
+69066	Douglas
+69117	Douglas
+69344	Douglas
+69392	Douglas
+69626	Patrick Charteris
+69685	John
+69703	Douglas
+69862	Douglas
+69883	Douglas
+69946	Douglas
+69976	Douglas
+70014	Jack Straw
+70018	Hob Miller
+70104	Douglas
+70127	Patrick Charteris
+70147	Douglas
+70161	Patrick
+70179	Douglas
+70214	Douglas
+70219	Thomas Randolph
+70372	Douglas
+70428	Dunbar
+70449	Douglas
+70486	George
+70488	Dunbar
+70554	Douglas
+70601	Lothian
+70606	Dunbar
+70764	Douglas
+70859	Douglas
+71137	Dominic
+71230	Robert
+71724	David
+71952	Douglas
+72003	Douglas
+72045	Ruthven
+72055	Carse
+72116	Donald Cormac
+72179	Douglas
+72231	Douglas
+72288	Douglas
+72342	Chattan
+72418	Douglas
+72479	Douglas
+72687	Saxon
+72689	Gael
+72787	Prince
+72954	Arthur
+72962	David
+73170	Gael
+73654	Douglas
+73666	Douglas
+73720	Carse
+73754	Douglas
+73836	Robert
+73877	Dunbar
+73895	Douglas
+73906	Douglas
+73937	Percy
+73939	George
+73941	Dunbar
+74042	Douglas
+74047	Prince
+74110	Percy
+74119	Douglas
+74150	Douglas
+74993	Douglas
+75136	Douglas
+75300	Douglas
+75399	Douglas
+75470	Duke
+75526	Douglas
+75561	Robert
+75810	Douglas
+75937	Douglas
+75964	Gascon
+76488	David
+76686	David
+76700	Ramorny
+76744	Ramorny
+76823	Ramorny
+76883	Douglas
+76898	Ramorny
+76934	David
+77072	Ramorny
+77089	David
+77154	Ramorny
+77194	Ramorny
+77257	David
+77491	Douglas
+77545	Lizzy Lyndesay
+77564	Lizzy Lyndesay
+77880	Catharine
+78372	Catharine
+78523	Clement Blair
+78582	Conachar
+78652	Clement
+78734	Catharine
+78797	Conachar
+78872	Catharine
+79048	Catharine
+79127	Catharine
+79278	Henry of
+79280	the Wynd
+79320	Catharine Glover
+79411	Father Clement
+79451	Valentine
+79516	Catharine
+79603	Henry Gow
+79607	Smith
+79667	Catharine
+79719	Henry Smith
+79823	Catharine
+79850	Catharine
+79960	Catharine
+80068	Henry Smith
+80196	St. John
+80208	Henry Smith
+80246	Catharine
+80299	Ramorny
+80527	Ramorny
+80636	Catharine
+80692	Clement
+80795	Marjory Douglas
+80838	Catharine Glover
+80880	Catharine Logie
+80899	David Bruce
+80917	Catharine
+80943	Father Clement
+81002	Margaret
+81018	Catharine
+81169	Clement
+81343	Douglas
+81371	Clement
+81421	Catharine
+81491	Catharine
+81558	Catharine
+81729	Catharine
+81977	Catharine
+82109	Catharine
+82236	Father Clement
+82586	Catharine
+82613	Catharine
+82636	Catharine
+82669	Ian Eachin
+82671	MacIan
+82757	Conachar
+82776	Catharine
+82791	Clan Quhele
+82809	Simon Glover
+82852	Catharine
+82867	Catharine
+82929	Catharine
+82997	Catharine
+83011	Conachar
+83051	Hector
+83057	Saxon
+83060	Eachin
+83073	Gow Chrom
+83082	Eachin MacIan
+83126	Catharine
+83161	Conachar
+83263	Clement
+83327	Catharine
+83533	Loch Tay
+83589	Hector
+83633	Catharine
+83717	Catharine
+83741	Catharine
+83764	Clement
+83805	Hector
+83822	Catharine
+83918	Eachin
+84178	Ramorny
+84226	Conachar
+84349	Ramorny
+84468	Henry Smith
+84510	Bertha
+84596	Henbane Dwining
+84687	John Ramorny
+84783	John
+84848	John
+84929	John
+85165	Dwining
+85249	Ramorny
+85417	Moor
+85467	Ramorny
+85763	Ramorny
+85790	Ramorny
+85800	Dwining
+85874	Ramorny
+86159	Sampson
+86446	Ramorny
+86598	Dwining
+86686	Smith
+86705	Henry
+86813	Dwining
+86927	Ramorny
+86988	Patrick Charteris
+87219	Douglas
+87343	Ramorny
+87451	Catharine
+87468	Valentine
+87669	Bonthron
+87751	Bonthron
+87811	Smith
+87877	Bonthron
+88019	Bonthron
+88085	Bonthron
+88146	Eviot
+88170	John Ramorny
+88299	Henry Smith
+88354	Henry Smith
+88456	Black Quentin
+88489	Ramorny
+88589	Ramorny
+88703	Dwining
+88767	Ramorny
+88781	Bonthron
+88802	John of
+88804	Ramorny
+89034	Black Douglas
+89090	John of
+89092	Ramorny
+89149	Dwining
+89336	Dwining
+89393	Ramorny
+89633	Ramorny
+89963	John Ramorny
+90049	Bonthron
+90161	Eviot
+90234	Eviot
+90269	Eviot
+90942	Simon Glover
+90990	Simon
+91031	Simon
+91052	Oliver Proudfute
+91157	Griffin
+91190	Catharine
+91204	Oliver
+91307	Simon Glover
+91336	Oliver
+91360	Oliver
+91394	Gaffer Glover
+91509	Proudfute
+91578	John
+91638	Douglas
+91675	Simon
+91715	Simon
+91764	Henry Smith
+91779	Black Quentin
+91785	John Ramorny
+91807	Black Quentin
+91818	Henry
+91881	Kate
+91892	Griffin
+91912	Henry Wynd
+91970	Simon
+92086	Henry Wynd
+92140	Simon
+92155	Catharine
+92157	Henry Gow
+92232	Oliver
+92256	Henry
+92267	Catharine
+92408	Henry Gow
+92448	Dwining
+92483	Joan Letham
+92510	Oliver
+92546	Simon Glover
+92549	Will Dwining
+92595	Oliver Proudfute
+92678	Simon
+92709	Simon
+92764	Henry
+92874	John
+92953	Simon
+93062	Simon
+93106	Oliver Proudfute
+93142	Oliver
+93166	Henry Gow
+93383	St. John
+93398	Maudie
+93445	Glover
+93480	Maudie
+93563	Fastern
+93714	Henry
+93822	Henry Wynd
+93839	Catharine
+93886	Griffin
+93890	Maudie
+93920	Griffin
+93964	Harry
+94040	Simon
+94101	Oliver
+94188	Jeremy
+94285	Oliver
+94621	Oliver
+94932	Oliver
+95056	Oliver
+95137	Oliver
+95152	Oliver
+95184	Oliver Thatchpate
+95332	Henry
+95343	Simon Glover
+95464	Henry Gow
+95493	Oliver Proudfute
+95513	Henry
+95534	Henry
+95587	Henry
+95601	Fastern
+95685	Henry
+95764	Henry
+95801	Oliver
+95822	Henry
+95923	Oliver
+95946	Oliver
+95970	Henry
+96048	Oliver
+96110	Henry
+96159	Oliver
+96290	Oliver
+96325	Oliver
+96371	David
+96376	Ramorny
+96438	Oliver
+96494	Henry
+96549	Maudie
+96621	Oliver
+96659	Oliver
+96703	Douglas
+96728	Dick
+96742	Douglas
+96803	Henry Smith
+96947	Oliver
+96976	Henry Smith
+96981	Oliver Proudfute
+96987	St. John
+97047	Oliver
+97109	Maudie
+97129	Henry
+97193	Patrick Charteris
+97248	Maudie
+97317	Oliver
+97426	Johnstone
+97441	Oliver Proudfute
+97484	Patrick
+97527	Douglas
+97535	Southron
+97572	John
+97584	Oliver
+97603	Oliver
+97632	John Ramorny
+97648	John
+97671	John Ramorny
+97681	Simon Glover
+97688	Patrick Charteris
+97738	Oliver
+97802	Oliver
+97831	Patrick Charteris
+97858	Oliver
+97949	Oliver
+98020	Simon Glover
+98144	Henry
+98183	Simon
+98403	Oliver
+98422	Henry
+98469	Oliver
+98487	Henry
+98567	Hal
+98581	Oliver
+98604	Oliver
+98729	Henry
+98782	Oliver
+98954	Robert
+99034	John
+99040	Ramorny
+99097	John
+99296	Prince
+99341	St. John
+99585	John Ramorny
+99658	Eviot
+99660	Ramorny
+99931	Eviot
+100002	John Ramorny
+100020	Eviot
+100157	Dan Bacchus
+100197	Prince
+100218	Eviot
+100314	John Ramorny
+100532	Eviot
+100574	Cheviot
+100627	Eviot
+100657	Dan Bacchus
+100662	John Ramorny
+100747	Eviot
+100805	Eviot
+100862	Prince
+100899	Bonthron
+101029	Prince
+101101	John Ramorny
+101124	Prince
+101130	Eviot
+101164	John
+101238	Ramorny
+101342	John
+101403	Black Quentin
+101458	John of
+101460	Ramorny
+101504	Ramorny
+101617	Ramorny
+101627	Bonthron
+101655	Eviot
+101672	Eviot
+101679	Bonthron
+101722	Prince
+101783	Ramorny
+101805	Bonthron
+101869	Eviot
+101987	Ramorny
+102070	Douglas
+102175	Ramorny
+102211	Ramorny
+102233	Ramorny
+102342	Ramorny
+102414	John Ramorny
+102575	John
+102685	Robert
+102748	Robert
+102760	Robert
+102774	Robert
+102783	Robert
+102835	Ramorny
+102907	John
+102939	Gaskhall
+102945	William Wallace
+102956	Fawdyon
+102961	Wallace
+103055	John Ramorny
+103119	John Ramorny
+103134	John
+103207	Henry of
+103209	the Wynd
+103253	Ramorny
+103305	Ramorny
+103442	Douglas
+103462	Robert
+103503	Robert
+103564	Douglas
+103595	Douglas
+103662	Ramorny
+103665	Robert
+103675	Prince
+103702	Ramorny
+103709	Robert
+103767	John Ramorny
+103793	Ramorny
+103908	Ramorny
+103983	Ramorny
+104036	Ramorny
+104108	Ramorny
+104135	Ramorny
+104144	Ramorny
+104370	Robert
+104385	David
+104387	Duke
+104439	David
+104580	Ramorny
+104711	Ramorny
+104932	Ramorny
+105009	Lindores
+105018	Ramorny
+105131	John of
+105133	Ramorny
+105174	Eviot
+105357	Watkins
+105367	Watkins
+105586	Bonthron
+105659	Bonthron
+105688	Prince
+105716	Errol
+105733	Prince
+105913	Will Watkins
+105936	Watkins
+106027	John Ramorny
+106174	Annabella
+106227	John of
+106229	Ramorny
+106295	Ramorny
+106354	Robert
+106425	BYRON
+106532	Oliver Proudfute
+106561	Anthony Bonthron
+106581	John of
+106583	Ramorny
+106589	Allan Griffin
+106672	Griffin
+106692	Bailie Craigdallie
+106726	Smith
+106954	Douglas
+106966	Robert
+107000	Bruce
+107038	St. Johnston
+107065	Douglas
+107089	Henry Gow
+107123	St. Johnston
+107237	Allan Griffin
+107349	Bailie Craigdallie
+107356	Simon Glover
+107442	St. Johnston
+107458	Henry Gow
+107592	St. Johnston
+107864	Oliver Proudfute
+107887	Henry Gow
+107912	Oliver
+107945	Henry Wynd
+107986	Henry Smith
+107991	Griffin
+108035	Diablos
+108149	Bonthron
+108177	John Ramorny
+108296	Albany
+108379	Robert III
+108411	Judas
+108420	St. John
+108439	Simon Glover
+108443	Dorothy Glover
+108501	Dorothy
+108575	Dorothy
+108627	Dorothy
+108710	Dorothy
+108785	Dorothy
+108864	Conachar
+108905	Simon Glover
+109057	Dorothy
+109194	Harry Smith
+109197	Harry Smith
+109224	Dorothy
+109261	Dorothy
+109290	Catharine
+109330	Dorothy
+109348	Dorothy
+109393	Dorothy
+109402	Dorothy
+109429	Dorothy
+109436	auld Simon
+109440	Harry Smith
+109539	Catharine
+109590	Catharine
+109689	Henry Smith
+109719	Catharine
+109757	Catharine
+109790	Gie
+109836	Catharine
+109911	Dorothy
+109914	Catharine
+109973	Glover
+110047	Catharine
+110090	Dorothy
+110099	Catharine
+110282	Catharine
+110410	Henry
+110418	Conachar
+110524	Catharine Glover
+110644	Henry Smith
+110649	Louise
+110669	Catharine Glover
+110750	Henry
+110771	Catharine Glover
+110870	Henry
+110999	Catharine
+111078	Catharine
+111164	Catharine Glover
+111360	Catharine Glover
+111463	Shoolbred
+111528	Henry
+111599	Henry
+111798	Henry
+111808	Smith
+111810	Gow
+111813	Hal of
+111815	the Wynd
+111856	Henry
+111891	Shoolbred
+111900	Catharine
+111960	Henry
+112020	Henry Wynd
+112103	Henry Gow
+112166	Simon Glover
+112208	Bailie Craigdallie
+112235	Henry Smith
+112254	Oliver
+112369	Maudie Proudfute
+112582	Henry Gow
+112596	Bailie Craigdallie
+112664	Oliver Proudfute
+112683	Henry Smith
+112820	Patrick Charteris
+112993	Smith
+113051	Bailie
+113097	Bailie
+113101	Simon Glover
+113111	Henry Smith
+113208	Simon Glover
+113216	Henry Gow
+113248	Dame Shoolbred
+113306	Catharine
+113382	Henry Smith
+113410	Dame Shoolbred
+113481	John
+113529	Henry Smith
+113643	Dame Shoolbred
+113673	Catharine
+113768	Simon Glover
+113838	Catharine
+113858	Henry
+113880	Henry
+113913	Henry
+113948	Simon
+113980	Dame Shoolbred
+114014	Simon
+114016	-- Simon
+114018	Glover
+114032	Smith
+114058	Catharine
+114063	Dame Shoolbred
+114089	Harry
+114116	Catharine
+114127	Oliver Proudfute
+114136	Henry
+114171	Catharine
+114185	Catharine
+114223	Henry
+114291	Henry
+114375	Anton
+114377	Cuthbert
+114379	Dingwell
+114382	Ringen
+114441	Jannekin
+114469	Glover
+114504	Catharine
+114658	Valentine
+114717	Oliver Proudfute
+114777	Henry
+114917	Henry Wynd
+115016	John
+115083	Henry
+115160	Bailie Craigdallie
+115264	Simon Glover
+115374	Henry Wynd
+115391	Henry
+115398	John
+115427	Catharine
+115537	Henry
+115541	Simon
+115566	Oliver
+115583	Henry
+115666	Henry
+115685	Clement
+115827	Henry
+115852	Henry
+115924	Henry Smith
+115933	Glover
+115951	Oliver
+116104	Simon
+116267	Kinfauns
+116345	Bertha
+116611	Louis Lundin
+116624	St. John
+116682	Dom
+116685	Dan
+116716	Patrick Charteris
+116949	Henry Smith
+116952	Simon Glover
+117060	Henry Smith
+117071	Oliver Proudfute
+117156	Louis Lundin
+117169	Oliver Proudfute
+117196	Simon Glover
+117231	Simon Glover
+117251	Griffin
+117261	Simon
+117289	Oliver Proudfute
+117305	Patrick
+117309	Simon Glover
+117333	Henry Smith
+117350	Smith
+117362	Oliver Proudfute
+117407	Henry Smith
+117440	Griffin
+117477	Patrick
+117669	John Ramorny
+117712	Patrick
+117775	John Ramorny
+117790	Oliver Proudfute
+117803	Wingfield
+117865	Oliver
+117877	John Ramorny
+117898	Henry Smith
+117938	Henry
+118136	Henry
+118159	Patrick
+118325	Oliver Proudfute
+118399	Henry
+118404	Oliver Proudfute
+118423	Oliver
+118459	Patrick Charteris
+118482	Scot
+118486	Angus
+118493	Oliver
+118542	John Ramorny
+118565	Black Quentin
+118571	Tay
+118615	Quentin
+118621	John
+118655	Patrick Charteris
+118731	Henry Gow
+118752	John Ramorny
+118800	Oliver Proudfute
+118837	Henry Smith
+118878	Henry Wynd
+118905	John Ramorny
+118941	Bailie Craigdallie
+118984	John Ramorny
+119017	Henry of
+119019	the Wynd
+119024	John
+119133	Ramorny
+119263	Robert
+119372	Charlemagne
+119378	Arthur
+119384	Gregory the
+119386	Great
+119411	Louis
+119469	Louis Lundin
+119493	St. John
+119524	John Ramorny
+119770	Patrick
+119779	Bruce
+119819	John
+119839	Louis
+120116	Bailie Craigdallie
+120130	Maudie
+120153	Patrick Charteris
+120205	John Ramorny
+120213	Patrick Charteris
+120216	Kinfauns
+120254	Magdalen Proudfute
+120308	Henry Smith
+120400	Clement
+120402	Catharine
+120549	Oliver
+120622	Oliver
+120645	Patrick Charteris
+120770	Magdalen Proudfute
+120796	John Ramorny
+120799	Knight
+120831	Patrick Charteris
+120874	Magdalen Proudfute
+120901	Patrick
+120931	John
+121009	Henry Smith
+121051	Patrick
+121089	Henry Gow
+121093	Smith
+121183	Henry
+121253	Oliver
+121271	Henry
+121298	Henry
+121310	Oliver
+121363	Henry
+121417	Henry the
+121419	Smith
+121490	John
+121526	Patrick Charteris
+121550	Oliver Proudfute
+121610	Patrick
+121645	John Ramorny
+121704	Henry IV
+121724	Robert
+121848	Patrick Charteris
+121864	Robin
+121922	John Ramorny
+122003	Ramorny
+122042	Ramorny
+122086	David
+122110	Ramorny
+122192	Prince
+122203	Ramorny
+122229	Ramorny
+122342	Robin
+122363	Bruce
+122515	Robin
+122597	Robert
+122605	Robert
+122727	Kinfauns
+122809	John Ramorny
+122839	John
+122869	John Ramorny
+122929	David
+123008	John
+123040	Robin
+123106	Robin
+123389	Ramorny
+123509	Robin
+123877	Lindsay
+123882	Crawford
+124022	Robert
+124114	Ramorny
+124131	Robert
+124261	Douglas
+124300	Dunbar
+124336	Ralph Percy
+124362	George
+124408	Prince
+124668	Robert
+124744	Douglas
+124803	Douglas
+124848	Andrew
+124850	David
+125151	Crawford
+125185	Crawford
+125262	Crawford
+125329	Highlandmen
+125354	Crawford
+125386	Lindsay
+125427	Fastern
+125724	Robin
+125891	Ramorny
+126116	Oliver
+126121	Patrick Charteris
+126192	Bailie Craigdallie
+126249	Patrick Charteris
+126253	Magdalen Proudfute
+126279	Robert
+126308	Patrick Charteris
+126340	Patrick
+126361	John Ramorny
+126383	Oliver Proudfute
+126718	John Ramorny
+126803	Lindsay
+126805	Earl of
+126807	Crawford
+126865	John Ramorny
+126923	John Ramorny
+127004	Prince
+127014	John Ramorny
+127094	John Ramorny
+127178	John Ramorny
+127254	John
+127288	Patrick Charteris
+127300	John de
+127302	Ramorny
+127333	Ramorny
+127368	John
+127459	John Ramorny
+127475	Duke
+127534	Prince
+127569	John
+127618	Ramorny
+127647	Crawford
+127703	DUNBAR
+127725	Crawford
+127753	Ramorny
+127773	Henbane Dwining
+127820	Ramorny
+127850	Crawford
+128022	Ramorny
+128097	Dwining
+128349	Henbane Dwining
+128394	Dwining
+128406	Bonthron
+128410	Ramorny
+128462	Dwining
+128466	Bonthron
+128478	Ramorny
+128525	Bonthron
+128678	Ramorny
+128897	Bonthron
+128919	Ramorny
+129045	Arthur
+129049	Huon
+129119	Ramorny
+129179	Dwining
+129254	Keddie
+129310	Dwining
+129347	Ramorny
+129509	Stephen Smotherwell
+129548	Ramorny
+129613	Stephen Smotherwell
+129655	Stephen
+129816	Wallace
+129827	Simon Fraser
+129861	Katie Logie
+129867	Margaret Logie
+129875	David II
+129945	Bonthron
+130035	Ramorny
+130051	Bonthron
+130161	Bonthron
+130257	Dwining
+130307	Ramorny
+130596	Henbane Dwining
+130629	Ramorny
+130699	Ramorny
+130707	Dwining
+130762	Ramorny
+130836	Ramorny
+131233	John Ramorny
+131454	Ramorny
+131711	Dwining
+131761	Bruce
+131764	Donald
+131778	Henbane Dwining
+131938	Oliver Proudfute
+132205	Dwining
+132490	Oliver
+132896	Dwining
+133117	Chaucer
+133175	Dwining
+133312	Smotherwell
+133328	Bonthron
+133349	XXIII
+133471	John
+133573	St. John
+133665	St. John
+133845	Robert
+133961	Earl of
+133963	Crawford
+133987	John Ramorny
+134032	John
+134280	Eviot
+134283	John Ramorny
+134310	Bonthron
+134456	Eviot
+134484	Ramorny
+134534	Oliver Proudfute
+134554	Bonthron
+134556	Bonthron
+134611	Eviot
+134750	Henry Smith
+134805	Bonthron
+134882	Smith
+134963	Crawford
+134966	Patrick Charteris
+135192	Bonthron
+135232	Henry Gow
+135241	Bonthron
+135267	Errol
+135334	Henry
+135429	Henry the
+135431	Smith
+135456	Magdalen Proudfute
+135468	John
+135650	Bonthron
+135707	Ere Bonthron
+135712	Henry
+135802	Harry Smith
+135813	Bonthron
+135816	Henry
+135848	Bonthron
+135873	Oliver Proudfute
+136109	Bonthron
+136132	Bonthron
+136234	John Ramorny
+136286	Duke
+136464	Errol
+136635	Bruce
+136753	Bonthron
+136842	Bruce
+136854	Smith
+136915	Prince
+137003	Prince
+137110	Prince
+137240	MacLouis
+137404	MacLouis
+137432	High Constable
+137506	Earl
+137543	Errol
+137584	Errol
+137778	Bonthron
+138143	High Constable
+138197	Errol
+138378	Patrick Charteris
+138392	Henry
+138432	Catharine Glover
+138441	Simon
+138510	Henry
+138519	Patrick Charteris
+138562	Bailie Craigdallie
+138600	Glover
+138619	Catharine
+138691	Catharine
+138945	William Wallace
+138954	Thomas of
+138956	Longueville
+138962	Seward
+139051	Henry Wynd
+139217	John Ramorny
+139258	Magdalen
+139275	Patrick Charteris
+139292	Henry Wynd
+139383	Oliver
+139449	Bailie Craigdallie
+139575	Henry
+139603	Catharine Glover
+139659	Bonthron
+140200	Bonthron
+140331	Smotherwell
+140396	Bonthron
+140462	Smotherwell
+140549	Henry V
+140733	Bonthron
+140765	Bonthron
+140838	John Ramorny
+141106	Robert Bruce
+141454	Ramorny
+141458	Eviot
+141467	Dwining
+141549	Eviot
+141903	Buncle
+141938	John Ramorny
+142021	Eviot
+142047	Buncle
+142064	Bonthron
+142110	Eviot
+142141	John Ramorny
+142152	Dwining
+142238	Master Buncle
+142248	Douglas
+142260	Buncle
+142298	John Ramorny
+142302	Douglas
+142545	Jack
+142792	Bonthron
+142973	Bonthron
+143087	Bonthron
+143223	Bonthron
+143273	Prince
+143299	Eviot
+143415	Dwining
+143488	Bonthron
+143500	Eviot
+143567	Bonthron
+143618	Bonthron
+143809	Buncle
+143837	Eviot
+143842	Bonthron
+143896	Bonthron
+144142	Greve
+144377	Ramorny
+144466	Catharine
+144533	Henry
+144729	Henry Smith
+144752	Catharine
+144799	Henry Wynd
+144833	Catharine
+144886	Catharine
+145006	Catharine
+145064	Simon Glover
+145179	Henry Smith
+145186	Simon Glover
+145219	Catharine
+145276	Kate
+145306	Catharine
+145329	Clement
+145538	Catharine
+145606	Clement
+145663	Catharine
+145734	Catharine
+145855	Catharine
+145882	Simon Glover
+145914	Simon
+145954	Catharine
+146069	Oliver Proudfute
+146074	Henry of
+146076	the Wynd
+146090	Clement
+146120	Catharine
+146204	Catharine
+146213	Conachar
+146356	Catharine
+146378	Henry Smith
+146564	Catharine
+146625	Catharine
+146675	Catharine
+146728	Father Francis
+146787	Francis
+147048	Martha
+147108	Dominican Francis
+147195	Simon
+147242	Henry Wynd
+147269	John Ramorny
+147280	Prince
+147295	Henry
+147464	Stephen Smotherwell
+147692	Catharine
+147768	Elcho
+147785	Henry
+147808	Catharine
+147936	Henry Smith
+148037	St. John
+148040	Kirk
+148135	Catharine
+148218	Catharine
+148312	Dorothy
+148342	Simon
+148443	Patrick Charteris
+148604	Simon
+148739	Robert
+148762	Henry Wardlaw
+148795	Malcolm Canmore
+148852	Patrick
+148890	Douglas
+149055	Gilchrist MacIan
+149112	Catharine
+149199	Catharine
+149294	Conachar
+149369	Simon
+149512	Henry Wynd
+149649	Catharine
+149747	Patrick
+149778	Catharine
+149900	Simon
+149908	Gilchrist MacIan
+150131	Gilchrist MacIan
+150182	Patrick Charteris
+150243	Gilchrist MacIan
+150266	Clan Chattan
+150426	MacIan
+150616	Gilchrist MacIan
+150729	Gilchrist MacIan
+150800	Conachar
+150935	Catharine
+150974	Catharine
+151045	Patrick
+151113	Catharine
+151169	Catharine
+151208	Catharine
+151233	Simon
+151243	Conachar
+151305	Gilchrist MacIan
+151312	Conachar
+151322	Hector
+151364	Torquil of
+151366	the Oak
+151451	Conachar
+151458	Hector
+151485	Torquil of
+151487	the Oak
+151700	Simon Glover
+151742	Catharine
+151771	Patrick
+151793	Douglas
+151799	Marjory
+151814	Prince
+151927	Pope
+151971	Catharine
+152096	Catharine
+152170	Patrick
+152205	Chattan
+152260	Patrick
+152318	Simon
+152429	Catharine
+152442	Henry Gow
+152476	Patrick
+152563	Catharine
+152655	Patrick Charteris
+152706	Kitt Henshaw
+152796	Pope
+152803	Chaucer
+152818	Simon Glover
+152879	Sutherland
+152897	Mohr
+153014	Badenoch
+153046	Badenoch
+153132	Robert III
+153159	Ross
+153161	Sutherland
+153220	Gilchrist MacIan
+153236	Conachar
+153310	Simon Glover
+153373	Simon
+153399	Gael
+153626	Simon
+153645	Kinfauns
+153684	Niel Booshalloch
+153818	Robert
+153839	Niel Booshalloch
+153860	Simon
+153880	Gilchrist MacIan
+153915	Loch Tay
+153955	Simon Glover
+153987	Tay
+154062	Balloch
+154117	Loch Tay
+154151	Balloch
+154190	Niel Booshalloch
+154211	Simon Glover
+154288	Simon Glover
+154405	Simon
+154489	Simon
+154522	Gilchrist MacIan
+154533	Eachin MacIan
+154565	Simon
+154611	Ben Lawers
+154618	Loch Tay
+154649	Niel
+154653	Simon
+154683	Gilchrist MacIan
+155022	Hector
+155056	Booshalloch
+155109	Glover
+155257	Niel Booshalloch
+155697	Conachar
+155828	Eachin MacIan
+155834	Saxon
+155920	Booshalloch
+156016	Tom an
+156018	Lonach
+156041	Ben Lawers
+156132	Simon Glover
+156309	Simon Glover
+156355	Tom
+156605	Woods
+156698	Ben Lawers
+156708	Ben Mohr
+156795	Loch Tay
+157095	Henry
+157302	Loch Tay
+157410	Simon Glover
+157563	Tom
+157640	Loch Tay
+157649	Loch Earn
+158180	Simon Glover
+158257	Clement
+158323	Clement
+158548	Simon
+158610	Clement
+158741	Hubert
+158757	Vinesauf
+158778	Vinesauf
+158795	Hubert
+158815	Mother Church
+158838	Father Clement
+158875	Clement
+158993	Clement
+159029	Clement
+159203	Simon
+159272	Clement
+159350	Clement Blair
+159373	Simon Glover
+159393	Clement
+159585	Father Clement
+159638	Simon
+159685	Simon
+159703	Clement
+159734	Simon
+159787	Catharine
+159819	Simon Glover
+159906	Clement
+159941	Catharine
+159995	Simon
+160078	Clement Blair
+160498	BYRON
+160871	MacIan
+160886	Eachin
+160901	Gilchrist
+160931	Loch Tay
+161007	Torquil
+161214	Booshalloch
+161221	Simon Glover
+161241	Simon
+161288	Booshalloch
+161304	Niel
+161374	Simon Glover
+161411	Niel Booshalloch
+161492	Loch Tay
+161889	Booshalloch
+162134	Booshalloch
+162141	Simon
+162181	Sassenachs
+162311	Booshalloch
+162336	Eachin
+162406	Simon
+162462	Niel Booshalloch
+162486	Simon
+162505	Henry
+162521	Niel
+162530	Eachin
+162744	Niel
+162985	Torquil of
+162987	the Oak
+163254	Simon Glover
+163328	Simon Glover
+163356	Niel Booshalloch
+163539	Eachin
+163585	St. Barr
+163670	Torquil
+163686	Eachin
+163782	Simon Glover
+164019	Simon Glover
+164023	Booshalloch
+164097	Booshalloch
+164142	Simon Glover
+164293	Simon Glover
+164406	Conachar
+164474	Simon
+164478	Conachar
+164540	Simon
+164558	Eachin MacIan
+164627	Conachar
+164732	Simon
+164855	Eachin
+164859	Simon
+164899	Eachin
+164984	Tay
+165000	Simon
+165017	Bailie Craigdallie
+165078	Eachin
+165101	Clan Chattan
+165131	Glover
+165146	Niel Booshalloch
+165176	Father Clement
+165260	Simon
+165343	Catharine
+165389	Catharine
+165445	Dorothy
+165507	Patrick Charteris
+165539	Patrick Charteris
+165544	Eachin
+165575	Simon Glover
+165601	Patrick Charteris
+165620	Patrick Charteris
+165659	Glover
+165757	Gilchrist MacIan
+165885	Catharine
+165904	Simon Glover
+165925	Eachin
+165932	Catharine
+166038	Catharine
+166092	Conachar
+166096	Simon
+166120	Catharine
+166154	Catharine
+166168	Dorothy
+166179	Conachar
+166214	Clan Quhele
+166259	Eachin
+166281	Simon
+166325	Hector MacIan
+166465	Catharine
+166540	Catharine
+166601	Eachin
+166776	Catharine
+167107	Simon
+167177	Simon
+167227	Simon
+167341	Saxon
+167457	Eachin
+167468	Simon
+167607	Kempe
+167609	Kinfauns
+167619	Patrick
+167636	Tom
+167638	Longueville
+167698	Eachin
+167712	Simon
+167925	Kempe
+168018	St. Andrew
+168057	John Squallit
+168126	Simon Glover
+168131	St. John
+168308	Eachin
+168575	Conachar
+168687	Simon
+168806	Albyn
+168995	Simon
+169127	Catharine
+169143	Eachin
+169147	Catharine
+169188	Catharine
+169217	Gow Chrom
+169314	Eachin
+169478	Conachar
+169482	Simon
+169521	Eachin
+169560	Catharine
+169581	Clement
+169610	Catharine
+169650	Glover
+169736	Catharine
+169766	Catharine
+169788	Henry
+169940	Simon
+169993	Eachin
+170077	Simon Glover
+170103	Hector MacIan
+170154	Conachar
+170183	William Wallace
+170219	Catharine
+170280	Booshalloch
+170314	Simon Glover
+170330	Eachin MacIan
+170342	Simon Glover
+170363	Niel Booshalloch
+170425	Glover
+170444	Simon Glover
+170519	Ballough
+170535	Catharine
+170588	Gilchrist MacIan
+170689	Clement
+170769	Catharine
+170771	Clement
+170849	Catharine
+170852	Henry Wynd
+170897	Eachin
+170912	Henry
+171093	Simon
+171183	Simon
+171223	Simon
+171281	Simon
+171325	Torquil
+171389	Torquil
+171434	Torquil
+171530	Hector
+171536	Simon
+171549	Torquil
+171565	Torquil
+171569	Eachin
+171595	Torquil
+171608	Simon
+171715	Torquil
+171719	Eachin
+171748	Torquil
+171773	Eachin
+171845	Simon Glover
+171893	Torquil
+172082	Eachin
+172104	Torquil
+172151	Torquil
+172225	Simon
+172231	Torquil
+172388	Eva
+172427	Torquil
+172438	Ferquhard
+172497	Clan Chattan
+172519	Eachin
+172542	Torquil
+172589	Torquil
+172660	Simon
+172890	Simon
+172911	Clement
+172985	Father Clement
+173004	Douglas
+173054	Henry of
+173056	Wardlaw
+173096	Patrick Charteris
+173110	Douglas
+173185	Neil Booshalloch
+173211	Simon Glover
+173278	Niel Booshalloch
+173285	Clement
+173325	Niel Booshalloch
+173329	Clement
+173461	Kinfauns
+173472	Simon
+173474	Loch Tay
+173562	John Ramorny
+173636	John
+173662	Join Ramorny
+173670	John
+173831	Dwining
+174008	Eviot
+174035	John
+174073	Dwining
+174228	Errol
+174265	John Ramorny
+174288	Errol
+174319	Errol
+174425	John
+174461	Ramorny
+174491	Errol
+174562	Ramorny
+174589	Bonthron
+174699	Ramorny
+174733	Ramorny
+174770	Black Douglas
+174842	Errol
+174867	Douglas
+174876	Prince
+174956	Ramorny
+175075	Ramorny
+175083	Errol
+175088	Marjory Douglas
+175128	Ramorny
+175151	Douglas
+175203	Douglas
+175243	Ramorny
+175304	Prince
+175311	Duke
+175318	Marjory Douglas
+175442	Catharine Glover
+175507	Ramorny
+175560	Ramorny
+175595	Ramorny
+175629	Douglas
+175668	Ramorny
+175719	Ramorny
+175747	Ramorny
+175778	Ramorny
+175853	Ramorny
+175943	Dwining
+175961	John Ramorny
+176077	Ramorny
+176226	Ramorny
+176271	Ramorny
+176364	Ramorny
+176439	Errol
+176449	Duke
+176453	Ramorny
+176484	Errol
+176721	Prince
+176729	Ramorny
+176739	Eviot
+176748	Tay
+176856	John Ramorny
+176881	Errol
+176920	Lady Marjory
+176923	Douglas
+177003	Kitt Henshaw
+177029	Patrick Charteris
+177066	Catharine
+177216	Duke
+177273	John
+177281	John
+177326	Douglas
+177342	Henshaw
+177365	Marjory
+177371	Patrick Charteris
+177491	Elizabeth
+177493	Dunbar
+177500	Catharine Glover
+177513	Henry
+177561	Henry Smith
+177568	Ramorny
+177578	St. Andrew
+177595	John Ramorny
+177713	Clement
+177757	John
+177877	Catharine
+177898	Ramorny
+177966	Gow Chrom
+178024	Harry Wynd
+178049	Venus
+178058	John Ramorny
+178255	Henshaw
+178259	Ramorny
+178300	Prince
+178316	Louise
+178390	Ramorny
+178401	John
+178467	Louise
+178504	John
+178511	Ramorny
+178541	Louise
+178578	Ramorny
+178610	Henshaw
+178623	Dwining
+178723	John Ramorny
+178732	Henshaw
+178751	Catharine Glover
+178792	Ramorny
+178923	Prince
+179009	Ramorny
+179235	Ramorny
+179292	Ramorny
+179308	John
+179348	Ramorny
+179422	Ramorny
+179442	Ramorny
+179524	Ramorny
+179662	Ramorny
+179669	Dwining
+179740	Ramorny
+179777	Dwining
+179786	Lindores
+179846	Ramorny
+179862	Catharine Glover
+179977	BYRON
+180018	Ramorny
+180068	Ramorny
+180073	Catharine
+180106	Dame Marjory
+180128	Ramorny
+180197	Catharine
+180284	Prince
+180359	Dame Marjory
+180386	John
+180426	Dwining
+180627	Charteris
+180651	Catharine Glover
+180800	Dwining
+180857	Dwining
+180872	Ramorny
+180886	Marjory
+180897	Waltheof
+180905	St. Francis
+180912	Patrick Charteris
+180992	Angus
+181039	Lindores
+181045	Dundermore
+181068	Catharine
+181086	Loch Tay
+181157	Waltheof
+181184	Ramorny
+181193	Charteris
+181290	Catharine
+181295	Henshaw
+181352	Catharine
+181377	Douglas
+181467	Catharine
+181580	Ramorny
+181711	Marjory of
+181713	Douglas
+181753	Ramorny
+181775	Catharine Glover
+181791	Catharine
+181836	Griselda
+181866	Catharine
+181980	Catharine
+182002	David
+182007	Catharine
+182438	Catharine
+182619	Catharine
+182754	Robert Stuart
+182762	Bruce
+182894	Catharine
+183101	Catharine
+183258	Catharine
+183284	Bruce
+183523	Prince
+183542	Duke
+183548	Catharine
+183640	Catharine
+183668	Bruce
+183682	Ramorny
+183768	Ramorny
+183840	Catharine
+183927	Ramorny
+183973	Ramorny
+184059	Ramorny
+184141	Dwining
+184173	John Ramorny
+184176	Dwining
+184245	Dwining
+184412	James
+184436	Ramorny
+184464	Dwining
+184544	Ramorny
+184698	Bonthron
+184716	Ramorny
+184897	Prince
+184992	Bonthron
+185067	Bonthron
+185268	Prince
+185341	Catharine Glover
+185425	Catharine
+185437	Henry Wynd
+185460	Louise
+185480	Catharine
+185576	Almain
+185636	Louise
+185649	Catharine
+185727	Louise
+185742	Catharine
+185868	Catharine
+185919	Louise
+185936	Catharine
+186206	Catharine
+186218	Louise
+186228	Catharine
+186266	Bruce
+186361	Catharine
+186378	Louise
+186477	Catharine
+186533	Catharine
+186589	Catharine
+186612	Catharine Glover
+186699	Louise
+186733	Catharine
+186832	Catharine
+186897	Dalwolsy
+187010	Catharine
+187143	Louise
+187167	Catharine
+187181	Douglas
+187233	Louise
+187263	Prince
+187297	Charlot
+187303	Louise
+187307	Catharine
+187356	Catharine
+187365	Bruce
+187373	Henry
+187377	Catharine
+187527	Catharine
+187561	Catharine
+187593	Bridget
+187660	Catharine
+187682	Catharine
+187850	John Ramorny
+187853	Dwining
+187899	Catharine
+187919	Louise
+187934	Ramorny
+187952	Catharine
+187991	Catharine
+188007	Dwining
+188014	Catharine
+188082	Ramorny
+188104	John
+188108	Catharine
+188149	Ramorny
+188181	Catharine
+188193	Ramorny
+188209	Catharine
+188224	Ramorny
+188233	Dwining
+188309	Catharine
+188368	Catharine
+188628	John Ramorny
+188691	Catharine
+188738	Catharine
+188772	Catharine
+188819	Bonthron
+188835	Catharine
+188869	Catharine
+188917	Ramorny
+188978	Catharine
+188990	Catharine
+188994	Ramorny
+189030	Catharine
+189047	Catharine
+189071	John
+189253	Catharine
+189445	Catharine
+189543	Ramorny
+189642	Bonthron
+189686	Ramorny
+189715	Venit
+189726	Eviot
+189766	Ramorny
+189787	Eviot
+189815	John Ramorny
+189820	Eviot
+189843	Ramorny
+189896	Ramorny
+189952	Douglas
+189981	Ramorny
+189991	Eviot
+189995	Buncle
+190058	Douglas
+190081	Prince
+190116	Ramorny
+190227	Catharine
+190236	Catharine
+190389	Catharine
+190444	Earl of
+190446	Lindores
+190450	God
+190462	Catharine
+190505	Dwining
+190556	Catharine
+190759	Catharine
+190935	Catharine
+190979	Catharine
+191033	Archibald Earl
+191035	of Douglas
+191089	Eviot
+191091	Ramorny
+191168	Dwining
+191209	Catharine
+191319	Earl Douglas
+191340	Ramorny
+191353	Bonthron
+191366	Prince
+191378	Douglas
+191405	Eviot
+191474	Eviot
+191477	Catharine
+191537	Catharine
+191551	Douglas
+191584	Duke
+191673	Louise
+191675	Douglas
+191741	Dwining
+191766	Douglas
+191798	Catharine
+191841	Louise
+191853	Douglas
+191885	Bonthron
+191968	Catharine
+191986	Douglas
+191994	Balveny
+192032	Balveny
+192042	Douglas
+192079	Rutherfords
+192089	Balveny
+192176	Ramorny
+192203	Douglas
+192229	Ramorny
+192237	Earl
+192298	Douglas
+192321	Balveny
+192364	Catharine
+192423	Bonthron
+192432	Ramorny
+192501	Catharine
+192557	Dwining
+192594	Catharine
+192686	Catharine
+192720	Balveny
+192805	Balveny
+192835	Dwining
+192907	Catharine
+192928	Balveny
+192983	Ramorny
+192985	Bonthron
+193011	Ramorny
+193054	Douglas
+193062	Balveny
+193102	Balveny
+193124	John Ramorny
+193171	Balveny
+193176	Douglas
+193325	Douglas
+193376	Catharine Glover
+193426	Douglas
+193454	Balveny
+193581	Percy
+193659	Edwald
+193673	Simon Glover
+193691	Henry Smith
+193790	Dorothy
+193907	Dorothy
+194001	Conachar
+194056	Simon
+194121	Catharine
+194129	Conachar
+194173	Catharine
+194282	Patrick Charteris
+194327	Kitt Henshaw
+194374	Henry
+194380	Catharine
+194384	Henshaw
+194414	Catharine
+194428	Simon
+194446	Patrick
+194459	Henry
+194486	Henry Gow
+194589	Simon
+194616	Bonthron
+194656	Patrick Charteris
+194680	Smith
+194701	Henry
+194755	Henry
+194777	Henry
+194782	Patrick
+194832	Henry
+194843	Simon Glover
+194857	Patrick
+194873	Henry
+194881	Kitt Henshaw
+194896	Catharine Glover
+194923	Catharine
+194946	Gilchrist MacIan
+194955	Eachin
+194967	Simon
+194980	Clan Quhele
+195008	Catharine
+195043	Henry
+195060	Simon Glover
+195068	Henry
+195096	Patrick
+195126	Catharine
+195268	Smith
+195300	Solomon
+195313	Patrick Charteris
+195430	Corrichie Dhu
+195453	Henry
+195731	Henry
+195840	Eachin
+195865	Henry
+195946	Gael
+195992	Henry
+196060	Henry
+196099	Henry
+196132	Gael
+196144	Henry
+196214	Henry
+196236	Gow Chrom
+196303	Henry
+196444	Eachin MacIan
+196490	Gael
+196592	Henry
+196754	Henry
+196768	Eachin MacIan
+196822	Farragon
+196847	Dunter
+196860	Highlandman
+196887	Norman nan
+196889	Ord
+196892	Norman of
+196894	the Hammer
+196914	Henry
+196917	Dunter
+196960	Henry
+196977	Gael
+196995	Henry
+197008	Jannekin
+197012	Sampson
+197023	Sampson
+197051	Norman
+197062	Henry
+197131	Norman
+197214	Norman
+197237	Hammerer
+197246	Gow Chrom
+197271	Henry
+197299	Sampson
+197427	Henry
+197518	Eachin
+197549	Henry
+197590	Clan Chattan
+197612	Henry
+197655	Norman
+197671	Henry
+197780	Catharine
+197865	Henry Smith
+198020	Errol
+198024	Earl of
+198026	Crawford
+198158	Simon Glover
+198187	Eachin MacIan
+198205	Simon
+198209	Henry Wynd
+198274	Earl Douglas
+198430	Earl
+198510	Douglas
+198546	Douglas
+198575	Douglas
+198630	Douglas
+198928	Douglas
+199149	Douglas
+199171	Duke
+199187	James
+199209	Douglas
+199280	James
+199805	Torquil
+199910	Smith
+200072	Henry
+200238	Simon Glover
+200360	Eachin
+200409	Torquil
+200433	Henry
+200558	Henry of
+200560	the Wynd
+200840	MacGillie Chattanach
+200880	Clan Chattan
+201056	MacGillie Chattanach
+201111	Tay
+201248	Arbour
+201496	Errol
+201534	Earl of
+201536	Crawford
+201629	Robert
+201682	Patrick Charteris
+201715	Torquil of
+201717	the Oak
+201792	Eachin MacIan
+201828	Toshach Beg
+201884	Torquil
+201902	Hector
+201921	Eachin
+202055	Torquil
+202155	Clan Chattan
+202219	MacGillis Chattanach
+202319	Clan Chattan
+202360	Clan Chattan
+202441	MacGillis Chattanach
+202569	Henry of
+202571	the Wynd
+202587	Baillie Craigdallie
+202632	Griffin
+202700	Griffin
+202751	Henry of
+202753	the Wynd
+202791	Henry
+202825	Henry
+202845	Henry
+202869	Clan Quhele
+202922	Errol
+202931	St. Mary
+202954	Gilbert Hay
+203102	Oliver Proudfute
+203180	Henry
+203241	Henry
+203478	Henry Smith
+203540	Henry
+203545	Simon Glover
+203565	Harry Smith
+203568	Harry Smith
+203606	Henry
+203746	Eachin MacIan
+203787	Torquil
+203804	Eachin
+203842	Chattan
+203873	Henry Smith
+203891	Eachin
+203920	Henry
+203958	Henry
+204013	Clan Chattan
+204054	Torquil
+204577	Chattan
+204687	Clan Chattan
+204703	Eachin
+204731	Torquil
+204858	Harry Smith
+204939	Henry
+204969	MacGillie Chattanach
+205058	Henry
+205145	MacGillis Chattanach
+205167	Henry
+205208	Eachin
+205219	Henry
+205318	Eachin
+205320	Torquil
+205388	Eachin
+205450	Hector
+205461	Eachin
+205492	Torquil
+205503	Norman
+205535	Norman nan
+205537	Ord
+205560	Torquil
+205601	Saxon
+205654	Torquil
+205666	Hector
+205674	Eachin
+205733	Henry Wynd
+205757	Norman
+205863	Henry
+205910	Henry Wynd
+205960	Norman
+206032	Torquil
+206047	Hector
+206064	Henry
+206098	Saxon
+206137	Henry
+206149	Reist
+206158	Hector
+206177	Hector
+206207	Eachin
+206286	Torquil
+206391	Torquil
+206414	Henry Wynd
+206539	Torquil
+206553	Eachin
+206986	Torquil
+207041	Eachin
+207090	Torquil
+207118	Tormot
+207446	Chattan
+207474	Chattan
+207543	Tormot
+207554	Torquil
+207587	Torquil
+207596	Tormot
+207638	Torquil
+207656	Tormot
+207684	Tormot
+207700	Hector
+207826	Torquil
+207878	Eachin
+207908	Torquil
+207943	Torquil
+207998	Clan Chattan
+208078	Henry Wynd
+208081	Torquil
+208116	Torquil
+208136	Henry
+208169	Hector
+208187	Henry
+208204	Eachin
+208483	Eachin
+208528	Henry
+208614	Henry Wynd
+208635	Black Douglas
+208717	Douglas
+208784	Robert
+208813	Douglas
+208886	Patrick Charteris
+208914	Douglas
+208930	Douglas
+208963	Kinfauns
+208967	Henry
+208986	Simon Glover
+209004	Henry
+209009	Henry
+209041	Henry
+209054	Catharine
+209088	Douglas
+209096	Henry
+209121	Douglas
+209135	Douglas
+209170	Douglas
+209220	Patrick
+209242	Henry Wynd
+209269	Patrick
+209286	Douglas
+209373	Robert
+209520	Eachin
+209602	Chattan
+209666	Douglas
+209701	Douglas
+209898	Robin
+209931	Robin
+210184	David
+210415	Prince
+210475	MacLouis
+210599	Sancta Maria
+210734	MacLouis
+210950	Robert
+211029	MacLouis
+211057	James
+211211	Robert
+211398	James
+211450	Henry IV
+211469	Robert III
+211489	Robert
+211520	Murdoch
+211534	James
+211541	Duke Murdoch
+211624	Douglas
+211653	Campsie
+211747	St. Hunnand
+211791	Drummond
+211797	Douglas
+211817	Catharine
+211823	Campsie
+211880	Catharine Glover
+211922	Marjory
+211979	Catharine
+212035	Catharine
+212124	Catharine Glover
+212400	Catharine
+212459	Douglas
+212504	Catharine
+212533	Catharine
+212567	Louise
+212711	Catharine
+212754	Catharine
+212812	Eachin
+212937	Catharine
+212985	Conachar
+212997	Catharine
+213115	Catharine
+213440	Father Clement
+213476	Conachar
+213606	Simon Glover
+213613	Henry
+213633	Campsie
+213711	Simon
+213718	Henry
+213760	Douglas
+213762	Catharine
+213813	Henry Smith
+213835	Conachar
+213855	Henry
+213879	Catharine
+213937	Catharine
+213951	Catharine
+213973	Henry
+214005	Catharine
+214087	Simon
+214092	Henry
+214094	Catharine
+214155	Louise
+214187	Archibald Erl
+214190	Douglas
+214198	Schir Patrick
+214200	Charteris
+214209	Marjory Dowaire
+214215	David

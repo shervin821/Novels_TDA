@@ -1,0 +1,912 @@
+4989	Richard
+5046	Christ
+5605	Boaz
+6397	Jack
+6966	Stephen Roose
+6968	Hughes
+6983	Hugh Robert
+6985	Hughes
+6990	Alligwy
+7039	Charles Lamb
+7079	Saracen
+7722	Baker
+7789	Baker
+7834	Emily
+7837	Nancy
+7840	Jane
+7985	Bobby
+8157	Baker
+9019	Gamp
+9448	Howbeit
+9751	Bailey
+11549	George
+11563	Paddington
+11569	James
+11664	Solomon
+11730	Baker
+12416	Shakespeare
+14153	Harlequina
+14193	His Majesty
+15629	John
+16032	Crichton
+16385	Christ
+17080	Christ
+17266	Jack
+17274	Jack
+17279	Jack
+17306	Mercantile Jack
+17514	Mercantile Jack
+17540	Jack
+17594	Jack
+17614	Jack
+17973	Jack
+18014	Jack
+18046	Jack
+18148	Jack
+18235	Jack
+18356	Jack
+18437	Sharpeye
+18451	Trampfoot
+18489	Sharpeye
+18495	Superintendent
+18504	Quickear
+18572	Sharpeye
+18582	Jack
+18585	Jack
+18605	Jack
+18633	Jack
+18707	Jack
+18716	Nan
+18724	Jack
+18745	Sharpeye
+18821	Betsy White
+18830	Betsy
+18837	Betsy darlin
+18849	Betsy
+18884	Jack
+18895	Sharpeye
+18947	Pegg
+18963	Pegg
+19013	Sharpeye
+19080	Jackson
+19083	Jackson
+19090	Fogle
+19096	Walker
+19236	Jack
+19246	Jack
+19290	Jack
+19348	Sung
+19367	Banjo Bones
+19389	Banjo Bones
+19417	Jack
+19423	Jack
+19458	Jack
+19488	Jack
+19524	Jack
+19557	Jack
+19560	Jack
+19565	Jack the
+19567	Finn
+19656	Licensed Victualler
+19680	Jack
+19692	Licensed Victualler
+19706	Cocker
+19866	Jack
+19880	Licensed Victualler
+19932	Victualler
+19987	Victualler
+20005	Sharpeye
+20037	Jack
+20055	Victualler
+20074	Trampfoot
+20088	Jack
+20129	Jack
+20163	Jack
+20166	Dark Jack
+20176	Nan
+20192	Jack
+20199	Nan
+20224	Quickear
+20423	Dat
+20507	Hoy
+20509	Hoy
+20637	Jack
+20648	Dark Jack
+20766	Jack
+20836	Jack
+20906	Jack
+21035	Sharpeye
+21044	Quickear
+21058	Meggisson
+21098	Antonio
+21157	Antonio
+21225	Antonio
+21273	Antonio
+21335	Don Quixote
+21448	Law
+21499	Trampfoot
+21555	Antonio
+21603	Jack
+21786	Sharpeye
+21816	Sharpeye
+21878	Sharpeye
+21910	Sharpeye
+22024	Darby
+22043	Sharpeye
+22175	HOGARTH
+22376	Jack
+22523	Trampfoot
+22908	Jack
+22914	Jack
+22928	Jack
+22969	Jack
+23207	Walworth
+23247	Peckham
+23253	Peckham
+23304	Walworth
+23509	RICHARD
+24253	Bogles
+24267	Bogles
+24319	Grazinglands
+24343	Grazinglands
+24346	G.
+24376	G
+24386	Grazinglands
+24405	Grazinglands
+24413	Grazinglands
+24427	Arabella
+24445	Alexander
+24475	Grazinglands
+24655	Grazinglands
+24696	Grazinglands
+24709	Alexander
+24729	Grazinglands
+24806	Jairing
+24816	Jairing
+24835	Grazinglands
+24845	Grazinglands
+24948	Grazinglands
+25084	Grazinglands
+25165	Grazinglands
+25189	Jairing
+25215	Grazinglands
+25252	Jairing
+25267	Jairing
+25276	Grazinglands
+25280	Jairing
+25351	Johnson
+27401	Hill
+27659	Falstaff
+28007	Shakespeare
+28083	Cape Grinez
+28400	Louis
+28439	Louis
+28483	Sterne
+28485	Maria
+28578	Louis
+29792	Rue St.
+29794	Honoré
+29846	Boaxe
+29871	Boaxe
+30547	Monsieur
+30593	Monsieur
+30765	Straudenheim
+30801	Straudenheim
+30825	Straudenheim
+30891	Straudenheim
+30937	Straudenheim
+31091	Straudenheim
+31110	Straudenheim
+31255	Straudenheim
+31334	Straudenheim
+31426	Straudenheim
+31539	Straudenheim
+31656	Straudenheim
+31698	Straudenheim
+32397	Don Quixote
+33173	VIII
+33536	Mercantile Jack
+33560	Pangloss
+33604	HAVELOCK
+33663	Pangloss
+34184	Pangloss
+34312	Pangloss
+34416	Pangloss
+34501	Pangloss
+34563	Pangloss
+34578	Pangloss
+34785	Pangloss
+34818	Pangloss
+34947	Pangloss
+36175	Pangloss
+36287	Pangloss
+36339	Pangloss
+37165	Pangloss
+37179	Pangloss
+37743	Boanerges Boiler
+37872	Boanerges
+38185	GOWER
+38215	MILTON
+38241	Peter
+38387	Whittington
+39042	Jane Comport
+39047	Young Dowgate
+39058	Young Dowgate
+39062	Jane Comport
+39080	Jane
+39084	Young Dowgate
+39583	Anne
+39999	Saint Anthony
+40428	Angelica
+40456	Angelica
+40464	Angelica
+40477	Angelica
+40502	Angelica
+43162	Thomas Sayers
+43171	John Heenan
+43208	Heenan
+43232	Sayers
+43322	Izaak Walton
+44063	Jacob
+45276	Toby
+45282	Toby
+45311	Toby
+45342	Toby
+45363	Toby
+46368	George
+46923	Southcott
+49294	John Anderson
+49314	Anderson
+49316	John
+49356	Anderson
+49377	Anderson
+49406	Anderson
+49436	Anderson
+49461	Upper Dodgington
+49479	John Anderson
+49742	Squire Pouncerby
+49958	Coll
+49960	Cam
+51843	Crispin
+52531	Cheap Jack
+52672	Cheap Jack
+52675	Dear Jill
+52929	Cobby
+52933	Cobby
+53465	Dullborough
+53476	Dullborough
+53782	Timpson
+53790	Timpson
+53987	Regent
+54045	Boles
+54057	Coles
+54061	Boles
+54063	Coles
+54105	Boles
+54115	Coles
+54193	Timpson
+54201	Dullborough
+54207	Timpson
+54212	Timpson
+54244	Timpson
+54291	Timpson
+54315	Pickford
+54320	Timpson
+54324	Pickford
+54329	Timpson
+54345	Timpson
+54373	Pickford
+54421	Pickford
+54460	Pickford
+54512	Pickford
+54520	Dullborough
+54533	Napoleon Bonaparte
+54560	Pickford
+54646	Dullborough
+55587	Richard
+55807	Macbeth
+55827	Duncan
+56286	Dullborough
+56459	Milton
+56464	John Bunyan
+56513	Shakespeare
+57482	Joe Specks
+57502	Joe
+57512	Roderick Random
+57545	Joe
+57616	Joe
+57621	Specks
+57626	Specks
+57635	Specks
+57757	Specks
+57828	Random
+57836	Narcissa
+57876	Lucy Green
+58013	Junior
+58079	Specks
+58133	Dullborough
+58332	Roderick Random
+58391	Dullborough
+59094	Houselessness
+59145	Houselessness
+59553	Wells
+60062	Bailey
+60257	Horace Kinch
+60288	Horace Kinch
+60646	Horace Kinch
+60958	Victoria
+61836	Piazza
+62969	Davy Jones
+63390	Sweeney
+63451	Sweeney
+63473	Sweeney
+63531	Sweeney
+63557	Sweeney
+63766	Lane
+64087	Bacon
+64141	Marius
+64216	Mason
+64274	Parkle
+64300	Miggot
+64433	Parkle
+64497	Miggot
+64550	Miggot
+64617	Miggot
+64789	Gray
+65157	Bickle
+65159	Bush
+65161	Bodger
+65186	Miggot
+65226	Parkle
+65262	Parkle
+65288	Parkle
+65571	Parkle
+65739	Parkle
+65870	H. Parkle
+65880	Parkle
+65895	Parkle
+65941	Anthony
+66154	Buff
+66220	Blindman
+66222	Buff
+66503	Testator
+66506	Testator
+66685	Lyons Inn
+66714	Testator
+66761	Macbeth
+66791	Testator
+66875	Testator
+67041	Lyons
+67229	Testator
+67306	Testator
+67333	Testator
+67456	Testator
+67511	Testator
+67542	Testator
+67634	Testator
+67675	Testator
+67802	Testator
+67910	Testator
+67945	Testator
+67979	Testator
+67999	Testator
+68274	Gray
+68287	Robinson Crusoe
+68543	Bailey
+68546	Clement
+68618	Barnard
+68697	Sweeney
+68744	Sweeney
+68863	Robinson Crusoe
+68900	Will Atkins
+69008	Atkins
+69070	Robinson
+69182	Robinson
+69443	Gil Blas
+69473	Black
+69484	Don Quixote
+69596	Horatio Nelson
+71411	Tom
+71893	Devil
+72103	Devil
+73058	King George
+74300	XVI
+75409	Klem
+75416	Klem
+75507	Klem
+75585	Klem
+75633	Klem
+75643	Klem
+75712	Klem
+75775	Klem
+75852	Klem
+75863	Klem
+75874	Klem
+75905	Klem
+76354	Truefitt
+76381	Atkinson
+76431	Hunt
+76433	Roskell
+77556	Adam
+78558	Beadles
+78703	Klem
+79275	Giovanni Carlavero
+79596	Giovanni Carlavero
+80135	Giovanni Carlavero
+80447	Carlavero
+80641	Giovanni Carlavero
+80720	Carlavero
+81389	Giovanni Carlavero
+82084	Giovanni Carlavero
+82322	Cruikshank
+82845	Piazza
+82890	Signor Mazzini
+83364	Katharine
+83410	Giovanni Carlavero
+83771	Cape Grinez
+84279	Richard
+84416	Davy Jones
+85656	Robinson Crusoe
+85749	Erin
+85784	Erin
+85804	Knight
+86400	Parry
+86527	Monsieur le
+86529	Douanier
+86559	Monsieur l'Officier
+86561	de l'Octroi
+86810	Ding
+86830	Hazebroucke
+86836	Bruxelles
+87377	VAUBAN
+87402	Bebelle
+87445	Hazebroucke
+87501	Richardson
+87594	John
+87818	Cassim Baba
+88480	Monsieur
+88495	Monsieur
+90090	Hôtel de
+90092	Ville
+90988	Beadle
+91035	Beadle
+91061	Beadle
+91112	Norval
+91139	Beadle
+91182	Beadle
+91205	Beadle
+91213	Beadle
+91217	Beadle
+91336	Jurymen
+91476	Beadle
+91744	Beadle
+91976	Wakley
+92466	Bailey
+92572	Beadle
+92576	Beadle
+92977	Olympia Squires
+92985	Olympia
+93028	Olympia Squires
+93102	Olympia
+93221	Olympia
+93373	Olympia
+93441	Olympia
+93521	Sleek of
+93523	the City-Free
+93598	Olympia Squires
+93855	Globson
+94275	Horace Walpole
+94406	Dear Madam
+94511	Onowenever
+95145	Flipfield
+95167	Flipfield
+95250	Flipfield
+95278	Flipfield
+95314	Flipfield
+95352	Flipfield
+95391	Flipfield
+95409	Flipfield
+95447	Flipfield
+95574	Flipfield
+95617	Flipfield
+95662	Flipfield
+95748	Flipfield
+95783	Mont Blanc
+95836	Flipfield
+95847	Tom
+95866	Flipfield
+96102	Flipfield
+96232	Flipfield
+96293	Mayday
+96737	Dullborough
+96782	Dullborough
+96815	Shakespeare
+96824	Shakespeare
+96859	Dullborough
+96928	Shakespeare
+97054	Dullborough
+97117	Dullborough
+97190	Shakespeare
+97281	Paul
+98115	OWEN
+98155	CHADWICK
+98167	Owen
+98240	Chadwick
+98267	BENJAMIN BRODIE
+98271	DAVID WILKIE
+98275	WALTER SCOTT
+98290	Chadwick
+99049	Fifer
+99120	Fifer
+102144	TUFNELL
+102771	George
+102959	Joe Jackson
+103074	Thjack
+103146	Jack
+103947	Amazon
+104683	Uncommercial
+105871	Joe Smith
+106322	Halliday
+106344	Joe Smith
+106703	Jessie Jobson
+106706	Sophronia Jobson
+106709	Jessie Jobson
+106713	Matilda Jobson
+106716	William Jobson
+106719	Jane Jobson
+106722	Matilda Jobson
+106726	Brigham Jobson
+106729	Leonardo Jobson
+106733	Orson Jobson
+106752	JESSIE JOBSON
+106788	Orson Jobson
+106842	Orson Jobson
+106857	Jessie Jobson
+106864	Jessie
+106905	Susannah Cleverly
+106908	William Cleverly
+106938	Susannah Cleverly
+106945	Susannah
+106965	Sampson Dibble
+106968	Dorothy Dibble
+106991	Dibble
+106993	MRS. DIBBLE
+107004	MR. DIBBLE
+107033	Dibble
+107048	Dibble
+107068	Anastatia Weedle
+107080	Garibaldi
+107106	Anastatia
+107119	Jobson
+107140	Jobsons
+107165	Jobsons
+107176	Brigham Jobson
+107962	JOHN TAYLOR
+108383	XXIII
+109185	Hall
+110069	Joseph
+110075	Joseph
+110077	Celia
+110106	Joseph
+110108	Celia
+111252	Dockward
+111337	Whittington
+111710	Garraway
+111789	Garraway
+111848	Garraway
+111934	Glyn
+111939	Smith
+111941	Payne
+111944	Smith
+111952	Garraway
+111968	Garraway
+112319	J. MELLOWS
+112328	J. Mellows
+112390	J. Mellows
+112909	Pitt
+113119	J. Mellows
+113182	Smith
+113699	Cheap Jack
+115551	J. Mellows
+115582	J. Mellows
+115620	Mellows
+115854	Mellows
+115869	Mellows
+116798	Blondin
+117999	Rice
+118079	Hand Bill
+119821	Depôt
+121156	Peto
+121158	Brassey
+121670	Ding
+121674	Dong
+121690	Dong
+121825	Achilles
+122515	Johnson
+122606	Joan
+123097	Nick
+123206	Pagan
+123226	Charon
+124365	Stuart
+124427	Achilles
+124505	Peter
+124761	Monsieur P.
+124763	Salcy
+124794	Monsieur P.
+124796	Salcy
+124804	Maire
+124829	Monsieur P.
+124831	Salcy
+125758	P. Salcy
+125934	P. Salcy
+125942	P. Salcy
+126036	P. Salcy
+126279	Ma Mère
+126294	Marquis
+126310	Julie
+126360	Ma Mère
+127118	Messieurs et
+127120	Mesdames
+127208	Lu lu
+127369	Lu lu
+127555	Monsieur
+127563	Monsieur
+127619	Monsieur
+127698	Monsieur
+127718	Monsieur the
+127720	Ventriloquist
+127735	Monsieur
+127769	Monsieur
+127845	Monsieur Tatambour
+127855	Jerome
+127886	Monsieur
+127892	Monsieur the
+127894	Face-Maker
+128303	Face-Maker
+128310	Face-Maker
+128320	Face-Maker
+128349	Face-Maker
+128728	P. Salcy
+129055	P. Salcy
+129132	Ma Mère
+130742	Kindheart
+130771	Kindheart
+130872	Kindheart
+130937	Kindheart
+130956	Kindheart
+131001	Kindheart
+131076	Kindheart
+131195	Kindheart
+131252	Sally Flanders
+131278	Flanders
+131340	Flanders
+131452	Sally
+131455	Sally
+131469	Flanders
+131515	Flanders
+131523	Flanders
+131745	Flanders
+131769	Flanders
+131819	Flanders
+131825	Flanders
+132030	Flanders
+132162	Sally
+132196	Sally
+132235	Sally
+132247	Sally
+133075	Speaker
+133154	LIVINGSTONE
+134009	XXIX TITBULL
+134078	Jack
+134694	Titbull
+134723	Sampson
+134729	Esquire
+134784	Titbull
+134804	Titbull
+134808	Titbull
+134899	Titbull
+134913	Titbull
+134942	Titbull
+134966	Titbull
+135023	Hogarth
+135524	Battens
+135561	Battens
+135577	Battens
+135909	Battens
+135929	Battens
+135958	Battens
+136062	Saggers
+136072	Saggers
+136086	Quinch
+136123	Quinch
+136144	Saggers
+136156	Battens
+136185	Battens
+136306	Titbull
+136325	Mitts
+136340	Hyson
+136356	Titbull
+136430	Battens
+136462	Mitts
+136473	Battens
+136533	Battens
+136605	Saggers
+136667	Saggers
+136702	Titbull
+136809	Battens
+136922	Titbull
+137101	Titbull
+137157	Titbull
+137163	Saggers
+137182	Titbull
+137256	Saggers
+137310	Titbull
+137394	Titbull
+137484	Titbull
+137607	Herein Titbull
+137612	Titbull
+137660	Titbull
+137671	Titbull
+137857	Charlotte
+137991	Titbull
+138065	Quinch
+138320	Mitts
+138397	Mitts
+138410	Mitts
+138442	Mitts
+138466	Greenwich Pensioner
+138477	Titbull
+138496	Mitts
+138637	Mitts
+138663	Mitts
+138689	Greenwich
+138706	Saggers
+138722	Mitts
+138731	Titbull
+138739	Battens
+138750	Battens
+138802	Mitts
+138827	Titbull
+138872	Mitts
+138878	Greenwich Pensioner
+138887	Chelsea Pensioner
+138928	Mitts
+138936	Titbull
+138942	Battens
+138977	Greenwich Pensioner
+138981	Chelsea Pensioner
+139006	Greenwich Pensioner
+139029	G. Pensioner
+139069	Titbull
+139144	Titbull
+139195	Greenwich Pensioner
+139283	Ruffian
+139590	Ruffian
+139714	Ruffian
+139812	Ruffian
+141241	Arch-Fiend
+141367	Ruffian
+141414	CARLYLE
+141448	Carlyle
+142122	Wolf
+142130	Uncommercial Traveller
+142146	Uncommercial Traveller
+142216	Uncommercial
+142356	Drury Lane
+142961	COOK
+143028	Sterne
+143039	Eugenius
+143060	Eugenius
+143080	Eugenius
+143098	Eliza
+143104	Eugenius
+143110	Annie
+143123	Eugenius
+143712	Rumour
+143895	Joe
+146966	Vigilant
+147859	Ratcliff
+147861	Stepney
+148093	Thisman
+148095	Thatman
+149514	John
+149592	John
+150624	Fitzwilliam
+150629	Victorine
+151271	Thisman
+151656	Raphael
+153118	Ratcliff
+153121	Stepney
+153309	Namelesston
+155306	Indignation Cocker
+155364	Indignation Cocker
+155485	Indignation Cocker
+155492	Indignation Cocker
+155557	Indignation Cocker
+155686	Indignation Cocker
+155753	Indignation Cocker
+155819	Indignation Cocker
+155845	Indignation Cocker
+155895	Indignation Cocker
+155906	Cocker
+155985	Cocker
+156347	Barlow
+156357	Harry Sandford
+156361	Tommy Merton
+156398	Barlow
+156405	Sandford
+156407	Merton
+156485	Barlow
+156502	Barlow
+156519	Barlow
+156559	Barlow
+156597	Barlow
+156707	Barlow
+156980	Barlow
+157027	Barlow
+157040	Barlow
+157099	Barlow
+157105	Barlow
+157155	Barlow
+157189	Barlow
+157198	Barlow
+157241	Harry
+157265	Barlow
+157297	Barlow
+157360	Barlow
+157443	Barlow
+157450	Harry
+157506	Barlow
+157523	Barlow
+157568	Barlow
+157612	Barlow
+157629	Tommy
+157644	Barlow
+157681	Barlow
+157731	Carlyle
+157765	Barlow
+157876	Barlow
+158198	Barlow
+158261	Tommy
+158332	Barlow
+158530	Barlow
+158541	Barlow
+158550	Tommy
+158586	Barlow
+158615	Barlow
+158637	Tommy
+158677	Tommy
+158695	Tommy
+158703	Barlow
+158710	Barlow
+158747	Barlow
+158815	Barlow
+158938	Barlow
+158951	Barlow
+158976	Barlow
+159029	Barlow
+159075	Tommy
+160172	Bailey
+160263	Bailey
+160456	Scott
+163076	Merdle
+163097	Merdle
+163134	Merdle
+163296	Merdle
+163322	Merdle
+164431	Trollope
+164904	Sartor Resartus
+164921	Herr Teufelsdroch
+164939	Garibaldi
+164951	Guy Fawkes
+165112	Hereupon
+165542	Micawber
+165550	Micawber
+165556	Micawber
+165828	Peckham
+165839	Peckham
+165856	Peckham Lifeboat
+165898	Peckham
+165952	Peckham
+165971	Peckham
+166643	Houghton

@@ -1,0 +1,4283 @@
+209	Pierre
+254	Piazza
+289	Diocletian
+491	Pierre
+632	Pierre
+723	Pierre
+811	Pierre
+851	Trajan
+919	Venezia
+954	Pierre
+990	Corso
+1072	M. Zola
+1170	Altieri
+1239	Ara Coeli
+1311	Venezia
+1407	Pierre
+1448	Corso Vittorio
+1450	Emanuele
+1469	Pierre
+1496	Bramante
+1650	Corso Vittorio
+1652	Emanuele
+1698	Pierre
+1895	Pierre
+2090	Garibaldi
+2127	Pierre
+2309	St. Peter
+2403	Pierre
+2466	Pierre
+2594	Pierre
+2640	Campagna
+2656	Pierre
+2718	Pierre
+2792	Pierre
+2848	Lourdes
+3086	Abbe Rose
+3097	Marguerite
+3109	Abbe Rose
+3151	Pierre
+3189	Rue de
+3191	Charonne
+3299	Pierre
+3315	Pierre
+3456	Pierre
+3638	Marguerite
+3649	Faubourg St.
+3651	Antoine
+3914	Pierre
+4329	Pierre
+4367	Pierre
+4456	Pierre
+4730	Pierre
+4871	Pierre
+5023	Pierre
+5172	Jehovah
+5198	Abbe Rose
+5254	Abbe Rose
+5335	Pierre
+5353	Abbe Rose
+5443	Pierre
+5659	Jesus
+5757	Christ
+5815	Lourdes
+5938	Pierre
+5946	Abbe Rose
+5963	Monseigneur Bergerot
+6020	Pierre
+6065	Viscount Philibert
+6067	de la
+6069	Choue
+6115	Viscount
+6286	Pierre
+6365	Viscount
+6394	Pierre
+6617	Lourdes
+6736	Pierre
+6916	Viscount Philibert
+6918	de la
+6920	Choue
+6974	Monseigneur Bergerot
+7112	Pierre
+7194	Pierre
+7224	Pierre
+7264	Lourdes
+7582	Mattei
+7599	Maria Maggiore
+7632	Pierre
+7711	Maria Maggiore
+7764	Pierre
+7793	St. Peter
+7853	Pierre
+7888	Alban
+7898	Roman Campagna
+7940	Cecilia Metella
+8096	Andrea della
+8098	Valle
+8179	Pierre
+8329	Pierre
+8425	St. Peter
+8855	Pierre
+9087	Jesus
+9130	Jesus Himself
+9169	Jesus
+9453	Jesus
+9593	Pierre
+9623	Peter
+9784	Augustus
+9804	Augustus
+10139	Pierre
+10560	Pierre
+10591	Jesus
+10694	Pierre
+10777	Pierre
+10892	Pierre
+11443	Christ
+11811	Pierre
+11923	Ketteler
+11961	Mermillod
+12007	Cardinal Manning
+12385	Viscount Philibert
+12387	de la
+12389	Choue
+12440	Viscount
+12477	Viscount
+12594	Pierre
+13123	Pierre
+13159	Leo XIII
+13164	Pope
+13264	Leo
+13290	Leo
+13299	Pius IX
+13369	Thomas Aquinas
+13517	Leo XIII
+13648	Leo XIII
+13655	Bishop
+14005	Christ
+14031	Jesus
+14053	Leo XIII
+14087	Pierre
+14245	Constantine
+14292	Charlemagne
+14924	Pierre
+14934	Pope Leo
+14936	XIII
+14961	Jesus
+15036	Pierre
+15118	Lourdes
+15238	Pierre
+15358	Christ
+15446	Pierre
+15579	Pierre
+15594	Abbe Rose
+15607	Viscount Philibert
+15609	de la
+15611	Choue
+15633	Bergerot
+15781	Leo XIII
+15802	Pierre
+15880	Lourdes
+16052	Pierre
+16352	Pierre
+16402	Pierre
+16524	Pope Julius
+16526	II
+16553	Corso
+16641	Pierre
+16683	Corso
+16731	Pierre
+16761	Sacchetti
+16769	Antonio da
+16771	Sangallo
+16814	Marcellus
+17037	Pierre
+17087	Bocca
+17090	Alma rossa
+17341	Pierre
+17412	Pierre
+17641	Pierre
+17726	Pierre
+17737	Abbe Pierre
+17739	Froment
+17781	Monsieur l'Abbe
+17850	Pierre
+17854	Viscount Philibert
+17856	de la
+17858	Choue
+17868	Victorine Bosquet
+17931	Ernesta Brandini
+17966	Benedetta
+17980	Victorine
+18044	Monsieur
+18095	Contessina
+18109	Viscount Philibert
+18111	de la
+18113	Choue
+18121	Pierre
+18143	Pio Boccanera
+18160	Donna ''
+18162	Serafina
+18166	Benedetta
+18170	Ernesta
+18176	Count Brandini
+18189	Dario Boccanera
+18196	Onofrio
+18218	Viscount de
+18220	la Choue
+18234	Brandini
+18238	Benedetta
+18257	Brandini
+18277	Benedetta
+18313	Benedetta
+18323	Serafina
+18330	M. de
+18332	la Choue
+18356	Pierre
+18381	Benedetta
+18424	Viscount
+18456	Pierre
+18497	Pierre
+18522	Victorine
+18537	Monsieur l'Abbe
+18656	Giacomo
+18664	Monsieur
+18668	Pierre
+18716	Benedetta
+18747	Victorine
+18828	Pierre
+18832	Victorine
+18986	Donna Serafina
+19072	Monsieur l'Abbe
+19093	Victorine
+19156	Pierre
+19169	Don Vigilio
+19187	Monsieur le
+19189	Vicomte
+19334	Victorine
+19382	Pierre
+19392	Giaccomo
+19435	Victorine
+19481	Pierre
+19527	Giaccomo
+19533	Victorine
+19546	Victorine
+19573	Monsieur l'Abbe
+19624	Contessina
+19649	Pierre
+19706	Monsieur l'Abbe
+19718	Victorine
+19865	Monsieur l'Abbe
+19906	Contessina
+19926	Monsieur l'Abbe
+19975	Pierre
+20060	Boccaneras
+20144	Boccaneras
+20314	Bocca
+20317	Alma rossa
+20368	Onfredo
+20396	Onfredo
+20413	Count Costamagna
+20557	Costamagna
+20574	Onfredo
+20644	Flavio Corradini
+20662	Boccanera
+20673	Ercole
+20714	Ercole
+20732	Flavio
+20904	Boccaneras
+20961	Ascanio
+20976	Corvisieri
+20979	Pio
+20985	Serafina
+21003	Ernesta
+21005	Onofrio
+21014	Ernesta
+21021	Benedetta
+21043	Onofrio
+21048	Prince Dario
+21087	Dario
+21091	Benedetta
+21152	Onofrio
+21177	La Montefiori
+21184	Marchesa Flavia
+21235	Agnese-fuori-le-Mura
+21327	Serafina
+21336	Onofrio
+21340	Pio
+21364	Ernesta
+21371	Onofrio
+21403	Villa Montefiori
+21408	Benedetta
+21425	Benedetta
+21427	Dario
+21481	Ernesta
+21620	Count Brandini
+21668	Ernesta
+21722	Brandini
+21797	Ernesta
+21956	Donna Serafina
+22005	Ernesta
+22012	Benedetta
+22089	Monti
+22092	Benedetta
+22245	Donna Serafina
+22250	Cardinal Pio
+22266	Pope
+22347	Benedetta
+22411	Ernesta
+22457	Benedetta
+22590	Ernesta
+22763	Abbe Pisoni
+22775	Brigida
+22864	Ernesta
+22867	Benedetta
+22902	Benedetta
+22904	Dario
+22934	Ernesta
+22955	Dario
+23195	Benedetta
+23197	Dario
+23205	Count Prada
+23306	Garibaldi
+23377	Prince Onofrio
+23398	Villa Montefiori
+23425	Flavia
+23489	Benedetta
+23523	Flavia
+23546	Ernesta
+23634	Benedetta
+23803	Benedetta
+23862	Leo IV
+23987	Abbe Pisoni
+24056	Benedetta
+24075	Madonna
+24100	Abbe Pisoni
+24154	Donna Serafina
+24174	Benedetta
+24201	Dario
+24260	Prada
+24345	Benedetta
+24398	Prada
+24453	Benedetta
+24513	Dario
+24559	M. George
+24561	Ohnet
+24822	Ernesta
+24881	Donna Serafina
+24897	Abbe Pisoni
+24924	Ernesta
+24977	Benedetta
+25018	Serafina
+25058	Serafina
+25081	Abbe Pisoni
+25099	Lorenza
+25136	Benedetta
+25202	Contessina
+25371	Martinez Campos
+25376	Benedetta
+25383	Consistorial-Advocate Morano
+25496	Benedetta
+25555	Ernesta
+25566	Contessina
+25592	Dario
+25628	Dario
+25656	Onofrio
+25752	Corso
+25787	Flavia
+25833	Jules Laporte
+25859	Marchese Montefiore
+25884	Boccanera
+25904	Cardinal Boccanera
+25915	Dario
+25996	Dario
+26000	Benedetta
+26072	Donna Serafina
+26075	Benedetta
+26084	Dario
+26139	Abbe Pierre
+26141	Froment
+26347	Benedetta
+26352	Viscount Philibert
+26354	de la
+26356	Choue
+26363	Pierre
+26418	Pierre
+26549	Pierre
+26633	Pierre
+26671	Louis Philippe
+26947	Pierre
+27019	Madonna
+27052	Pierre
+27134	Pierre
+27286	Victorine
+27304	Monsieur l'Abbe
+27381	Don Vigilio
+27477	Giaccomo
+27529	Donna Serafina
+27547	Victorine
+27576	Don Vigilio
+27595	Pierre
+27723	Don Vigilio
+27726	Monsieur l'Abbe
+27747	Pierre
+27757	Don Vigilio
+27795	Pierre
+27856	Donna Serafina
+27902	Don Vigilio
+28000	Don Vigilio
+28006	Pierre
+28081	Monsieur l'Abbe
+28083	Pierre Froment
+28100	Pierre
+28104	Benedetta
+28182	Monsieur l'Abbe
+28206	Pierre
+28388	Pierre
+28477	Monsieur l'Abbe
+28500	Monsieur de
+28502	la Choue
+28552	Pierre
+28569	Viscount
+28623	Monsieur
+28641	Pierre
+28808	Benedetta
+28813	Giaccomo
+28824	Don Vigilio
+28848	Monsieur l'Abbe
+28858	Benedetta
+28868	Monsieur l'Abbe
+28870	Pierre Froment
+28976	Brandini
+28985	Ernesta
+29015	Boccaneras
+29139	Pierre
+29226	Viscount
+29250	Monsieur de
+29252	la Choue
+29303	Louis XIV
+29533	Ercole
+29541	Flavio Corradini
+29591	Donna Serafina
+29596	Pierre
+29642	Dario
+29650	Celia Buongiovanni
+29668	Monsignor Nani
+29676	Pierre
+29688	Consistorial-Advocate Morano
+29697	Viscount de
+29699	la Choue
+29719	Morano
+29722	Donna Serafina
+29795	Morano
+29833	Donna Serafina
+29865	Pierre
+29873	Don Vigilio
+29888	Dario
+29902	Celia
+29904	Dario
+29990	Benedetta
+29995	Celia
+30018	Dario
+30038	Dario
+30057	Piazza Navona
+30233	Angelo
+30256	Dario
+30392	Morano
+30430	Benedetta
+30446	Dario
+30747	Morano
+30795	Sacco
+30801	Sacco
+30832	Benedetta
+30840	Pierre
+30870	Pierre
+30892	Dario
+31149	Monsieur
+31168	Monsignor Nani
+31194	Pierre
+31223	Celia
+31230	Pierre
+31251	Nani
+31304	Pierre
+31371	Donna Serafina
+31423	Nani
+31448	Pierre
+31496	Monsieur l'Abbe
+31552	Don Vigilio
+31576	Nani
+31642	Pierre
+31752	Monsignor Nani
+31790	Celia
+31838	Monsignor Nani
+31884	Pierre
+31981	Nani
+32066	Pierre
+32077	Donna Serafina
+32099	Pierre
+32172	Nani
+32241	Benedetta
+32281	Cardinal Boccanera
+32316	Contessina
+32329	Monsieur l'Abbe
+32335	Nani
+32363	Don Vigilio
+32424	Cardinal Sarno
+32464	Pierre
+32528	Pierre
+32566	Sarno
+32585	Seminario Romano
+32769	Nani
+32808	Nani
+32816	Sarno
+32855	Nani
+32894	Pierre
+33037	Pierre
+33055	Charles X
+33074	Celia
+33082	Sarno
+33102	Don Vigilio
+33125	Nani
+33127	Morano
+33131	Donna Serafina
+33155	Benedetta
+33196	Benedetta
+33198	Dario
+33201	Celia
+33224	Pierre
+33232	Benedetta
+33294	Pierre
+33301	Guido Reni
+33310	Beatrice Cenci
+33338	Benedetta
+33403	Dario
+33435	Dario
+33517	Dario
+33547	Benedetta
+33549	Celia
+33557	Pierre
+33586	Matteo Buongiovanni
+33603	Mortimer
+33668	Prince Matteo
+33780	Celia
+33833	Celia
+33886	Attilio Sacco
+33896	Sacco
+33930	Morano
+33936	Celia
+33939	Benedetta
+33954	Attilio
+33988	Benedetta
+34042	Celia
+34047	Attilio
+34085	Pierre
+34196	Benedetta
+34224	Celia
+34238	Attilio
+34262	Pierre
+34306	Donna Serafina
+34329	Don Vigilio
+34344	Pierre
+34361	Celia
+34369	Morano
+34378	Sarno
+34380	Nani
+34408	Benedetta
+34412	Celia
+34420	Pierre
+34486	Pierre
+34488	Don Vigilio
+34534	Nani
+34541	Don Vigilio
+34666	Don Vigilio
+34675	Pierre
+34685	Victorine
+34697	Monsieur l'Abbe
+34822	Pierre
+35028	Donna Serafina
+35032	Morano
+35048	Benedetta
+35054	Monsignor Nani
+35181	Pierre
+35271	Pierre
+35285	Cardinal Boccanera
+35528	Pierre
+35633	Bocca
+35636	Alma rossa
+35760	Pierre
+35762	Don Vigilio
+35805	Don Vigilio
+35848	Pierre
+35898	Pierre
+35962	Raffaelle
+36003	Pierre
+36178	Augustus
+36184	Pierre
+36201	Pio Boccanera
+36261	Pius IX
+36317	Chamberlain
+36328	Leo XIII
+36347	Pius IX
+36369	Leo
+36378	Camerlingo
+36415	Pius
+36424	Pope
+36459	Leo
+36490	Pope
+36497	Pio
+36533	Gioachino Pecci
+36539	Pope
+36552	Pio
+36598	Pierre
+36603	Don Vigilio
+36647	Pierre
+37011	Pierre
+37135	Cardinal Boccanera
+37204	Donna Serafina
+37229	Donna Serafina
+37232	Benedetta
+37258	Dario
+37415	Don Vigilio
+37430	Abbe Paparelli
+37506	Pierre
+37745	Pierre
+37824	Abbe Paparelli
+37835	Pierre
+37844	Don Vigilio
+37858	Monsieur
+37901	Pierre
+37933	Don Vigilio
+37962	Abbe Paparelli
+38014	Don Vigilio
+38041	Pierre
+38204	Pierre
+38431	Maria
+38547	Don Vigilio
+38565	Contessina
+38656	Abbe Paparelli
+38669	Pierre
+38677	Don Vigilio
+38690	Sanguinetti
+38702	Abbe Paparelli
+38749	Sanguinetti
+39056	Pope
+39088	Leo XIII
+39143	Cardinals York
+39146	Howard
+39155	Pierre
+39201	Abbe Paparelli
+39216	Don Vigilio
+39224	Sanguinetti
+39226	Cardinal Boccanera
+39288	Cardinal Boccanera
+39331	Cardinal Sanguinetti
+39397	Don Vigilio
+39421	Pierre
+39452	Don Vigilio
+39495	Pierre
+39575	Don Vigilio
+39651	Abbe Paparelli
+39688	Pierre
+39743	Cardinal Sanguinetti
+39837	Don Vigilio
+39872	Abbe Paparelli
+39887	Pierre
+39900	Pierre Froment
+40001	Pio
+40026	Pope
+40071	Louis Quatorze
+40092	Pierre
+40095	Cardinal Boccanera
+40218	Boccanera
+40302	Pio
+40313	Pierre
+40617	Pierre
+40748	Boccanera
+40751	Pierre
+40974	Benedetta
+41025	Pierre
+41079	Monsieur le
+41081	Vicomte Philibert
+41083	de la
+41085	Choue
+41120	De la
+41122	Choue
+41143	De la
+41145	Choue
+41211	De la
+41213	Choue
+41257	Pierre
+41299	Bergerot
+41316	Boccanera
+41383	Bergerot
+41468	Boccanera
+41488	Pierre
+41524	Jesus
+41588	Pierre
+41900	Pierre
+42119	Pierre
+42205	Boccanera
+42269	Pierre
+42562	Pierre
+42689	Monsieur
+43070	Pierre
+43109	Boccanera
+43116	Abbe Paparelli
+43164	Boccanera
+43171	Santobono
+43192	Paparelli
+43306	Pierre
+43431	Santobono
+43516	Paparelli
+43579	Santobono
+43651	Benedetta
+43858	Santobono
+43880	Boccanera
+43943	Santobono
+43981	Garibaldi
+44080	Santobono
+44107	Sanguinetti
+44143	Boccanera
+44171	Sanguinetti
+44235	Pope
+44262	Sanguinetti
+44267	Santobono
+44309	Santobono
+44370	Agostino
+44486	Agostino
+44523	Agostino
+44572	Agostino
+44632	Boccanera
+44725	Santobono
+44822	Agostino
+44937	Sanguinetti
+45012	Santobono
+45027	Pierre
+45250	Santobono
+45358	Goldsmith
+45400	Santobono
+45406	Cardinal
+45409	Pierre
+45427	Monsieur l'Abbe
+45432	Boccanera
+45482	Cardinal Sanguinetti
+45656	Boccanera
+45755	Pierre
+45801	Boccanera
+45941	Pierre
+45980	Don Vigilio
+46020	Monsieur
+46027	Pierre
+46040	Monsieur Narcisse
+46042	Habert
+46092	Narcisse Habert
+46136	Catholics
+46189	Cardinal Sarno
+46213	Gamba del
+46215	Zoppo
+46337	Pierre
+46388	Bergerot
+46480	Botticelli
+46510	Pierre
+46577	Narcisse
+46590	Francis
+46602	Pierre
+46727	Pierre
+46765	Narcisse
+46815	Cardinal
+46849	Monsignor Gamba
+46851	del Zoppo
+46940	Pierre
+47012	Cardinal Boccanera
+47035	Cardinal Sanguinetti
+47051	Narcisse
+47068	Pierre
+47079	Sanguinetti
+47096	Pope
+47143	Boccanera
+47191	Sanguinetti
+47339	Pope
+47353	Boccanera
+47355	Sanguinetti
+47454	Pierre
+47456	Narcisse
+47461	Nani
+47484	Nani
+47526	Abbe Paparelli
+47559	Nani
+47563	Narcisse
+47587	Nani
+47613	Nani
+47754	Nani
+47796	Nani
+47840	Monsignor Nani
+47845	Narcisse
+48066	Nani
+48179	Pierre
+48189	Nani
+48252	Nani
+48271	Monsieur l'Abbe
+48273	Froment
+48304	Monsieur Habert
+48322	Bernini
+48352	Monsieur l'Abbe
+48356	Monsieur Habert
+48388	Theresa
+48413	Maria della
+48415	Vittoria
+48434	Pierre
+48470	Pierre
+48485	Nani
+48502	Cardinal Sanguinetti
+48570	Sanguinetti
+48782	Nani
+48790	Pierre
+48878	Pierre
+49043	Nani
+49160	Pierre
+49236	Narcisse
+49241	Pierre
+49247	Nani
+49368	Pierre
+49372	Narcisse
+49448	Pierre
+49471	Nani
+49510	Gamba
+49512	Gamba
+49531	Gamba
+49588	Gamba del
+49590	Zoppo
+49651	Gamba
+49718	Nani
+49728	Gamba
+49756	Nani
+49857	Nani
+49911	Nani
+49981	Pierre
+50000	Mon Dieu
+50026	Nani
+50372	Cardinal Bergerot
+50404	Pierre
+50494	Abbe Paparelli
+50498	Pierre
+50514	Monsignor Nani
+50570	Narcisse Habert
+50587	Pierre
+50663	Don Vigilio
+50708	Pierre
+50891	Pierre
+51029	Pierre
+51071	Pierre
+51093	Bergerot
+51106	Pierre
+51123	Cardinal Boccanera
+51137	Monsignor Nani
+51313	Nani
+51419	Don Vigilio
+51430	Pierre
+51498	Don Vigilio
+51502	Nani
+51506	Pierre
+51565	Pierre
+51615	Abbe Paparelli
+51714	Pierre
+51771	Orlando Prada
+51930	Benedetta
+52019	Pierre
+52034	Viscount Philibert
+52036	de la
+52038	Choue
+52075	Benedetta
+52083	Monsieur l'Abbe
+52270	Pierre
+52337	Orlando Prada
+52638	Pius IX
+52722	Mazzini
+52811	Christ
+52834	Giuseppe Garibaldi
+52864	Garibaldi
+52923	Oudinot
+52944	Garibaldi
+52951	Manin
+52980	Garibaldi
+53024	Anita
+53123	Gaeta
+53188	Luigi
+53268	Count di
+53270	Cavour
+53307	Victor Emmanuel
+53413	Pope
+53416	Mazzini
+53568	Venetia
+53642	Garibaldi
+53822	Garibaldi
+53837	Garibaldi
+53860	Lamoriciere
+53874	Orlando
+53932	Aspromonte
+53946	Garibaldi
+53982	M. Zola
+53990	Garibaldi
+54005	Frank Vizetelly
+54031	Garibaldi
+54051	Caprera
+54061	Edward Vizetelly
+54114	Victor Emmanuel
+54199	Venetia
+54221	Victor Emmanuel
+54275	Garibaldi
+54431	Campagna
+54448	Victor Emmanuel
+54468	Kanzler
+54644	Garibaldi
+54647	Garibaldi
+54661	Mazzini
+54696	Luigi
+54822	Luigi
+55214	Luigi
+55269	Luigi
+55323	Luigi
+55400	Luigi
+55437	Pierre
+55529	Pierre
+55596	Villa Bonaparte
+55629	Victor Emmanuel
+55642	Pierre
+55841	Pierre
+55899	Orlando Prada
+55942	Pierre
+56148	Pierre
+56307	Orlando
+56325	Batista
+56339	Pierre
+56369	Monsieur Froment
+56607	Pierre
+56681	Monsieur Froment
+56797	Pope
+56909	Humbert
+56946	Pierre
+57101	Mazzini
+57337	Mazzini
+57375	Christ
+57397	Mazzini
+57573	Pierre
+57832	Pierre
+58075	Pierre
+58190	Pope
+58272	Pierre
+59239	Pierre
+59331	Pierre
+59394	Pierre
+59440	Pierre
+59534	Stefana
+59572	Signora Sacco
+59593	Pagani
+59608	Stefana
+59611	Sacco
+59769	Sacco
+59843	Signora
+59891	Sacco
+59901	Sacco
+59992	Sacco
+60018	Luigi
+60033	Luigi
+60050	Sacco
+60057	Sacco
+60166	Stefana
+60221	Sacco
+60248	Sacco
+60418	Stefana
+60430	Pierre
+60491	Attilio
+60510	Celia
+60515	Buongiovanni
+60532	Attilio
+60604	Attilio
+60867	Stefana
+60940	Sacco
+61075	Pierre
+61129	Benedetta
+61186	Luigi
+61224	Orlando
+61300	Benedetta
+61426	Benedetta
+61432	Luigi
+61452	Dario
+61559	Benedetta
+61651	Pierre
+61710	Luigi Prada
+61874	Luigi
+61898	Pierre
+61965	Luigi Prada
+62103	Pierre
+62266	Pierre
+62271	Monsieur l'Abbe
+62273	Pierre Froment
+62301	Luigi Prada
+62481	Pierre
+62508	Villa Montefiori
+62651	Luigi
+62733	Sacco
+62798	Stefana
+62805	Sacco
+62864	Palazzo Boccanera
+62870	Pierre
+62885	Count Luigi
+62931	Benedetta
+62996	Flavia
+63001	Benedetta
+63129	Monsieur l'Abbe
+63220	Dario
+63248	Luigi
+63338	Benedetta
+63428	Benedetta
+63431	Morano
+63457	Luigi
+63491	Lisbeth
+63530	Lisbeth Kauffmann
+63617	Principe Amadeo
+63672	Lisbeth
+63716	Prada
+63736	Lisbeth
+63802	Prada
+63817	Lisbeth
+63838	Benedetta
+63864	Pierre
+63869	Lisbeth
+64013	M. Zola
+64061	Theophile Morin
+64211	Luigi Prada
+64560	Cardinal Boccanera
+64718	Luigi
+64849	Pierre
+65060	Monsieur
+65068	Prince Dario
+65070	Boccanera
+65156	Monsieur l'Abbe
+65158	Froment
+65164	Prince
+65185	Benedetta
+65237	Pierre
+65301	Dario
+65367	Piazza di
+65369	Venezia
+65373	Corso
+65432	Pierre
+65452	Piazza del
+65454	Popolo
+65485	Corso
+65563	Dario
+65571	Bonaparte
+65573	Doria
+65575	Odescalchi
+65577	Sciarra
+65580	Chigi
+65589	Marcus Aurelius
+65593	Piazza Colonna
+65623	Piazza del
+65625	Popolo
+65656	Monti
+65682	Pierre
+65716	Piazza Colonna
+65731	Monti
+65757	Piazza
+65759	Venezia
+65787	Dario
+65865	Corso
+65938	Pierre
+65945	Corso
+66040	Corso
+66084	Dario
+66098	Pierre
+66155	Pierre
+66212	Dario
+66247	Attilio
+66255	Sacco
+66265	Pierre
+66276	Attilio
+66347	Dario
+66425	Corso
+66527	Corso
+66604	Celia
+66614	Attilio
+66901	Celia
+66935	Dario
+66937	Pierre
+66948	Attilio
+66975	Pierre
+66983	Celia
+67027	Attilio
+67056	Dario
+67073	Pierre
+67078	Attilio
+67141	Dario
+67158	Corso
+67284	Pierre
+67338	Pierre
+67399	Dario
+67417	Pierre
+67486	Dario
+67501	Prince
+67510	La Tonietta
+67550	Dario
+67555	La Tonietta
+67624	Marquis Manfredi
+67655	Corso
+67722	Dario
+67766	Pierre
+67772	Viscount de
+67774	la Choue
+67785	Prince Onofrio
+67787	Boccanera
+67838	Pierre
+67848	Jules Laporte
+67880	Laporte
+67887	Marquis Montefiori
+67927	Pierre
+67984	Marquis
+68131	Dario
+68253	Peter
+68495	Pierre
+68735	Borgo
+68836	Pierre
+68855	Boccanera
+68947	Narcisse Habert
+68955	Pierre
+68957	Monsignor Gamba
+68959	del Zoppo
+68989	Pierre
+69017	Nani
+69101	Pierre
+69183	Monsieur l'Abbe
+69199	Monsieur l'Abbe
+69255	Pierre
+69361	Tiberius
+69426	Romulus
+69428	Remus
+69447	Pierre
+69518	Pierre
+69726	Pierre
+69989	Septimius Severus
+69994	Pierre
+70143	Pierre
+70178	Severus
+70198	Campagna
+70455	Pierre
+70529	Monsieur l'Abbe
+70591	Pierre
+70937	Vespasian
+70941	Domitian
+70966	Pierre
+71016	Domitian
+71026	Caligula
+71139	Evander
+71157	Romulus
+71172	Monsieur
+71231	Caligula
+71296	Caligula
+71337	Cassius Chaereas
+71445	Pierre
+71526	Pierre
+71573	Monsieur l'Abbe
+71588	Caligula
+71595	Pierre
+71772	Pierre
+71938	Caffarelli
+72163	Pierre
+72280	Basilica Julia
+72301	Septimius Severus
+72316	Vespasian
+72362	Phocas
+72408	Pollux
+72447	Romulus
+72586	Sylla
+72598	Cicero
+72788	Pierre
+72863	Constantine
+73312	Pierre
+73381	Alba Longa
+73433	Pierre
+73598	Romulus
+73715	Caesar
+73727	Gaul
+73730	Pharsalia
+73771	Augustus
+73821	Augustus
+73987	Augustus
+74075	Octavius
+74084	Augustus
+74434	Augustus
+74538	Augustus
+74550	Pierre
+74644	Tiberius
+74680	Jove
+74710	Claudius
+74712	Nero
+74775	Otho
+74778	Vitellius
+74829	Vespasian
+74844	Domitian
+74898	Domitian
+74907	Tiberius
+75013	Septimius Severus
+75096	Pierre
+75626	Romulus Augustulus
+75832	Septimius Severus
+75851	Gelasius II
+75868	Augustus
+75931	Constantine
+76124	Domitian
+76137	Pierre
+76439	Marcellus
+76473	Pierre
+76568	Via Giulia
+76611	Appian Way
+76624	Campagna
+76640	Pierre
+76764	Caecilia Metella
+76769	Casale Rotondo
+76830	Campo Santo
+76885	Caecilia Metella
+77036	Sextius Pompeius
+77038	Justus
+77042	Marcus Servilius
+77044	Quartus
+77046	Hilarius Fuscus
+77049	Rabirius Hermodorus
+77137	Messalla Corvinus
+77148	Augustus
+77150	Horace
+77159	Aurelius Messallinus
+77161	Cotta
+77166	Pierre
+77179	Caecilia Metella
+77191	Casale Rotondo
+77277	Campagna
+77367	Albano
+77476	Pierre
+77885	Pierre
+77983	Cardinal Boccanera
+78030	Pierre
+78094	Pierre
+78173	Pierre
+78200	Campagna
+78324	Cardinal Boccanera
+78361	Pierre
+78457	Pierre
+78554	Monsieur l'Abbe
+78561	Pierre
+78713	Pierre
+79328	Pierre
+79580	Jesus Christ
+79710	Sixtus II
+79730	Pope Damasus
+79763	Cecilia
+79803	Lazarus
+79809	Jonas
+79816	Daniel
+79823	Moses
+79831	Christ
+79888	Pierre
+80297	Pierre
+80823	Pierre
+81097	Augustus
+81155	Diocletian
+81336	Jesus Christ
+81355	Pierre
+81382	Bernini
+81455	Pierre
+81495	Capella Clementina
+81501	Pierre
+81641	St. Peter
+81692	Bernini
+81852	Pierre
+81946	Pierre
+82033	Pierre
+82098	Pierre
+82104	Capella Clementina
+82219	Pierre
+82331	Pierre
+82466	Pierre
+82643	Pierre
+83241	Pierre
+83371	Faustina
+83534	Agnes
+83569	Serapis
+83590	Santa Maria
+83592	Maggiore
+83598	Juno Lucina
+83634	Jove
+83679	Basilica
+84489	Jesus
+84541	Pierre
+84591	Campagna
+84950	Paul III
+84991	Gregory XIII
+85004	Alexander VII
+85026	Clement XIII
+85114	Pierre
+85232	Caesars
+85242	Augustus
+85264	Augustus
+85412	Monsignor Nani
+85475	Abbe Pisoni
+85478	Benedetta
+85492	Donna Serafina
+85511	Nani
+85549	Don Vigilio
+85563	Cardinal Pio
+85576	Pierre
+85626	Pierre
+85632	Victorine Bosquet
+85744	Benedetta
+85795	Victorine
+85817	Morano
+85868	Monsignor Palma
+85882	Benedetta
+85938	Benedetta
+86067	Monsignor Palma
+86106	Contessina
+86110	Victorine
+86139	Monsignor Palma
+86182	Abbe Pisoni
+86216	Countess Ernesta
+86318	Contessina
+86324	Dario
+86368	Dieu
+86393	Pierre
+86466	Donna Serafina
+86470	Morano
+86490	Lorenza
+86524	Morano
+86564	Donna Serafina
+86626	Pierre
+86638	Louis XIV
+86659	Benedetta
+86661	Celia
+86671	Dario
+86674	Cardinal Sarno
+86708	Donna Serafina
+86744	Morano
+86760	Pierre
+86833	Pierre
+86861	Monsignor Nani
+86867	Donna Serafina
+86879	Nani
+86949	Donna Serafina
+87093	Dario
+87154	Pierre
+87184	Celia
+87222	Benedetta
+87233	Monsignor Palma
+87263	Dario
+87349	Pierre
+87358	Benedetta
+87445	Celia
+87524	Sarno
+87612	Donna Serafina
+87639	Monsignor Nani
+87681	Narcisse Habert
+87700	Cardinal Sarno
+87767	Pierre
+87802	Monsignor Gamba
+87804	del Zoppo
+87862	Pierre
+87906	Narcisse
+87912	Dario
+87916	Benedetta
+87918	Celia
+87924	Cardinal
+88043	Narcisse
+88046	Pierre
+88083	Pierre
+88096	Piazza
+88117	Bernini
+88285	Pierre
+88421	Pierre
+88546	Jesus
+88599	Pierre
+88609	Monsignor Nani
+88646	Pierre
+88656	Monsieur Habert
+88667	Monsignor Gamba
+88669	del Zoppo
+88687	Nani
+88758	Gamba
+88831	Pierre
+88954	Monsignor Nani
+89037	Leo XIII
+89078	Jesus
+89095	Pierre
+89103	Nani
+89156	Nani
+89165	Pierre
+89246	Nani
+89266	Pierre
+89435	Pierre
+89629	Pierre
+89633	Narcisse Habert
+89676	Michael Angelo
+89718	Botticelli
+89735	Pierre
+89762	Michael Angelo
+89886	Pierre
+89888	Michael Angelo
+90042	Pierre
+90307	Pierre
+90356	Jehovah
+90388	Adam
+90395	Jehovah
+90607	Jeremiah
+90674	Isaiah
+90731	Jonah
+90961	Jesus
+91061	Pierre
+91071	Michael Angelo
+91099	Roselli
+91101	Signorelli
+91104	Botticelli
+91125	Narcisse
+91161	Botticelli
+91166	Botticelli
+91221	Pierre
+91283	Moses
+91288	Jethro
+91342	Botticelli
+91491	Botticelli
+91639	Pierre
+91650	Narcisse
+91684	Botticelli
+91712	Michael Angelo
+91717	Narcisse
+91859	Narcisse
+91888	Michael Angelo
+91971	Pierre
+92006	Michael Angelo
+92099	Michael Angelo
+92123	Narcisse
+92239	Pierre
+92330	Corneille
+92332	Lamartine
+92388	Michael Angelo
+92469	Pierre
+92525	Raffaelle
+92556	Pope St.
+92558	Leo
+92560	Attila
+92588	Michael Angelo
+92652	Narcisse
+92654	Pierre
+92686	Raffaelle
+92701	Pierre
+92750	Pierre
+92857	Pope
+92928	Pierre
+92977	Pierre
+93005	Narcisse
+93029	Gamba del
+93031	Zoppo
+93060	Narcisse
+93097	Habert
+93186	Pierre
+93269	Piazza della
+93271	Sagrestia
+93392	Zecca
+93493	Narcisse
+93495	Pierre
+93557	Pierre
+93674	Venus
+93950	Byron
+93971	Narcisse
+93973	Pierre
+94082	Narcisse
+94094	Monsignor Gamba
+94294	Leo X
+94362	Venus
+94375	Nicholas V
+94404	Fra Angelico
+94407	Perugino
+94409	Botticelli
+94421	Michael Angelo
+94424	Raffaelle
+94444	Caravaggio
+94471	Bernini
+94475	Bernini
+94600	Bernini
+94604	Bernini
+94608	Narcisse
+94643	Bramante
+94659	Michael Angelo
+94662	Raffaelle
+94673	Bernini
+94677	Bernini
+94759	Daphne
+94761	Bernini
+94776	Santa Teresa
+94789	Santa Teresa
+94876	Aeneas
+94908	Narcisse
+94915	Pierre
+95038	Michael Angelo
+95041	Raffaelle
+95078	Jehovah
+95086	Raffaelle
+95107	Pierre
+95162	Narcisse
+95180	Leo XIII
+95586	Leo XIII
+95602	Narcisse
+95737	Narcisse
+95742	Pierre
+95794	Paul II
+95819	Julius II
+95822	Leo X
+95919	Christ
+95961	Pierre
+95975	Pius IX
+96024	Corso
+96094	Piazza del
+96096	Popolo
+96109	Leo XIII
+96166	Pope
+96176	Pope
+96241	Michael Angelo
+96244	Raffaelle
+96398	Bacchus
+96502	Michael Angelo
+96567	Peter
+96590	Venus
+96640	Narcisse
+96702	Narcisse
+96704	Pierre
+96758	Pierre
+96767	Monsignor Gamba
+96769	del Zoppo
+96784	Narcisse
+96894	Sant
+96896	Angelo
+97002	Giovanni Vesanzio
+97011	Pius IV
+97087	Narcisse
+97089	Pierre
+97173	Leo IV
+97200	Narcisse
+97213	Pierre
+97418	Leo XIII
+97465	Pierre
+97564	Leo XIII
+97651	Pierre
+97746	Narcisse
+97756	Pius IX
+97767	Lourdes
+97780	Leo XIII
+97793	Pierre
+97928	Pierre
+97977	Pius IX
+98174	Narcisse
+98199	Monsignor Gamba
+98201	del Zoppo
+98265	Gamba
+98287	Leo XIII
+98471	Narcisse
+98549	Pierre
+98669	Gamba del
+98671	Zoppo
+98711	Leo XIII
+98722	Pierre
+98827	Pope
+98977	Narcisse
+99000	Leo XIII
+99069	Pierre
+99080	Piazza
+99082	St. Peter
+99454	Jupiter Capitolinus
+99517	Michael Angelo
+99520	Raffaelle
+99546	Piazza
+99566	Narcisse
+99624	Pierre
+99671	M. de
+99673	la Choue
+99682	Benedetta
+99712	Victorine
+99731	Pierre
+99837	Pierre
+99881	Dario
+99921	Benedetta
+100060	Dario
+100076	Pierre
+100132	Benedetta
+100148	Pierre
+100174	Monsieur l'Abbe
+100232	Victorine
+100257	Contessina
+100260	Victorine
+100281	Dario
+100304	Pierre
+100312	Monsieur l'Abbe
+100337	Dario
+100524	Monsieur l'Abbe
+100586	Dario
+100703	Dario
+100757	Pierre
+100793	Dario
+100973	Benedetta
+100993	Pierre
+101151	Pierre
+101159	Benedetta
+101187	Benedetta
+101242	Madonna
+101303	Dario
+101315	Virgin
+101481	Dario
+101577	Pierre
+101692	Pierre
+101758	Ercole
+101765	Flavio
+101777	Benedetta
+101781	Pierre
+101793	Monsieur l'Abbe
+101859	Pierre
+102046	Count Prada
+102127	Benedetta
+102223	Benedetta
+102234	Pierre
+102282	Monsieur
+102290	Dario
+102433	Pierre
+102448	Victorine
+102591	Benedetta
+102653	Pierre
+102676	Benedetta
+102747	Venus
+102749	Hercules
+102816	Pierre
+102844	Monsignor Nani
+102927	Nani
+102971	Pierre
+103053	Peter
+103123	Pierre
+103245	Nani
+103281	Gamba del
+103283	Zoppo
+103387	Nani
+103389	Pierre
+103434	Pierre
+103438	Viscount Philibert
+103440	de la
+103442	Choue
+103460	Peter
+103466	Viscount
+103518	Baron de
+103520	Fouras
+103536	M. de
+103538	la Choue
+103566	Viscount
+103598	Pierre
+103765	Viscount
+103839	Pierre
+103935	Sala Ducale
+103940	Pierre
+104146	Pierre
+104311	Baron de
+104313	Fouras
+104479	Pierre
+104482	Nani
+104536	Nani
+104637	Pierre
+104679	Cardinal Boccanera
+104707	Cardinal Sanguinetti
+104727	Baron de
+104729	Fouras
+104732	Nani
+104948	Camerieri
+105061	Pierre
+105106	Leo XIII
+105160	Baron de
+105162	Fouras
+105362	Leo XIII
+105603	Pierre
+105606	Leo XIII
+105851	Pierre
+105946	Peter
+106166	Baron de
+106168	Fouras
+106211	Pierre
+106227	Lourdes
+106253	Lourdes
+106265	Leo XIII
+106268	Pierre
+106298	Pope
+106318	Nani
+106353	Nani
+106409	Lourdes
+106416	Bernadette
+106436	Pierre
+106628	Leo XIII
+106828	Leo XIII
+107128	Pierre
+107155	Nani
+107207	Nani
+107246	Pierre
+107306	Pierre
+107325	Narcisse Habert
+107393	Giotto
+107455	Pierre
+107459	Nani
+107461	Narcisse
+107494	Pope
+107542	Pierre
+107694	Peter
+107715	Peter
+108007	Pierre
+108034	Lourdes
+108136	Piazza
+108138	St. Peter
+108144	Narcisse
+108146	Monsignor Nani
+108272	Pierre
+108313	Leo XIII
+108386	Narcisse
+108389	Nani
+108522	Pierre
+108545	Narcisse
+108672	Peter
+108688	Leo XIII
+108808	Narcisse
+108814	Nani
+108856	Pierre
+108899	Monsieur Habert
+109085	Pope
+109124	Pius IX
+109140	Leo XIII
+109271	Leo XIII
+109434	Pierre
+109439	Nani
+109465	Monsieur Habert
+109526	Pius IX
+109653	Peter
+109759	Pierre
+109781	Peter
+109940	Narcisse
+109946	Nani
+110177	Pierre
+110334	Leo XIII
+110470	Pierre
+110489	Leo XIII
+110566	Monsignor Nani
+110597	Cardinal Mocenni
+110742	Nani
+110773	Monsieur Habert
+110786	Monsieur Habert
+110789	Monsieur Habert
+110843	Narcisse
+110947	Nani
+110951	Pierre
+111050	Pierre
+111052	Nani
+111078	Narcisse
+111106	Nani
+111144	Pierre
+111309	Pierre
+111393	Pierre
+111565	Pierre
+111678	Pierre
+111773	St. Peter
+112055	Pierre
+112161	Benedetta
+112163	Donna Serafina
+112223	Pierre
+112579	men
+113196	Leo XIII
+113200	Pierre
+113470	Pierre
+113490	Nani
+113828	Bernini
+114026	Leo XIII
+114458	Pierre
+114620	Pierre
+114696	Pierre
+114822	Pierre
+114906	Pierre
+114995	Pierre
+115069	Pierre
+115240	Peter
+115434	Pope
+115468	Leo
+115479	Pierre
+115522	Roman Campagna
+115634	Pierre
+115770	Pierre
+115941	Septimius Severus
+116055	Sant
+116103	Sant
+116105	Andrea della
+116107	Valle
+116136	Pierre
+116215	Pierre
+116385	Augustus
+116422	Septimius Severus
+116608	Christ
+116726	Pierre
+116779	Pius IX
+116782	Leo XIII
+116874	Leo XIII
+117033	Civitas Leonina
+117115	Christ
+117257	Pierre
+117366	Pierre
+117555	Christ
+117589	Monseigneur Bergerot
+117690	Pierre
+117945	Pierre
+118060	Peter
+118067	Leo XIII
+118155	Pierre
+118287	Nani
+118375	Pierre
+118441	VIII
+118444	Pierre
+118524	Pierre
+118584	Pierre
+118700	Abbe Rose
+118730	Pierre
+118733	Benedetta
+118863	Benedetta
+118932	Pierre
+119087	Pierre
+119205	Abbe Rose
+119210	Benedetta
+119380	Pierre
+119469	Benedetta
+119480	Dario
+119606	Benedetta
+119749	Pierre
+119927	Pierre
+120026	Benedetta
+120038	Pierre
+120087	Donna Serafina
+120093	Nani
+120104	Cardinal Sarno
+120112	Donna Serafina
+120143	Morano
+120160	Benedetta
+120162	Celia
+120164	Dario
+120166	Pierre
+120169	Narcisse Habert
+120182	Prince
+120220	Narcisse
+120244	Borgo Angelico
+120251	Dario
+120304	Benedetta
+120397	Pierina
+120415	Pierina
+120530	Celia
+120541	Dario
+120556	Dario
+120563	Celia
+120640	Narcisse
+120759	Benedetta
+120762	Celia
+120792	Dario
+120794	Dario
+120810	Contessina
+120908	Benedetta
+120927	Monsieur l'Abbe
+120929	Froment
+120958	Pierre
+121090	Contessina
+121110	Prati
+121112	Dario
+121122	Prince
+121161	Monsieur l'Abbe
+121238	Donna Serafina
+121248	Dario
+121275	Monsieur l'Abbe
+121362	Narcisse
+121370	Pierre
+121457	Benedetta
+121514	Contessina
+121527	Monsieur l'Abbe
+121597	Dario
+121603	Dario
+121664	Dario
+121766	Donna Serafina
+121785	Celia
+121865	Pierre
+121867	Narcisse
+121872	Sant
+121911	Narcisse
+121928	Bernini
+121931	Santa Teresa
+123569	Sant
+123604	Sant
+123751	Narcisse
+123762	Pierre
+123783	Construzione
+124763	Narcisse
+124931	Dario
+124934	Boccanera
+124956	Cardinal
+124969	Dario
+124985	Villa Montefiori
+124998	Prince Onofrio
+125001	Dario
+125085	Boccanera
+125089	Flavia Montefiori
+125182	Flavia
+125215	Marquis Montefiori
+125229	Dario
+125315	Donna Serafina
+125354	Dario
+125358	Benedetta
+125367	Narcisse
+125549	Leo X
+125562	Pierre
+125573	Sant
+125575	Angelo
+125936	Pierre
+126225	Pliny
+126229	Julius Caesar
+126252	Pierre
+126641	Pierre
+126643	Narcisse
+126949	Narcisse
+126961	Benedetta
+127003	Dario
+127040	Contessina
+127046	Pierre
+127048	Narcisse
+127079	Dario
+127521	Dario
+127801	Benedetta
+127886	Benedetta
+127897	Pierre
+127939	Dario
+127970	Pierre
+128001	Narcisse
+128028	Benedetta
+128059	Dario
+128254	Benedetta
+128295	Pierina
+128398	Dario
+128455	Pierre
+128463	Narcisse
+128541	Pierina
+128764	Tomaso Gozzo
+128775	Pierina
+128778	Tito
+128864	Tomaso
+128866	Tito
+128876	Pierina
+128934	Tomaso
+128939	Ambrogio
+128962	Tomaso
+128976	Tito
+129013	Pierina
+129128	Giacinta
+129191	Benedetta
+129217	Dario
+129242	Monsieur l'Abbe
+129245	Monsieur Habert
+129254	Dario
+129382	Pierina
+129449	Benedetta
+129485	Gozzo
+129593	Tomaso
+129637	Giacinta
+129695	Pierre
+129697	Narcisse
+129716	Benedetta
+129725	Dario
+129749	Contessina
+129788	Pierre
+129941	Tomaso
+130132	Ambrogio
+130348	Mazzini
+130379	Garibaldi
+130461	Tomaso
+130548	Tomaso
+130615	Pierre
+130723	Ambrogio
+130770	Tomaso
+130834	Narcisse
+130872	Giacinta
+130892	Pierina
+130897	Dario
+130911	Tito
+131145	Giacinta
+131240	Tito
+131275	Tito
+131318	Pierre
+131342	Tito
+131443	Pope
+131461	Pierre
+131492	Tito
+131536	Romano di
+131538	Roma
+131561	Pierre
+131693	Romano di
+131695	Roma
+131699	Benedetta
+131711	Pierre
+131713	Narcisse
+131719	Dario
+131794	Prince
+131817	Pierina
+131830	Dario
+131857	Tito
+132006	Benedetta
+132008	Dario
+132035	Contessina
+132046	Pierre
+132066	Narcisse
+132086	Piazza
+132115	Dario
+132138	Pierre
+132151	Narcisse
+132405	Tito
+132442	Madonna
+132904	Pierre
+133116	Narcisse
+133118	Pierre
+133383	Pierre
+133541	Pope
+133634	St. Francis
+133687	Francis
+133707	Pierre
+133709	Narcisse
+133713	Piazza
+133816	Narcisse
+133928	Pierre
+133950	Narcisse
+134062	Narcisse
+134090	Cardinal Antonelli
+134135	Antonelli
+134144	Cardinal Simeoni
+134160	Leo XIII
+134179	Monsignor Folchi
+134208	Dataria
+134227	Monsignor Folchi
+134323	Peter
+134335	Monsignor Folchi
+134430	Pope
+134450	Sterbini
+134459	Folchi
+134525	Leo XIII
+134730	Folchi
+134864	Monsignor Folchi
+134895	Monsignor Folchi
+134909	Leo XIII
+134947	Monsignor Folchi
+134974	Peter
+135034	M. Zola
+135132	Narcisse
+135139	Pierre
+135166	Narcisse
+135190	Peter
+135281	Pierre
+135386	Christ
+135391	Jesus
+135621	Pierre
+135644	Pope
+135667	Pope
+135712	Pope
+135765	Pope
+135841	Pope
+135943	Narcisse
+135991	Pierre
+136044	Narcisse
+136088	Pierre
+136136	Pierre
+136160	St. Peter
+136173	Leo XIII
+136189	Campagna
+136196	Alban
+136221	Santa Maria
+136223	Maggiore
+136244	Sant
+136265	Andrea della
+136267	Valle
+136301	Leo XIII
+136320	Sant
+136322	Angelo
+136359	Septimius Severus
+136462	Leo
+136538	Leo XIII
+136592	Pierre
+136597	Leo XIII
+136765	Pope
+136895	Pierre
+136906	Leo XIII
+137255	Pierre
+137258	Leo XIII
+137266	Campagna
+137271	Alban
+137791	Pierre
+138207	Jesus
+138216	Pierre
+138226	Leo XIII
+138236	Narcisse
+138394	Pierre
+138401	Narcisse
+138536	Leo XIII
+138630	Benedetta
+138633	Pierre
+138658	Celia
+138686	Dario
+138728	Benedetta
+138777	Dario
+138817	Monsieur l'Abbe
+138835	Dario
+138887	Celia
+138902	Pontecorvo
+138905	Moretta
+138913	La Tonietta
+138918	Dario
+138936	Pierre
+138941	Prince
+138998	Benedetta
+139014	Dario
+139092	Victorine
+139100	Celia
+139105	Benedetta
+139108	Pierre
+139137	Celia
+139171	Benedetta
+139221	Dario
+139260	Attilio
+139337	Attilio
+139381	Pierre
+139383	Benedetta
+139415	Benedetta
+139560	Pierre
+139675	Nani
+139713	Donna Serafina
+139742	Lorenza
+139791	Pisoni
+139800	Benedetta
+139815	Nani
+139871	Pierre
+139973	Benedetta
+140165	Don Vigilio
+140264	Victorine
+140289	Benedetta
+140328	Dario
+140330	Monsieur Dario
+140369	Monsieur Dario
+140409	Benedetta
+140480	Monsieur l'Abbe
+140499	Pierre
+140508	Victorine
+140539	Benedetta
+140561	Victorine
+140611	Dario
+140666	Benedetta
+140767	Victorine
+140903	Abbe
+140977	Benedetta
+141018	Victorine
+141026	Pierre
+141093	Dario
+141155	Victorine
+141181	Contessina
+141194	Donna Serafina
+141211	Don Vigilio
+141219	Monsieur Dario
+141267	Dario
+141295	Giordano
+141305	Contessina
+141339	Benedetta
+141341	Pierre
+141408	Dario
+141527	Pierre
+141591	Victorine
+141614	Dario
+141956	Prada
+141999	Dario
+142003	Benedetta
+142038	Dario
+142084	Monsieur
+142118	Pierre
+142168	Contessina
+142299	Madonna
+142391	Pierre
+142697	Benedetta
+142736	Victorine
+142741	Giordano
+142814	Boccanera
+142847	Victorine
+142851	Pierre
+142855	Dario
+142886	Prince
+143033	Dario
+143051	Benedetta
+143123	Dario
+143141	Prince
+143168	Monsieur l'Abbe
+143205	Giordano
+143298	Pierre
+143321	Dario
+143331	Benedetta
+143368	Donna Serafina
+143421	Pierre
+143437	Benedetta
+143448	Victorine
+143483	Monsieur
+143485	La Pierina
+143532	Pierre
+143539	Dario
+143556	Victorine
+143568	Tito
+143703	Benedetta
+143746	Pierre
+143782	Julius II
+143816	Piazza
+143818	St. Peter
+143824	Pierre
+143836	Marquis de
+143838	Coure
+143924	Jason
+144226	Pierre
+144375	Louis XIV
+144381	Pierre
+144440	Corso Vittorio
+144442	Emanuele
+144482	Corso
+144521	Pellegrino
+144617	Pagnotta
+144664	Pierre
+144685	Confraternita della
+144687	Morte
+144748	Pierre
+144978	Pierre
+145092	Sant
+145094	Angelo
+145102	Pierre
+145134	Ponte Sisto
+145440	Sant
+145457	Pierre
+145609	Pierre
+145681	Pierre
+145700	Noah
+145848	Pierre
+145850	La Pierina
+145871	Dario
+145891	Victorine
+145919	Prince
+146033	Dario
+146056	Pierre
+146134	Pierre
+146153	Benedetta
+146209	Madonna
+146230	Madonna
+146309	Dario
+146329	Pierre
+146379	Dario
+146453	Benedetta
+146508	Roman Bois
+146510	de Boulogne
+146542	Pierre
+146630	Pincio Pierre
+146674	Villa Albani
+146762	Pierre
+146906	Campagna
+146935	Pierre
+146946	Villa Mattei
+146987	Pierre
+147055	Dominic
+147182	Pope Julius
+147263	Raffaelle
+147368	Pierre
+147379	Villa Medici
+147546	Pierre
+147664	Pierre
+147833	Louis XIV
+147844	Pierre
+147847	Dario
+147849	Benedetta
+147865	Villa Montefiori
+147928	Pierre
+147954	Benedetta
+147973	Donna Serafina
+148019	Dario
+148072	Leo XIII
+148155	Morano
+148198	Pierre
+148279	Nani
+148281	Viscount Philibert
+148283	de la
+148285	Choue
+148298	Benedetta
+148300	Dario
+148302	Pierre
+148319	Benedetta
+148335	Monsignor Palma
+148430	Benedetta
+148434	Cardinal Boccanera
+148479	Donna Serafina
+148497	Lorenza
+148505	Collegio Germanico
+148536	Prada
+148654	Benedetta
+148656	Dario
+148668	Donna Serafina
+148692	Monsignor Palma
+148746	Morano
+148848	Benedetta
+148850	Donna Serafina
+148859	Monsignor Nani
+148899	Monsignor Palma
+149075	Donna Serafina
+149082	Pierre
+149085	Dario
+149089	Benedetta
+149140	Dario
+149182	Benedetta
+149212	Monsignor Palma
+149242	Dario
+149288	Pierre
+149391	Piazza di
+149393	Spagna
+149420	Piazza Colonna
+149453	Marcus Aurelius
+149472	Piazza Navona
+149500	Campo dei
+149502	Fiori
+149541	Pierre
+149661	Marcus Aurelius
+149793	Pierre
+149795	Benedetta
+149797	Dario
+149856	Piazza delle
+149858	Tartarughe
+149869	Bernini
+149912	Pierre
+149978	Pierre
+150100	Campagna
+150107	Ponte Molle
+150143	Poussin
+150276	Campagna
+150316	Pierre
+150332	Celia
+150337	Benedetta
+150343	Dario
+150350	Monsieur
+150383	Dario
+150431	Pierre
+150491	Pierre
+150651	Pierre
+150711	Dario
+150713	Benedetta
+150721	Pierre
+150736	Celia
+150991	Dario
+150995	Celia
+151013	Campagna
+151037	Prince
+151066	Benedetta
+151199	Dario
+151202	Corso
+151296	Prince
+151307	Celia
+151368	Dario
+151398	Dario
+151402	Corso
+151479	Benedetta
+151489	Dario
+151603	Celia
+151613	Benedetta
+151632	Dario
+151810	Benedetta
+151889	Prince
+151894	Monsieur
+151906	Pierre
+151922	Benedetta
+152000	Pierre
+152107	Celia
+152137	Dario
+152207	Pierre
+152595	Marino
+152773	Pierre
+153163	Pierre
+153188	Pettinari
+153191	Via dei
+153193	Giubbonari
+153638	Pierre
+153645	Piazza Farnese
+153696	Narcisse Habert
+153863	Annibale Caracci
+153884	Montorio
+154181	Pope Paul
+154183	III
+154322	Pierre
+154421	Prince Aldobrandini
+154493	Prince
+154506	Palazzo Sciarra
+154917	Pierre
+155343	Pierre
+155374	Victorine
+155609	Pierre
+155922	Pierre
+156173	Campagna
+156501	Pierre
+156561	Pierre
+156702	Pierre
+156790	Pierre
+156792	Dario
+156798	Victorine
+156839	Monsieur
+156892	Prince
+156939	Dario
+156950	Pierre
+156974	Tito
+156998	Benedetta
+157072	Dario
+157140	Monsignor Palma
+157189	Contessina
+157338	Morano
+157343	Prada
+157385	Dario
+157392	Benedetta
+157584	Monsignor Palma
+157608	Dario
+157615	Benedetta
+157844	Pierre
+157855	Monsieur l'Abbe
+157871	Monsignor Nani
+157955	Nani
+157971	Fornaro
+157977	Piazza Navona
+157981	Pierre
+158066	Pierre
+158118	Don Vigilio
+158178	Pierre
+158195	Don Vigilio
+158242	Pierre
+158331	Don Vigilio
+158348	Pierre
+158353	Monsignor Nani
+158361	Contessina
+158417	Fornaro
+158443	Don Vigilio
+158451	Nani
+158501	Monsignor Fornaro
+158526	Sanguinetti
+158557	Don Vigilio
+158622	Monsieur Froment
+158712	Boccanera
+158806	Pierre
+158877	Don Vigilio
+158958	Don Vigilio
+158983	Pierre
+158991	Cardinal Sanguinetti
+159052	Cardinal Boccanera
+159162	Pierre
+159230	Pierre
+159234	Cardinal Sanguinetti
+159283	Pierre
+159312	Pierre
+159337	Fornaro
+159345	Don Vigilio
+159374	Cardinal Sarno
+159384	Donna Serafina
+159393	Sarno
+159419	Narcisse Habert
+159446	Pierre
+159529	Pierre
+159647	Cardinal Sarno
+159748	Pierre
+159838	Pierre
+159929	Pierre
+160477	Pierre
+160692	Pierre
+160992	M. Zola
+161067	M. Zola
+161103	Narcisse
+161106	Pierre
+161279	Pierre
+161478	Pierre
+161486	Cardinal Sarno
+161562	Pierre
+161632	Pierre
+161781	Monsieur l'Abbe
+161882	Pierre
+162051	Donna Serafina
+162129	Pierre
+162250	Nani
+162264	Nani
+162273	Nani
+162286	Monsignor Fornaro
+162300	Sarno
+162332	Nani
+162346	Fornaro
+162397	Pierre
+162415	Piazza Navona
+162428	Fornaro
+162467	Pierre
+162486	Monsignor Fornaro
+162508	Seminario Romano
+162537	Maria Maggiore
+162580	Monsignor Fornaro
+162618	Pierre
+162661	Monsieur l'Abbe
+162663	Froment
+162665	Monsieur
+162714	Pierre
+162830	Piazza Navona
+162865	Monsieur l'Abbe
+162867	Froment
+162908	Pierre
+162936	Sarno
+163122	Fornaro
+163219	Pierre
+163289	Monsignor Nani
+163311	Monsignor Fornaro
+163350	Nani
+163450	Nani
+163467	Monsieur Froment
+163495	Pierre
+163657	Pierre
+163684	Cardinal Bergerot
+163729	Fornaro
+163831	Bergerot
+163863	Pierre
+163948	Fornaro
+163956	Pierre
+164308	Pierre
+164324	Monsignor Fornaro
+164435	Pierre
+164466	Monsieur Froment
+164571	Pierre
+164650	Jesus
+164776	Fornaro
+164868	Pierre
+164952	Pierre
+165023	Fornaro
+165058	Monsieur Froment
+165153	Pierre
+165396	Father Dangelis
+165421	Piazza di
+165423	Spagna
+165443	Pierre
+165450	Piazza Navona
+165576	Corso
+165589	Piazza di
+165591	Spagna
+165617	Monti
+165624	Pierre
+165685	St. Francis
+165872	Thomas
+165990	Pierre
+166190	Pierre
+166199	Dangelis
+166356	Monsieur l'Abbe
+166361	Pierre
+166397	Dangelis
+166446	Monsieur l'Abbe
+166500	Pierre
+166650	Pierre
+166672	Fornaro
+166691	Pierre
+166777	Nani
+166819	Nani
+166842	Dangelis
+166883	Monsignor Nani
+166938	Pierre
+166994	Don Vigilio
+167048	Pierre
+167085	Abbe Paparelli
+167102	Pierre
+167138	Don Vigilio
+167184	Pierre
+167262	Pierre
+167314	Pierre
+167406	Pierre
+167427	Sarno
+167429	Monsignor Fornaro
+167434	Dangelis
+167496	Sarno
+167520	Fornaro
+167523	Fornaro
+167540	Pierre
+167636	Father Dangelis
+167726	Don Vigilio
+167738	Pierre
+167818	Monsignor Fornaro
+167843	Don Vigilio
+167943	Bergerot
+168007	Bergerot
+168219	Pierre
+168262	Peter
+168397	Cardinal Bergerot
+168412	Pierre
+168467	Pierre
+168523	Pierre
+168570	Father Dangelis
+168622	Pierre
+168631	Monsignor Fornaro
+168730	Bastille
+169275	Pierre
+169291	Don Vigilio
+169341	Don Vigilio
+169375	Pierre
+169837	Cardinal Boccanera
+169992	Pierre
+170035	Don Vigilio
+170075	Pierre
+170158	Don Vigilio
+170187	St. Francis
+170193	Dominic
+170245	Ignatius de
+170247	Loyola
+170842	Pascal
+171002	Pierre
+171036	Collegio Romano
+171193	Don Vigilio
+171234	Pierre
+171258	Nani
+171271	Don Vigilio
+171311	Collegio Romano
+171551	Pierre
+171653	Pierre
+171660	Nani
+171682	Don Vigilio
+171757	Nani
+171763	Benedetta
+171819	Pope
+171823	Nani
+171831	Donna Serafina
+171843	Prada
+171847	Benedetta
+171870	Abbe Pisoni
+171899	Lorenza
+171917	Collegio Germanico
+171963	Nani
+172008	Donna Serafina
+172077	Benedetta
+172079	Dario
+172166	Don Vigilio
+172233	Cardinal Boccanera
+172346	Pierre
+172427	Nani
+172463	Don Vigilio
+172498	Dangelis
+172545	Nani
+172554	Dangelis
+172581	Monsieur de
+172583	la Choue
+172620	Pierre
+172646	Nani
+172781	Lourdes
+172834	Monsieur de
+172836	la Choue
+172849	Pierre
+172970	Don Vigilio
+173020	Pierre
+173111	Mon Dieu
+173147	Fornaro
+173152	Fornaro
+173170	Collegio Romano
+173245	Sanguinetti
+173276	Sanguinetti
+173328	Leo XIII
+173392	Cardinal Boccanera
+173523	Leo XIII
+173528	Pierre
+173532	Don Vigilio
+173546	Leo XIII
+173594	Thomas
+173633	Pope
+173744	Pierre
+173825	Paparelli
+173837	Don Vigilio
+174107	Pierre
+174316	Jesus
+174438	Don Vigilio
+174515	Dangelis
+174534	Monsignor Nani
+174553	Pierre
+174566	Monsignor Nani
+174634	Don Vigilio
+174697	Pierre
+174731	Pierre
+175053	Pierre
+175072	Don Vigilio
+175197	Nani
+175313	Pierre
+175329	Don Vigilio
+175470	Leo XIII
+175536	Pierre
+175582	Francis
+175585	Narcisse Habert
+175592	Pierre
+175720	St. Francis
+176050	Dante
+176154	Pierre
+176294	Thomas
+176434	Pierre
+176466	Leo XIII
+176735	Pierre
+176904	Pierre
+177295	Pierre
+177340	Santa Maria
+177342	Maggiore
+177539	Pierre
+177695	Sant
+177796	Jesus
+177809	Sant
+177811	Agostino
+177918	Virgin
+177928	Pierre
+178249	Monsignor Fornaro
+178332	Pierre
+178469	Pierre
+178597	Pierre
+178665	Bramante
+178690	Sarno
+178910	Pierre
+179035	Pierre
+179210	Sarno
+179353	Cardinal Sarno
+179530	Pierre
+179572	Pope
+179907	Faure
+179924	Lyons
+179975	Pierre
+180065	Horace
+180288	Piazza
+180294	Pierre
+180404	Don Vigilio
+180458	Pierre
+180470	Nani
+180497	Pierre
+180670	Pierre
+180678	Sant
+180856	Pierre
+181020	Pierre
+181030	Nani
+181131	Nani
+181210	Pierre
+181236	Don Vigilio
+181253	Pierre
+181262	Cardinal Sarno
+181265	Monsignor Fornaro
+181269	Dangelis
+181352	Monsignor Nani
+181489	Nani
+181507	Sanguinetti
+181645	Pierre
+181663	Pierre
+181673	Sanguinetti
+181730	Rocco
+181736	Rocco
+181790	Campagna
+181892	Pierre
+181940	Campagna
+182026	Monsieur l'Abbe
+182028	Froment
+182044	Pierre
+182047	Luigi Prada
+182154	Pierre
+182162	Boccaneras
+182187	Giacomo della
+182189	Porta
+182229	Roman Campagna
+182250	Benedetta
+182360	Pierre
+182482	Lisbeth Kauffmann
+182573	Benedetta
+182579	Prada
+182612	Pierre
+182673	Prada
+182795	Monsieur l'Abbe
+182812	Pierre
+182900	Pierre
+182980	Prada
+182990	Cardinal Sanguinetti
+183081	Prada
+183199	Pierre
+183231	Boccanera
+183295	Prada
+183332	Sanguinetti
+183334	Santobono
+183505	Santobono
+183523	Nemi
+183708	Santobono
+183805	Prada
+183813	Cardinal Sanguinetti
+183928	Santobono
+183938	Leo XIII
+183943	Sanguinetti
+183963	Pierre
+184062	Sanguinetti
+184098	Sanguinetti
+184233	Sanguinetti
+184365	Sanguinetti
+184380	Leo XIII
+184427	Sanguinetti
+184529	Pio Boccanera
+184597	Boccanera
+184604	Sanguinetti
+184637	Pio
+184644	Benedetta
+184646	Dario
+184653	Antichrist
+184680	Sanguinetti
+184925	Sanguinetti
+184963	Pierre
+184996	Roman Campagna
+185107	Pierre
+185132	Prada
+185171	Sanguinetti
+185195	Pierre
+185305	Campagna
+185340	Pierre
+185470	Pierre
+185473	Santobono
+185524	Eufemio
+185584	Sanguinetti
+185606	Santobono
+185617	Pierre
+185722	Santobono
+185822	Antichrist
+185832	Antichrist
+185835	Pierre
+185848	Antichrist
+185850	Cardinal Boccanera
+185864	Sanguinetti
+186028	Santobono
+186053	Pierre
+186075	Abbe Eufemio
+186165	Pierre
+186182	Sanguinetti
+186282	Pierre
+186346	Pierre
+186497	Santobono
+186550	Antichrist
+186560	Pierre
+186566	Santobono
+186755	Pierre
+186873	Pierre
+187037	Pierre
+187153	Jesus
+187166	Sanguinetti
+187234	Leo XIII
+187264	Virgil
+187377	Pierre
+187508	Cardinal
+187584	Lourdes
+187617	Pierre
+187638	Lourdes
+187693	Sanguinetti
+187758	Pierre
+187867	Sanguinetti
+188009	Boccanera
+188030	Sanguinetti
+188051	Pierre
+188207	Pierre
+188412	Roman Campagna
+188415	Pierre
+188472	Campagna
+188564	Marino
+188596	Albano
+188644	Castel Gandolfo
+188762	Pius IX
+188773	Leo XIII
+188851	Ariccia
+188879	Nemi
+188905	Pierre
+188911	Nemi
+188919	Nemi
+189001	Santobono
+189181	Pierre
+189341	M. Zola
+189346	Nemi
+189389	Diana
+189455	Prada
+189460	Pierre
+189481	Nemi
+189558	Pierre
+189585	Prince Buongiovanni
+189629	Pierre
+189638	Monsieur Narcisse
+189640	Habert
+189682	Corso
+189723	Celia
+189778	Attilio
+189784	Sacco
+189815	Prada
+189852	Attilio
+189879	Sacco
+190000	Pierre
+190017	Narcisse
+190179	Prada
+190190	Campagna
+190463	Santobono
+190488	Pierre
+190588	Prada
+190622	Signor Conte
+190641	Signor Conte
+190705	Santobono
+190713	Prada
+190722	Pierre
+190748	Abbe
+190764	Santobono
+190818	Pierre
+190913	Boccanera
+190974	Prada
+191030	Santobono
+191094	Pierre
+191167	Santobono
+191178	Pierre
+191202	Monsieur l'Abbe
+191204	Froment
+191233	Santobono
+191240	Monsieur
+191305	Campagna
+191663	Abbe
+191670	Prada
+191674	Santobono
+191726	Sanguinetti
+191883	Abbe
+192169	Prada
+192192	Moretta
+192195	Santobono
+192248	Moretta
+192271	Bartolini
+192283	Bartolini
+192302	Dozio
+192308	Dozio
+192310	Dozio
+192315	Dozio
+192340	Prada
+192367	Cardinal Sanguinetti
+192373	Santobono
+192414	Santobono
+192528	Boccanera
+192628	Boccanera
+192659	Santobono
+192691	Pierre
+192715	Sanguinetti
+192737	Abbe Paparelli
+192781	Campagna
+192792	Prada
+192870	Pierre
+192937	Santobono
+192952	Prada
+193230	St. Nicholas
+193364	Pierre
+193468	Cardinal Boccanera
+193484	Monsignor Gallo
+193565	Gallo
+193595	Pierre
+193608	Santobono
+193679	Nazzarelli
+193700	Brando
+193726	Mon Dieu
+193732	Pierre
+193784	Pierre
+193972	Pierre
+194136	Prada
+194269	Santobono
+194389	Monsignor Gallo
+194400	Cardinal Boccanera
+194408	Santobono
+194441	Campagna
+194696	Prada
+194777	Antica Osteria
+194779	Romana
+194857	Campagna
+195059	Santobono
+195108	Santobono
+195135	Marino
+195212	Pierre
+195236	Prada
+195329	Prada
+195528	Pierre
+195670	Prada
+195679	Pierre
+195715	Abbe
+195741	Santobono
+195803	Campagna
+195845	Pierre
+195869	Prada
+195878	Santobono
+196082	Prada
+196114	Abbe
+196130	Santobono
+196225	Pierre
+196247	Santobono
+196509	Prada
+196571	Leo XIII
+196577	Santobono
+196580	Cardinal Sanguinetti
+196597	Cardinal Boccanera
+196601	Prada
+196746	Pierre
+196751	Santobono
+196786	Prada
+197034	Pierre
+197212	Pierre
+197241	Santobono
+197426	Santobono
+197459	Prada
+197731	Campagna
+197874	Campagna
+197980	Prada
+198037	Cardinal Boccanera
+198186	Benedetta
+198188	Dario
+198215	Benedetta
+198219	Dario
+198227	Benedetta
+198261	Dario
+198280	Prince
+198292	Monsignor Gallo
+198484	Pierre
+198523	Santobono
+198627	Pierre
+198651	Dario
+198719	Monsieur Froment
+198795	Prada
+198818	Dario
+198933	Lisbeth
+199078	Campagna
+199170	Santobono
+199302	Dario
+199373	Cardinal Boccanera
+199594	Pierre
+199601	Sanguinetti
+199651	Santobono
+199766	Prada
+199798	Pierre
+199857	Santobono
+199871	Pierre
+199896	Prada
+199909	Santobono
+199979	Pierre
+199981	Narcisse
+200150	Pierre
+200182	Prince Buongiovanni
+200193	Celia
+200196	Attilio Sacco
+200281	Narcisse
+200287	Pierre
+200320	Celia
+200491	Celia
+200564	Sacco
+200611	Sacco
+200661	Attilio
+200743	Celia
+200846	Buongiovannis
+200888	Celia
+200946	Narcisse
+200978	Pierre
+201203	Narcisse
+201218	Pierre
+201417	Pierre
+201424	Buongiovanni
+201579	Celia
+201583	Celia
+201632	Saccos
+201639	Attilio
+201759	Narcisse
+201766	Pierre
+201769	Celia
+201791	Monsieur l'Abbe
+201793	Pierre Froment
+201801	Benedetta
+201817	Pierre
+201824	Benedetta
+201831	Dario
+201853	Pierre
+201855	Narcisse
+201903	Celia
+201911	Attilio
+201938	Narcisse
+201944	Attilio
+202064	Bettina
+202151	Buongiovanni
+202229	Narcisse
+202232	Pierre
+202256	Pierre
+202450	Buongiovannis
+202506	Buongiovannis
+202545	Sacco
+202615	Narcisse
+202617	Pierre
+202670	Sacco
+202733	Sacco
+202820	Pierre
+202835	Narcisse
+202873	Cardinal Boccanera
+203001	Prince Buongiovanni
+203110	Narcisse
+203164	Attilio
+203253	Albertini
+203299	Pierre
+203306	Fornaro
+203312	Monsignor Fornaro
+203377	Narcisse
+203470	Signora Sacco
+203479	Pierre
+203679	Narcisse
+203928	Louis
+203963	Narcisse
+204255	Narcisse
+204263	Monsignor Nani
+204275	Nani
+204370	Pierre
+204421	Nani
+204424	Celia
+204508	Sanguinetti
+204530	Pierre
+204553	Lourdes
+204610	Monseigneur
+204646	Nani
+204738	Pierre
+204945	Nani
+205008	Pierre
+205013	Narcisse
+205071	Pierre
+205136	Narcisse
+205209	Fornaro
+205221	Fornaro
+205314	Narcisse
+205387	Pierre
+205603	Monsignor Fornaro
+205656	Pierre
+205739	Narcisse
+205923	Monsignor Fornaro
+205979	Pierre
+205995	Boccanera
+206161	Narcisse
+206164	Pierre
+206184	Lisbeth Kauffmann
+206297	Lisbeth
+206461	Fornaro
+206797	Pierre
+206811	Celia
+206863	Lisbeth
+206872	Narcisse
+206919	Pierre
+206967	Narcisse
+207008	Prada
+207103	Lisbeth
+207149	Monsignor Fornaro
+207207	Pierre
+207227	Narcisse
+207303	Pierre
+207318	Monsignor Fornaro
+207343	Prada
+207569	Benedetta
+207591	Pierre
+207621	Dario
+207788	Judas
+207807	Pope
+207857	Cardinal Boccanera
+208049	Pierre
+208218	Lisbeth
+208220	Pierre
+208222	Narcisse
+208471	Titian
+208473	Rembrandt
+208475	Rubens
+208477	Velasquez
+208479	Ribera
+208577	Prada
+208617	Narcisse
+208633	Pierre
+208687	Donna Serafina
+208719	Consistorial-Advocate Morano
+208792	Morano
+208863	Boccaneras
+208872	Benedetta
+208876	Morano
+208879	Donna Serafina
+208914	Benedetta
+208916	Dario
+209003	Celia
+209005	Attilio
+209029	Dario
+209087	Benedetta
+209342	Pierre
+209392	Prada
+209659	Pierre
+209706	Villa Borghese
+209754	Pierre
+209831	Pierre
+210037	Humbert
+210044	Victor Emanuel
+210074	Pierre
+210076	Prada
+210262	Buongiovanni
+210353	Celia
+210371	Attilio
+210458	Celia
+210470	Sacco
+210485	Attilio
+210551	Margherita
+210565	Signora Sacco
+210598	Benedetta
+210601	Count Prada
+210612	Queen
+210651	Contessina
+210683	Benedetta
+210687	Prada
+210694	Dario
+210734	Benedetta
+210843	Prada
+210847	Benedetta
+210849	Benedetta
+210860	Dario
+211180	Sacco
+211208	Sacco
+211306	Sacco
+211312	Benedetta
+211333	Pierre
+211587	Prince Buongiovanni
+211603	Sacco
+211706	Attilio
+211708	Celia
+211763	Pierre
+211926	Pierre
+211945	Prada
+211982	Celia
+211984	Attilio
+211995	Benedetta
+211997	Dario
+212113	Pierre
+212146	Celia
+212174	Benedetta
+212190	Madonna
+212195	Monsieur l'Abbe
+212268	Benedetta
+212320	Celia
+212348	Attilio
+212371	Dario
+212381	Benedetta
+212413	Pierre
+212517	Benedetta
+212519	Dario
+212521	Celia
+212523	Attilio
+212719	Venus
+212911	Pierre
+212913	Narcisse
+212929	Lisbeth
+212989	Lisbeth
+213073	Lisbeth
+213089	Monsieur l'Abbe
+213091	Froment
+213140	Lisbeth
+213202	Lisbeth
+213267	Dario
+213272	Marchioness Montefiori
+213279	Jules Laporte
+213326	Marquis Montefiori
+213695	Donna Serafina
+213698	Morano
+213740	Lisbeth
+213816	Narcisse
+213847	Pierre
+213881	Monsignor Nani
+213912	Lisbeth
+213923	Pierre
+214131	Pierre
+214135	Monsignor Nani
+214161	Cotillon
+214227	Nani
+214300	Celia
+214324	Buongiovanni
+214468	Pierre
+214537	Nani
+214616	Pierre
+214742	Nani
+214820	Nani
+215015	Pierre
+215030	Nani
+215123	Signor Squadra
+215134	Signor Squadra
+215168	Pierre
+215341	Nani
+215421	Pierre
+215434	Prada
+215473	Celia
+215481	Attilio
+215570	Pierre
+215586	Monsieur Narcisse
+215588	Habert
+215611	Lisbeth
+215712	Donna Serafina
+215725	Morano
+215792	Prada
+215825	Celia
+215932	Corso
+215939	Corso Vittorio
+215941	Emanuele
+215943	Prada
+216188	Pierre
+216333	Judas
+216389	Pierre
+216472	Benedetta
+216475	Dario
+216491	Lisbeth
+216775	Pierre
+216780	Corso Vittorio
+216782	Emanuele
+216832	Don Vigilio
+216948	Dario
+217088	Pierre
+217090	Prada
+217262	Pierre
+217462	Benedetta
+217646	Benedetta
+217838	Dario
+217972	Pierre
+218054	Benedetta
+218110	Pierre
+218208	Pierre
+218279	Benedetta
+218336	Viscount de
+218338	la Choue
+218386	Pierre
+218392	Viscount
+218405	Baron de
+218407	Fouras
+218435	Viscount
+218485	Viscount
+218487	Pierre
+218523	Benedetta
+218560	Viscount
+218568	Pierre
+218657	Benedetta
+218676	Nani
+218717	Contessina
+218887	Pierre
+218924	Nani
+218945	Nani
+219326	Pierre
+219436	Pierre
+219460	Benedetta
+219674	Pierre
+219742	Dario
+219748	Don Vigilio
+219843	Donna Serafina
+219927	Celia
+219945	Quirinal
+220013	Donna Serafina
+220057	Leo XIII
+220092	Benedetta
+220107	Celia
+220109	Attilio
+220155	Giacomo
+220161	Giacomo
+220177	Victorine
+220184	Benedetta
+220200	Victorine
+220210	Contessina
+220287	Victorine
+220297	Contessina
+220386	Benedetta
+220399	Dario
+220416	Donna Serafina
+220423	Victorine
+220453	Abbe Santobono
+220476	Abbe Paparelli
+220494	Abbe Paparelli
+220535	Abbe Paparelli
+220604	Abbe Paparelli
+220735	Benedetta
+220744	Victorine
+220757	Giacomo
+220777	Pierre
+220818	Dario
+220825	Don Vigilio
+220922	Giacomo
+220973	Donna Serafina
+220985	Giacomo
+221020	Benedetta
+221041	Pierre
+221127	Benedetta
+221216	Abbe Santobono
+221260	Campagna
+221267	Benedetta
+221278	Prada
+221322	Pierre
+221382	Donna Serafina
+221396	Benedetta
+221482	Donna Serafina
+221567	Benedetta
+221601	Dario
+221651	Don Vigilio
+221718	Benedetta
+221731	Dario
+221745	Monsieur l'Abbe
+221767	Victorine
+221778	Dario
+221810	Prince
+221921	Benedetta
+221927	Dario
+221943	Cardinal Boccanera
+221976	Dario
+222113	Don Vigilio
+222129	Dario
+222274	Benedetta
+222398	Don Vigilio
+222405	Dario
+222466	Benedetta
+222480	Monsieur
+222503	Victorine
+222606	Pierre
+222629	Victorine
+222641	Giordano
+222643	Victorine
+222668	Benedetta
+222686	Dario
+222717	Dario
+222747	Monsignor Gallo
+222797	Boccanera
+222878	Benedetta
+223029	Pierre
+223031	Don Vigilio
+223131	Prince
+223266	Victorine
+223309	Giordano
+223398	Dario
+223422	Benedetta
+223506	Contessina
+223526	Giordano
+223583	Dario
+223631	Gallo
+223779	Signor Giordano
+223938	Giordano
+223940	Victorine
+223962	Giacomo
+223998	Benedetta
+224004	Pierre
+224006	Don Vigilio
+224201	Don Vigilio
+224212	Benedetta
+224214	Pierre
+224699	Boccanera
+224770	Benedetta
+224774	Pierre
+224776	Don Vigilio
+224798	Dario
+224877	Prada
+224905	Abbe Froment
+224919	Santobono
+224987	Cardinal Sanguinetti
+224991	Santobono
+225044	Boccanera
+225095	Prada
+225102	Benedetta
+225168	Dario
+225271	Santobono
+225391	Benedetta
+225429	Dario
+225465	Victorine
+225708	Christ
+225787	Santobono
+225791	Cardinal Sanguinetti
+225848	Pierre
+225850	Don Vigilio
+225930	Benedetta
+225944	Dario
+226023	Victorine
+226073	Pierre
+226090	Don Vigilio
+226207	Santobono
+226213	Pierre
+226246	Cardinal Sanguinetti
+226315	Pierre
+226385	Pierre
+226395	Benedetta
+226405	Pierre
+226536	Prada
+226556	Pierre
+226704	Pierre
+226706	Don Vigilio
+226819	Don Vigilio
+226888	Paparelli
+226890	Paparelli
+226893	Pierre
+226990	Don Vigilio
+227061	Paparelli
+227063	Paparelli
+227159	Pierre
+227175	Giordano
+227205	Victorine
+227252	Dario
+227273	Gallo
+227362	Benedetta
+227415	Cardinal Boccanera
+227420	Giordano
+227486	Gallo
+227522	Giordano
+227729	Giordano
+227789	Serafina
+228153	Dario
+228160	Don Vigilio
+228231	Don Vigilio
+228328	Don Vigilio
+228378	Domine
+228424	Benedetta
+228457	Pierre
+228459	Victorine
+228478	Contessina
+228490	Dario
+228534	Prince of
+228536	the Church
+228617	Don Vigilio
+228704	Dario
+228907	Don Vigilio
+229014	Dario
+229114	Dario
+229282	Benedetta
+229318	Benedetta
+229320	Benedetta
+229429	Dario
+229438	Pierre
+229440	Victorine
+229480	Benedetta
+229529	Dario
+229697	Prada
+229708	Pierre
+229803	Dario
+229833	Benedetta
+229835	Benedetta
+229848	Dario
+229885	Madonna
+230023	Madonna
+230104	Madonna
+230205	Madonna
+230300	Benedetta
+230302	Benedetta
+230336	Dario
+230375	Victorine
+230499	Dario
+230565	Dario
+230592	Pierre
+230594	Victorine
+230707	Dario
+230767	Dario
+230789	Pierre
+230827	Bocca
+230830	Alma rossa
+230904	Pierre
+230934	Ercole
+230941	Flavio
+230949	Benedetta
+230978	Benedetta
+231001	Benedetta
+231055	Dario
+231201	Victorine
+231208	Pierre
+231298	Dario
+231330	Benedetta
+231422	Victorine
+231439	Pierre
+231468	Don Vigilio
+231491	Giordano
+231496	Donna Serafina
+231556	Benedetta
+231572	Victorine
+231620	Donna Serafina
+231689	Victorine
+231742	Boccanera
+231786	Prince of
+231788	the Church
+232036	Pierre
+232144	Benedetta
+232179	Pierre
+232362	Pierre
+232463	Dario
+232465	Benedetta
+232652	Piazza
+232764	Pierre
+232865	Charles
+232916	Pierre
+233119	Pierre
+233169	Pierre
+233175	Nani
+233191	Signor Squadra
+233232	Benedetta
+233286	Signor Squadra
+233425	Pierre
+233462	Signor Squadra
+233467	Pierre
+233623	Pierre
+233651	Sala Clementina
+233671	Signor Squadra
+233675	Pierre
+233690	Sala Clementina
+233776	Pierre
+233792	Signor Squadra
+233814	Pierre
+233940	Signor Squadra
+233945	Pierre
+233961	Signor Squadra
+234001	Pierre
+234017	Narcisse
+234099	Camerieri
+234162	Pierre
+234328	Pierre
+234374	Jesus
+234700	Camerieri
+234765	Signor Squadra
+234802	Pierre
+234853	Signor Squadra
+234861	Pierre
+234952	Piazza
+235086	Signor Squadra
+235094	Pierre
+235177	Pierre
+235213	Pierre
+235433	Pierre
+235491	M. Zola
+235717	Piazza
+235756	Raffaelle
+235763	Leo XIII
+236011	Pierre
+236059	Signor Squadra
+236272	Pierre
+236295	Leo XIII
+236463	Signor Squadra
+236606	Alexander VI
+236616	Julius II
+236619	Leo X
+236642	Leo XIII
+236655	Pierre
+236735	Narcisse
+236742	Signor Squadra
+236827	Signor Squadra
+236899	Squadra
+237003	Pierre
+237062	Pierre
+237130	Pope Damasus
+237169	Leo III
+237175	Charlemagne
+237214	Gregory VII
+237233	Boniface VIII
+237315	Alexander III
+237339	Frederick Barbarossa
+237352	Julius II
+237372	Leo X
+237418	Pius V
+237488	Benedict XIV
+237536	Pierre
+237709	Pierre
+237722	Leo XIII
+237732	Gregory the
+237734	Great
+237857	Leo XIII
+238065	Pierre
+238085	Pierre
+238097	Leo XIII
+238168	Leo XIII
+238280	Jesus
+238353	Caesar
+238445	Leo XIII
+238532	Pierre
+238635	Monsignor Fornaro
+238683	Monsignor Nani
+238901	Pierre
+239011	Signor Squadra
+239060	Pierre
+239072	Pierre
+239299	Leo XIII
+239459	Leo XIII
+239530	Pierre saw
+239532	the Pope
+239684	Leo
+239843	Leo XIII
+239863	Pierre
+239867	Signor Squadra
+239996	Pierre
+240121	Leo XIII
+240232	Pierre
+240271	Pierre
+240306	Leo XIII
+240392	Leo XIII
+240532	Pierre
+240555	Monsignor Nani
+240663	Monsieur le
+240665	Vicomte Philibert
+240667	de la
+240669	Choue
+240680	Leo XIII
+240728	Monsieur de
+240730	la Choue
+240849	Monsieur le
+240851	Baron de
+240853	Fouras
+240928	Pierre
+240946	Viscount
+240993	Viscount
+241055	Pierre
+241084	Monsieur de
+241086	Fouras
+241112	Monsieur de
+241114	la Choue
+241199	Leo XIII
+241235	Monsieur de
+241237	la Choue
+241252	Monsieur de
+241254	Fouras
+241443	Pierre
+241460	Monsieur de
+241462	la Choue
+241522	Pope
+241542	Pierre
+241552	Bergerot
+241583	Monsieur
+241590	Leo XIII
+241643	Monsieur le
+241645	Cardinal Bergerot
+241810	Monsieur le
+241812	Cardinal Bergerot
+241922	Pierre
+241951	Don Vigilio
+241963	Pierre
+241993	Cardinal Bergerot
+242055	Lourdes
+242176	Pope
+242189	Pierre
+242211	Leo XIII
+242319	Pierre
+242400	Leo XIII
+242448	Pierre
+242545	Pierre
+242549	Gregory
+242557	Sixtus V
+242800	Pierre
+242846	Leo XIII
+242869	Pierre
+242874	Leo XIII
+242889	Jesus Christ
+242939	Leo XIII
+243188	Leo XIII
+243267	Dario
+243269	Benedetta
+243905	Leo XIII
+244272	Pierre
+244567	Jesus
+244960	Leo XIII
+245141	Leo XIII
+245169	Pierre
+245231	Leo XIII
+245448	Pierre
+245588	Leo XIII
+245866	Pierre
+246161	Pierre
+246339	Leo XIII
+247135	Pierre
+247691	Caesar
+247793	Leo
+247922	Augustus
+247926	Augustus
+247956	Leo XIII
+248161	Pierre
+248164	Don Vigilio
+248233	Thomas Aquinas
+248271	Pierre
+248628	Caesars
+248643	Pierre
+248792	Pierre
+248915	Leo XIII
+248956	Lourdes
+249174	Thomas
+249249	Thomas
+249272	Pierre
+249318	Thomas Aquinas
+249448	Pierre
+249518	Jesus
+249578	Peter
+249887	Leo XIII
+250093	Pierre
+250170	Pierre
+250237	Pecci
+250240	Leo XIII
+250245	Pope
+250261	Pierre
+250386	Leo XIII
+250423	Pierre
+250490	Pius IX
+250493	Giovanni Mastai
+250521	Cardinal Pecci
+250560	Giovanni
+250562	Giovanni
+250564	Giovanni
+250608	Cardinal Boccanera
+250628	Leo XIII
+250632	Gioachino Pecci
+250689	Gioachino
+250721	Leo XIII
+250732	Pius IX
+250772	Cardinal Boccanera
+250828	Pierre
+250857	Leo XIII
+250892	Leo
+250959	Signor Squadra
+250971	Pierre
+251019	Sala Clementina
+251139	Signor Squadra
+251161	Pierre
+251179	Pierre
+251227	St. Damasus
+251381	Piazza
+251542	Peter
+251593	Pierre
+251686	Nani
+251699	Pierre
+251715	Nani
+251850	Charles
+251852	Wain
+251912	Pierre
+251945	Boccanera
+251952	Dario
+251954	Benedetta
+251986	Victorine
+252022	Donna Serafina
+252274	Donna Serafina
+252295	Victorine
+252324	Benedetta
+252452	Dario
+252467	Benedetta
+252548	Pierre
+252720	Giacomo
+252763	Abbe Paparelli
+252845	Don Vigilio
+252929	Pierre
+252933	Abbe Paparelli
+253073	Donna Serafina
+253094	Pierre
+253101	Victorine
+253122	Don Vigilio
+253466	Pierre
+253616	Benedetta
+253618	Dario
+253724	Pierre
+253862	Consistorial-Advocate Morano
+253910	Pierre
+254099	Benedetta
+254131	Dario
+254178	Benedetta
+254182	Pierre
+254497	Pierre
+254585	Benedetta
+254651	Hercules
+254729	Pierre
+254737	Benedetta
+254856	Pierre
+254930	Victorine
+254947	Donna Serafina
+255038	Victorine
+255060	Monsieur l'Abbe
+255117	Pierre
+255214	Pierre
+255239	Victorine
+255269	Benedetta
+255426	Pierre
+255598	Pierre
+255640	Abbe Pisoni
+255676	Victorine
+255703	Benedetta
+255723	Dario
+255769	Pope
+255845	Lorenza
+255856	Abbe Pisoni
+255967	Victorine
+256031	Pierre
+256082	Pierre
+256091	Victorine
+256269	Pierina
+256593	Pierre
+256599	Dario
+256606	Flavia
+256617	Jules Laporte
+256632	Marquis Montefiori
+256731	Jules
+256823	Donna Serafina
+256857	Victorine
+256897	Benedetta
+256900	Pierre
+256905	Celia
+256949	Victorine
+256958	Attilio
+256999	Celia
+257396	Victorine
+257425	Prince
+257447	Celia
+257456	La Pierina
+257584	Celia
+257647	Victorine
+257650	Pierre
+257808	Pierre
+257810	Celia
+257823	Don Vigilio
+257865	Celia
+257940	Pierre
+257945	Tito
+258014	Celia
+258086	La Pierina
+258091	Pierre
+258117	Don Vigilio
+258166	Pierre
+258185	Abbe Paparelli
+258253	Pierre
+258309	Don Vigilio
+258377	Abbe Paparelli
+258392	Nani
+258405	Monsignor Nani
+258410	Pierre
+258447	Donna Serafina
+258487	Don Vigilio
+258503	Nani
+258519	Abbe Paparelli
+258541	Pierre
+258559	Nani
+258578	Don Vigilio
+258696	Pierre
+258744	Nani
+258936	Pierre
+258939	Nani
+259038	Pierre
+259040	Nani
+259086	Nani
+259258	Nani
+259624	Pierre
+259627	Nani
+259806	Nani
+259818	Leo XIII
+259913	Nani
+260187	Pierre
+260193	Sanguinetti
+260203	Abbe Paparelli
+260243	Sanguinetti
+260331	Sanguinetti
+260337	Pierre
+260357	Santobono
+260436	Pierre
+260483	Pierre
+260488	Nani
+260576	Pierre
+260633	Nani
+260651	Benedetta
+260685	Don Vigilio
+260716	Nani
+260780	Nani
+260815	Donna Serafina
+260819	Pio
+260845	Nani
+260864	Sanguinetti
+260875	Boccanera
+260970	Sanguinetti
+260979	Pierre
+261019	Sanguinetti
+261043	Nani
+261144	Pierre
+261151	Sanguinetti
+261154	Nani
+261212	Cardinals Sanguinetti
+261215	Boccanera
+261308	Boccanera
+261337	Sanguinetti
+261391	Nani
+261567	Pierre
+261605	Cardinal Bergerot
+261698	Pierre
+261705	Nani
+261763	Nani
+261867	Pierre
+262040	Cardinal Bergerot
+262176	Cardinal Bergerot
+262478	Leo XIII
+262526	Bergerot
+262578	Leo XIII
+262582	Nani
+262693	Pierre
+262745	Nani
+262774	Pierre
+262935	Don Vigilio
+263001	Mon Dieu
+263014	Pierre
+263030	Don Vigilio
+263050	Paparelli
+263052	Paparelli
+263129	Sanguinetti
+263251	Pierre
+263260	Don Vigilio
+263320	Donna Serafina
+263546	Abbe Paparelli
+263608	Santobono
+263737	Monsignor Gallo
+263799	Don Vigilio
+263821	Paparelli
+263823	Paparelli
+263922	Pierre
+263959	Don Vigilio
+264184	Pierre
+264242	Don Vigilio
+264399	Paparelli
+264401	Paparelli
+264478	Don Vigilio
+264502	Pierre
+264591	Pierre
+264601	Dario
+264649	Donna Serafina
+264737	Cardinal
+264832	Pierre
+264877	Donna Serafina
+264954	Pierre
+265127	Pierre
+265226	Pierre
+265237	Cardinal Sarno
+265384	Pierre
+265458	Donna Serafina
+265488	Sarno
+265494	Pierre
+265537	Boccanera
+265549	Paparelli
+265617	Paparelli
+265634	Pierre
+265673	Sanguinetti
+265681	Sanguinetti
+265710	Donna Serafina
+265736	Cardinal Boccanera
+265754	Pierre
+265760	Paparelli
+265769	Don Vigilio
+265829	Cardinal Boccanera
+265908	Paparelli
+266127	Paparelli
+266132	Pierre
+266186	Boccanera
+266188	Sanguinetti
+266191	Santobono
+266202	Sanguinetti
+266224	Boccanera
+266308	Cardinal Sanguinetti
+266381	Abbe Paparelli
+266410	Pierre
+266423	Pierre
+266469	Boccanera
+266486	Sanguinetti
+266500	Boccanera
+266615	Pierre
+266716	Pierre
+267015	Boccanera
+267275	Benedetta
+267477	Viscount Philibert
+267479	de la
+267481	Choue
+267558	Bergerot
+267600	Pierre
+267643	Cardinal Boccanera
+267973	Pierre
+268039	Leo XIII
+268048	Boccanera
+268260	Leo XIII
+268304	Pierre
+268611	Leo XIII
+269084	Pierre
+269091	Cardinal Boccanera
+269098	Leo XIII
+269167	Leo XIII
+269228	Gioachino
+269277	Pierre
+270155	God
+270424	Pierre
+270453	Boccanera
+270616	Boccanera
+270621	Pierre
+270763	Morano
+270814	Donna Serafina
+270824	Pierre
+270832	Don Vigilio
+270837	Victorine
+270871	Pierre
+270873	Don Vigilio
+271069	Pierre
+271085	Donna Serafina
+271302	Pierre
+271324	Luigi
+271337	Pierre
+271424	Pierre
+271548	Pierre
+271685	Pierre
+271752	Batista
+271770	Pierre
+271866	Pierre
+271963	Monsieur Froment
+272086	Pierre
+272306	Pierre
+272377	Angiolo Mascara
+272397	Mascara
+272534	Angiolo
+272614	Monsieur l'Abbe
+272661	Pierre
+272664	Angiolo
+272701	Monsieur Froment
+272957	Pierre
+273081	Pierre
+273517	Pierre
+273549	Cardinal
+273728	Campagna
+274440	Pierre
+274694	Pierre
+275783	Pierre
+276114	Pierre
+276458	Prince Buongiovanni
+276583	Sacco
+276620	Attilio
+276660	Celia
+276665	Stefana
+276777	Pierre
+276978	Angiolo Mascara
+277028	Angiolo
+277379	Campagna
+277443	Pierre
+277605	Augustus
+277684	Pierre
+277887	Mazzini
+278070	Benedetta
+278115	Pierre
+278122	Luigi
+278348	Monsieur Froment
+278433	Pierre
+278449	Luigi Prada
+278453	Pierre
+278479	Santobono
+278491	Campagna
+278619	Pierre
+278621	Prada
+278654	Pierre
+278725	Pierre
+279036	Pierre
+279054	Prince
+279061	Contessina
+279083	Dieu
+279117	Benedetta
+279214	Pierre
+279327	Pierre
+279353	Prada
+279472	Pierre
+279589	Pierre
+279614	Pierre
+279686	Theophile Morin
+279691	Garibaldi
+279744	Luigi
+279772	Pierre
+279817	Morin
+279873	Morin
+279980	Monsieur Froment
+280021	Pierre
+280194	Pierre
+280270	Cardinal Boccanera
+280337	Pierre
+280342	Luigi
+280390	Donna Serafina
+280436	Pierre
+280441	Victorine
+280463	Don Vigilio
+280496	Pierre
+280575	Victorine
+280578	Pierre
+280919	Pierre
+280990	Narcisse Habert
+280994	Pierre
+281148	Pierre
+281172	Pierre
+281209	Narcisse
+281337	Pierre
+281381	Narcisse
+281495	Botticelli
+281501	Dieu
+281632	Pierre
+281641	Botticelli
+281651	Don Vigilio
+281669	Victorine
+281690	Narcisse
+281702	Botticelli
+281803	Victorine
+281808	Giacomo
+281815	Pierre
+281825	Botticelli
+281891	Pierre
+281961	Victorine
+281965	Donna Serafina
+282065	Pierre
+282071	Narcisse
+282124	Pierre
+282132	Victorine
+282139	Giacomo
+282193	Monsieur l'Abbe
+282219	Pierre
+282259	Victorine
+282274	Contessina
+282303	Pierre
+282309	Monsieur l'Abbe
+282346	Auneau
+282419	Mon Dieu
+282472	Pierre
+282583	Monsieur l'Abbe
+282596	Donna Serafina
+282649	Auneau
+282865	Pierre
+282949	Pierre
+282954	Victorine
+282956	Giacomo
+283044	Pierre
+283214	Lourdes
+283566	Pierre
+283712	Pierre
+283828	Augustus
+283843	Peter
+284008	Pierre
+284169	Pierre
+284237	Leo XIII
+284334	Pierre
+284425	Pierre
+284531	Lourdes
+284639	Pierre
+284941	Monsignor Nani
+285114	Leo XIII
+285428	Pierre
+285566	Pierre
+285605	Theophile Morin
+285731	Pierre
+286162	Pierre
+286555	Pierre
+286809	Pierre
+287065	Pierre
+287276	Leo XIII
+287285	Peter
+287367	Peter
+287387	Pierre
+287390	Theophile Morin
+287527	Jove
+287748	Pierre
+288031	Lourdes
+288181	Abbe Rose
+288494	Pierre
+288696	Pierre
+288803	Lourdes
+288870	Victorine
+288888	Giacomo
+288901	Monsieur l'Abbe
+289014	Pierre
+289047	Don Vigilio
+289104	Donna Serafina
+289111	Pierre
+289129	Victorine
+289175	Benedetta
+289177	Dario
+289280	Contessina
+289323	Pierre
+289344	Abbe Paparelli
+289413	Victorine
+289445	Pierre
+289484	Monsieur l'Abbe
+289510	Monsieur l'Abbe
+289517	Victorine
+289575	Pierre
+289680	Pierre
+289714	Ara Coeli
+289754	Altieri
+290048	Pierre
+290226	Pierre
+290396	Pierre
+290404	Peter
+290441	Nineveh
+290443	Babylon
+290501	Pierre
+290503	Trajan
+290707	Lyons
+290958	Pierre
+291044	Piazza
+291054	Diocletian
+291243	Pierre
+291434	Pierre

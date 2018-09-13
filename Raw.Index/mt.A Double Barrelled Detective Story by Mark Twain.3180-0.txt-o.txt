@@ -1,0 +1,238 @@
+76	Jacob Fuller
+105	James
+1016	Stillman
+1024	Archy
+1086	Archy
+1528	Archy
+2189	Archy
+2477	Jacob Fuller
+2973	Jacob Fuller
+3247	Jacob Fuller
+3746	Fuller
+3816	Fuller
+4237	Fuller
+4362	Fuller
+4451	Fuller
+4484	Fuller
+4844	Fuller
+4950	David Wilson
+5029	Wilson
+5190	Jacob Fuller
+5225	Denver Fuller
+6019	James Walker
+6343	Rawal-Pindi
+6584	Sammy ''
+6586	Hillyer
+6688	James Walker
+6753	Hillyer
+6787	Buckner
+6854	Flint Buckner
+6878	Sammy
+6945	Archy Stillman
+7499	Buckner
+7575	Sammy Hillyer
+7587	Hillyer
+7639	Fetlock Jones
+7679	Buckner
+7799	Buckner
+7818	Pat Riley
+7900	Riley
+8029	Flint Buckner
+8730	Scott
+9163	Buckner
+9216	Buckner
+9354	Buckner
+9705	Flint Buckner
+9731	Jake Parker
+9776	Peter Hawes
+9793	Wells-Fargo
+9797	Ferguson
+9874	Ham Sandwich
+9901	Buckner
+9905	Laura
+9933	Pat Riley
+9971	Ham Sandwich
+10034	Peterson
+10057	Archy Stillman
+10069	Peterson
+10078	Archy Stillman
+10085	Wells-Fargo
+10089	Ferguson
+10104	Ferguson
+10108	Peterson
+10126	Billy Stevens
+10154	Ferguson
+10158	Ferguson
+10517	Wells-Fargo
+10698	Archy Stillman
+10719	Hogan
+10751	Ham Sandwich
+10779	Hogan
+11012	Hogan
+11050	Archy
+11177	Stillman
+11270	Stillman
+11484	Stillman
+11608	Archy
+11630	Archy Stillman
+11644	Peterson
+11652	Ferguson
+11692	Ferguson
+11753	Stillman
+11815	Archy
+11834	Pat Riley
+11837	Ham Sandwich
+11851	Archy
+11895	Billy
+12004	Hogan
+12044	Billy
+12069	Archy Stillman
+12124	Billy
+12232	Johnny
+12313	SHERLOCK HOLMES
+12357	Pat Riley
+12368	Buckner
+12374	Fetlock Jones
+12388	Sherlock
+12522	Buckner
+12713	Ferguson
+12715	Jake Parker
+12721	Ham Sandwich
+12773	Holmes
+12857	Ferguson
+12914	Ham Sandwich
+12952	Ferguson
+12970	Wells-Fargo
+13294	Holmes
+13339	Ferguson
+13383	Wells-Fargo
+13387	Jake Parker
+13414	George
+13423	Ferguson
+13449	Archy
+13555	Hogan
+13625	Hogan
+13636	Hogan
+14184	Billy
+14273	Jackson
+14281	Ham Sandwich
+14311	George
+14344	Ferguson
+14395	Ham Sandwich
+14426	Buckner
+14436	Sherlock Holmes
+14455	Fetlock
+14544	Holmes
+14570	Sherlock
+14621	George
+14634	Sherlock Holmes
+14646	Ferguson
+14862	Fetlock
+14885	Flint Buckner
+14930	Flint Buckner
+14997	Sherlock Holmes
+15150	Holmes
+15154	Archy Stillman
+15260	Fetlock Jones
+15277	Ham Sandwich
+15372	Sherlock Holmes
+15640	Ferguson
+15654	Ham Sandwich
+15678	Jake Parker
+15696	Wells-Fargo
+15761	Wells-Fargo
+15972	Archy
+16029	Archy
+16094	Hillyer
+16157	Fetlock Jones
+16163	Pat Riley
+16259	Pat
+16357	Sherlock Holmes
+16448	Flint Buckner
+16489	Flint Buckner
+16493	Holmes
+16517	Fetlock Jones
+16640	Sandy
+16670	Jones
+16819	George
+16918	Buckner
+17063	Mary Ann
+17099	Wells-Fargo Ferguson
+17134	Holmes
+17424	Jackson
+17432	Ham Sandwich
+17602	Sammy Hillyer
+17640	Hillyer
+17675	Holmes
+17724	Holmes
+17745	Hillyer
+17755	Archy
+17784	Archy
+17790	Stillman
+17854	Archy
+17865	Archy
+17920	Stillman
+17936	Tom Jeffries
+17947	Harris
+18155	Stillman
+18423	Flint Buckner
+18661	Buckner
+18858	Ham Sandwich
+18909	Stillman
+19056	Ferguson
+19063	Archy
+19082	Holmes
+19275	Dern
+19282	Archy
+19286	Ferguson
+19295	Ham Sandwich
+19309	Stillman
+19502	Stillman
+19606	Stillman
+19622	Fetlock Jones
+19782	Stillman
+19910	Stillman
+19971	Stillman
+20053	Stillman
+20117	Archy
+20241	Flint Buckner
+20318	Fetlock Jones
+20400	Fetlock Jones
+20601	Ham Sandwich
+20799	Stillman
+20807	Fetlock Jones
+20830	Harris
+20875	Hillyer
+20891	Buckner
+20901	Hillyer
+21037	Sherlock Holmes
+21228	Wells-Fargo Ferguson
+21244	Sherlock Holmes
+21323	Ham Sandwich
+21349	Ferguson
+21393	Ham Sandwich
+21412	James Walker
+21481	Hillyer
+21804	Holmes
+22028	Sherlock Holmes
+22354	Hillyer
+22415	Wells-Fargo Ferguson
+22418	Ham Sandwich
+22469	Harris
+22523	Sherlock Holmes
+22571	Jack Fairfax
+22677	Daly
+22681	Holmes
+22745	Daly
+22748	Shadbelly Higgins
+23204	Shadbelly Higgins
+23459	Rapaho
+23508	Sherlock Holmes
+23623	Holmes
+23631	Constable Harris
+23741	Shadbelly
+23764	Fetlock Jones
+23810	James Walker
+23855	Hillyer
+23865	Walker
+23928	Jacob Fuller

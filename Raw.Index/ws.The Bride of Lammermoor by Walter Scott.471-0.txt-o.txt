@@ -1,0 +1,2135 @@
+4	Cauk
+120	Joan
+144	Peter Pattieson
+420	Samson
+689	Dick Tinto
+716	Dick Tinto
+736	Tinto
+770	Dick
+832	Richard
+843	Richard
+856	Tinto
+930	Tinto
+1084	Dick Tinto
+1305	Dick Tinto
+1441	Dick
+1698	Dick
+1792	Dick Tinto
+1833	Wilkie
+1891	Pope
+1905	Dick Tinto
+1955	Dick Tinto
+2003	Dick
+2047	Dick
+2082	Dick
+2138	Laird
+2159	Jedediah Cleishbotham
+2178	Tinto
+2210	Dick
+2271	Rubens
+2285	Dick
+2316	Dick
+2384	Dick Tinto
+2437	Dick
+2535	Joshua
+2670	Dick
+2756	Dick
+2872	Richard Tinto
+2959	Dick
+2999	William Wallace
+3014	Edward
+3232	Dick
+3264	Hogarth
+3278	Domenichino
+3288	Morland
+3418	Dick
+3454	Wallace Head
+3457	Dick Tinto
+3489	Dick
+3525	Dick
+3573	Dick
+3674	Dick
+3705	Dick
+3783	Tinto
+3914	Richard Tinto
+3945	Dick Tinto
+4078	Bothwell
+4086	Charles the
+4088	Second
+4098	David Deans
+4155	Pattieson
+4175	Dick
+4279	Tinto
+4286	Peter
+4393	Peter
+4585	Dick
+4774	Dick
+4916	Dick
+5011	Dick Tinto
+5072	Elizabeth
+5136	Charles I.
+5214	Tinto
+5388	Pattieson
+5424	Dick
+5754	Dick
+5863	Tinto
+5936	Tinto
+5954	Puff
+5971	Burleigh
+5981	Peter
+5985	Tinto
+6201	Dick
+6286	Tinto
+6371	Henry VI
+6458	Humes
+6460	Swintons
+6462	Hays
+7078	William Ashton
+7203	James VI
+7240	St. James
+7501	Abou Hassan
+7834	William Ashton
+7885	Lady Ashton
+8061	Lady Ashton
+8132	Lady Ashton
+8294	Ashton
+8367	William Ashton
+8462	William Ashton
+8600	Allan Lord
+8602	Ravenswood
+9193	Edgar
+9528	Edgar Ravenswood
+10405	William Bell
+10408	Clim
+10412	Cleugh
+10595	William Ashton
+10922	Young Ravenswood
+11009	Edgar
+11174	Athole
+11405	William Ashton
+11438	Edgar Ravenswood
+11456	William
+11825	William Ashton
+11906	Lucy Ashton
+12017	Lucy Ashton
+12120	Madonna
+12182	Lucy Ashton
+12328	Miranda
+12348	Lucy
+12508	Lucy Ashton
+12574	Lucy
+12631	Lucy
+12643	Henry
+12673	Lucy
+12700	Lucy
+12727	Lady Ashton
+12827	Lucy
+13003	Lucy
+13152	Lucy
+13207	Lucy
+13282	Lucy
+13427	William Ashton
+13497	Norman
+13513	Saul
+13572	Norman
+13619	Sholto
+13636	Harry
+13742	Edgar Ravenswood
+13773	Edgar
+13880	William
+14156	Norman
+14281	William
+14354	Norman
+14360	Norman
+14445	Shortwood Shaw
+14509	Lucy
+14550	Norman
+14563	Ledington
+14583	Alice
+14603	Lucy
+14636	Norman
+14661	Alice
+14701	Old Alice
+14840	Alice
+15010	Lucy
+15019	Alice
+15127	Alice
+15201	LUCY
+15447	Lucy
+15658	Lucy
+15732	Judah
+16022	Lucy
+16044	Alice
+16059	Ashton
+16107	Alice
+16185	Alice
+16199	Babie
+16228	Babie
+16254	Alice
+16299	Ashton
+16314	Babie
+16505	William
+16699	Lucy
+16739	Lucy
+16768	Lucy
+16806	Lucy
+17570	George Lockhart
+17836	William Ashton
+17880	Alice
+17957	Dalry
+18079	Lucy
+18123	Lucy
+18138	Alice
+18233	Drumlanrig
+18447	Lucy
+18531	Lucy
+18568	Ashton
+19025	Lucy
+19202	Miss Ashton
+19273	Alice
+19307	Lucy
+19647	Zachary
+19770	Zachary
+19802	Malleus Malificarum
+19859	Raymond
+20146	Raymond
+20236	Grahame
+20242	Bruce
+20267	Lucy Ashton
+20398	William
+20431	Lucy
+20612	William Ashton
+20662	Lucy
+20886	Lucy
+21044	Lucy
+21177	William Ashton
+21205	Lucy
+21424	Lucy
+21543	William Ashton
+21555	Alice
+21612	Lucy
+21616	Lucy
+21727	William Ashton
+21863	Lucy
+22011	Scotchman
+22130	William Ashton
+22350	Lucy
+22654	Lucy Ashton
+22739	Lady Ashton
+22795	Lucy
+22807	Lucy
+22820	Alice
+22854	Alice
+22910	Lucy
+22936	Lucy
+22954	Alice
+23017	Alice
+23103	Alice
+23133	Lucy
+23201	Lucy
+23643	Ashton
+23658	Lucy
+23688	William Ashton
+23842	William
+23961	Marquis
+23990	Turntippet
+24028	Hegh
+24050	Marquis
+24102	Hirplehooly
+24122	Clerk
+24136	Laird
+24138	Bucklaw
+24169	Turntippet
+24211	Marquis
+24254	Turntippet
+24360	Marquis
+24430	HENRY MACKENZIE
+24474	Tod
+24504	Wolf
+24761	Craigengelt
+24794	Craigengelt
+24854	Craigengelt
+24991	Scotchman
+25004	Lady Girnington
+25021	Craigengelt
+25082	Bucklaw
+25176	Chevalier
+25238	Craigengelt
+25362	Bucklaw
+25371	Craigengelt
+25399	Germains
+25528	Craigengelt
+25593	Craigengelt
+25640	William Ashton
+25766	Bucklaw
+25867	Craigengelt
+25933	Bucklaw
+25997	Bucklaw
+26066	Craigengelt
+26097	Craigengelt
+26130	Bucklaw
+26190	Craigengelt
+26280	Bucklaw
+26287	Lee
+26289	Craigengelt
+26369	Bucklaw
+26401	Craigengelt
+26408	Bucklaw
+26545	Craigengelt
+26610	Grey Gilbert
+26615	Jacobuses
+26704	Bucklaw
+26769	Bucklaw
+26813	Craigengelt
+26980	Craigengelt
+26982	Bucklaw
+27068	Bucklaw
+27128	Craigengelt
+27260	Bucklaw
+27424	Craigengelt
+27565	Craigengelt
+27692	Craigengelt
+27760	Bucklaw
+27880	Craigengelt
+27896	Bucklaw
+27929	Craigengelt
+27936	Bucklaw
+28004	Billy Berwick
+28087	Tod
+28095	Wolf
+28122	Bucklaw
+28144	Tod
+28186	Bucklaw
+28197	Craigengelt
+28215	Frank Hayston
+28218	Bucklaw
+28254	Hayston
+28324	Bucklaw
+28356	Hayston
+28416	Hayston
+28543	Bucklaw
+28643	Bucklaw
+28711	Bucklaw
+28850	Bucklaw
+28908	Bucklaw
+29053	Bucklaw
+29174	Bucklaw
+29245	Ossian
+29278	Craigengelt
+29284	Bucklaw
+29311	Bucklaw
+29358	Wolf
+29623	Bucklaw
+29748	Bucklaw
+29794	Craigengelt
+29815	Bucklaw
+29837	Lady Girnington
+30251	Bucklaw
+30545	Bucklaw
+30567	Lady Girnington
+30619	Bucklaw
+30660	Wolf
+30723	Bucklaw
+30770	Wolf
+31276	Caleb
+31352	Caleb
+31520	Caleb
+31560	Bucklaw
+31580	Caleb
+31620	Caleb
+31636	Caleb
+31912	Caleb
+32123	Wolf
+32168	Mysie
+32192	Bucklaw
+32282	Bucklaw
+32304	Caleb
+32316	William
+32415	Caleb
+32619	North Berwick
+32621	Law
+32779	Caleb
+33190	Hayston
+33274	Caleb
+33305	Bucklaw
+33395	Bucklaw
+33762	Caleb Balderstone
+33784	Caleb
+33814	Caleb
+33904	Bucklaw
+33945	Caleb
+33999	Caleb
+34020	Laird
+34055	Caleb
+34269	Caleb
+34327	Bucklaw
+34359	Caleb
+34390	Bucklaw
+34419	Bucklaw
+34432	Caleb
+34442	Caleb
+34488	Wolf
+34514	Caleb
+34598	Caleb
+34675	Bucklaw
+34696	Wolf
+34735	Caleb
+34854	Linne
+34865	Linne
+34913	Wolf
+35190	Bucklaw
+35229	Bucklaw
+35250	Angus
+35324	Caleb
+35394	Caleb
+35422	Bucklaw
+35469	Caleb
+35581	Lady Grinington
+35672	Caleb
+35935	Caleb
+35946	Caleb
+36049	Caleb
+36114	Caleb
+36180	Caleb
+36240	Eppie Sma
+36252	Caleb
+36334	Luckie Chirnside
+36377	Caleb
+36441	Caleb
+36490	Bucklaw
+36787	Lucy Ashton
+36887	William Ashton
+36915	Lucy Ashton
+37319	Wolf
+37358	Marquis
+37374	Bucklaw
+37393	Marquis
+37403	Marquis
+37499	Wolf
+37563	Wolf
+37572	Caleb
+37603	Wolf
+37619	Bucklaw
+37750	Caleb
+37892	Bucklaw
+37904	Caleb
+37996	Bucklaw
+38034	Ballantyne
+38040	Bucklaw
+38290	Wolf
+38604	Bucklaw
+38799	Bucklaw
+38803	Marquis
+38844	Charles
+38850	James
+38881	Bucklaw
+38898	Claver
+39064	Bucklaw
+39139	Marquis
+39189	Bucklaw
+39355	Caleb
+39386	Bucklaw
+39445	Bucklaw
+39455	Caleb
+39471	Caleb
+39482	Bucklaw
+39550	Caleb
+39575	Laird
+39584	Caleb
+39645	Caleb
+39699	Margaret
+39796	Mysie
+39841	Bucklaw
+39859	Marquis
+39961	Caleb
+39985	Wolf
+39999	Bucklaw
+40103	Hayston
+40138	Bucklaw
+40172	Caleb
+40229	Bucklaw
+40265	Brittlebrains
+40270	Caleb
+40277	Laird
+40279	Bucklaw
+40319	Caleb
+40368	Caleb
+40397	Wolf
+40402	Brittlebrains
+40439	Caleb
+40445	Bucklaw
+40472	Caleb
+40528	Caleb
+40564	Hew Hildebrand
+40615	Caleb
+40665	Caleb
+40788	Caleb
+40828	Caleb
+40873	Caleb
+40906	Caleb
+41017	Caleb
+41093	Bucklaw
+41097	Margaret
+41122	Bittlebrains
+41213	Caleb
+41237	Bucklaw
+41275	Caleb Balderstone
+41335	Bucklaw
+41787	Bucklaw
+41824	John Dryden
+42080	Bucklaw
+42193	Bucklaw
+42379	Bucklaw
+42614	Bucklaw
+42689	Bucklaw
+42830	Bucklaw
+43049	Bucklaw
+43140	Bucklaw
+43311	Bittlebrain
+43375	Bucklaw
+43437	Tristrem
+43752	Bucklaw
+44051	Hayston
+44240	Wolf
+44305	Bucklaw
+44649	Wolf
+44830	Wolf
+44923	Wolf
+45039	Bittlebrains
+45091	Wolf
+45213	Wolf
+45490	Wolf
+45528	Caleb
+45559	Caleb
+45896	Caleb
+45960	Caleb Balderstone
+46090	Caleb
+46169	Caleb
+46309	Gramercy
+46332	COLERIDGE
+46342	Bucklaw
+46375	Wolf
+46404	Bucklaw
+46422	Caleb Balderstone
+46455	Caleb
+46498	Caleb
+46697	Caleb
+46822	Wolf
+46860	Louis XIV.
+46863	Caleb Balderstone
+46937	Caleb
+46975	Bucklaw
+46998	Caleb
+47047	Bucklaw
+47087	Caleb
+47107	Bucklaw
+47204	Caleb
+47251	Bucklaw
+47265	Caleb
+47342	Caleb
+47377	Bittlebrain
+47423	Wolf
+47548	Wolf
+47610	Wolf
+47635	Craigengelt
+47681	Bucklaw
+47693	Craigengelt
+47784	Bucklaw
+47835	Auld Reekie
+47884	Hayston
+47972	Craigengelt
+47976	Bucklaw
+47983	Craigengelt
+48035	Bucklaw
+48103	Bucklaw
+48178	Craigengelt
+48203	Bucklaw
+48398	Bucklaw
+48457	Craigengelt
+48529	Wolf
+48557	Caleb
+48573	Balderstone
+49120	William Ashton
+49131	Wolf
+49352	Lucy Ashton
+49421	William Ashton
+49458	Lucy
+49508	Lucy
+49657	Lucy Ashton
+49703	Lucy Ashton
+49924	Lucy
+50131	Lucy
+50190	Lucy Ashton
+50356	Caleb Balderstone
+50464	Caleb
+50528	Mysie
+50744	Caleb
+50793	Mysie
+50829	Caleb
+50934	Caleb
+50974	Ashton
+51084	Caleb
+51146	Laird
+51171	William Ashton
+51209	Caleb
+51217	Balderstone
+51317	Caleb
+51575	Ashton
+51613	Caleb
+51722	Caleb
+51821	George Buchanan
+51838	Caleb Balderstone
+51854	Caleb
+51922	Mysie
+51951	Ashton
+52201	Butler
+52282	Caleb
+52349	Caleb
+52388	Lockhard
+52424	Caleb
+52443	Wolf
+52532	Caleb
+52557	Caleb
+52623	Lucy
+52641	Caleb
+52946	Mysie
+52975	Ashton
+52978	Mysie
+53010	Henrietta Maria
+53027	Bucklaw
+53045	Caleb
+53058	Wolf
+53173	Lockhard
+53188	Caleb
+53254	Caleb
+53444	Caleb
+53516	Hayston
+53540	Caleb
+53618	Lockhard
+53773	Wolf
+53778	Wolf
+53839	Wolf
+53934	Caleb
+54017	Caleb
+54251	Wolf
+54272	Caleb Balderstone
+54440	Caleb
+54448	Wolf
+54646	Dunse
+54648	Davie Dingwall
+54692	Wolf
+54699	Caleb
+54750	Wolf
+54776	Davie Dingwall
+54807	William Ashton
+54836	Balderstone
+54879	Edgar Ravenswood
+54900	Caleb
+54976	Wolf
+54987	John Whitefish
+54997	Wolf
+55012	Caleb
+55120	Wolf
+55163	Caleb
+55282	Balderstone
+55349	Dingwall
+55383	Caleb
+55472	Maggie Lauder
+55489	Caleb
+55497	Wolf
+55596	Balderstone
+55663	Caleb
+55688	Dingwall
+55746	Wolf
+55809	Lockhard
+55811	Luckie Sma-trash
+55827	Craigengelt
+55891	Lockhard
+55929	Cauld Kail
+55952	Bucklaw
+56010	Lockhard
+56070	Lockhard
+56183	Cauld Kail
+56284	Gibbie Girder
+56330	Caleb
+56348	Johnny New-come
+56373	Jean Lightbody
+56376	auld Lightbody
+56392	Lightbody
+56397	Marion
+56421	Jean
+56515	Caleb
+56583	Wolf
+56661	Luckie Loup-the-Dyke
+56840	Caleb
+56973	Caleb
+57016	Wolf
+57026	Caleb Balderstone
+57053	Wolf
+57063	Caleb
+57067	Wolf
+57134	Caleb
+57154	Balderstone
+57262	Caleb
+57453	Luckie Lightbody
+57462	Balderstone
+57555	Mysie
+57570	Marion
+57597	Gilbert
+57642	Caleb
+57842	Girder
+57847	Peter Bide-the-Bent
+57884	Caleb
+57901	Luckie
+57906	Cuffcushion
+57941	Lightbody
+57951	Jean
+57987	Balderstone
+58005	Caleb
+58017	Ilka
+58064	Caleb
+58115	Peter Puncheon
+58128	Timmer Burse
+58153	Gilbert
+58227	Girder
+58234	Ashton
+58287	Balderstone
+58326	Caleb
+58380	Marion
+58421	Jean
+58487	Caleb
+58574	Sma
+58625	Caleb
+58689	Hayston
+58712	Caleb
+58729	Bucklaw
+58747	Craigengelt
+58767	Caleb
+58783	Lockhard
+58794	Bittlebrains
+58816	William Ashton
+58864	Caleb
+58931	Caleb
+59028	Dame Lightbody
+59105	Giles
+59124	Balderstone
+59159	Girder
+59232	Lightbody
+59241	Caleb Balderstone
+59265	Girder
+59291	Wolf
+59481	Girder
+59636	Bide-the-Bent
+59672	Bide-the-Bent
+59745	Bide-the-Bent
+59786	Gilbert
+59807	Girder
+59877	Gibbie Girder
+59939	Caleb Balderstone
+59943	Wolf
+59949	Marion
+59957	Girder
+59994	Caleb
+60077	Gilbert
+60193	Dame Lightbody
+60238	Dame Lightbody
+60265	Girder
+60522	Allan Ravenswood
+60562	Gilbert
+60662	Wolf
+60669	William Ashton
+60672	Wolf
+60698	Dame Lightbody
+60767	Peter Puncheon
+60873	Girder
+60898	Luckie Sma
+60915	Wolf
+60921	Girder
+60969	Peter Puncheon
+60980	Puncheon
+61042	Balderstone
+61122	Balderstone aye
+61199	Bide-the-Bent
+61228	Jean
+61284	Caleb
+61319	Lockhard
+61341	Mysie
+61370	Wolf
+61414	Wolf
+61441	Caleb
+61444	Balderstone
+61447	Caleb Balderstone
+61457	Caleb
+61707	Bruin
+61781	Caleb
+61841	Peter Puncheon
+61851	John -LSB-
+61853	Gibbie
+61882	Maister Balderstone
+61909	Caleb
+61950	Lockhard
+62118	Caleb
+62214	Caleb Balderstone
+62258	Wolf
+62336	Lockhard
+62345	Wolf
+62428	Caleb
+62453	Lockhard
+62528	Lockhard
+62538	Balderstone
+62591	Lockhard
+62595	Caleb
+62678	Lockhard
+62717	William
+62749	Caleb
+62770	Lockhard
+62811	butler
+62874	Mysie
+62879	Girder
+63021	Ashton
+63367	Caleb
+63480	Lucy Ashton
+63518	Mysie
+63543	Caleb
+63586	Wolf
+63612	Caleb
+63718	Wolf
+63752	Sampson
+63769	Micklestob
+63780	Jamie of
+63782	Jenklebrae
+63818	Caleb
+63852	Caleb
+63929	Caleb
+63955	Wolf
+64041	Caleb
+64063	Caleb
+64100	William Ashton
+64252	William Ashton
+65232	Lucy Ashton
+65456	Henry VIII
+65462	Elizabeth
+65487	William Ashton
+65758	Alice
+65823	Marquis
+65864	William
+66191	Scott of
+66193	Scotsarvet
+66268	Fordun
+66340	Marquis
+66360	Ravenswood
+66484	Marquis
+66547	Marquis
+66635	Marquis
+66698	William Ashton
+66780	Marquis
+66923	Lady Ashton
+66963	Marquis
+66976	Sarah Duchesss
+67014	Marquis
+67082	Marquis
+67399	Dingwall
+67410	Wolf
+67439	Caleb
+67479	Luckie Sma
+67507	Marquis
+67515	William Ashton
+67973	Marquis
+68036	William Ashton
+68109	Lucy
+68121	Ravenswood
+68183	Bittlebrains
+68200	Wolf
+68238	Ashton
+68270	Wolf
+68297	Lockhard
+68432	Wolf
+68501	William Ashton
+68518	Alice
+68585	William Ashton
+68592	Lucy
+68884	Lady Ashton
+69053	Lucy Ashton
+69239	William
+69385	Allan Lord
+69387	Ravenswood
+69435	William Ashton
+69602	William Ashton
+69797	William
+70058	Edgar Ravenswood
+70108	Lucy Ashton
+70254	William Ashton
+70371	Lucy
+70479	Caleb Balderstone
+70622	Caleb
+70671	Caleb
+70683	Caleb
+70752	Wolf
+70763	Caleb
+70838	Craigengelt
+70940	Craigengelt
+70990	Craigengelt
+71108	Hayston
+71114	Craigengelt
+71275	Craigengelt
+71310	Bucklaw
+71327	Craigengelt
+71452	Craigengelt
+71507	Craigengelt
+71553	Laird
+71687	Craigengelt
+71903	Craigengelt
+71933	Craig
+71935	Craig
+71974	Caleb
+72045	Caleb
+72094	Craigengelt
+72230	Ashton
+72275	Jonah
+72571	William Ashton
+72690	Condiddle
+72789	Lockhard
+72826	Lockhard
+72899	Lockhard
+72995	William Ashton
+73048	Caleb
+73249	Lucy
+73305	Lucy
+73714	Caleb
+73754	Lucy
+73953	Lucy Ashton
+73981	William Ashton
+74018	Lady Ashton
+74203	Craigengelt
+74334	Marquis
+74428	Hayston
+74534	Hayston
+74603	Lady Girnington
+74680	Bucklaw
+74745	Caleb
+74812	Courtezan
+74844	Wolf
+74859	Caleb
+74921	Bucklaw
+74953	Caleb
+75053	Caleb
+75084	Caleb
+75090	Edgar
+75126	Randal
+75148	Balderstone
+75178	Edgar
+75310	Caleb
+75366	Caleb
+75380	Thomas the
+75382	Rhymer
+75432	Caleb
+75448	Caleb
+75477	Allan
+75561	Caleb
+75572	Laird
+75641	Wolf
+75727	Caleb
+75849	Caleb
+75915	Caleb
+75977	Caleb
+76098	Lucy
+76143	Thomas the
+76145	Rhymer
+76230	Caleb
+76258	Caleb
+76272	Lockhard
+76303	Caleb
+76429	Caleb
+76516	Caleb
+76626	Caleb
+76645	Caleb
+76878	Caleb
+76957	Ashton
+77013	William Ashton
+77124	Lady Ashton
+77218	Lady Ashton
+77338	Bittlebrains
+77484	Bittlebrains
+77508	Lady Ashton
+77587	Lucy
+78198	William
+78200	Queen Mary
+78205	Thomas Hope
+78378	Lucy Ashton
+78411	Ostade
+78413	Teniers
+78469	Douglas
+78607	William Ashton
+78719	William Ashton
+78742	William
+78818	Caleb
+78905	Lockhard
+78908	William Shaw
+78912	Henry
+78924	Lucy
+79119	Henry
+79142	Lucy
+79172	Bob Wilson
+79179	Galloway
+79315	Cordery
+79342	Henry
+79346	Norman
+79348	Bob Wilson
+79418	Norman
+79430	Lucy
+79451	Bittlebrains
+79486	Henry
+79514	Henry
+79617	Henry
+79696	Henry
+79839	Henry
+79886	Malise Ravenswood
+79942	Malise
+80108	Malise
+80169	Lucy
+80311	Lucy Ashton
+80445	Wolf
+80492	Balderstone
+80644	Henry
+80672	Malise
+80747	Alice
+80769	Alice
+80779	Lucy
+80789	Henry
+80860	Henry
+80996	Lucy
+81086	William Ashton
+81173	Miss Ashton
+81204	Alice
+81208	Lucy
+81320	Lucy
+81326	Alice
+81441	Alice
+81602	Alice
+81647	Lucy
+81697	Lucy
+81722	Alice
+81819	Lucy Ashton
+81849	William Ashton
+81945	Alice
+81949	Lucy
+81972	Alice
+82034	Henry Ashton
+82080	Alice
+82127	Henry
+82204	Lucy
+82232	Henry
+82278	Alice
+82322	Norman
+82345	Alice
+82407	Alice
+82445	Alice
+82498	Alice
+82534	Edgar Ravenswood
+82572	Alice
+82672	Alice
+82709	Ashton
+82755	Alice
+82865	William Ashton
+82967	Alice
+83003	Alice
+83059	Ashtons
+83125	Alice
+83231	Alice
+83311	Edgar Ravenswood
+83405	Caleb Balderstone
+83442	Ashton
+83457	William
+83499	Alice
+83557	Lucy Ashton
+83743	William Ashton
+83846	WORDSWORTH
+83887	Lucy
+83921	William Ashton
+83964	Alice
+83989	Lucy Ashton
+84018	Ashton
+84102	Lucy
+84174	Henry
+84193	Lucy
+84210	Norman
+84237	Jacobus
+84240	Lucy
+84371	Henry
+84435	Lucy
+84507	Lucy Ashton
+84684	Lucy
+84714	Ashton
+84733	Lucy
+84869	Lucy
+84905	Alice
+84968	Ashton
+85044	Lucy
+85145	Miss Ashton
+85193	Lucy
+85313	Lucy
+85452	William Ashton
+85495	Lucy
+85590	Lucy
+85603	Douglas
+85642	Lucy
+85719	Lucy
+85790	Lucy
+85896	Lucy
+85987	Lucy
+86105	Lucy
+86272	Lucy
+86350	Lucy
+86408	Alice
+86427	Lucy
+86451	Edgar Ravenswood
+86589	Lucy
+86603	Ashton
+86648	Henry Ashton
+86710	Lucy
+86741	Lucy
+86757	Lucy
+86772	Norman
+86808	Lucy
+86822	Henry
+86884	Norman
+87038	Norman
+87087	Lucy
+87187	Lucy
+87309	Henry
+87405	Lucy Ashton
+87463	William Ashton
+87485	Lucy
+87553	Lucy
+87706	Lucy
+87739	Lady Ashton
+87914	William
+87923	Marquis
+87944	William
+88012	Marquis
+88120	Marquis
+88260	Lucy
+88356	Lucy
+88358	Lockhard
+88447	WILLIAM ASHTON
+88579	Lucy
+88602	Lockhard
+88641	William
+88666	Marquis
+88716	Wolf
+88736	Lucy
+88789	Lucy
+88963	Lucy
+89038	Lucy
+89106	Lucy
+89178	Lucy
+89305	Joanna Baillie
+89421	Lucy
+89463	Lucy
+89489	Lucy
+89527	Lucy
+89583	Lucy
+89618	Lucy
+89668	Henry
+89910	Marquis
+89991	William Ashton
+90011	Ashton
+90016	Laird
+90039	Bucklaw
+90045	Craigengelt
+90094	Craigengelt
+90108	Law
+90132	Bucklaw
+90149	Craigengelt
+90182	Wolf
+90215	Craigengelt
+90236	Laird
+90255	Bucklaw
+90359	Craigengelt
+90408	Bucklaw
+90450	Craigengelt
+90474	Bucklaw
+90552	Bucklaw
+90678	Bucklaw
+90706	Bucklaw
+90753	Monsieur Sagoon
+90780	Meinheer Durchstossen
+90809	Bucklaw
+90857	Bucklaw
+90870	Bucklaw
+90929	Craigengelt
+90972	Chevalier de
+90974	Chapon
+91006	Bucklaw
+91043	Bucklaw
+91069	Chevalier
+91086	Bucklaw
+91108	Hielandman
+91125	Dhu
+91144	Craigengelt
+91190	Bucklaw
+91284	Craigengelt
+91288	Bucklaw
+91313	Girnington
+91332	King James
+91436	Craigengelt
+91482	Bucklaw
+91490	Lucy Ashton
+91559	Bucklaw
+91665	Lammer Law
+91696	Lucy Ashton
+91718	Craigengelt
+91757	Ashton
+91764	Bucklaw
+91783	Jove
+91792	Craigengelt
+91885	Bucklaw
+91937	Craigengelt
+91984	Bucklaw
+92086	Craigengelt
+92154	Bucklaw
+92221	Katie Glegg
+92267	Bucklaw
+92281	Lucy
+92283	Katie Glegg
+92438	Bucklaw
+92450	Lady Blenkensop
+92503	Craigengelt
+92513	John Craigengelt
+92616	Lady Girnington
+92632	John
+92666	Lady Blenkensop
+92680	Sarah
+92687	Sall Jennings
+92692	Craigengelt
+92724	Bucklaw
+92747	Lady Ashton
+92772	Lady Blenkensop
+92839	William Ashton
+92855	Lucy Ashton
+92864	Lady Ashton
+92880	Mother Blenkensop
+93114	Craigengelt
+93147	Craigengelt
+93186	Bucklaw
+93242	Craigengelt
+93272	Gad
+93295	Bucklaw
+93373	Bucklaw
+93480	Bucklaw
+93523	Lady Ashton
+93583	John
+93640	Ashton
+93669	Ashton
+93686	Marquis
+93815	Craigengelt
+93831	Bucklaw
+93875	Craigengelt
+93923	Lady Ashton
+93941	Craigengelt
+93983	Bucklaw
+94037	Bucklaw
+94054	Craigengelt
+94222	Sall
+94245	John Churchill
+94319	Craigie
+94363	Duke
+94365	Duke
+94411	Hayston
+94477	Hayston
+94493	Craigengelt
+94587	Craigengelt
+94656	Lady Ashton
+94666	Lady Blenkensop
+94700	Bucklaw
+94743	Lady Ashton
+94766	Bucklaw
+94788	Douglas
+94802	Lady Ashton
+94809	Sholto
+94826	Bucklaw
+94839	Craigengelt
+94862	Lady Ashton
+94881	Bucklaw
+94938	Bucklaw
+94957	Craigengelt
+94982	Ashton
+95135	Lady Ashton
+95196	Wolf
+95309	Lady Blenkensop
+95389	Lady Ashton
+95398	Lady Blenkensop
+95469	Don Gayferos
+95491	Marquis
+95577	Lady Ashton
+95986	Middleton
+96165	Peter Pattieson
+96210	Marquis
+96232	William Ashton
+96265	Henry
+96553	Lady Ashton
+96674	William Ashton
+96690	Lucy
+96714	Lady Ashton
+96778	Ashton
+96833	Lucy
+96853	Lady Ashton
+96890	Lucy
+96931	Henry
+97022	William Ashton
+97040	Lucy
+97119	Lady Ashton
+97250	Ashton
+97300	Marquis
+97422	William
+97488	Lady Ashton
+97566	Marquis
+97616	Marquis
+97661	Lady Ashton
+97694	William Ashton
+97780	William Ashton
+97803	Marquis
+97841	Marquis
+97926	Ashton
+97958	Lady Ashton
+97962	Lucy
+97966	Marquis
+98011	Lady Ashton
+98058	Ashton
+98087	Lady Ashton
+98135	Lady Ashton
+98184	Lady Ashton
+98208	Craigengelt
+98252	Lady Ashton
+98276	William
+98313	Lucy
+98339	Craigengelt
+98378	William Ashton
+98382	Marquis
+98399	Lady Ashton
+98419	Lady Ashton
+98473	Lady Ashton
+98503	Ashton
+98563	Craigengelt
+98584	Marquis
+98610	William
+98649	Craigengelt
+98722	Craigengelt
+98771	Craigengelt
+98834	Marquis
+98840	Lockhard
+98876	Lady Ashton
+98897	Marquis
+98913	Craigengelt
+98944	Marquis
+98994	Lady Ashton
+99007	Craigengelt
+99019	Marquis
+99045	Lady Ashton
+99219	Lady Ashton
+99224	Eleanor -LSB-
+99226	Margaret
+99350	Lady Ashton
+99395	William
+99576	Ashton
+99643	Craigengelt
+99665	Hayston
+99814	William Ashton
+100092	Lady Ashton
+100182	Patullo
+100202	Patullo
+100245	Jardine
+100351	Marquis
+100375	William
+100390	William
+100477	William
+100500	Lady Ashton
+100555	Marquis
+100576	Lady Ashton
+100595	Marquis
+100653	Ashton
+100666	William
+100751	William Ashton
+100753	the billet
+100827	Edgar Ravenswood
+100853	William Ashton
+100900	Marquis
+100909	Lucy
+100921	Lady Ashton
+100935	Marquis
+100942	Ravenswood
+100967	William Ashton
+101045	William
+101057	Marquis
+101149	Marquis
+101208	William Ashton
+101224	Lucy Ashton
+101254	Angus
+101259	Marquis
+101277	Ravenswoods
+101409	William Ashton
+101416	Ashton
+101467	Marquis
+101502	Marquis
+101544	Lady Ashton
+101593	Marquis
+101646	Bucklaw
+101648	Craigengelt
+101664	Marquis
+101688	Ashton
+101711	XXIII
+101742	WALLER
+101773	Ashton
+101808	Marquis
+101858	Tod
+101878	Wolf
+101893	Marquis
+101983	William Ashton
+102112	Mermaiden
+102121	Alice
+102194	Alice
+102409	Lucy Ashton
+102502	Ashton
+102504	-- Lucy
+102527	Lucy Ashton
+102534	Alice
+102682	Alice
+103085	Alice
+103376	Alice
+103400	Babie
+103538	Tod
+103549	Armitage
+103588	Babie
+103879	Alice
+103965	Lucy Ashton
+104300	Macbeth
+104404	Armitage
+104416	Alice
+104438	Johnie Mortsheugh
+104462	Tod
+104544	Blackhall
+104780	Annie Winnie
+105046	Annie Winnie
+105095	Annie Winnie
+105161	Ailsie Gourlay
+105220	Aislie Gourlay
+105238	Annie Winnie
+105286	Ailsie
+105553	Tod
+105579	Mortsheugh
+105597	Alice
+105629	Alice
+105686	Saxon
+105937	Marquis
+105940	Tod
+105979	Wolf
+106500	Alice Gray
+106514	Alice Gray
+106519	Alice
+106550	Habbie Gray
+106625	Ken
+106687	Alice
+107212	Halbert Gray
+107456	Ravenswoods
+107747	Bothwell Brig
+107927	Hackstoun
+107990	Andrew Ferrara
+108018	Caleb Balderstone
+108054	Allan Ravenswood
+108547	Allan
+108551	Ravenswood
+108589	Ravenswood
+108633	William Ashton
+108685	Ravenswood
+108810	John Smith
+108876	Edgar
+108917	Leddy Ashton
+109019	Cervantes
+109069	Alice
+109102	Lucy
+109127	Lucy
+109173	Marquis
+109184	Tod
+109347	Marquis
+109493	Wilt
+109507	Mear
+109517	Patie Birnie
+109543	Marquis
+109580	Mullin Dhu
+109638	Killiecrankie
+109709	Marquis
+109928	Marquis
+109954	William Ashton
+110039	Ashton
+110167	Ashtons
+110224	Marquis
+110259	Ashtons
+110405	Marquis
+110479	Lady Ashton
+110518	Marquis
+110580	Lady Ashton
+110721	Marquis
+110745	Marquis
+110856	Marquis
+110925	William
+110927	Lady Ashton
+110934	Ashton
+111012	Lucy Ashton
+111059	Marquis
+111085	William Ashton
+111206	Ashton
+111398	Ashton
+111458	Marquis
+111473	Marquis
+111511	Tod
+111529	Marquis
+111694	Marquis
+111740	Marquis
+111746	Wolf
+111778	William Ashton
+111784	William
+111864	Wolf
+111996	Wolf
+112058	Marquis
+112082	Caleb Balderstone
+112100	Marquis
+112273	Marquis
+112292	Wolf
+112297	Caleb Balderstone
+112358	Caleb
+112455	Marquis
+112468	Caleb
+112493	Marquis
+112522	Wolf
+112592	Wolf
+112675	Wolf
+112743	Caleb Balderstone
+112780	Wolf
+112859	Luckie Sma
+112965	Marquis
+113042	Caleb
+113167	Wolf
+113186	Marquis
+113194	Caleb
+113227	Caleb
+113250	Wolf
+113272	Marquis
+113307	Caleb
+113346	Willie
+113362	Marquis
+113380	Wolf
+113420	Caleb
+113542	Marquis
+113576	Caleb
+113587	Mysie
+113678	Caleb
+113736	Caleb
+113832	Wolf
+113893	Caleb
+113925	Wolf
+113949	Girder
+113959	Caleb
+114071	Girder
+114074	Dame Loup-the-Dyke
+114086	Caleb
+114090	Caleb Balderstone
+114123	Caleb
+114212	Gude
+114217	Balderstone
+114222	Girder
+114289	Balderstone
+114340	Caleb
+114361	Ane
+114404	Balderstone
+114558	Caleb
+114671	Caleb
+114735	Caleb
+114793	Girder
+114804	Caleb
+114850	Dingwall
+114958	Caleb
+115034	Caleb
+115067	Caleb
+115142	Wolf
+115188	Caleb
+115218	Caleb
+115482	CAMPBELL
+115517	Wolf
+115524	Caleb
+115648	Wolf
+115664	Marquis
+115704	Wolf
+115748	Balderstone
+116134	Caleb
+116201	Wolf
+116302	Balderstone
+116326	Caleb
+116338	Caleb
+116365	Wolf
+116384	Caleb
+116415	Caleb
+116450	Balderstone
+116494	Marquis
+116592	Mysie
+116598	Caleb
+116805	Caleb
+116842	Marquis
+116862	Marquis
+116872	Caleb
+116891	Marquis
+116966	Marquis
+117021	Caleb
+117044	Marquis
+117195	Caleb
+117246	Caleb
+117262	Marquis
+117299	Caleb
+117321	Balderstone
+117325	Balderstone
+117394	Caleb
+117449	Caleb
+117478	Caleb
+117678	Caleb
+117723	Caleb
+117875	Caleb
+117902	Caleb
+117968	Wolf
+118155	Caleb
+118178	Marquis
+118279	Girder
+118459	Allan
+118504	Wolf
+118548	John -LSB-
+118550	Gibbie
+118641	Dame Loup-the-Dyke
+118699	Marquis
+118959	Teniers
+119041	John Girder
+119098	Marquis
+119250	John -LSB-
+119252	Gibbie
+119282	Wolf
+119308	Monsieur
+119344	John
+119453	Richard Tinto
+119532	Marquis
+119617	Wolf
+119647	Marquis
+119656	John Girder
+119666	John
+119680	Dingwall
+119717	John
+119794	Marquis
+119841	Caleb
+119865	Balderstone
+119907	Caleb
+119925	Wolf
+120115	John Girder
+120324	John
+120377	Dame Fortune
+120379	by the
+120381	Forelock
+120477	Anne
+120528	Harley
+120619	Chevalier de
+120621	St. George
+120675	Charles the
+120677	Second
+120699	William
+120745	Cromwell
+120837	Turntippet
+120957	Turntippet
+121028	Turntippet
+121050	Marquis
+121178	William Ashton
+121345	William Ashton
+121408	Lucy
+121460	Ashton
+121490	William
+121505	Lady Ashton
+121528	Ashton
+121591	Edgar
+121604	Lucy
+121722	Ashton
+121800	Lady Ashton
+121836	Ravenswood
+121838	Wolf
+121858	Edgar
+121890	Allan
+121927	Lucy Ashton
+122020	David
+122095	MARGARET DOUGLAS
+122100	ASHTON
+122152	Lockhard
+122159	William Ashton
+122217	William
+122249	Marquis
+122457	Marquis
+122605	Ashton
+122622	Douglas Ashton
+122640	William
+122686	William
+122762	Lucy Ashton
+122874	Ashton
+122952	William Ashton
+122961	Marquis
+122974	William
+123011	Marquis
+123025	William
+123037	Lucy Ashton
+123048	Marquis
+123068	Lady Ashton
+123072	Lady Douglas
+123133	Marquis
+123244	Richard III
+123319	William Ashton
+123346	Craigengelt
+123477	Bucklaw
+123490	Craigengelt
+123559	Bucklaw
+123585	Craigengelt
+123620	Craigengelt
+123674	Laird
+123707	Craigengelt
+123752	Hayston
+123768	Ashton
+123776	Lothian
+123784	Bucklaw
+123832	Bucklaw
+123850	Sholto Douglas
+123852	Ashton
+123869	Bucklaw
+123915	Bucklaw
+123928	William
+123980	Craigengelt
+124064	Bucklaw
+124087	Ashton
+124105	Craigengelt
+124161	Ashton
+124185	Lady Ashton
+124227	Craigengelt
+124253	Bucklaw
+124290	Lucy
+124304	Craigengelt
+124337	Bucklaw
+124361	Craigengelt
+124366	Westenho
+124384	Westenho
+124388	Bucklaw
+124407	William
+124479	Craigengelt
+124486	Douglas Ashton
+124492	Marquis
+124539	Bucklaw
+124563	Bucklaw
+124616	Ashton
+124680	Lucy Ashton
+124729	Bucklaw
+124749	Ashton
+124879	Bucklaw
+124885	Craigengelt
+124914	Ashton
+124926	Bucklaw
+124967	Ashton
+124977	William
+124983	Lady Ashton
+124995	Lucy
+125000	Hayston
+125016	Lucy
+125039	Bucklaw
+125064	Bucklaw
+125121	Bucklaw
+125142	Lady Ashton
+125169	Lucy
+125185	Lady Ashton
+125235	Bucklaw
+125284	Ashton
+125331	Ashton
+125385	Lucy
+125396	Bucklaw
+125484	Lady Ashton
+125512	Hayston
+125553	Ashton
+125586	Bucklaw
+125604	Lucy
+125630	Ashton
+125658	Bucklaw
+125710	Ashton
+125826	Lady Girnington
+125938	Lady Ashton
+125949	Lucy
+125964	Craigengelt
+125974	Bucklaw
+126062	Ashton
+126079	Bucklaw
+126083	Lady Ashton
+126090	Lucy
+126119	Lucy
+126146	Lucy
+126194	Lady Ashton
+126289	Bucklaw
+126366	Ashton
+126382	Lady Ashton
+126394	Douglas
+126458	Lucy
+126515	William
+126533	Lucy
+126541	Lucy
+126618	Lucy
+126656	Lady Ashton
+126679	Lucy
+126709	Bucklaw
+126715	Ashton
+126739	Ashton
+126796	Ashton
+126824	Bucklaw
+126859	Lady Ashton
+126864	Bucklaw
+126923	Hayston
+126935	Lady Ashton
+126962	Miss Ashton
+126985	Lucy
+127036	Ashton
+127046	Bucklaw
+127121	Laird
+127128	Johnston
+127168	Ashton
+127181	William
+127185	Douglas
+127208	Ashton
+127225	Bucklaw
+127291	Lady Ashton
+127324	William
+127343	Lucy
+127371	Lucy
+127435	Henry
+127465	Lucy
+127506	Dinna
+127514	Henry
+127646	Henry
+127655	Luch
+127735	Sholto
+127746	Norman
+127865	Kinsman
+127902	Bucklaw
+127926	Lady Ashton
+128138	Hayston
+128255	Lucy Ashton
+128259	Marquis
+128305	Marquis
+128337	William
+128426	Ashton
+128439	William
+128484	Lady Ashton
+128522	Lucy
+128645	Lucy
+128783	Ashton
+128822	Lucy
+128937	Douglas Ashton
+128969	Lady Ashton
+129010	Lucy
+129014	Bucklaw
+129197	Lady Ashton
+129243	Ashton
+129297	Lucy Ashton
+129314	Lucy
+129373	Lady Ashton
+129587	Craigengelt
+129678	Ashton
+129730	Lady Ashton
+129783	Lucy Ashton
+129811	Henry
+129854	Lucy
+129919	Henry
+129963	Lucy
+130044	Lucy
+130120	Douglas
+130144	Lucy
+130364	Craigengelt
+130386	Lady Ashton
+130447	Lucy
+130536	Lady Ashton
+130594	Lucy
+130638	Lady Ashton
+130727	Faerie Queene
+130733	Lucy Ashton
+130758	Ailsie Gourlay
+130767	Bowden
+130780	Lady Ashton
+130872	Luckie Gourlay
+130991	Ailsie Gourlay
+131029	Caliban
+131082	Beelzebub
+131192	Aislie Gourlay
+131205	Lucy Ashton
+131227	Lady Ashton
+131320	Lady Ashton
+131357	Dame Gourlay
+131361	Lucy
+131382	Alice
+131452	Lucy
+131510	Lucy
+131527	Dame Gourlay
+131640	Sycorax
+131716	Caleb
+131769	Alice
+131778	Lucy
+131904	Dame Gourlay
+131918	Lucy
+131985	Ailsie Gourlay
+132132	Dame Gourlay
+132181	Ashton
+132222	Dame Gourlay
+132257	Lucy Ashton
+132403	Lady Ashton
+132450	Lady Ashton
+132474	Lucy
+132504	Lady Ashton
+132517	Lucy
+132565	Lucy
+132623	Lady Ashton
+132644	Lucy
+132664	Bide-the-Bent
+132730	Lady Ashton
+132847	Bide-the-Bent
+132878	Ashton
+132991	Miss Lucy
+133108	Edgar Ravenswood
+133233	Lucy
+133260	Bide-the-Bent
+133316	Saunders
+133349	Ashton
+133365	Lucy
+133458	Lucy
+133547	Lucy
+133586	Craigengelt
+133619	William Ashton
+133635	Ashton
+133683	Lady Ashton
+133689	Lucy
+133752	Bucklaw
+133813	Ashton
+133847	Lucy
+133923	Henry
+133964	Bucklaw
+134022	Malise
+134052	Henry
+134091	Henry
+134102	Lucy
+134144	Bucklaw
+134227	Gilbert
+134260	Lady Ashton
+134280	Lucy
+134293	William Ashton
+134297	Douglas Ashton
+134306	Bucklaw
+134312	Craigengelt
+134349	Bide-the-Bent
+134403	Bide-the-Bent
+134410	William Ashton
+134588	Bucklaw
+134611	William
+134613	Lady Ashton
+134655	William Ashton
+134674	Bucklaw
+134681	Craigengelt
+134706	Ashton
+134774	Ashton
+134801	Lucy Ashton
+134896	Lucy
+134959	Romeo
+134961	Juliet
+134966	Ashton
+134989	Lockhard
+135034	Douglas Ashton
+135054	Lady Ashton
+135064	Lucy
+135116	Lucy
+135321	Lady Ashton
+135389	Bucklaw
+135458	Colonel Ashton
+135556	Ashton
+135564	Bucklaw
+135574	Craigengelt
+135581	William Ashton
+135643	Bide-the-Bent
+135651	Bucklaw
+135727	Ashton
+135755	Bucklaw
+135787	Bucklaw
+135893	Ashton
+135935	Lucy
+135976	William Ashton
+136006	William Ashton
+136361	Lucy
+136416	Adam
+136529	Lady Ashton
+136593	Ashton
+136691	Lady Ashton
+136718	Ashton
+136752	Bucklaw
+136826	William Ashton
+136942	William
+136986	Lucy
+137019	Ashton
+137024	Edgar Ravenswood
+137045	Edgar Ravenswood
+137110	Lady Ashton
+137179	Lucy Ashton
+137203	Lucy
+137228	Lady Ashton
+137294	Lady Ashton
+137510	Lady Ashton
+137590	Lucy
+137626	Lady Ashton
+137648	Bide-the-Bent
+137672	Lucy
+137773	Lady Ashton
+137820	Lucy Ashton
+137887	Hayston
+137922	Ashton
+137987	Lucy
+138047	Lucy
+138105	Lady Ashton
+138122	Ashton
+138302	Lady Ashton
+138336	Lucy
+138386	William Ashton
+138399	Bucklaw
+138427	Lockhard
+138485	Ashton
+138499	Wolf
+138528	Craigengelt
+138540	Laird
+138597	Wolf
+138615	Craigengelt
+138621	Ashton
+138623	Bucklaw
+138685	Craigengelt
+138758	Ashton
+138875	Azrael
+138896	Lucy
+138976	Ashton
+139014	Ashton
+139096	Lady Ashton
+139171	Lucy
+139232	William Ashton
+139281	Bucklaw
+139284	Ashton
+139332	Bucklaw
+139351	Ashton
+139387	Lady Ashton
+139391	Bucklaw
+139417	Lucy
+139483	William Ashton
+139594	Henry
+139702	William Ashton
+139716	Henry
+139735	Ashton
+139814	William Wallace
+139987	Bucklaw
+140021	Johnie Mortheuch
+140023	-LSB- Mortsheugh
+140054	Dame Gourlay
+140068	Alice
+140101	Johnie Mortheuch
+140106	Annie Winnie
+140195	Maggie
+140263	Ailsie Gourlay
+140346	Aislie Gourlay
+140405	Annie Winnie
+140495	Annie
+140524	Luckie Gourlay
+140562	Dame Gourlay
+140766	Ailsie
+140776	William Ashton
+140855	Annie Winnie
+140861	Leddy Ashton
+140877	Dame Gourlay
+140946	Johnie Mortheuch
+140948	-LSB- Mortsheugh
+141006	Ailsie Gourlay
+141078	Johnie
+141102	Morheuch
+141254	Ashton
+141385	Lucy
+141393	Bucklaw
+141657	Lady Ashton
+141676	Bucklaw
+141686	Lady Ashton
+141762	William Ashton
+141780	Malise Ravenswood
+141857	Lady Ashton
+141895	Dame Gourlay
+141908	Lady Ashton
+141927	Lady Ashton
+141971	Lady Ashton
+142117	Ashton
+142133	Henry
+142155	William Ashton
+142158	Lady Ashton
+142192	Ashton
+142293	Ashton
+142344	Bucklaw
+142388	Lady Ashton
+142400	Lucy
+142724	Bucklaw
+142811	Ashton
+142850	Ashton
+143092	Henry
+143373	Bucklaw
+143396	Craigengelt
+143422	Bucklaw
+143602	NISBET
+143619	Bucklaw
+143641	Lucy Ashton
+143730	William Ashton
+143833	Dame Gourlay
+143857	Dame Winnie
+143914	Dame Gourlay
+143987	Lucy Ashton
+144020	Lady Ashton
+144034	William
+144121	Aislie Gourlay
+144155	Annie Winnie
+144173	Malise Ravenswood
+144199	Ailsie
+144337	Ailsie
+144528	Ashton
+144548	Ashton
+144711	Ashton
+144745	Ashton
+144905	Wolf
+144977	Douglas Ashton
+145127	Colonel Ashton
+145171	Ashton
+145215	Wolf
+145251	Ashton
+145279	Ashton
+145314	Wolf
+145372	Wolf
+145382	Caleb Balderstone
+145404	Ashton
+145543	Balderstone
+145618	Caleb
+145632	Lucy Ashton
+145652	Caleb
+145926	Caleb Balderstone
+145998	Caleb Balderstone
+146107	Caleb
+146246	Caleb
+146281	Caleb
+146417	Caleb
+146542	Caleb
+146566	Wolf
+146596	Balderstone
+146631	Wolf
+146653	Ashton
+146765	Balderstone
+146878	Caleb
+146902	Wolf
+147018	Caleb Balderstone
+147180	Ashton
+147190	William Ashton
+147210	Henry
+147222	Ashton

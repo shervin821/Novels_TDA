@@ -1,0 +1,2640 @@
+390	Jonathan Oldbuck
+565	Adam Smith
+681	Dandy Dinmont
+882	Dousterswivel
+889	Oldbuck
+916	Oldbuck
+1050	Oldbuck
+1062	Oldbuck
+1085	Dousterswivel
+1105	Oldbuck
+1327	Dousterswivel
+1428	Preses
+1435	Lawrence Templeton
+1560	Templeton
+1641	Oldbuck
+1724	Dryasdust
+1764	Llhuyd
+1771	Powel
+1777	Lewis
+1806	Clutterbuck
+1850	Clutterbuck
+1867	John of
+1869	Gaunt
+1931	Ronan
+1982	Parson
+1987	Oldbuck
+2024	Grcecas Kalendas
+2030	Preses
+2228	Oldbuck
+2376	Seymour
+2398	Oldbuck
+2468	Templeton
+2477	Seymour
+2489	Seymour
+2536	Oldbuck
+2588	Preses
+3085	Oldbuck
+3191	Oldbuck
+3265	Pitscottie
+3273	Earl of
+3275	Angus
+3296	Oldbuck
+3580	Dunstan
+3623	Chan
+3634	Lau
+3669	Lauder
+3708	Lauderdale
+3976	Anthony Absolute
+4161	John Mandeville
+4175	Oldbuck
+4221	-- Geoffrey
+4228	Clarendon
+4257	Clutterbuck
+4274	Maugre
+4377	NAPOLEON BONAPARTE
+4398	Oldbuck
+4475	Clutterbuck
+4555	LEWIS
+4637	Baldwin
+4647	Giraldus de
+4649	Barri
+4655	David
+4991	Norman
+5018	Gwenwyn
+5024	Gwenwynwen
+5065	Norman nobles
+5115	Roderick Mawr
+5127	Mervyn
+5205	Gwenwyn
+5229	Gwenwyn
+5275	Gwenwyn
+5299	Baldwin
+5327	Gwenwyn
+5367	Norman
+5370	Raymond Berenger
+5390	Gwenwyn
+5399	Garde Doloureuse
+5466	Gwenwyn
+5477	Raymond Berenger
+5541	Gwenwyn
+5549	Raymond Berenger
+5557	Baldwin
+5582	Raymond
+5623	Raymond
+5708	Cadwallon
+5818	Gwenwyn
+5861	Gwenwyn
+5869	Eveline Berenger
+5921	Hugo de
+5923	Lacy
+5962	Gwenwyn
+5972	Eveline
+6036	Norman
+6047	Raymond Berenger
+6103	Raymond
+6202	Gwenwyn
+6208	Brengwain
+6282	Raymond Berenger
+6298	Eveline
+6313	Gwenwyn
+6342	David
+6362	Gwenwyn
+6370	Berenger
+6383	Norman
+6388	Raymond
+6532	Prince of
+6534	Powys-Land
+6566	Norman
+6590	Eveline
+6663	Gwenwyn
+6675	Brengwain
+6705	Gwenwyn
+6717	Einion
+6830	Gwenwyn
+6920	Gwenwyn
+6986	Eveline
+7019	Vashti
+7021	Esther
+7195	Madoc
+7270	Gwenwyn
+7370	Morgan
+7561	Gwenwyn
+7672	Norman
+8091	Gwenwyn
+8201	Gwenwyn
+8346	Madoc
+8360	Southey
+9063	Cadwallon
+9283	Gwenwyn
+9316	Caradoc
+9391	Eveline Berenger
+9395	Gwenwyn
+9418	Prince
+9631	Gwenwyn
+9675	Cadwallon
+9706	Gwenwyn
+9729	Gwenwyn
+9758	Raymond Berenger
+9825	Gwenwyn
+9838	Jorworth
+9840	Jevan
+9856	Jevan
+9892	Berenger
+9911	Cadwallon
+9934	Cadwallon
+9953	Norman
+10009	Prince
+10042	David
+10046	Gwenwyn
+10085	Gwenwyn
+10112	Caradoc
+10413	Norman Baron
+10439	Gwenwyn
+10511	David
+10514	Raymond the
+10516	Norman
+10578	Raymond Berenger
+10583	Norman Knight
+10589	Garde Doloureuse
+10620	Eveline Berenger
+10632	Jorworth
+10634	Jevan
+10784	Eveline
+10800	Hugo de
+10802	Lacy
+10870	Mary Magdalene
+10910	Father Aldrovand
+10939	Alphegius
+10953	Einion
+10989	Gwenwyn
+11307	Cadwallon
+11408	Saxon
+11435	Norman
+11517	Saxon
+11583	Gwenwyn
+11684	Gwenwyn
+11723	Einion
+11741	Caradoc
+11930	HENRY VI
+11940	Raymond Berenger
+11948	Prince of
+11950	Powys
+12081	Raymond
+12172	Norman
+12271	Raymond Berenger
+12400	Raymond
+12410	Dennis Morolt
+12458	Raymond
+12501	Dennis
+12513	Wilkin Flammock
+12546	Raymond
+12584	Dennis Morolt
+12628	Wilkin Flammock
+12662	Fleming
+12678	Wilkin Flammock
+12778	Fleming
+12809	Fleming
+12858	Wilkin
+12868	Raymond Berenger
+12899	Berenger
+12913	Wilkin
+13000	Wilkin Flammock
+13060	Flammock
+13127	Raymond Berenger
+13175	Gwenwyn
+13194	Wilkin
+13214	Raymond
+13223	Dennis Morolt
+13228	Fleming
+13251	Flammock
+13259	Chester
+13298	Dennis Morolt
+13303	Berenger
+13330	Dennis
+13339	Knight
+13480	Dennis
+13485	Norman
+13503	Dennis Morolt
+13525	Raymond Berenger
+13564	Dennis Morolt
+13587	Wilkin Flammock
+13615	Dennis
+13667	Gwenwyn
+13754	Garde Doloureuse
+13788	Raymond Berenger
+13812	Dennis
+13855	Wilkin Flammock
+13989	Berenger
+14018	Dennis
+14060	Berenger
+14097	Dennis Morolt
+14132	Flammock
+14136	Gwenwyn
+14279	Gwenwyn
+14319	Dennis Morolt
+14412	Raymond Berenger
+14478	Dennis
+14504	Berenger
+14526	Lady Eveline
+14559	Dennis
+14599	Dennis
+14639	Dennis Morolt
+14682	Lady Eveline
+14693	-- Raymond
+14695	Berenger
+14735	Raymond
+14836	Dennis Morolt
+14942	Dennis
+14946	Berenger
+14984	Knight
+14989	Fleming
+15049	Raymond
+15092	Castellane
+15098	Fleming
+15198	Morolt
+15213	Raymond Berenger
+15226	Morolt
+15368	Eveline
+15376	Wilkin Flammock
+15389	Dennis
+15481	Raymond Berenger
+15487	Dennis
+15501	-- Wilkin
+15503	Flammock
+15511	Fleming
+15593	Hugo de
+15595	Lacy
+15614	Knight
+15618	Flammock
+15804	Fleming
+15810	Dennis Morolt
+15816	Castellane
+15830	Eveline
+15853	Aldrovand
+15906	Rose Flammock
+15912	Wilkin
+15942	Norman
+15961	Eveline
+15983	Fleming
+15989	Flammock
+16013	Eveline
+16055	Roschen
+16060	Herr
+16111	Kammerer
+16123	Reinold
+16127	Norman
+16300	Reinold
+16341	Fleming
+16372	Reinold
+16426	Reinold
+16457	Reinold
+16474	Wilkin
+16564	Herr Keller-master
+16627	Reinold
+16633	Norman
+16673	Fleming
+16704	Reinold
+16716	Wilkin
+16877	Wilkin Flammock
+16911	Norman
+16962	Fleming
+17125	Butler
+17196	Fleming
+17208	Wilkin
+17267	Reinold
+17280	Wilkin Flammock
+17492	Raymond Berenger
+17580	Rose Flammock
+17631	Raymond Berenger
+17696	Raoul
+17702	Rose
+17743	Raoul
+17763	Eveline
+17956	Raymond Berenger
+18071	Raymond Berenger
+18214	Eveline
+18284	George
+18440	Aldrovand
+18696	Norman
+18713	Raymond Berenger
+18760	Berenger
+18808	Raymond
+19057	Raymond Berenger
+19118	Berenger
+19225	Raymond
+19347	Norman
+19368	Raymond
+19517	Prince
+19522	Raymond
+19626	Gwenwyn
+19800	Berenger
+19818	Gwenwyn
+19837	Wolf
+19843	Berenger
+19862	Raymond Berenger
+19879	Gwenwyn
+19919	Raymond
+19967	Pyrrhus
+19974	Raymond
+20104	Dennis Morolt
+20181	Raymond Berenger
+20305	Raymond Berenger
+20405	Raymond Berenger
+20858	Henry II.
+20869	Emanuel Commenus
+20895	Henry
+21026	PERCY
+21143	Aldrovand
+21185	Lady Eveline
+21236	Eveline
+21408	Father Aldrovand
+21471	Lady Eveline
+21518	Eveline
+21619	Raymond
+21739	Wilkin Flammock
+21803	Wilkin
+21861	Wilkin Flammock
+21989	Wilkin
+22019	Yon Welsh
+22193	Wilkin
+22233	Fleming
+22290	Neil Hansen
+22341	Wilkin
+22377	Flammock
+22386	Neil
+22485	Neil Hansen
+22587	Wilkin
+22619	Fleming
+22635	Wilkin
+22751	Wilkin
+22792	Wilkin Flammock
+22881	Fleming
+22939	Fleming
+22956	Father Aldrovand
+22976	Raymond Berenger
+22989	Raymond Berenger
+23011	Flanderkin
+23102	Lady Eveline
+23121	Wilkin Flammock
+23196	Wilkin Flammock
+23277	Wilkin
+23470	Fleming
+23516	Wilkin
+23582	Wilkin Flammock
+23706	Flammock
+23824	Gwenwyn
+23858	Gwenwyn
+23874	Flammock
+23891	Wilkin Flammock
+23912	Jorworth
+23996	Wilkin
+24043	Flammock
+24160	Jorworth
+24239	Castell
+24241	Carrig
+24249	Craig
+24301	Eveline Berenger
+24344	Wilkin Flammock
+24354	Raymond Berenger
+24363	Jorworth
+24429	Jorworth
+24433	Wilkin
+24605	De Lacy
+24691	Wilkin
+24753	Flammock
+24823	Wilkin
+24858	Fleming
+24877	Wilkin
+24968	Fleming
+25005	Jorworth
+25031	Fleming
+25071	Jorworth
+25085	Gwenwyn
+25091	Raymond
+25131	Fleming
+25149	Flammock
+25161	Jorworth
+25221	Wilkin
+25247	Jorworth
+25280	Jorworth
+25322	Jorworth
+25379	Flammock
+25435	Wilkin
+25455	Fleming
+25459	Jorworth
+25502	Jorworth
+25580	Saxon
+25588	Berenger
+25634	Jorworth
+25796	Fleming
+25904	Jorworth
+25928	Fleming
+25967	Jorworth
+25980	Wilkin Flammock
+26051	Jorworth
+26061	Fleming
+26101	Jorworth
+26131	Wilkin
+26142	Flammock
+26243	Wilkin Flammock
+26281	Flammock
+26297	Fleming
+26317	Flammock
+26331	Jorworth
+26375	Mary
+26409	Raymond
+26594	Garde Doloureuse
+26619	Odin
+26669	Young
+26817	Eveline
+26964	Virgin Mary
+26978	Berenger
+27053	Eveline
+27090	Garde Doloureuse
+27219	Garde Doloureuse
+27374	Maria
+27411	Eveline
+27476	Chester
+27522	Lady Eveline
+27639	Eveline
+27728	Eveline
+27916	Eveline
+27958	Lady Eveline
+28025	Aldrovand
+28100	Aldrovand
+28151	Fleming
+28153	Wilkin Flammock
+28201	Eveline
+28257	Rose
+28262	Wilkin Flammock
+28396	Eveline
+28462	Wilkin Flammock
+28550	Norman
+28553	Saxon
+28570	Roman Kaisars
+28589	Wilkin Flammock
+28665	Eveline
+28673	Rose
+28722	Wilkin
+28753	Rose
+28826	Lady Eveline
+28836	Wilkin
+28874	Norman
+28912	Eveline
+28973	Garde Doloureuse
+29043	Maria
+29046	Regina Coeli
+29130	Lacy
+29142	Eveline
+29177	Rose
+29383	Wilkin Flammock
+29388	Dieterick
+29391	Cramer
+29421	Eveline
+29475	Wilkin Flammock
+29523	Rose
+29561	Roschen
+29605	Rose
+29646	Eveline
+29681	Eveline
+29700	Wilkin
+29827	Rose
+29876	Fleming
+29918	Wilkin Flammock
+29940	Fleming
+29987	-- Lady
+30030	Aldrovand
+30039	-- Daughter
+30041	Roschen
+30066	Rose
+30262	Eveline
+30319	Eveline
+30368	Rose
+30389	Eveline
+30445	Aldrovand
+30492	Rose
+30550	Wilkin Flammock
+30588	Fleming
+30710	Aldrovand
+30883	Hugo de
+30885	Lacy
+30932	Cook
+30979	Henry Jenkins
+31025	Garde Doloureuse
+31032	Wilkin Flammock
+31081	Wilkin
+31153	Wilkin
+31214	Wilkin
+31234	Wilkin
+31255	Jan Vanwelt
+31261	Rose
+31337	Fleming
+31366	Rose
+31370	Jan Vanwelt
+31407	Aldrovand
+31454	Fleming
+31501	Wilkin
+31505	Aldrovand
+31609	-- Sawest
+31671	Fleming
+31740	Rose Flammock
+31744	Jan Van
+31802	Jan Vanwelt
+31915	Fleming
+32062	Fleming
+32096	Fleming
+32113	Aldrovand
+32195	Fleming
+32231	Jorworth
+32249	Aldrovand
+32275	Flammock
+32283	Prithee
+32346	Fleming
+32366	Jorworth
+32398	Wilkin Flammock
+32421	Jorworth
+32437	Wilkin
+32446	Jorworth
+32474	Wilkin
+32518	Fleming
+32566	Jorworth
+32614	Fleming
+32651	Jorworth
+32670	Gwenwyn
+32745	Netherlander
+32799	Jorworth
+32862	Fleming
+32905	Jorworth
+32943	Aldrovand
+32957	Fleming
+33046	Wilkin
+33081	Aldrovand
+33140	Eveline
+33209	Fleming
+33311	WILLIAM STEWART
+33325	Eveline Berenger
+33628	Wilkin Flammock
+33705	Eveline
+34050	Chester
+34256	Eveline
+34320	Rose Flammock
+34387	Eveline
+34639	Wilkin Flammock
+34690	Lady Eveline
+34738	Eveline
+34795	Flammock
+34813	Rose
+34846	Eveline
+34863	Eveline
+34945	Eveline
+34967	Wilkin Flammock
+35094	Rose
+35153	Flammock
+35161	Lady Eveline
+35175	Roschen
+35224	Eveline
+35363	Gwenwyn
+35515	Lyttleton
+35570	Norman
+35635	Henry
+35644	Meredith ap
+35646	Blethyn
+35948	Garde Doloureuse
+36009	Father Aldrovand
+36061	Fleming
+36134	Flammock
+36290	Gwenwyn
+36358	Wilkin Flammock
+36639	Gwenwyn
+36849	Fleming
+36956	Wilkin Flammock
+37074	Eveline
+37103	Wilkin Flammock
+37122	Rose
+37200	Rose
+37233	Rose
+37255	Peterkin Vorst
+37278	Eveline
+37398	Wilkin Flammock
+37535	Fleming
+37567	Eveline
+37596	Wilkin
+37664	Wilkin
+37668	Eveline
+37717	Flammock
+37774	Rose
+37818	Norman
+37842	Eveline
+37856	Wilkin Flammock
+37947	Rose
+38027	Wilkin Flammock
+38088	GILBERT ELLIOT
+38297	Eveline
+38382	Eveline
+38476	Fleming
+38598	Rose
+38889	Rose
+38908	Eveline
+39069	Aldrovand
+39108	Eveline
+39216	Eveline
+39265	Eveline
+39275	Rose
+39295	Rose
+39308	Eveline
+39339	Rose
+39352	Eveline
+39374	Rose
+39392	Rose
+39434	Eveline
+39556	Eveline
+39606	Wilkin Flammock
+39645	Fleming
+39714	Wilkin
+39737	Father Aldrovand
+39807	Flammock
+39827	Klinkerman
+39891	Stephen Mauleverer
+39961	Fleming
+40310	Garde Doloureuse
+40671	Gwenwyn
+40944	Hugo de
+40946	Lacy
+40955	Gwenwyn
+41024	Edward
+41030	Dennis
+41046	Raymond Berenger
+41111	Chester
+41115	Wilkin Flammock
+41142	Aldrovand
+41362	Wilkin Flammock
+41496	Flammock
+41832	Garde Doloureuse
+41855	Aldrovand
+41888	Wilkin Flammock
+41942	Lacy
+41968	Eveline Berenger
+42049	Fleming
+42152	Dame Gillian
+42182	Fleming
+42209	Wilkin Butterfirkin
+42296	Dame Gillian
+42309	Eveline
+42340	Margery
+42346	Gillian
+42445	Wilkin Flammock
+42458	Gillian
+42618	Damian Lacy
+42629	Eveline Berenger
+42655	Rose
+42683	Norman
+42705	Flammock
+42736	Eveline
+42765	Damian
+42784	Eveline
+42834	Damian
+42836	Lacy
+42849	Damian
+42878	Hugo de
+42880	Lacy
+42884	Chester
+42915	Damian
+43085	Gaul
+43087	Aneurin
+43102	Catterath
+43215	Eveline
+43308	Eveline
+43417	Berenger
+43489	Eveline
+43554	Damian
+43635	Hugo de
+43637	Lacy
+43669	Wolf
+43889	De Lacy
+44044	Garde Doloureuse
+44141	Raymond Berenger
+44207	Domine
+44240	Berenger
+44323	Chester
+44514	Aldrovand
+44567	Chester
+44601	Damian
+44610	Raymond Berenger
+44622	Hugo de
+44624	Lacy
+44880	Margery
+44885	Eveline
+44983	Margery
+45125	Margery
+45408	Margery
+45410	Mannerly Margery
+45490	Gillian
+45534	Gillian
+45587	Raoul
+45742	Raoul
+45866	Gillian
+45899	Gillian
+45916	Raoul
+45958	Chester
+46010	Damian
+46064	Raoul
+46152	Mannerly Margery
+46194	Gillian
+46281	Gillian
+46315	Norman
+46325	Raoul
+46450	Raymond Berenger
+46475	De Lacy
+46513	Damian
+46592	Dennis Morolt
+46639	Shakspeare
+46648	Mortimer
+46747	Raymond Berenger
+46779	Lady Eveline
+46851	Saxon
+46868	De Lacy
+46950	Gwenwyn
+47001	De Lacy
+47078	De Lacy
+47142	De Lacy
+47220	Damian
+47226	Eveline
+47264	de Lacy
+47301	Chester
+47353	Eveline
+47405	Damian
+47494	Damian
+47541	Norman
+47564	Eveline
+47633	Hugo de
+47635	Lacy
+47711	Damian
+47765	Eveline
+47784	Damian
+47910	Eveline
+47933	Gwenwyn
+48023	Hugo de
+48025	Lacy
+48272	Eveline
+48354	Damian de
+48356	Lacy
+48389	Lacy
+48520	Dame Gillian
+48611	William
+48627	Stephen
+48634	Earl
+48647	De Lacy
+48667	Stephen
+48671	Maude
+48693	Hugo de
+48695	Lacy
+48780	Garde Doloureuse
+49197	Norman mantle
+49287	Chester
+49294	Eveline Berenger
+49304	Garde Doloureuse
+49323	Damian de
+49325	Lacy
+49460	Eveline
+49477	Eveline
+49496	de Lacy
+49684	Eveline
+49715	Rose Flammock
+49754	Eveline
+49789	Hugo de
+49791	Lacy
+49810	Eveline
+49834	Rose
+49903	Eveline
+49992	Eveline
+50042	Eveline
+50114	Eveline
+50189	Randal Lacy
+50222	Damian
+50308	Damian de
+50310	Lacy
+50338	Eveline
+50448	Eveline
+50453	Hugh de
+50455	Lacy
+50488	Eveline
+50513	De Lacy
+50632	De Lacy
+50641	Raymond Berenger
+50715	De Lacy
+50735	Lady Eveline
+50789	Eveline
+50898	Eveline
+50957	De Lacy
+51020	Eveline Berenger
+51076	De Lacy
+51129	Rose
+51183	Rose
+51220	Rose
+51248	De Lacy
+51284	Rose Flammock
+51321	Rose
+51479	Aldrovand
+51536	Lady Eveline
+51546	Rose Flammock
+51608	Rose
+51622	Eveline
+51667	Rose
+51699	Eveline
+51709	Rose
+51781	Eveline Berenger
+51797	Rose
+52008	Eveline
+52031	Rose
+52154	Rose
+52158	Eveline
+52227	Rose
+52277	Rose
+52337	Eveline
+52345	Rose
+52360	Rose
+52425	Rose
+52523	-- Yet
+52547	Eveline
+52594	Rose
+52613	Father Aldrovand
+52787	Rose
+52834	Saracen
+52917	De Lacy
+52957	Norman
+52963	Lady Eveline
+52965	Berenger
+53021	Eveline
+53049	Saxon
+53063	Rose
+53083	Rose
+53108	Rose
+53150	Eveline
+53186	Rose
+53191	Eveline
+53213	Garde Doloureuse
+53218	Norman
+53267	Eveline
+53360	Rose
+53386	Eveline
+53395	Rose Flammock
+53465	Rose
+53469	Gillian
+53491	Gillian
+53504	Rose
+53528	Eveline
+53535	Raoul
+53608	Rose
+53625	Dame Gillian
+53666	Rose
+53729	Damian de
+53731	Lacy
+53926	Wilkin Flammock
+53987	Lady Eveline
+54060	Rose Flammock
+54088	Margery
+54097	Father Aldrovand
+54107	Margery
+54127	Eveline
+54161	Raoul the
+54163	huntsman
+54175	Raymond Berenger
+54261	Chester
+54276	Eveline
+54353	Eveline
+54420	Eveline
+54485	Wilkin Flammock
+54505	Wilkin
+54509	Eveline
+54534	Flammock
+54576	Roschen
+54631	Raoul
+54701	Raoul
+54770	Raoul
+54823	Dame Gillian
+54861	Raoul
+54870	Mahound
+54931	Raoul
+54940	Mahound
+54987	Eveline
+55021	Hugo de
+55023	Lacy
+55071	Lady Eveline
+55177	Lady Eveline
+55289	Norman cook
+55390	Eveline
+55393	Rose
+55534	Eveline
+55549	Damian
+55644	Eveline
+55802	Eveline
+55820	De Lacy
+55835	Eveline
+55886	Eveline
+55930	De Lacy
+55995	Lady Eveline
+56016	Chester
+56029	Eveline
+56064	Damian Lacy
+56145	Herbert
+56181	Eveline
+56231	Eveline
+56236	Saxon
+56247	Norman
+56305	Aldrovand
+56363	Saxon
+56426	De Lacy
+56432	Herbert
+56452	Eveline
+56489	De Lacy
+56518	Lady Eveline
+56641	De Lacy
+56700	De Lacy
+56742	Eveline
+56754	Norman
+56774	Eveline
+56783	Raymond Berenger
+56844	Herbert
+56863	Eveline
+56928	Eveline
+56991	Amelot Herbert
+57056	Hastings
+57061	De Lacy
+57075	Eveline
+57120	Eveline
+57386	Lady Eveline
+57394	Gillian
+57420	Eveline
+57444	Raoul
+57489	Edward
+57494	Raoul
+57664	Eveline
+57752	Eveline
+58118	Freya
+58183	Dunstan
+58185	Ermengarde
+58189	Eveline
+58242	Eveline
+58328	Eveline
+58410	Dunstan
+58450	Mary
+58464	Berwine
+58555	Eveline
+58642	Berwine
+58646	Dame Ermengarde
+58694	Eveline
+58717	Dame Ermengarde
+58725	Norman
+58729	Saxon
+58767	Eveline
+58778	Norman
+58816	Norman
+58887	Ermengarde
+58921	Eveline
+58945	de Lacy
+58971	Ermengarde
+59131	Eveline
+59151	Saxon
+59224	Norman
+59263	Hundwolf
+59319	Berwine
+59343	Ermengarde
+59435	Damian
+59455	Randal Lacy
+59489	Eveline
+59512	Saxon
+59514	Norman
+59588	Ermengarde
+59653	Eveline
+59746	-- Berwine
+59778	Eveline
+59859	Saxon
+59889	Berwine
+59925	Eveline
+59964	Berwine
+60023	Norman
+60045	Eveline
+60085	Eveline
+60235	Eveline
+60282	Almeyda
+60286	Almeyda
+60294	DON SEBASTIAN
+60331	Eveline
+60344	Berwine
+60358	Horsa
+60364	Saxon
+60371	Saxon
+60431	Saxon
+60456	Ermengarde
+60473	Rose Flammock
+60476	Eveline
+60529	Gascon
+60577	Hundwolf
+60597	Eveline
+60751	Ermengarde
+60799	Berwine
+60869	Hundwolf
+60912	Eveline
+60988	Eveline
+61179	Lady Eveline
+61225	Rose Flammock
+61232	Dame Gillian
+61235	Raoul
+61251	Eveline
+61258	Ermengarde
+61296	Rose
+61308	Saxon
+61340	Lady Ermengarde
+61364	Saxon
+61366	Dane
+61369	Norman
+61402	Saxon
+61408	Norman
+61411	Fleming
+61415	Rose
+61510	Eveline
+61603	Eveline
+61635	Lady Ermengarde
+61651	Berwine
+61708	Eveline
+61716	Berwine
+61839	Berwine
+61863	Dame Gillian
+61903	Dame Gillian
+61917	Rose Flammock
+61929	Berwine
+61994	Berwine
+62002	Rose
+62006	Eveline
+62031	Rose
+62056	Eveline
+62143	Eveline
+62151	Berwine
+62179	Rose
+62231	Norman
+62262	Berwine
+62298	Rose
+62306	Eveline
+62326	Rose
+62371	Rose
+62424	Rose
+62437	Eveline
+62541	Rose
+62560	Rose
+62616	Eveline
+62665	Berwine
+62668	Rose
+62767	Norman
+62786	Raymond Berenger
+62802	Berwine
+62837	Rose
+62954	Gillian
+63021	Rose Flammock
+63351	Eveline
+63414	Norman
+63465	Norman
+63501	Eveline Berenger
+63601	Rose
+63626	Eveline
+63650	Dame Gillian
+63691	Saxon
+63706	Rose
+63826	Eveline
+63927	Rose
+63983	Eveline
+64003	Rose
+64095	Rose Flammock
+64230	Lady Eveline
+64273	Rose
+64386	Rose
+64446	Dame Gillian
+64482	Eveline
+64503	Norman
+64516	Rose
+64540	Rose
+64545	Gillian
+64568	Rose
+64631	Eveline
+64654	Rose
+64732	Rose
+64777	Rose
+64860	Rose
+64873	Gillian
+64901	Dame Gillian
+64932	Rose
+64951	Rose
+64961	Gillian
+64989	Rose
+65123	Eveline
+65179	Rose
+65235	Gillian
+65242	Eveline
+65275	Lady Eveline
+65299	Rose
+65326	Gillian
+65379	Dame Gillian
+65418	Rose
+65428	Gillian
+65453	Rose
+65494	Rose
+65498	Rose
+65520	Rose
+65524	Eveline
+65565	Eveline
+65640	Lady Fanshaw
+65671	Lady Honor
+65673	O'Brien
+65992	O'Brien
+66143	Gillian
+66159	Lady Eveline
+66163	Rose
+66189	Rose
+66195	Gillian
+66235	Gillian
+66310	Eveline
+66359	Rose
+66372	Saxon
+66442	Rose
+66456	Dame Gillian
+66489	Rose Flammock
+66508	Dame Gillian
+66519	Rose
+66545	Lady Eveline
+66585	Rose
+66598	Saxon
+66624	Eveline
+66640	Saxon
+66685	Berenger
+66704	Rose
+66723	Rose
+66739	Gillian
+66741	Blanche
+66810	Gillian
+66817	Rose
+66888	Rose
+67084	Rose
+67090	Eveline
+67149	Rose
+67184	Rose
+67188	Eveline
+67255	Rose
+67320	Rose
+67409	Dame Gillian
+67429	Lady Eveline
+67459	Berwine
+67488	Lady Ermengarde
+67494	Eveline
+67534	Rose
+67588	Ermengarde
+67612	Eveline
+67668	Eveline
+67714	Ermengarde
+67720	Lady Eveline
+67775	Ermengarde
+67806	Saxon
+67810	Eveline
+67860	Horsa
+67913	Dunstan
+67939	Eveline
+67977	Dunstan
+68028	Eveline
+68049	-- Rose
+68083	Rose
+68103	Eveline
+68118	Ermengarde
+68186	Eveline
+68331	Eveline
+68376	Raoul
+68430	Eveline
+68494	Eveline
+68545	Lady Eveline
+68629	Eveline
+68721	Eveline
+68780	Rose
+68853	Eveline
+68975	Rose
+69049	Eveline
+69060	Rose
+69090	Rose
+69137	Eveline
+69143	Rose
+69179	Rose
+69265	Rose
+69370	Rose
+69414	Gillian
+69448	Eveline
+69601	Rose
+69637	Eveline
+69668	Saxon
+69743	Baldrick
+69831	Vanda
+69870	Vanda
+69917	Vanda
+69983	Vanda
+69999	Dunstan
+70079	Vanda
+70206	Saxon
+70213	Margery
+70255	Rose
+70375	Rose
+70395	Lady Ermengarde
+70410	Eveline
+70528	Berenger
+70557	Rose
+70612	Eveline
+70949	Rose
+70987	Rose
+70999	Mara
+71057	Eveline
+71141	Rose
+71164	Norman
+71218	Eveline
+71300	Rose
+71340	Rose
+71414	Eveline
+71474	Philip Guarine
+71606	Rose
+71635	Guarine
+71698	Lady Ermengarde
+71709	Rose
+71713	Eveline
+71730	Guarine
+71736	Rose
+71773	Guarine
+71830	Eveline
+71902	Rose
+71916	Eveline
+72037	Rose
+72042	Eveline
+72058	Rose
+72097	Chester
+72110	William Herbert
+72138	Eveline
+72148	Eveline
+72157	De Lacy
+72312	Herbert
+72339	Eveline
+72413	Eveline
+72461	Eveline
+72519	Eveline
+72541	Chester
+72559	Raymond Berenger
+72619	Eveline
+72763	Aldrovand
+72843	Rose Flammock
+72855	Eveline
+72885	Rose
+72894	Eveline
+72906	De Lacy
+72939	De Lacy
+72982	Raymond Berenger
+73032	Eveline
+73039	De Lacy
+73243	Eveline
+73248	De Lacy
+73274	Eveline
+73477	Henry
+73723	Baldwin
+73814	Danxian Lacy
+73862	Baldwin
+74004	Eveline
+74014	De Lacy
+74101	Dame Gillian
+74143	Damian
+74208	De Lacy
+74312	Eveline
+74400	Damian
+74468	Eveline
+74478	Damian
+74581	Father Aldrovand
+74694	Gillian
+74738	Gillian
+74876	Eveline
+74921	Eveline
+74942	Chester
+74951	Damian
+74986	Randal de
+74988	Lacy
+74999	Eveline Berenger
+75042	Eveline
+75062	Randal
+75133	Eveline Berenger
+75331	Eveline
+75388	Randal
+75507	Lacy
+75519	Eveline
+75541	Randal de
+75543	Lacy
+75648	De Lacy
+75749	Eveline
+75777	Eveline Berenger
+75801	Chester
+75820	Randal de
+75822	Lacy
+75929	Eveline
+75951	Randal de
+75953	Lacy
+75980	Eveline
+76054	Eveline
+76067	Randal
+76123	Eveline
+76136	Randal
+76291	Eveline
+76336	De Lacy
+76384	Eveline
+76389	Hugh de
+76391	Lacy
+76405	Randal
+76436	Damian
+76505	Grant
+76608	Norman
+76753	Aldrovand
+77106	Raoul the
+77108	huntsman
+77238	Raoul
+77366	Raoul
+77387	Gillian
+77431	Gillian
+77455	Raymond Berenger
+77459	Robin
+77505	Raoul
+77643	Gillian
+77747	Gillian
+77779	Raoul
+77862	Raoul
+77903	Raoul
+77928	Raoul
+77944	Dame Gillian
+78019	Gillian
+78042	Raoul
+78112	Hubert
+78129	Raoul
+78155	Gillian
+78160	Randal de
+78162	Lacy
+78187	Hubert
+78223	Gillian
+78233	Raoul
+78261	Mary
+78290	Raoul
+78352	Dame Gillian
+78397	Raoul
+78450	Randal
+78454	Raoul
+78474	Dame Gillian
+78505	Squire Damian
+78509	Dame Gillian
+78519	Raoul
+78596	Hubert
+78619	Gillian
+78659	Raoul
+78712	Gillian
+78750	Damian
+78785	Raoul
+78858	Raoul
+78907	Balaam
+78934	Raoul
+78966	Raoul
+78970	Damian
+79058	Damian
+79137	Damian
+79197	Raoul
+79279	Damian
+79309	Raoul
+79342	Damian
+79428	Raoul
+79471	Raoul
+79615	Damian
+79867	De Lacy
+79915	Randal de
+79917	Lacy
+79938	Damian
+79976	Randal
+80023	Randal
+80036	Eveline
+80084	Lady Eveline
+80096	Damian
+80175	Eveline
+80377	Luke
+80405	Raoul
+80429	Damian
+80495	Damian
+80581	Rose
+80617	Rose
+80666	Eveline
+80724	Eveline
+80771	Eveline
+80789	Rose
+80870	Lady Eveline
+80933	Damian
+81064	Eveline
+81146	Eveline
+81230	Chester
+81242	De Lacy
+81689	Henry II
+81815	Baldwin
+81992	Baldwin
+82091	Randal
+82211	Randal
+82261	Hugo de
+82263	Lacy
+82275	Eveline
+82749	Archprelate Baldwin
+83138	Baldwin
+83168	De Lacy
+83216	Baldwin
+83225	Becket
+83283	Baldwin
+83385	Ptolemais
+83407	Hugo de
+83409	Lacy
+83641	Thomas
+83676	Baldwin
+83763	Satis
+83779	Baron
+83889	De Lacy
+83920	Hugo de
+83922	Lacy
+84085	De Lacy
+84119	Baldwin
+84227	De Lacy
+84402	Baldwin
+84409	Hugo de
+84411	Lacy
+84986	Hugo de
+84988	Lacy
+85094	Hugo de
+85096	Lacy
+85110	Baldwin
+85159	Chester
+85329	Hugo de
+85331	Lacy
+85374	Becket
+85481	Becket
+85533	Baldwin
+85574	Lacy
+85676	De Lacy
+85721	Jacob
+85763	Hugo de
+85765	Lacy
+86025	Damian
+86045	-- May
+86047	God
+86224	Hugo de
+86226	Lacy
+86248	Eveline
+86328	De Lacy
+86360	Hezekiah
+86503	Lady Eveline
+86534	De Lacy
+86628	Damian
+86787	Damian Lacy
+86816	Damian Lacy
+87189	Bishop
+87609	ARCHIBALD ARMSTRONG
+87822	Damian
+87891	Baldwin
+88368	Philip Guarine
+88404	De Lacy
+88487	Norman
+88887	De Lacy
+88937	Geoffrey Rudel
+88976	Henry
+88992	De Lacy
+89286	Renault Vidal
+89418	Vidal
+89463	De Lacy
+89705	Damian
+89742	Baldwin
+89805	Hugo de
+89807	Lacy
+89861	De Lacy
+90156	De Lacy
+90243	Berenger
+90483	Eveline Berenger
+90597	De Lacy
+90838	Hugo de
+90840	Lacy
+90996	De Lacy
+91003	Eveline
+91160	De Lacy
+91177	Lady Eveline
+91206	Berenger
+91374	Eveline
+91382	Rose
+91453	Eveline
+91571	Eveline
+91591	Hugo de
+91593	Lacy
+91661	Eveline
+91755	Eveline
+91802	Eveline
+92061	De Lacy
+92119	Eveline
+92355	Baron
+92388	Eveline
+92472	Garde Doloureuse
+92661	De Lacy
+92665	Eveline
+92833	De Lacy
+92839	Eveline Berenger
+92948	De Lacy
+93169	De Lacy
+93174	Eveline
+93438	Benedict
+93769	Eveline
+93801	Knight
+94004	Hugo de
+94006	Lacy
+94085	Eveline
+94268	Eveline
+94362	Berenger
+94378	Garde Doloureuse
+94435	Garde Doloureuse
+94451	Eveline
+94503	Raymond
+94566	Ere De
+94568	Lacy
+94644	Rose
+94666	Eveline
+94668	Rose
+94677	Garde Doloureuse
+94765	Rose
+94817	Eveline
+94847	Rose
+94860	De Lacy
+94942	Rose
+94957	Berenger
+94985	Rose
+95079	Eveline
+95089	De Lacy
+95406	Vidal
+95466	Vidal
+95636	Guarine
+95697	Vidal
+95760	Hugo de
+95762	Lacy
+95965	Vidal
+96119	De Lacy
+96136	Vidal
+96183	Tristrem
+96211	Tristrem
+96225	De Lacy
+96436	Philip Guarine
+96498	Mab
+96504	ROMEO
+96506	JULIET
+96564	De Lacy
+96649	Fleming
+96692	Wilkin Flammock
+96748	Rose
+96758	Lady Eveline
+96796	Norman squire
+96829	Guarine
+96862	Fleming
+96911	Wilkin Flammock
+96947	De Lacy
+96979	Fleming
+96987	Wilkin Mammock
+97013	Wilkin
+97093	Wilkin
+97348	Flammock
+97377	Eveline
+97515	Lady Eveline
+97607	Rose
+97617	Lady Eveline
+97648	Fleming
+97670	Fleming
+97780	Wilkin
+97877	Fleming
+97885	de Lacy
+97894	de Lacy
+97994	Charlemagne
+97998	Arthur
+98178	de Lacy
+98191	Fleming
+98281	Eveline
+98327	Flammock
+98341	Norman
+98392	Susannah
+98420	De Lacy
+98477	Wilkin
+98567	Fleming
+98577	De Lacy
+98725	Flammock
+98879	Wilkin Flammock
+98932	Randal de
+98934	Lacy
+98968	Flammock
+98999	Damian de
+99001	Lacy
+99024	Damian
+99119	Damian
+99168	Fleming
+99247	Wilkin
+99358	Flammock
+99412	Fleming
+99476	Damian de
+99478	Lacy
+99504	Damian
+99521	Lady Eveline
+99557	De Lacy
+99592	Damian
+99799	Damian
+99873	Lady Eveline
+99883	De Lacy
+100159	Lady Eveline
+100208	Damian
+100232	Eveline
+100290	Rose
+100382	Damian de
+100384	Lacy
+100514	Eveline
+100544	Damian
+100590	Eveline
+100710	De Lacy
+100766	Baldwin
+100794	Eveline
+100800	De Lacy
+100987	Eveline
+101241	Eveline
+101288	Damian
+101398	Damian de
+101400	Lacy
+101413	Eveline
+101434	Eveline
+101449	Rose
+101476	De Lacy
+101558	Damian de
+101560	Lacy
+101592	Eveline
+101613	Damian de
+101615	Lacy
+101623	Garde Doloureuse
+101782	Holy Virgin
+101906	WORDSWORTH
+101912	Lady Eveline
+102020	Berenger
+102023	De Lacy
+102095	Aldrovand
+102205	Damian de
+102207	Lacy
+102306	Eveline
+102315	Rose
+102415	Lady Eveline
+102439	Wilkln Flammock
+102467	Garde Doloureuse
+102502	Raoul
+102508	Damian
+102595	Damian
+102630	Damian
+102660	Eveline
+102694	Aldrovand
+102784	Judas Maccabeus
+102819	Rose
+103060	Raymond Berenger
+103261	Eveline
+103357	Eveline
+103392	Vanda
+103587	Garde Doloureuse
+103696	Garde Doloureuse
+103718	Gleichen
+103758	Pope
+103782	Gleichen
+103822	Aldrovand
+103850	Margery
+103908	Gillian
+103940	Raoul
+103982	Lady Eveline
+103992	Rose
+104002	Gleichen
+104068	Rose
+104072	Eveline
+104206	Damian de
+104208	Lacy
+104214	Eveline
+104307	Rose
+104312	Damian
+104328	Eveline
+104362	Rose
+104437	Damian
+104456	-- Was
+104502	Eveline
+104698	Eveline
+104724	Rose Flammock
+104791	Norman
+104920	Damian
+104926	Eveline
+105014	RANDOLPH
+105022	Raoul
+105113	Dame Gillian
+105140	Raoul
+105142	Raoul
+105181	Raoul
+105219	Dame Gillian
+105270	Raoul
+105285	Gillian
+105322	Raoul
+105353	Gillian
+105375	Raoul
+105417	Gillian
+105448	Raoul
+105461	Gillian
+105545	Raoul
+105549	Gillian
+105598	Malpas
+105617	Raoul
+105668	Raoul
+105814	Raoul
+105964	Raoul
+106004	Reginald
+106085	Raoul
+106171	Raoul
+106267	Raoul
+106312	Falconer
+106376	Raoul
+106421	Gillian
+106473	Gillian
+106514	Gillian
+106554	Dame Gillian
+106750	Eveline
+106821	Eveline
+106845	Rose
+106847	Gillian
+106866	Raoul
+107036	Lady Eveline
+107094	Raoul
+107154	Rose
+107184	Raoul
+107219	Raoul
+107223	Rose
+107227	Eveline
+107323	Rose
+107347	Rose
+107351	Eveline
+107396	Flanderkin
+107435	Rose
+107443	Wilkin Flammock
+107477	Rose
+107509	Lady Eveline
+107550	Eveline
+107568	Dame Gillian
+107688	Dame Gillian
+107693	Eveline
+107717	Dame Gillian
+107792	Raoul
+108242	Raoul
+108322	Raoul
+108339	Lady Eveline
+108874	Raoul
+109037	Lady Eveline
+109164	Eveline
+109274	Eveline
+109393	Damian de
+109395	Lacy
+109549	Raoul
+109607	Raoul
+109663	Dame Gillian
+109731	Eveline
+109770	COLERIDGE
+109841	Lady Eveline
+110028	Eveline Berenger
+110141	Eveline
+110180	Cymbri
+110287	Eveline
+110317	De Lacy
+110408	Eveline
+110529	Virgin
+110540	Eveline
+110651	Eveline
+110697	Dame Gillian
+110753	Eveline
+110807	Gwenwyn
+111007	Eveline
+111079	Eveline
+111389	Eveline
+111463	Eveline
+111640	Raymond Berenger
+111960	Edris
+112026	Eveline
+112053	Eveline Berenger
+112079	Eveline Berenger
+112190	Eveline
+112211	Eveline Berenger
+112378	Eveline
+112464	Eveline
+112502	Damian
+112622	Damian de
+112624	Lacy
+112643	Damian
+112647	Eveline
+112798	Eveline
+112806	Damian
+112832	Eveline
+112890	Damian
+112958	Damian de
+112960	Lacy
+112987	Eveline
+113006	Wilkin Flammock
+113047	Lady Eveline
+113069	Damian de
+113071	Lacy
+113114	Eveline
+113139	Lady Eveline
+113155	Rose
+113407	Eveline
+113448	Damian de
+113450	Lacy
+113482	Eveline
+113585	Rose
+113604	Lady Eveline
+113678	WORDSWORTH
+113694	Lady Eveline
+113840	Edris
+113864	Hirlas Horn
+113935	Eveline
+114068	Edris
+114109	Damian
+114127	Wilkin Flammock
+114133	Damian
+114284	Damian
+114330	Damian
+114344	Eveline
+114366	Edris
+114401	Damian
+114438	Eveline
+114567	Damian
+114581	Lady Eveline
+114710	Damian
+114740	Garde Doloureuse
+114787	Damian
+114836	Wilkin Flammock
+114934	Flammock
+114945	Eveline
+115031	Damian
+115048	Wilkin Flammock
+115122	Dawfyd
+115187	Damian
+115214	Dame Gillian
+115242	Damian
+115289	Raoul
+115314	Raoul
+115426	Damian
+115523	WALLER
+115594	Eveline
+115615	Eveline
+115751	Damian
+115781	Rose
+115830	Rose
+115850	Eveline
+115867	Dame Gillian
+115894	Rose Flammock
+115929	Rose
+115969	Fleming
+115990	Eveline
+116012	Rose
+116052	Eveline
+116088	Malpas
+116092	Rose
+116180	Rose
+116274	Fleming
+116300	Rose
+116308	Damian
+116346	Roschen
+116351	Fleming
+116379	Rose
+116397	Roschen
+116407	Rose
+116440	Damian
+116491	Fleming
+116506	Norman
+116564	Lazy Flanderkin
+116568	Greedy Flanderkin
+116584	Coward Flanderkin
+116588	Gwenwyn
+116605	Rose
+116691	Berenger
+116693	De Lacy
+116720	Fleming
+116784	Rose
+116820	Wilkin
+117063	Roschen
+117105	Rose
+117239	Damian de
+117241	Lacy
+117253	Fleming
+117532	Fleming
+117564	Garde Doloureuse
+117604	De Lacy
+117608	Berenger
+117612	Berenger
+117620	Wilkin Flammock
+117625	Damian
+117706	Damian
+117715	Damian
+117784	Rose
+117805	Roschen
+117809	Wilkin
+117817	Norman men-at-arms
+117828	Damian de
+117830	Lacy
+117866	Rose
+117905	Wilkin Flammock
+117924	De Lacy
+117982	Eveline
+117997	Rose
+118012	Damian
+118099	Roschen
+118103	Wilkin
+118238	Rose
+118299	Fleming
+118350	Rose
+118374	Roschen
+118425	Rose
+118502	Fleming
+118506	Rose
+118514	Eveline
+118519	Damian
+118578	Damian de
+118580	Lacy
+118643	Eveline
+118655	Damian
+118741	Chapel of
+118743	the Virgin
+118925	Julia
+118962	Roderick
+119031	Eveline
+119063	Rose
+119065	Dame Gillian
+119068	Margery
+119096	Eveline
+119186	Raymond
+119215	Eveline
+119225	Aldrovand
+119228	Amelot
+119233	Damian
+119244	Lady Eveline
+119263	Eveline
+119359	Eveline
+119390	Damian
+119434	Amelot
+119496	Amelot
+119522	Damian
+119556	Ralph Genvil
+119594	Amelot
+119668	Eveline
+119697	Damian
+119721	Knight
+119725	Eveline
+119775	Eveline Berenger
+119831	Amelot
+119934	Amelot
+119991	Eveline
+120084	Damian
+120090	Eveline
+120105	Amelot
+120158	Amelot
+120164	Eveline
+120315	Eveline
+120356	Amelot
+120446	Eveline
+120456	Damian de
+120458	Lacy
+120526	Randal Lacy
+120535	Damian
+120563	Eveline
+120575	Amelot
+120768	Wild Wenlock
+120828	Eveline
+120985	Amelot
+121114	Garde Doloureuse
+121231	Eveline
+121287	Garde Doloureuse
+121403	De Lacy
+121407	Damian
+121434	Berenger
+121512	Amelot
+121564	Ralph Genvil
+121619	De Lacy
+121668	Genvil
+121758	Amelot
+121777	Genvil
+121791	Amelot
+121867	Lacy
+121897	Lacy
+122013	Genvil
+122065	Amelot
+122091	Lady Eveline
+122145	Eveline
+122182	Gillian
+122201	Rose
+122216	Eveline
+122479	Eveline
+122547	Berenger
+122614	Genvil
+122695	Eveline
+122706	Genvil
+122809	Genvil
+122858	Eveline
+122876	Wenlock
+122895	Genvil
+122906	Damian de
+122908	Lacy
+122926	Wild Wenlock
+123012	Wenlock
+123046	De Lacy
+123063	Damian
+123075	Genvil
+123107	Wenlock
+123209	George
+123254	Genvil
+123404	John Chandos
+123409	Black Prince
+123442	Stephen Pontoys
+123448	Damian
+123502	Stephen
+123584	De Lacy
+123604	Stephen
+123632	Pontoys
+123675	Genvil
+123742	Stephen
+123786	Damian
+123796	Stephen Pontoys
+123807	Damian
+123829	Stephen Pontoys
+123872	Wenlock
+123951	Genvil
+124005	Wenlock
+124029	Amelot
+124081	Genvil
+124155	Amelot
+124182	Stephen Pontoys
+124188	Chester
+124306	Amelot
+124349	Genvil
+124387	Genvil
+124407	Hob Miller
+124436	Amelot
+124519	Dame Eveline
+124521	Berenger
+124533	Genvil
+124575	Stephen Pontoys
+124586	Wenlock
+124692	Wenlock
+124801	Amelot
+124825	Wenlock
+124877	Genvil
+124935	Amelot
+124951	Genvil
+124974	Genvil
+125045	Wenlock
+125051	Genvil
+125086	Amelot
+125217	Genvil
+125335	Damian de
+125337	Lacy
+125376	Damian de
+125378	Lacy
+125391	Hob Miller
+125426	Wenlock
+125432	Genvil
+125470	Amelot
+125516	Genvil
+125600	Amelot
+125647	Genvil
+125717	Genvil
+125721	Damian
+125726	Wenlock
+125897	Amelot
+125921	Lady Eveline
+125977	Lady Eveline
+126043	Eveline Berenger
+126056	Amelot
+126125	Eveline
+126145	Damian
+126248	Eveline Berenger
+126289	Damian de
+126291	Lacy
+126302	Lady Eveline
+126601	Eveline
+126624	Damian
+126687	Damian
+126710	Eveline
+126761	Eveline
+126844	Rose
+126871	Rose
+126922	Eveline
+126954	Clement
+126960	Eveline
+127009	Rose
+127013	Eveline
+127074	Saladin
+127191	Rose
+127224	Rose
+127312	Michaelmas
+127324	Rose
+127427	Rose
+127431	Eveline
+127478	Rose
+127563	Eveline
+127592	Damian
+127625	Raoul
+127676	Eveline
+127740	Rose
+127770	Eveline
+127793	Amelot
+127831	Eveline
+127859	Eveline
+127902	Guy Monthermer
+127962	Malpas
+127997	Eveline
+128149	Eveline
+128179	Raymond Berenger
+128219	Henry
+128248	Eveline
+128309	Monthermer
+128395	Lady of
+128397	Berenger
+128413	Knight
+128471	Garde Doloureuse
+128625	Damian de
+128627	Lacy
+128723	Eveline
+128742	Damian de
+128744	Lacy
+128830	Monthermer
+128889	Eveline Berenger
+128930	Eveline Berenger
+128959	Damian de
+128961	Lacy
+128998	Henry
+129065	Monthermer
+129113	Eveline
+129190	Eveline
+129304	RICHARD III
+130076	Philip Guarine
+130108	Guarine
+130121	Saxon
+130228	Philip Guarine
+130300	Guarine
+130446	Renault Vidal
+130491	Vidal
+130523	Guarine
+130598	Guarine
+130648	Vidal
+130714	De Lacy
+130795	Cymri
+130831	Philip Guarine
+130928	Vidal
+130976	Guarine
+131004	Renault Vidal
+131143	Vidal
+131227	Hugo de
+131229	Lacy
+131255	Guarine
+131316	Vidal
+131345	Guarine
+131363	Vidal
+131665	Philip Guarine
+131700	Vidal
+131849	Guarine
+131860	Vidal
+131871	Vidal
+131892	Vidal
+131949	Eveline
+131965	Hugo de
+131967	Lacy
+132102	Eveline Berenger
+132130	Guarine
+132177	Philip
+132463	Eveline Berenger
+132507	-- Dolt
+132523	Damian de
+132525	Lacy
+132661	Eveline
+132664	Damian de
+132666	Lacy
+132683	De Lacy
+132746	Damian
+132780	De Lacy
+132819	Vidal
+132954	Philip Guarine
+133029	De Lacy
+133107	Renault Vidal
+133274	Guarine
+133427	Chester
+133631	Eveline Berengor
+133635	Monthermer
+133665	Damian de
+133667	Lacy
+133782	De Lacy
+133820	Damian
+133829	Garde Doloureuse
+133850	De Lacy
+133938	Garde Doloureuse
+133953	Guy Monthermer
+133982	Randal
+133992	Damian
+134062	Randal
+134119	Damian
+134126	Randal
+134175	De Lacy
+134198	Randal
+134202	Garde Poloureuse
+134207	Henry
+134266	Eveline
+134356	Damian de
+134358	Lacy
+134400	Amelot
+134506	Damian
+134604	Damian de
+134606	Lacy
+134629	Henry
+134779	William Flammock
+134841	Father Aldrovand
+134892	Fleming
+134900	Ralph Genvil
+134926	Damian
+134944	Damian
+134963	De Lacy
+135054	Lacy
+135065	Berenger
+135073	Eveline
+135093	Damian
+135142	Genvil
+135144	De Lacy
+135160	Raymond Berenger
+135179	Wilkin Flammock
+135240	Wilkin
+135249	Henry
+135266	Richard
+135268	John
+135412	Henry
+135530	Fleming
+135546	Prince Richard
+135592	Richard
+135650	Fleming
+135672	Wilkin Flammock
+135678	Rose
+135688	Prince John
+135733	Eveline Berenger
+135770	Norman Lady
+135822	Fleming
+135850	Garde Doloureuse
+135871	Lady Eveline
+135895	Fleming
+135938	Prince John
+135987	John
+135995	Richard
+136061	Richard
+136083	-- John
+136110	-- Fleming
+136123	Ere Flammock
+136132	Richard
+136189	John
+136193	Richard
+136265	Richard
+136294	John
+136366	John
+136416	-- Gloucester
+136435	Richard
+136526	Henry the
+136528	Second
+136611	Richard
+136716	Henry
+136821	Damian de
+136823	Lacy
+136838	Henry
+136863	Eveline Berenger
+136881	Rose
+136883	Alice
+136917	Randal de
+136919	Lacy
+136963	Aldrovand
+136980	Henry
+137031	Wilkin Flammock
+137034	Henry
+137057	Fleming
+137097	Richard
+137108	Richard
+137161	Flammock
+137196	Henry
+137241	Flammock
+137257	Lady Eveline
+137308	Henry
+137342	Fleming
+137401	Randal de
+137403	Lacy
+137431	Berenger
+137433	Lacy
+137453	Randal
+137465	De Lacy
+137475	Eveline
+137529	Hugo de
+137531	Lacy
+137642	Vidal
+138013	Vidal
+138100	Hugo de
+138102	Lacy
+138212	De Lacy
+138224	Vidal
+138247	Hugo de
+138249	Lacy
+138292	De Lacy
+138325	Norman baron
+138426	Philip Guarine
+138471	Guarine
+138482	Vidal
+138811	Gillian
+138921	Raoul
+138965	Raoul
+138989	Gillian
+139121	St. Hubert
+139218	Raoul
+139341	Raoul
+139358	Guarine
+139431	Chester
+139434	De Lacy
+139514	Damian
+139543	Gillian
+139550	Philip Guarine
+139605	Gillian
+139614	Damian de
+139616	Lacy
+139657	Damian
+139667	Damian
+139674	Randal Lacy
+139736	Randal Lacy
+139819	Randal Lacy
+139843	Gillian
+139891	Damian
+139896	Eveline
+139975	De Lacy
+139999	Damian
+140001	Eveline
+140083	Randal
+140177	Raoul
+140190	Hugh
+140220	Mary
+140259	Damian de
+140261	Lacy
+140263	Eveline
+140313	Gillian
+140352	Randal Lacy
+140369	Randal
+140405	Lady Eveline
+140418	Randal
+140437	Raoul
+140441	Lady Eveline
+140486	Damian
+140504	Damian
+140608	Palmer
+140613	Raoul
+140639	Gillian
+140689	Randal Lacy
+140715	Damian
+140718	Lady Eveline
+140825	Randal Lacy
+140857	Flammock
+140861	Rose
+140879	Wilkin Flammock
+140898	Rose
+140941	Dame Gillian
+141008	Raoul
+141012	Gillian
+141038	Hugh
+141060	De Lacy
+141066	Hugh
+141081	Flammock
+141093	Eveline
+141097	Dame Gillian
+141116	Rose
+141164	Raoul
+141218	Henry
+141240	Gillian
+141310	Raoul
+141407	Vidal
+141411	De Lacy
+141454	Vidal
+141615	Randal
+141634	Raoul
+141676	John
+141742	Hugh de
+141744	Lacy
+141787	Guarine
+141798	Renault Vidal
+141812	Philip
+141875	Guarine
+141885	Norman
+141941	Philip Guarine
+142012	Philip
+142100	Garde Doloureuse
+142175	Renault Vidal
+142209	Vidal
+142283	Vidal
+142631	De Lacy
+142887	Taliessin
+143271	Garde Doloureuse
+143464	Vidal
+143540	Wilkin Flammock
+143767	Flammock
+143845	Vidal
+143974	Vidal
+144012	de Lacy
+144033	Harry
+144039	-- Had
+144041	Edward
+144086	Vidal
+144203	Vidal
+144280	Vidal
+144311	de Lacy
+144387	Aldrovand
+144401	Vidal
+144434	Renault Vidal
+144472	Aldrovand
+144510	Vidal
+144554	Norman
+144570	Vidal
+144702	Norman
+144720	De Lacy
+144733	Vidal
+144847	Wilkin Flammock
+144897	Vidal
+144947	De Lacy
+145116	Flammock
+145164	Henry
+145279	Flammock
+145282	Garde Doloureuse
+145357	Henry
+145373	Flammock
+145389	Henry
+145413	Flammock
+145502	Henry
+145540	Henry
+145553	Philip Guarine
+145607	Renault Vidal
+145616	Norman
+145637	Cadwallon
+145647	Cadwallon
+145653	Gwenwyn
+145780	Chester
+145804	Randal de
+145806	Lacy
+145825	Hugh de
+145827	Lacy
+145860	Randal
+146042	Norman
+146068	De Lacy
+146115	Henry
+146218	Cadwallon
+146255	Philip Guarine
+146273	De Lacy
+146318	Cadwallon
+146407	Henry
+146454	De Lacy
+146613	Cadwallon
+146625	De Lacy
+146682	De Lacy
+146763	De Lacy
+146912	De Lacy
+146919	Henry
+146960	De Lacy
+146983	Norman
+147019	Cadwallon
+147047	De Lacy
+147071	De Lacy
+147094	Randal
+147208	Hugo de
+147210	Lacy
+147265	Henry
+147268	De Lacy
+147298	De Lacy
+147360	Henry
+147370	Norman
+147385	Geraldine
+147399	COLERIDGE
+147408	Eveline Berenger
+147462	Eveline
+147532	Rose
+147536	Eveline
+147582	Rose
+147709	Damian de
+147711	Lacy
+147725	De Lacy
+147751	Damian
+147795	Eveline
+147798	Damian
+147919	Lady Eveline
+148046	Eveline
+148123	Eveline
+148363	Britoness Vanda
+148425	Eveline
+148476	Vanda
+148499	Eveline
+148573	Rose
+148608	Rose
+148612	Eveline
+148645	Rose
+148705	Henry
+148732	Eveline
+148756	Randal de
+148758	Lacy
+148841	Eveline
+148870	Randal
+148925	Damian Lacy
+148946	Damian
+149065	Damian
+149265	Damian
+149349	Saxon
+149447	Damian
+149570	Damian
+149693	Palmer
+149733	Damian
+149748	Palmer
+149784	Damian
+149893	Damian
+149969	Palmer
+149984	Soldan
+150041	Hassan Ali
+150111	Hugo de
+150113	Lacy
+150174	Soldan
+150241	De Lacy
+150292	Damian
+150340	Palmer
+150374	Damian
+150468	De Lacy
+150558	Damian
+150655	Damian
+150700	Palmer
+150774	Damian
+150862	Damian
+150865	Damian
+150900	Palmer
+150924	Randal
+150999	Damian
+151011	Palmer
+151089	Damian de
+151091	Lacy
+151123	Damian
+151143	Damian
+151188	Damian
+151243	Damian
+151328	Palmer
+151392	Palmer
+151527	Damian
+151560	Damian
+151574	Saxon
+151658	Damian
+151747	Eveline Berenger
+151767	Damian
+151819	Palmer
+151928	Damian
+151958	-- Tush
+151980	Palmer
+152008	Eveline Berenger
+152017	Damian
+152029	Palmer
+152133	Garde Doloureuse
+152136	-- Eveline
+152138	Berenger
+152185	Henry
+152205	Hugh
+152212	Damian
+152227	Damian
+152411	Palmer
+152445	Damian
+152561	Damian
+152586	Damian
+152615	Damian de
+152617	Lacy
+152645	Palmer
+152683	Damian
+152726	De Lacy
+152888	Damian
+152955	Damian
+152967	Eveline Berenger
+153052	Damian
+153129	Eveline
+153147	Damian
+153220	Eveline
+153237	Damian
+153317	Damian
+153329	Damian
+153354	Eveline Berenger
+153431	Henry
+153440	Rose
+153447	Flammock
+153461	Norman
+153493	Fleming
+153573	Eveline
+153638	Gillian
+153656	Raoul
+153695	Raoul
+153700	Gillian
+153748	Eveline
+153804	Norman
+153806	Saxon
+153837	Eveline
+153845	Damian

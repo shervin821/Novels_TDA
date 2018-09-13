@@ -1,0 +1,4176 @@
+40	Pope
+56	Don
+187	Richard I.
+236	Stephen
+243	Henry the
+245	Second
+603	Duke William
+792	Norman
+880	Norman-French
+1111	William the
+1113	Second
+1149	Edward
+2025	Beowulph
+2032	Cedric
+2044	Gurth
+2217	Wamba
+2228	Cedric
+2857	Gurth
+2984	Gurth
+3078	Wamba
+3129	Gurth
+3200	Gurth
+3208	Wamba
+3246	Wamba
+3272	Saxon
+3330	Wamba
+3364	Saxon
+3370	Norman
+3398	Gurth
+3412	Wamba
+3435	Wamba
+3446	Alderman Ox
+3452	Saxon
+3492	Mynheer Calf
+3498	Monsieur de
+3500	Veau
+3508	Saxon
+3517	Norman
+3529	St Dunstan
+3534	Gurth
+3632	Saxon
+3640	Cedric
+3657	Reginald Front-de-Boeuf
+3675	Cedric
+3762	Reginald Front-de-Boeuf
+3766	Philip de
+3768	Malvoisin
+3777	Norman
+3819	Gurth
+3897	Gurth
+3959	Oberon
+4080	Wamba
+4219	-- Chaucer
+4243	Wamba
+5464	Damascene
+6002	Aymer
+6058	Norman
+6263	Aymer
+6355	Aymer
+6372	Aymer
+6444	Aymer
+6507	Jorvaulx
+6623	Norman
+6625	Saxon
+6654	Mother Church
+6716	Wamba
+6965	Wamba
+7066	Franklin
+7069	Aymer
+7081	Cedric the
+7083	Saxon
+7118	Gurth
+7133	Cedric
+7198	Gurth
+7298	Gurth
+7332	Aymer
+7354	St Mary
+7358	Brian
+7425	Cedric the
+7427	Saxon
+7472	Saracen
+7623	Abbot
+7635	Cedric
+7647	Wamba
+7710	Abbot
+7752	Gurth
+7844	Gurth
+7851	Aymer
+7855	Rowena
+7867	Cedric
+7983	Brian
+8088	Brian
+8109	Odin
+8185	Prior Aymer
+8214	Cedric
+8270	Reginald Front-de-Boeuf
+8273	Philip Malvoisin
+8311	Heptarchy
+8413	Rowena
+8442	Cedric
+8446	Cedric
+8649	Dennis
+8689	Pentecost
+8791	Cedric the
+8793	Saxon
+8859	Rowena
+8995	Hamet
+8997	Abdalla
+9085	Brian
+9180	Brian
+9277	Cedric the
+9279	Saxon
+9347	Cedric
+9512	Cedric the
+9514	Saxon
+9523	Aymer
+9643	Palmer
+9773	Cedric
+9841	Rotherwood
+10042	Saxon
+10095	Cedric the
+10097	Saxon
+10247	Cedric
+10673	Cedric the
+10675	Saxon
+10915	Cedric
+11214	Saxon
+11349	Cedric
+11444	Cedric
+11462	Rowena
+11620	Saxon
+11631	Wamba
+11677	Cedric
+11760	Rowena
+11868	John
+11870	Kirk
+11980	Oswald
+12024	Cedric
+12050	Saxon
+12099	Reginald Front-de-Boeuf
+12102	Philip de
+12104	Malvoisin
+12114	William the
+12116	Bastard
+12122	Norman
+12182	Wamba
+12193	Gurth
+12196	Oswald
+12219	Saxon
+12225	Norman
+12312	Norman
+12354	-- Haply
+12382	Cedric
+12387	Wilfred
+12389	Wilfred
+12476	Cedric
+12554	Saxon
+12623	Jorvaulx
+12629	Brian de
+12631	Bois-Guilbert
+12690	Brian de
+12692	Bois-Guilbert
+12697	Cedric
+12705	Norman
+12707	Saxon
+12779	Hundebert
+12889	Hundebert
+12892	Cedric
+12928	Saxon
+12947	Saxon
+12981	Cedric
+12985	Oswald
+12997	Giles de
+12999	Mauleverer
+13007	Oswald
+13042	Norman
+13094	Brian de
+13096	Bois-Guilbert
+13104	Cedric
+13144	Bois-Guilbert
+13229	-- Oswald
+13282	-- Elgitha
+13288	Rowena
+13321	Elgitha
+13342	Cedric
+13355	Rowena
+13408	Alfred
+13415	Elgitha
+13426	Saxon
+13652	Ulysses
+13675	Aymer
+14092	Cedric
+14158	Cedric
+14295	Norman
+14326	Thane
+14403	Hilda
+14433	Hilda of
+14435	Whitby
+14475	Richard
+14495	Cedric
+14584	Cedric
+14591	Gurth
+14600	Wamba
+14619	Saxon
+14683	Gurth
+14698	Cedric
+14747	Gurth
+14768	Cedric
+14791	Cedric
+14848	Wamba
+14875	Cedric
+14884	Gurth
+14938	Cedric
+15053	Saxon
+15065	Hubert
+15069	Wamba
+15073	Philip de
+15075	Malvoisin
+15120	Saxon
+15163	Gurth
+15236	Knight
+15449	Rowena
+15469	Rowena
+15481	Cedric
+15622	Franklin
+15645	Brian de
+15647	Bois-Guilbert
+15683	Rowena
+15810	Saxon
+16026	Rowena
+16083	Cedric
+16135	Brian
+16151	Rowena
+16169	Rowena
+16218	Cedric
+16275	Brian de
+16277	Bois-Guilbert
+16292	Saxon
+16347	Athelstane
+16523	Rowena
+16555	Vortigern
+16586	Knight
+16590	Rowena
+16651	Brian de
+16653	Bois-Guilbert
+16664	Saladin
+16671	Wamba
+16755	Wamba
+16849	Cedric
+16866	Wamba
+16977	Cedric
+17092	Cedric
+17154	Oswald
+17261	Isaac of
+17263	York
+17284	Oswald
+17288	Wamba
+17314	Abbot
+17359	Wamba
+17389	Cedric
+17479	Franklin
+17517	Wamba
+17530	Termagaunt
+17552	Wamba
+17556	Cedric
+17576	Wamba
+17605	Cedric
+17884	Cedric the
+17886	Saxon
+17904	Cedric
+17978	Saxon
+18028	Isaac
+18074	Cedric
+18096	Isaac
+18103	Abbot
+18150	Isaac
+18408	Cedric
+18417	Rowena
+18462	Cedric
+18546	Aymer
+18551	Saxon
+18724	Cedric
+18732	Abbot
+18748	Cedric the
+18750	Saxon
+18793	Saxon
+18817	Norman baron
+19033	Brian de
+19035	Bois-Guilbert
+19106	Cedric
+19110	Wamba
+19117	Richard
+19182	Lady Rowena
+19202	St John
+19214	De Bois-Guilbert
+19338	Richard
+19354	St John-de-Acre
+19401	Brian de
+19403	Bois-Guilbert
+19481	Cedric
+19614	Palmer
+19618	Wamba
+19644	Richard
+19658	Cedric
+19669	Duke William
+19689	Thomas Multon
+19700	Saxon
+19709	Cedric
+19716	Foulk Doilly
+19727	Saxon
+19740	Cedric
+19792	Edwin Turneham
+19798	Saxon
+19808	Cedric
+19836	Palmer
+19891	Palmer
+19896	Brian de
+19898	Bois-Guilbert
+19998	St John-de-Acre
+20036	Palmer
+20074	Ivanhoe
+20156	Jorvaulx
+20224	Aymer
+20256	Brian de
+20258	Bois-Guilbert
+20295	Rowena
+20354	Ivanhoe
+20374	Cedric
+20442	Rowena
+20463	Cedric
+20514	Norman
+20522	Aymer
+20587	Ambrose
+20636	Cedric
+20666	Rowena
+20690	Saxon
+20844	Saxon
+20951	Rowena
+20985	Isaac the
+20987	Jew
+21016	Isaac
+21138	Jacob
+21157	Reuben
+21379	-- Merchant
+21466	Wamba
+21498	Palmer
+21539	Wamba
+21597	Isaac
+21602	-- Anwold
+21633	Palmer
+21696	Rowena
+21715	Palmer
+21811	Lady Rowena
+22046	Rowena
+22104	Palmer
+22450	Rowena
+22462	Ivanhoe
+22491	Palmer
+22571	Lady Rowena
+22615	Ivanhoe
+22795	Rowena
+22808	Palmer
+22858	Palmer
+22869	Edwina
+22882	Anwold
+22963	Anwold
+22974	-- St
+22976	Dunstan
+23062	Oswald
+23079	Palmer
+23286	Isaac
+23315	Palmer
+23417	Abraham
+23449	Palmer
+23533	Palmer
+23554	Isaac
+23559	Palmer
+23591	Abraham
+23645	Palmer
+23776	Philip de
+23778	Malvoisin
+23784	Reginald Front-de-Boeuf
+23950	Aaron
+24010	Ammon
+24017	Isaac
+24027	Palmer
+24175	Isaac
+24327	Lazarus
+24371	Jew
+24375	Gentile
+24450	Wert
+24523	Cedric the
+24525	Saxon
+24550	Saxon
+24552	Norman
+24575	Reginald Front-de-Boeuf
+24670	Gurth
+24678	Gurth
+24703	Gurth
+24790	Wamba
+24817	Gurth
+24839	Gentile
+24915	Gurth
+24968	Gurth
+24973	Wamba
+25056	Cedric
+25088	Gurth
+25106	Wamba
+25260	Norman
+25290	Gurth
+25469	Gurth
+25525	Gurth
+25592	Gurth
+25809	Norman
+25811	Saxon
+25813	Dane
+25866	Norman
+25909	John
+26510	Abraham
+26527	Palmer
+26624	Jacob
+26646	Zareth
+26667	Palmer
+26793	Jew
+26799	Isaac
+26816	Zareth
+26935	Isaac
+27144	Palmer
+27254	Palmer
+27300	Isaac
+27407	Kirjath Jairam
+27503	Isaac
+27626	Palmer
+27642	Isaac
+27758	Kirjath Jairam
+27769	Isaac
+27835	Palmer
+28005	Richard
+28020	Duke
+28065	John
+28070	Philip
+28074	Coeur-de-Lion
+28098	Richard
+28146	Arthur Duke
+28148	of Brittany
+28153	Geoffrey Plantagenet
+28160	John
+28185	John
+28205	Richard
+28657	John
+29050	Brian be
+29052	Bois-Guilbert
+29119	Reginald Front-de-Boeuf
+29122	Richard de
+29124	Malvoisin
+29134	Hugh de
+29136	Grantmesnil
+29164	William Rufus
+29167	Ralph de
+29169	Vipont
+29174	St John
+29188	Heather
+29587	John
+29835	William de
+29837	Wyvil
+29840	Stephen de
+29842	Martival
+30062	Isaac
+30100	Rebecca
+30107	Ashby
+30139	Isaac
+30246	Isaac
+30257	John
+30285	Isaac
+30338	Norman Christian
+30540	John
+30723	John
+30753	St John
+30774	Richard
+30781	Philip
+30814	Richard
+30850	Sultan Saladin
+30885	John
+30895	Richard
+30903	Arthur
+30915	John
+30978	John
+31043	John
+31240	John
+31320	Isaac
+31334	John
+31373	Rebecca
+31398	John
+31670	Abraham
+31674	Prince John
+31705	Aymer
+31720	Richard
+31740	Sharon
+31780	Prince John
+31798	Marquis
+31837	St Mark
+31863	Isaac
+31890	Rebecca
+31899	Isaac
+31937	John
+32067	Cedric the
+32069	Saxon
+32079	Athelstane
+32096	Saxon
+32110	Saxon
+32216	Cedric
+32326	Prince
+32335	Isaac
+32337	Rebecca
+32339	Athelstane
+32380	John
+32419	John
+32451	De Bracy
+32511	John
+32514	De Bracy
+32571	Cedric
+32619	John
+32682	Cedric
+32823	Wat Tyrrel
+32855	William Rufus
+32867	John
+32900	St Grizzel
+33079	Prince John
+33140	Cedric
+33161	Wamba
+33170	Isaac
+33297	John
+33311	Prince
+33315	Wamba
+33362	Prince John
+33384	Wamba
+33396	Weatherbrain
+33404	Alderman
+33422	Prince John
+33484	John
+33493	Isaac
+33555	Isaac
+33694	John
+33783	Rebecca
+33847	Saxon
+33849	Rowena
+33853	Saxon
+33863	Saxon
+33879	Rebecca
+33912	De Bracy
+33952	John
+33956	Waldemar Fitzurse
+33986	John
+34021	Waldemar
+34061	John
+34111	De Bracy
+34177	Brian de
+34179	Bois-Guilbert
+34211	De Bracy
+34247	Waldemar
+34282	Prince John
+34293	Waldemar Fitzurse
+34664	John
+34764	John
+35222	Saxon
+35696	Brian de
+35698	Bois-Guilbert
+35754	Bois-Guilbert
+35756	Malvoisin
+35863	St John
+36240	Malvoisin
+36254	Grantmesnil
+36274	Cedric the
+36276	Saxon
+36320	Saxon
+36342	Athelstane
+36393	Athelstane
+36406	Cedric
+36425	Cedric
+36450	Athelstane
+36475	Cedric
+36483	Norman
+36514	Athelstane
+36550	Wamba
+36584	Athelstane
+36594	Cedric
+36618	Wamba
+36766	John
+36787	Brian de
+36789	Bois-Guilbert
+37028	Ralph de
+37030	Vipont
+37106	Brian de
+37108	Bois-Guilbert
+37231	Bois-Guilbert
+37368	Brian de
+37370	Bois-Guilbert
+37515	Bois-Guilbert
+37837	John
+37955	Bois-Guilbert
+38003	Norman
+38293	Bois-Guilbert
+38482	Front-de-Boeuf
+38507	Philip Malvoisin
+38533	Malvoisin
+38555	De Grantmesnil
+38661	De Grantmesnil
+38681	Ralph de
+38683	Vipont
+38820	Agnus Castus
+38839	William de
+38841	Wyvil
+38843	Stephen de
+38845	Martival
+38909	John
+39033	John
+39064	John
+39188	De Bracy
+39240	Hospitaller
+39265	St John
+39287	Bois-Guilbert
+39304	De Bracy
+39322	John
+39348	De Wyvil
+39369	John
+39421	Waldemar Fitzurse
+39472	Richard
+39499	De Bracy
+39513	Thomas de
+39515	Multon
+39526	Fitzurse
+39529	Salisbury
+39564	Richard Coeur-de-Lion
+39577	Prince John
+39605	-- De
+39607	Bracy
+39634	Waldemar Fitzurse
+39669	-- De
+39671	Wyvil
+39673	Martival
+39727	Richard
+39754	Richard
+39793	John
+39833	Fitzurse
+39897	Richard
+40090	Jorvaulx
+40094	John
+40207	John
+40249	Prince John
+40329	Alicia
+40337	Waldemar Fitzurse
+40407	John
+40463	Waldemar Fitzurse
+40466	John
+40516	Rebecca
+40523	Alicia
+40526	Waldemar
+40570	John
+40618	Waldemar Fitzurse
+40677	Alicia
+40880	Rowena
+40930	Cedric the
+40932	Saxon
+40955	Front-de-Boeuf
+40957	Malvoisin
+40993	Rowena
+41017	Athelstane
+41074	Abraham
+41078	Isaac of
+41080	York
+41147	Joseph Pareira
+41194	Rebecca
+41222	Isaac
+41272	Rebecca
+41533	Rowena
+41546	Rowena
+41582	Cedric
+41600	Athelstane
+41619	Norman
+41639	Norman
+41673	Rowena
+41721	John
+41779	Lady Alicia
+41852	John
+41870	Waldemar Fitzurse
+41962	John
+41991	Rowena
+42030	John
+42056	Ashby
+42073	Rowena
+42078	Cedric
+42085	Saxon
+42090	Rowena
+42124	Athelstane
+42161	Rowena
+42204	Rowena
+42228	Prince John
+42252	Cedric
+42293	Knight
+42359	Prince John
+42455	John
+42548	Ashby
+42584	Prince John
+42632	De Bracy
+42656	Waldemar Fitzurse
+42682	John
+42821	Prince John
+43174	Barrabas
+43183	-- Jew
+43263	John
+43577	Baldwin de
+43579	Oyley
+43586	Brian de
+43588	Bois-Guilbert
+43615	Brian de
+43617	Bois-Guilbert
+43825	Reginald Front-de-Boeuf
+43942	Baldwin
+43947	Brian de
+43949	Bois-Guilbert
+44073	Baldwin
+44233	Baldwin
+44257	Gurth
+44287	Gurth
+44340	Gurth
+44353	Wamba the
+44355	Jester
+44394	Gurth
+44443	Gurth
+44497	Gurth
+44526	Gurth
+44550	Ashby
+44561	Isaac the
+44563	Jew of
+44565	York
+44589	St Dunstan
+44594	Gurth
+44637	Gurth
+44719	Gurth
+44828	Isaac
+44915	Rebecca
+45011	Jacob
+45076	Rebecca
+45087	John
+45119	Lyons
+45200	Rebecca
+45224	Isaac
+45321	Rebecca
+45436	Isaac
+45466	Kirjath Jairam
+45524	Rebecca
+45553	Isaac
+45633	Rebecca
+45767	Isaac
+45810	Isaac
+45840	Rebecca
+45855	Rebecca
+45878	Gurth
+45888	Norman mantle
+45921	Isaac the
+45923	Jew of
+45925	York
+45929	Gurth
+45940	Isaac
+45980	Gurth
+45994	Isaac
+46016	Gurth
+46081	Abraham
+46108	Gurth
+46129	Kirjath Jairam
+46176	Isaac
+46206	Gurth
+46220	Isaac
+46236	Gurth
+46283	Saxon
+46308	Isaac
+46331	Isaac
+46391	Gurth
+46450	Isaac
+46454	Gurth
+46478	Gurth
+46489	Isaac
+46553	Gurth
+46682	Gurth
+46773	Isaac
+46799	Gurth
+46979	Isaac of
+46981	York
+47001	Gurth
+47063	Gurth
+47135	Isaac
+47203	Gurth
+47286	Rebecca
+47367	Rebecca
+47379	Gurth
+47392	Gurth
+47442	Gurth
+47613	Isaac
+47634	Rebecca
+47673	Gurth
+47687	Rebecca
+47745	-- Reuben
+47775	Reuben
+47805	Gurth
+47843	St Dunstan
+47848	Gurth
+47894	Gurth
+48008	Val
+48228	Gurth
+48248	St Dunstan
+48343	St Nicholas
+48355	Gurth
+48487	Gurth
+48578	Gurth
+48706	Gurth
+48761	Gurth
+48815	Gurth
+48866	Gurth
+48949	Gurth
+49000	St Nicholas
+49051	Rebecca
+49085	Gurth
+49122	Gurth
+49161	Gurth
+49222	Gurth
+49298	Gurth
+49310	Brian de
+49312	Bois-Guilbert
+49337	Gurth
+49345	Templar
+49413	Isaac the
+49415	Jew of
+49417	York
+49421	Gurth
+49450	Isaac
+49475	Isaac
+49480	Saxon
+49533	Gurth
+49658	Gurth
+49768	Gurth
+50096	Malvoisin
+50118	Brian de
+50120	Bois-Guilbert
+50235	Gurth
+50259	Gurth
+50341	Miller
+50423	Miller
+50431	Miller
+50501	Gurth
+50629	Miller
+50678	Miller
+50743	Gurth
+50772	Miller
+50796	Gurth
+50875	Miller
+50942	Saxon
+50954	Miller
+50977	Gurth
+51098	Gurth
+51126	Gurth
+51223	Gurth
+51392	Gurth
+51436	Gurth
+51575	Gurth
+51721	Chaucer
+51862	Brian de
+51864	Bois-Guilbert
+51904	Ralph de
+51906	Vipont
+52109	Prince John
+52145	Cedric the
+52147	Saxon
+52152	Rowena
+52159	Athelstane
+52162	Saxon
+52191	Cedric
+52207	Saxon
+52272	Brian de
+52274	Bois-Guilbert
+52276	Athelstane
+52301	Rowena
+52334	Cedric
+52363	Rowena
+52395	Athelstane
+52449	De Bracy
+52458	John
+52476	John
+52503	Norman
+52543	John
+52597	Rowena
+52630	Prince John
+52697	Rowena
+52733	Rowena
+53050	John
+53414	William de
+53416	Wyvil
+53776	Brian de
+53778	Bois-Guilbert
+54615	Norman
+54628	Saxon
+54833	Bois-Guilbert
+54842	Athelstane
+54986	John
+55027	John
+55294	Front-de-Boeuf
+55345	Front-de-Boeuf
+55374	Athelstane
+55389	Front-de-Boeuf
+55399	Saxon
+55428	Athelstane
+55489	Brian de
+55491	Bois-Guilbert
+55525	Brian de
+55527	Bois-Guilbert
+55573	Prince John
+55837	Ashby
+55846	John
+55942	John
+55974	Black Armour
+56090	John
+56152	John
+56162	Prince John
+56306	Rowena
+56370	Rowena
+56547	Rowena
+56637	Knight
+56721	Cedric
+56747	Rowena
+56768	Ivanhoe
+56822	Ye
+56865	Ivanhoe
+56997	De Bracy
+57033	Waldemar Fitzurse
+57048	Richard
+57071	John
+57224	Richard
+57241	Aymer
+57317	Richard
+57325	Askalon
+57355	Waldemar
+57366	Ivanhoe
+57420	Prince John
+57479	Waldemar Fitzurse
+57486	Ivanhoe
+57558	Rowena
+57603	Rowena
+57607	Prince John
+57632	Aymer
+57673	Prince John
+57710	De Bracy
+57726	Saxon
+57753	De Bracy
+57807	Prince John
+57831	Rowena
+57847	Saxon
+57865	-- De
+57867	Bigot
+57912	Becket
+57925	John
+57960	Prince John
+58056	John
+58144	Waldemar Fitzurse
+58147	De Bracy
+58177	Richard
+58199	De Bracy
+58214	Prince John
+58226	Fitzurse
+58278	De Bracy
+58304	Waldemar
+58360	Waldemar
+58457	John
+58550	St Hubert
+58673	John
+58744	Prince John
+58820	Prince John
+58902	John
+58920	Locksley
+58930	Locksley
+58934	Prince John
+59111	Prince
+59164	Prince John
+59412	Hubert
+59431	Locksley
+59435	Prince John
+59453	Hubert
+59484	Locksley
+59508	Hubert
+59535	John
+59554	Hubert
+59578	Hubert
+59622	Hubert
+59749	Hubert
+59785	Locksley
+59845	Hubert
+59856	Prince John
+59859	Hubert
+59880	Hubert
+59936	John
+59961	Hubert
+60015	Hubert
+60018	Hubert
+60048	Hubert
+60061	Locksley
+60086	Locksley
+60189	Locksley
+60275	John
+60315	Locksley
+60502	Richard
+60512	Hubert
+60640	Prince John
+60645	Sirrah Locksley
+60700	Hubert
+60705	Locksley
+60810	John
+60815	Locksley
+60910	Prince
+60914	Locksley
+60936	King Richard
+60945	Hubert
+60961	Hastings
+60981	Hubert
+60997	Locksley
+61024	John
+61033	Prince
+61074	Ashby
+61079	Isaac
+61174	Prince
+61182	Ashby
+61239	-- Warton
+61242	John
+61251	Ashby
+61280	Hastings
+61282	High Chamberlain
+61307	Shakspeare
+61329	Roger de
+61331	Quincy
+61333	Earl of
+61335	Winchester
+61353	Prince John
+61467	John
+61476	Saxon
+61486	Norman
+61591	Prince
+61634	Henry the
+61636	Second
+61693	John
+61750	John
+61783	John
+61785	Cedric
+61787	Athelstane
+61804	Rowena
+61822	Cedric
+61824	Athelstane
+61868	John
+61875	Waldemar Fitzurse
+62008	Charlemagne
+62136	John
+62343	John
+62435	Cedric
+62523	Cedric
+62768	John
+62860	Wilfred
+62892	Cedric
+62914	Cedric
+62967	John
+62996	Cedric
+63004	Wilfred
+63053	Alfred
+63075	Prince John
+63119	John
+63130	Henry the
+63132	Second
+63198	Cedric
+63250	Prince John
+63277	Reginald Front-de-Boeuf
+63287	Baron
+63304	Wilfred
+63323	St Anthony
+63348	Cedric
+63350	Wilfred
+63381	Saxon
+63384	Baron
+63388	Cedric
+63423	Front-de-Boeuf
+63429	Prince John
+63452	Cedric
+63498	Malvoisin
+63518	Aymer
+63540	De Bracy
+63563	Brian de
+63565	Bois-Guilbert
+63613	Saxon
+63697	John
+63730	Saxon
+63854	Prince John
+63867	Saxon
+63929	De Bracy
+63964	Fitzurse
+63989	Cedric
+64017	Prince John
+64057	Cedric
+64097	Saxon
+64150	Athelstane
+64186	Prince John
+64222	-- Worthy
+64224	Thane
+64231	Cedric
+64243	Norman
+64276	John
+64286	Saxon
+64310	John
+64313	Saxon
+64337	John
+64352	Norman
+64410	Norman
+64472	Prince John
+64486	Saxon
+64593	Richard
+64656	Cedric
+64684	John
+64722	Norman
+64739	Athelstane
+64763	John
+64773	St Thomas
+64778	Prince John
+64817	Aymer
+64862	De Bracy
+64870	Knight
+64938	Waldemar
+65003	John
+65033	Fitzurse
+65048	Saxon
+65121	De Bracy
+65154	Prince John
+65232	Fitzurse
+65234	De Bracy
+65344	-- Basil
+65366	Waldemar Fitzurse
+65377	John
+65532	Richard
+65604	Richard
+65609	Fitzurse
+65696	Philip
+65723	Prince John
+65740	Prince
+65760	Arthur
+65771	Richard
+65812	Wilfred
+65827	Richard
+65850	Richard
+65861	Duke Robert
+65874	William the
+65876	Red
+65879	Henry
+65899	Robert
+65908	Richard
+66047	John
+66054	Richard
+66139	John
+66171	John
+66203	Ashby
+66207	De Bracy
+66266	Fitzurse
+66311	Norman
+66327	De Bracy
+66332	Fitzurse
+66357	John
+66387	Richard
+66415	De Bracy
+66440	Waldemar
+66451	John
+66469	Waldemar
+66473	De Bracy
+66513	John
+66572	De Bracy
+66607	Fitzurse
+66649	De Bracy
+66661	Benjamin
+66668	Benjamin
+66672	Fitzurse
+66691	De Bracy
+66735	Benjamin
+66823	Benjamin
+66866	Fitzurse
+66893	De Bracy
+66934	Saxon
+66952	Rowena
+66960	De Bracy
+66965	Fitzurse
+67005	Saxon
+67018	De Bracy
+67044	Fitzurse
+67059	John
+67085	De Bracy
+67163	Saxon
+67247	Front-de-Boeuf
+67277	Maurice de
+67279	Bracy
+67290	Fitzurse
+67312	De Bracy
+67359	De Bracy
+67366	Templar Brian
+67368	de Bois-Guilbert
+67383	Benjamin
+67432	Fitzurse
+67448	De Bracy
+67482	Saxon
+67530	De Bracy
+67559	De Bracy
+67599	Fitzurse
+67650	De Bracy
+67932	Norman
+68009	-- Parnell
+69304	Julian
+69398	St Dunstan
+71276	St Dunstan
+71297	Danes
+71428	Knight
+71484	Meshech
+71487	Abednego
+72341	Knight
+72619	Saxon
+72814	Dunstan
+73248	Jael
+73391	Clerk
+73463	Knight
+73727	-- Warton
+73833	Allan-a-Dale
+73999	Knight
+74007	St Dunstan
+74333	Tekla
+74427	Mahound
+74756	Knight
+74834	St Dunstan
+74884	St Dunstan
+75510	St Dunstan
+75532	Dunstan
+75535	Dubric
+75538	Winibald
+75541	Winifred
+75544	Swibert
+75547	Willick
+75552	Thomas
+75666	Ariosto
+75755	Cynthia
+75770	Cedric the
+75772	Saxon
+75783	Ashby
+75839	Oswald
+75862	Ashby
+75871	Oswald
+75902	Cedric
+75946	Oswald
+75965	Ivanhoe
+76036	Oswald
+76115	Oswald
+76136	Gurth
+76151	Cedric
+76154	Saxon
+76193	Ivanhoe
+76235	Wilfred
+76274	Norman
+76313	Rowena
+76362	Rowena
+76412	Hastings
+76452	Rowena
+76496	Cedric
+76525	Athelstane
+76534	John
+76564	Saxon
+76587	Cedric
+76600	Gurth
+76604	Saxon
+76647	-- Oswald
+76734	Cedric
+76747	Athelstane
+76761	Abbot Waltheoff
+76807	Saxon
+77035	Cedric
+77039	Athelstane
+77063	Wamba
+77085	Athelstane
+77097	Burton
+77168	Cedric
+77198	Gurth
+77306	Gurth
+77352	Wamba
+77409	Wamba
+77429	Gurth
+77447	Wamba
+77463	Cedric
+77544	Gurth the
+77546	son of
+77548	Beowulph
+77559	Wamba
+77576	Cedric
+77604	Gurth
+77619	Wilfred
+77653	St Dunstan
+77659	St Edward
+77667	Saxon
+77676	Cedric
+77685	Saxon
+77812	Gurth
+77877	St Anthony
+77908	Cedric
+77910	Athelstane
+77942	Norman nobles
+77994	Cedric
+78072	Saxon
+78091	Cedric
+78101	Athelstane
+78178	Athelstane
+78203	Lady Rowena
+78211	Alfred
+78247	Cedric
+78310	Saxon
+78324	Athelstane
+78367	Cedric
+78382	Rowena
+78414	Wilfred
+78425	Cedric
+78434	Wilfred
+78438	Rowena
+78471	Cedric
+78478	Alfred
+78518	Rowena
+78534	Cedric
+78583	Rowena
+78663	Cedric
+78709	Rowena
+78748	Wilfred of
+78750	Ivanhoe
+78807	Cedric
+78862	Ashby
+78927	Rowena
+78943	Saxon
+78956	Athelstane
+78972	Hotspur
+79085	Cedric
+79153	Cedric
+79207	Cedric
+79213	Rowena
+79246	Wilfred
+79248	Elgitha
+79280	Cedric
+79285	Saxon
+79468	-- Orra
+79547	Cedric
+79549	Athelstane
+79600	Cedric
+79643	Saxon
+79764	Cedric
+79792	Ishmael
+79826	Isaac of
+79828	York
+79912	Isaac
+79983	Isaac
+80047	Athelstane
+80137	Cedric
+80194	Athelstane
+80219	Rowena
+80245	Rebecca
+80264	Saxon
+80284	Rowena
+80361	Rebecca
+80493	Rebecca
+80505	Saxon
+80594	Cedric
+80603	Athelstane
+80623	Wamba
+80692	Rowena
+80717	Rebecca
+80736	Rebecca
+80796	Gurth
+80840	Gurth
+80880	Gurth
+80927	Gurth
+81012	Cedric
+81014	Athelstane
+81140	George
+81159	Saxon
+81190	Saxon
+81209	Cedric
+81257	Cedric
+81327	Athelstane
+81388	Rowena
+81419	Wamba
+81655	Wamba
+81704	Wamba
+81720	Gurth
+81733	Athelstane
+81736	Hundibert
+81739	Oswald
+81751	Gurth
+81781	Athelstane
+81858	Gurth
+81925	Cedric
+81940	Wamba
+81947	Gurth
+81990	Wamba
+82054	Locksley
+82122	Wamba
+82163	Locksley
+82279	Gurth
+82283	Wamba
+82331	Gurth
+82413	Gurth
+82537	Cedric the
+82539	Saxon
+82600	Wamba
+82657	Gurth
+82827	Wamba
+82852	Gurth
+82957	Cedric
+83099	Miller
+83146	St Nicholas
+83156	Locksley
+83217	Locksley
+83458	Wamba
+83583	Jenkin
+83613	Wamba
+83670	Gurth
+83734	Locksley
+84110	Dunstan
+84139	Locksley
+84385	Locksley
+84463	Locksley
+84580	Locksley
+84596	Anthony
+84810	Wamba
+84942	Locksley
+84962	Knight
+84988	Ashby
+85247	Cedric the
+85249	Saxon
+85259	Athelstane
+85488	Wamba
+85560	Locksley
+85585	Gurth
+85613	Cedric
+85617	Rowena
+85711	Locksley
+86000	George
+86054	Jack Priest
+86059	Locksley
+86082	Abbot
+86133	Reginald Front-de-Boeuf
+86147	Black Knight
+86182	Locksley
+86346	Cedric
+86487	Maurice
+86494	De Bracy
+86533	De Bracy
+86560	Rowena
+86599	De Bracy
+86627	Knight
+86668	De Bracy
+86756	De Bracy
+86829	De Bracy
+86843	Templar
+86921	De Bracy
+86928	Knight
+86973	De Bracy
+86984	Bois-Guilbert
+87002	De Bracy
+87093	De Bracy
+87153	Front-de-Boeuf
+87238	De Bracy
+87309	Cedric
+87468	Cedric
+87524	Torquilstone
+87533	Reginald Front-de-Boeuf
+87589	Front-de-Boeuf
+87670	Front-de-Boeuf
+87785	Athelstane
+87802	-- Put
+87827	Saxon Cedric
+87856	Rowena
+87912	De Bracy
+87975	Athelstane
+88008	Cedric
+88022	Rowena
+88070	Rowena
+88105	Rebecca
+88208	Rowena
+88333	Cedric
+88401	Cedric
+88415	Cedric
+88427	Athelstane
+88441	Torquil Wolfganger
+88451	Harold
+88466	Tosti
+88474	Harold
+88503	Tosti
+88518	Saxon
+88538	Athelstane
+88603	Cedric
+88622	Tosti
+88654	Harold
+88667	King
+88672	Tosti
+88703	Harold
+88718	Tosti
+88739	Hardrada
+88756	Harold
+88824	Athelstane
+88843	Cedric
+88864	Tosti
+88918	Tosti
+88960	Norman
+88979	Harold
+89026	Harold
+89043	Saxon
+89052	Norman
+89076	Athelstane
+89129	Cedric
+89155	Cedric
+89213	Wolfganger
+89293	Saxon
+89301	Athelstane
+89316	Hengist
+89370	Norman
+89377	Norman
+89419	Athelstane
+89437	Cedric
+89473	Cedric
+89570	Rowena
+89599	Rowena
+89601	Athelstane
+89642	Saxon
+89709	Athelstane
+89738	Cedric
+89788	Reginald Front-de-Boeuf
+89881	Reginald Front-de-Boeuf
+89886	Athelstane
+89975	Athelstane
+90024	Cedric
+90075	Athelstane
+90127	Cedric
+90174	Saxon
+90363	Saxon
+90401	Isaac of
+90403	York
+90627	Isaac
+90769	Isaac
+90883	Isaac
+90979	Reginald Front-de-Boeuf
+91304	Front-de-Boeuf
+91357	Norman
+91366	Isaac
+91428	Norman
+91570	Front-de-Boeuf
+91828	Isaac
+91952	Norman
+92203	Isaac
+92207	Front-de-Boeuf
+92355	Isaac
+92359	Front-de-Boeuf
+92622	Abraham
+92624	Jacob
+92638	Isaac
+92719	Isaac
+93068	Isaac
+93109	Wert
+93262	Front-de-Boeuf
+93303	Isaac
+93329	Front-de-Boeuf
+93417	Norman
+93420	Front-de-Boeuf
+93449	Isaac
+93486	Isaac
+93494	Jacques Fitzdotterel
+93536	Fitzdotterel
+93577	Front-de-Boeuf
+93599	Isaac
+93606	Rebecca
+93614	Isaac
+93675	Front-de-Boeuf
+93686	Isaac
+93717	Brian de
+93719	Bois-Guilbert
+93748	Isaac
+93881	Rachel
+93941	Norman
+93982	Isaac
+94011	Abraham
+94024	Front-de-Boeuf
+94034	Isaac
+94103	Bois-Guilbert
+94117	Isaac
+94150	Front-de-Boeuf
+94279	Norman
+94422	Front-de-Boeuf
+94527	Reginald Front-de-Boeuf
+94542	Baron
+94550	Isaac
+94599	XXIII Nay
+94657	Rowena
+94698	Front-de-Boeuf
+94787	Saxon
+94830	Front-de-Boeuf
+94832	De Bracy
+94889	De Bracy
+94915	Rowena
+94932	De Bracy
+95035	Maurice de
+95037	Bracy
+95115	Rowena
+95175	Rowena
+95231	Rowena
+95235	De Bracy
+95259	De Bracy
+95341	De Bracy
+95391	Knight
+95431	De Bracy
+95445	De Bracy
+95489	Knight
+95493	Rowena
+95570	Lady Rowena
+95638	Knight
+95642	Rowena
+95707	De Bracy
+95786	Rowena
+95868	Norman
+95898	Maurice de
+95900	Bracy
+95927	Saxon
+95943	Rowena
+96034	Knight
+96038	Rowena
+96103	De Bracy
+96124	Richard Coeur
+96126	de Lion
+96137	Wilfred of
+96139	Ivanhoe
+96234	Wilfred
+96239	Rowena
+96251	Front-de-Boeuf
+96257	De Bracy
+96285	Wilfred
+96329	Rowena
+96387	Rowena
+96391	De Bracy
+96448	Front-de-Boeuf
+96505	Front-de-Boeuf
+96539	Rowena
+96568	De Bracy
+96575	Rowena
+96582	De Bracy
+96674	Wilfred
+96694	Rowena
+96745	De Bracy
+96777	Front-de-Boeuf
+96814	Front-de-Boeuf
+96854	Wilfred
+96868	Cedric
+96874	Cedric
+96879	Rowena
+96925	De Bracy
+96940	Rowena
+97020	Cedric
+97256	De Bracy
+97287	Rowena
+97375	John
+97451	Front-de-Boeuf
+97470	Rowena
+97504	De Bracy
+97551	De Bracy
+97564	Rowena
+97690	Henry
+97741	Stephen
+97939	Matilda
+97959	Edgar Atheling
+98102	King William
+98106	Norman
+98224	Eadmer
+98272	-- Douglas
+98291	Rebecca
+98367	Rebecca
+98665	Rebecca
+98829	Rebecca
+98840	Saracen
+98873	Rebecca
+98911	Rebecca
+98999	Saxon
+99033	Front-de-Boeuf
+99038	Reginald
+99139	Rebecca
+99230	Gentile
+99286	Rebecca
+99340	Virgin Mary
+99394	Rebecca
+99415	Rebecca
+99428	Rowena
+99551	Damocles
+99557	Rebecca
+99622	Rebecca
+99848	Rebecca
+99946	Rebecca
+100041	Rebecca
+100209	Rebecca
+100384	Rebecca
+100484	Rebecca
+100501	Baca
+100536	Isaac
+100592	Rebecca
+100633	Norman
+100636	Norman
+100675	Brian de
+100677	Bois-Guilbert
+100720	Sharon
+100767	Rebecca
+100929	Rebecca
+100981	Rebecca
+100997	Knight
+101154	Solomon
+101164	Solomon
+101234	Rebecca
+101307	Rebecca
+101559	Rebecca
+101616	Rebecca
+101676	Abraham
+101754	Bois-Guilbert
+101928	Rebecca
+102068	Rebecca
+102098	Brian de
+102100	Bois-Guilbert
+102139	Rebecca
+102236	Rebecca
+102344	Bois-Guilbert
+102371	Rebecca
+102386	Rebecca
+102408	Bois-Guilbert
+102529	Rebecca
+102551	Brian de
+102553	Bois-Guilbert
+102587	Landes
+102589	Bourdeaux
+102646	Rebecca
+102707	Gascon
+102805	Bois-Guilbert
+102868	Rebecca
+102888	Rebecca
+102910	Rebecca
+103009	Rebecca
+103298	Rebecca
+103576	Rebecca
+103632	Jacob
+103747	Rebecca
+103787	De Bracy
+103798	De Bracy
+103853	Saxon
+103866	Thomas
+103872	De Bracy
+103878	Rowena
+103949	De Bracy
+103986	Aymer
+103999	Saxon
+104047	Front-de-Boeuf
+104072	De Bracy
+104082	Isaac
+104099	Brian
+104114	Front-de-Boeuf
+104153	Front-de-Boeuf
+104196	Front-de-Boeuf
+104253	De Bracy
+104269	De Bracy
+104369	De Bracy
+104434	Front-de-Boeuf
+104456	Brian
+104471	Wamba
+104486	Cedric
+104492	Saxon
+104498	Gurth
+104516	Front-de-Boeuf
+104524	St Luke
+104551	Gurth
+104556	Beowulph
+104562	Cedric
+104605	Robert Locksley
+104614	Reginald Front
+104616	de-Boeuf
+104655	Cedric
+104670	Rowena
+104685	Athelstane
+104719	Isaac of
+104721	York
+104794	Cedric
+104798	Rowena
+104802	Athelstane
+105038	Beowulph
+105080	Locksley
+105117	De Bracy
+105210	De Bracy
+105242	St Michael
+105263	De Bracy
+105352	Ashby
+105419	Front-de-Boeuf
+105460	De Bracy
+105575	De Bracy
+105618	De Bracy
+105658	Sally
+105687	De Bracy
+105738	Brian
+105810	Reginald Front-de-Boeuf
+105819	Knight
+105834	-- Malvoisin
+105880	De Bracy
+105928	Front-de-Boeuf
+106076	Front-de-Boeuf
+106116	Bois-Guilbert
+106150	Reginald Front-de-Boeuf
+106396	Wamba
+106398	Gurth
+106407	Locksley
+106518	Saxon
+106533	Cedric
+106698	St Dunstan
+106759	Gurth
+106813	Locksley
+106882	Black Knight
+106890	Locksley
+106919	Wamba
+106932	Knight
+106973	Gurth
+107033	Locksley
+107059	Black Knight
+107140	Slothful Knight
+107195	Black Knight
+107244	Wamba
+107365	Cedric
+107386	Black Knight
+107390	Gurth
+107399	Gurth
+107498	Locksley
+107534	Wamba
+107571	Wamba
+107700	St Francis
+107929	Wamba
+107961	Reginald Front-de-Boeuf
+108001	Front-de-Boeuf
+108063	St Francis
+108279	Front-de-Boeuf
+108300	Front-de-Boeuf
+108333	De Bracy
+108373	Saxon
+108388	Front-de-Boeuf
+108403	Cedric
+108405	Athelstane
+108412	Cedric
+108464	Athelstane
+108551	St Dennis
+108577	Cedric
+108614	Cedric
+108677	Cedric
+108720	Cedric
+108757	Athelstane
+108800	Cedric
+108840	Cedric
+108863	Wamba
+108917	Saxon
+108925	Wamba
+108977	Cedric
+109009	Wamba
+109049	Wamba
+109053	Cedric
+109079	Athelstane
+109089	St Dunstan
+109149	Cedric
+109172	Wamba
+109227	Cedric
+109243	Athelstane
+109257	Saxon
+109302	Cedric
+109306	Athelstane
+109413	Cedric
+109417	Athelstane
+109442	John-a-Duck
+109454	John-a-Duck
+109515	Cedric
+109519	Athelstane
+109562	Cedric
+109576	Wamba
+109677	Gurth
+109734	Cedric
+109770	Rowena
+109775	Athelstane
+109784	Wamba
+109809	Cedric
+109833	Norman
+109856	Wamba
+110097	Cedric
+110112	Cedric
+110116	Athelstane
+110146	Wamba
+110160	Cedric
+110270	Cedric
+110274	Saxon
+110338	Cedric
+110410	Cedric
+110503	Odin
+110510	Cedric
+110609	Cedric
+110732	Rebecca
+110750	Urfried
+110795	Rebecca
+110955	-- Crabbe
+110962	Urfried
+110969	Rebecca
+110986	Cedric
+111037	Saxon
+111051	Cedric
+111099	Saxon
+111104	Saxon
+111133	Saxon
+111143	Cedric
+111233	Norman
+111262	Saxon
+111287	Cedric
+111336	Urfried
+111454	Cedric
+111637	Thane of
+111639	Torquilstone
+111655	Torquil Wolfganger
+111660	Cedric
+111677	Saxon
+111701	Cedric
+111712	Hereward
+111733	Cedric
+111775	Cedric
+111926	Cedric
+111940	Saxon
+111966	Ulrica
+112017	Torquil Wolfganger
+112122	Cedric
+112176	Torquil
+112193	Saxon
+112219	Torquil
+112223	Ulrica
+112243	Saxon
+112275	Cedric
+112347	Cedric
+112366	Torquil
+112376	Ulrica
+112380	Cedric
+112424	Ulrica
+112453	Reginald
+112593	Cedric
+112713	Ulrica
+112717	Cedric
+112773	Edward
+112951	Cedric
+112990	Ulrica
+113006	God
+113029	Cedric
+113067	Ulrica
+113105	Front-de-Boeuf
+113107	Cedric the
+113109	Saxon
+113152	Cedric
+113210	Front-de-Boeuf
+113235	Ulrica
+113372	Ulrica
+113376	Cedric
+113431	Ulrica
+113649	Ulrica
+113660	Torquil
+113747	Cedric
+113766	Front-de-Boeuf
+113813	Ulrica
+113834	Saxon
+113844	Rollo
+113872	Reginald Front-de-Boeuf
+113878	Cedric
+113892	Baron
+113950	Cedric
+113987	Front-de-Boeuf
+114013	Burton
+114017	Cedric
+114038	Norman
+114060	Burton
+114081	Saxon
+114098	Cedric
+114179	Cedric
+114216	Front-de-Boeuf
+114240	Saxon
+114304	Cedric
+114370	Brian de
+114372	Bois-Guilbert
+114383	York
+114507	Cedric
+114563	Front-de-Boeuf
+114605	Cedric
+114717	St Ives
+114754	Gualtier
+114795	Cedric
+114854	Cedric
+114864	Front-de-Boeuf
+114934	Saxon
+114973	Malvoisie
+114991	Cedric
+115003	Norman
+115018	Cedric
+115062	Cedric
+115123	Norman
+115132	Front-de-Boeuf
+115220	Saxon
+115232	Giles
+115238	Cedric
+115302	John
+115380	Front-de-Boeuf
+115400	Wamba
+115429	Cedric
+115435	Norman
+115470	Front-de-Boeuf
+115481	-- Are
+115483	ye
+115527	John
+115532	St Dennis
+115606	Wamba
+115655	Front-de-Boeuf
+115674	Cedric
+115705	Giles
+115707	Clement
+115717	Norman
+115738	De Bracy
+115750	Cedric
+115761	Isaac of
+115763	York
+115889	Cedric
+115910	Saxon
+115921	Wamba
+115947	Front-de-Boeuf
+115970	Cedric
+115993	De Bracy
+116015	Front-de-Boeuf
+116129	Wamba
+116178	De Bracy
+116190	-- Front-de-Boeuf
+116218	Wilt
+116278	Norman
+116289	De Bracy
+116300	Wamba
+116310	Norman
+116320	Norman
+116323	Norman
+116361	De Bracy
+116366	Front-de-Boeuf
+116438	De Bracy
+116507	Saxon
+116557	Saxon
+116564	Athelstane
+116608	Athelstane
+116674	Front-de-Boeuf
+116686	Athelstane
+116702	Cedric
+116720	Front-de-Boeuf
+116755	Saxon
+116783	Jew Isaac
+116791	Jew Isaac
+116812	Front-de-Boeuf
+116818	Saxon
+116838	Athelstane
+116858	Rowena
+116862	De Bracy
+116892	Front-de-Boeuf
+116928	Rowena
+116973	Cedric
+116997	Rowena
+117009	De Bracy
+117013	Saxon
+117057	Norman
+117061	Athelstane
+117141	Wittenagemotes
+117168	De Bracy
+117173	Front-de-Boeuf
+117188	Saxon
+117206	De Bracy
+117242	Athelstane
+117253	Rowena
+117258	Athelstane
+117313	Bennet
+117323	Front-de-Boeuf
+117388	Giles
+117401	Jocelyn
+117413	Ambrose
+117432	Front-de-Boeuf
+117476	Saxon
+117492	Athelstane
+117597	Front-de-Boeuf
+117604	Maurice de
+117606	Bracy
+117608	-- Giles
+117663	Christopher
+117707	Ambrose
+117729	Wamba
+117781	De Bracy
+117793	Baron Reginald
+117795	Front-de-Boeuf
+117810	Brian de
+117812	Bois-Guilbert
+117854	Aymer
+117858	Jorvaulx
+117870	De Bracy
+117894	Augustin
+117942	Sancta Maria
+117949	Ambrose
+118051	Ambrose
+118107	Front-de-Boeuf
+118179	Ambrose
+118302	Front-de-Boeuf
+118322	Norman
+118451	De Bracy
+118499	Dennis
+118540	Reginald Front-de-Boeuf
+118576	De Bracy
+118591	Noble Bois-Guilbert
+118702	Father Ambrose
+118731	Aymer
+118735	Jorvaulx
+118747	Reginald
+118762	Norman
+118782	Anselm
+118887	Front-de Boeuf
+118952	Reginald
+118956	De Bracy
+118986	Front-de-Boeuf
+119011	Christopher
+119160	De Bracy
+119203	Saint Dennis
+119226	Front-de-Boeuf
+119232	Ashby
+119243	Front-de-Boeuf
+119478	Ivanhoe
+119495	Rebecca
+119525	Ashby
+119536	Isaac
+119645	Gentile
+119667	Rebecca
+119707	Jacob Ben
+119709	Tudela
+119717	Isaac
+119733	Seth
+119735	Reuben
+119739	Ashby
+119755	Rebecca
+119780	Ishmael
+119787	Isaac
+119802	Rebecca
+119822	Isaac
+119842	Aaron
+119890	Rebecca
+119899	Isaac
+119933	Isaac
+119975	Miriam
+120061	Isaac
+120086	Ashby
+120093	Brian de
+120095	Bois-Guilbert
+120145	Rebecca
+120469	Rebecca
+120549	Rebecca
+120589	Miriam
+120614	Rebecca
+120715	Ivanhoe
+120720	Isaac
+120749	Rebecca
+120793	Miriam
+120817	York
+120825	Isaac
+120890	Rebecca
+120907	Isaac
+120953	Wilfred
+120962	Richard Coeur-de-Lion
+120975	Isaac
+120982	John
+121003	Richard
+121014	Rebecca
+121018	Isaac
+121041	Miriam
+121201	Wilfred
+121233	Wilfred
+121325	Ivanhoe
+121623	Ivanhoe
+121738	Rebecca
+121797	Rebecca
+121856	Ivanhoe
+121997	Knight
+122032	Rebecca
+122045	Knight
+122076	Isaac of
+122078	York
+122124	Rowena
+122159	Rebecca
+122205	Ivanhoe
+122223	Rebecca
+122253	Isaac
+122284	Ivanhoe
+122339	Ivanhoe
+122372	Rebecca
+122408	Rebecca
+122519	Ivanhoe
+122597	Saxon
+122616	Burton
+122626	Waltheoff
+122653	Rebecca
+122680	Knight
+122736	Solomon
+122796	Ivanhoe
+122818	Rebecca
+122828	Wilfred
+122893	Rebecca
+122954	Ivanhoe
+122972	Rebecca
+123011	Gentile
+123026	Ivanhoe
+123076	Saxon Cedric
+123098	Rowena
+123133	Knight
+123153	Rebecca
+123158	Ivanhoe
+123181	Rowena
+123211	John
+123245	Rebecca
+123272	John
+123351	Ivanhoe
+123373	Richard
+123407	Rebecca
+123435	Ivanhoe
+123449	Cedric
+123489	Cedric
+123499	Cedric
+123501	Athelstane
+123503	Coningsburgh
+123507	John
+123538	Wilfred
+123543	Rowena
+123547	Rebecca
+123564	Rowena
+123595	Cedric
+123675	Rebecca
+123709	Ivanhoe
+123736	Rebecca
+123774	Ivanhoe
+123794	Gurth
+123813	Knight
+123830	Cedric
+123844	Wilfred
+123854	Oswald
+123874	Cedric
+123877	Gurth
+123906	Cedric
+123924	Wamba the
+123926	Jester
+123932	Gurth
+123943	Cedric
+123966	Ivanhoe
+124103	Rebecca
+124113	Knight
+124242	Reuben
+124267	Ivanhoe
+124280	Rebecca
+124285	Reuben
+124360	Rebecca
+124375	Isaac
+124409	Norman
+124415	Saxon
+124440	Cedric
+124442	Athelstane
+124475	Miriam
+124484	Ivanhoe
+124644	Isaac
+124684	Isaac
+124735	Cedric
+124751	De Bracy
+124778	De Bracy
+124799	Rowena
+124806	De Bracy
+124835	Saxon
+124857	Wilfred
+124878	De Bracy
+124901	Front-de-Boeuf
+124940	Rowena
+124951	Wilfred
+124975	De Bracy
+125040	Rowena
+125095	De Bracy
+125100	Ivanhoe
+125274	Front-de-Boeuf
+125446	Ivanhoe
+125453	Ulrica
+125478	Rebecca
+125507	-- Schiller
+125581	Rebecca
+125730	Ivanhoe
+125763	Rebecca
+125776	Rebecca
+125827	Ivanhoe
+125906	Rowena
+125923	Rebecca
+125960	Ivanhoe
+125975	Templar Bois-Guilbert
+125980	Baron Front-de-Boeuf
+126040	Rebecca
+126085	Rebecca
+126099	Cedric
+126134	Rebecca
+126301	Rebecca
+126387	Ivanhoe
+126505	Rebecca
+126534	Wilfred
+126651	Ivanhoe
+126682	Rebecca
+126706	Rebecca
+126709	Rebecca
+126713	Ivanhoe
+126801	Rebecca
+126861	Rebecca
+126914	Cedric
+126920	Front-de-Boeuf
+126990	Rebecca
+127105	Rebecca
+127229	Ivanhoe
+127271	Rebecca
+127321	Rebecca
+127436	Norman
+127489	George
+127841	Ivanhoe
+127918	Rebecca
+127946	Rebecca
+127989	Ivanhoe
+128029	Rebecca
+128059	Rebecca
+128067	Ivanhoe
+128094	Rebecca
+128177	-- Front-de-Boeuf
+128215	Jacob
+128261	Rebecca
+128265	Ivanhoe
+128304	Rebecca
+128321	Front-de-Boeuf
+128415	Rebecca
+128570	Ivanhoe
+128581	Rebecca
+128684	Ivanhoe
+128714	Rebecca
+128738	George
+128762	Rebecca
+128831	John of
+128833	Acre
+128837	Ivanhoe
+128871	Rebecca
+128958	Rebecca
+129026	Ivanhoe
+129054	Rebecca
+129116	Wilfred
+129206	Rebecca
+129352	Rebecca
+129356	Ivanhoe
+129475	Rebecca
+129541	Rebecca
+129779	Rebecca
+129988	Rebecca
+130088	Rebecca
+130140	Judah
+130166	Knight
+130173	Jacob
+130183	Gideon
+130235	Ivanhoe
+130320	Judah
+130583	Jehovah
+130608	Judah
+130756	-- Anselm
+130802	De Bracy
+130904	Front-de-Boeuf
+130916	John
+130934	De Bracy
+130990	Front-de-Boeuf
+131018	De Bracy
+131041	Mother of
+131043	Heaven
+131088	Brian de
+131090	Bois-Guilbert
+131139	De Bracy
+131305	De Bracy
+131390	Front-de-Boeuf
+131416	Brian
+131520	Maurice de
+131522	Bracy
+131561	De Bracy
+131692	Front-de-Boeuf
+131716	De Bracy
+131753	Brian de
+131755	Bois-Guilbert
+131766	Maurice de
+131768	Bracy
+131886	De Bracy
+131989	De Bracy
+132128	De Bracy
+132359	Front-de-Boeuf
+132421	Front-de-Boeuf
+132603	Front-de-Boeuf
+132608	St Anne
+132637	-- Swilling
+132737	Brian de
+132739	Bois-Guilbert
+132788	Reginald Front-de-Boeuf
+132823	Front-de-Boeuf
+132938	Reginald Front-de-Boeuf
+133028	Reginald Front-de-Boeuf
+133054	John
+133093	John
+133276	Saxon
+133449	Saxon
+133451	Ulrica
+133552	Ulrica
+133687	Reginald Front-de-Boeuf
+133697	Ulrica
+133707	Torquil Wolfganger
+133753	Front-de-Boeuf
+133761	Front-de-Boeuf
+133803	Front-de-Boeuf
+133815	Giles
+133817	Clement
+133820	Eustace
+133823	Maur
+133826	Stephen
+133853	Maur
+133855	Clement
+133979	Front-de-Boeuf
+133997	Saxon
+133999	Reginald
+134004	Saxon
+134022	Saxon
+134120	Front-de-Boeuf
+134152	Hengist
+134237	Ulrica
+134399	Ulrica
+134429	Front-de-Boeuf
+134431	-- May
+134433	Mista
+134435	Skogula
+134438	Zernebock
+134466	Ulrica
+134485	Ulrica
+134547	Front-de-Boeuf
+134591	Stephen
+134596	-- Clement
+134599	Giles
+134620	De Bracy
+134844	De Bracy
+134847	Ulrica
+134917	Front-de-Boeuf
+134950	-- Ulrica
+135068	Henry V
+135070	Cedric
+135077	Ulrica
+135092	Locksley
+135129	Saxon
+135165	Alfred
+135171	Cedric
+135196	Christopher
+135222	Wamba
+135374	Black Knight
+135382	Dunstan
+135393	Locksley
+135401	Cedric
+135419	Cedric
+135493	Cedric
+135497	Locksley
+135677	Locksley
+135866	Ulrica
+136097	Cedric
+136123	Saxon
+136181	Saxon
+136216	Cedric
+136237	Knight
+136389	Cedric
+136500	Cedric
+136597	De Bracy
+136627	-- Heave
+136688	Ulrica
+136692	Cedric
+136697	Locksley
+136726	George
+136735	George
+136756	Cedric
+136854	De Bracy
+136874	Cedric
+136957	De Bracy
+136965	Dennis
+137056	Locksley
+137061	De Bracy
+137088	Locksley
+137127	Cedric
+137178	Cedric
+137207	De Bracy
+137241	De Bracy
+137297	Brian de
+137299	Bois-Guilbert
+137323	De Bracy
+137337	Nicholas
+137456	De Bracy
+137486	Bois-Guilbert
+137500	De Bracy
+137544	De Bracy
+137577	De Bracy
+137626	De Bracy
+137676	De Bracy
+137730	De Bracy
+137737	Black Knight
+137747	Norman
+137769	De Bracy
+137799	De Bracy
+137847	Maurice de
+137849	Bracy
+137873	De Bracy
+137901	Maurice de
+137903	Bracy
+137941	Norman
+137995	De Bracy
+138006	Wilfred
+138028	Wilfred
+138079	De Bracy
+138089	Wilt
+138123	De Bracy
+138137	Cedric
+138178	De Bracy
+138201	De Bracy
+138267	Locksley
+138292	Ivanhoe
+138300	Rebecca
+138411	Rebecca
+138430	Rebecca
+138440	Ivanhoe
+138460	Rebecca
+138546	Rebecca
+138603	Rebecca
+138670	Rebecca
+138708	Rebecca
+138731	Rebecca
+138789	Ivanhoe
+138839	Wilfred
+138844	Black Knight
+138873	Wilfred
+138888	Rowena
+138894	Cedric
+138919	Ivanhoe
+138935	Rebecca
+139066	Front-de-Boeuf
+139117	Cedric
+139122	Rowena
+139127	Gurth
+139158	Saxon
+139240	Cedric
+139247	Athelstane
+139263	Saxon
+139268	Cedric
+139331	George
+139339	George
+139688	Rebecca
+139712	Bois-Guilbert
+139794	Athelstane
+139827	Rowena
+139851	Edward
+139884	Wamba
+139904	Rowena
+139969	-- Nay
+140009	Saxon
+140065	Athelstane
+140091	Bois-Guilbert
+140174	Saxon
+140208	Wamba
+140252	Saxon
+140281	Bois-Guilbert
+140405	De Bracy
+140417	De Bracy
+140437	De Bracy
+140456	Bois-Guilbert
+140463	De Bracy
+140627	Ulrica
+140831	Zernebock
+141266	Saxon Ulrica
+141365	Locksley
+141472	Adam
+141740	Locksley
+141745	Wamba
+141777	Locksley
+141820	Cedric
+141964	Miller
+141990	Front-de-Boeuf
+141992	Gascoigne
+142040	Miller
+142131	Locksley
+142147	De Bracy
+142182	Cedric
+142191	Saxon
+142233	Cedric
+142245	Athelstane
+142317	Rowena
+142458	Cedric
+142466	Wamba
+142500	Locksley
+142522	Cedric
+142679	Gurth
+142702	Cedric
+142717	Gurth
+142747	Cedric
+142828	Gurth
+142958	Wamba
+143009	Gurth
+143036	Wamba
+143046	Gurth
+143068	Oldhelm
+143070	Malmsbury
+143098	Rowena
+143199	Ivanhoe
+143207	Athelstane
+143262	Cedric
+143265	Rowena
+143270	Locksley
+143347	Locksley
+143396	Rowena
+143426	Rowena
+143464	Locksley
+143497	Rowena
+143514	Rowena
+143525	Cedric
+143547	De Bracy
+143567	Rowena
+143631	Rowena
+143651	Knight
+143655	Rowena
+143689	De Bracy
+143700	Rowena
+143716	De Bracy
+143734	Knight
+143738	Rowena
+143752	Wamba
+143782	Rowena
+143796	Cedric
+143834	Maurice de
+143836	Bracy
+143858	De Bracy
+143887	Cedric
+143980	Cedric
+144021	Cedric
+144042	Saxon
+144052	Saxon
+144106	Cedric
+144138	Gage
+144181	Saxon
+144233	Edith
+144258	Athelstane
+144260	Norman
+144263	Norman
+144274	Wamba
+144344	Cedric
+144358	Wamba
+144363	Rowena
+144375	Saxon
+144422	Rowena
+144447	Cedric
+144636	Locksley
+144713	Maurice de
+144715	Bracy
+144730	Locksley
+144832	-- Maurice
+144834	de Bracy
+144842	De Bracy
+144918	De Bracy
+144966	De Bracy
+145046	Outlaw
+145080	Fetterlock
+145145	Trent
+145386	Locksley
+145732	Knight of
+145734	the Fetterlock
+145911	Isaac of
+145913	York
+145959	Hermangild
+146012	Nicholas
+146080	Sathanas
+146102	Maria
+146229	Isaac
+146240	Maria
+146259	Locksley
+146278	Dunstan
+146621	Dunstan
+146688	-- Gilbert
+146691	Wibbald
+146714	Gilbert
+146729	Dunstan
+146924	Abraham
+146996	Isaac
+147113	Thomas of
+147115	Kent
+147439	Gath
+147792	Clement
+147966	Front-de-Boeuf
+148096	Aymer of
+148098	Jorvaulx
+148115	MARCIUS
+148540	Nicodemus
+148934	Andrew
+149363	Aymer
+149405	Isaac
+149462	Jorvaulx
+149558	Gascon
+149648	-- ``
+149650	Isaac
+149674	Isaac
+149720	Isaac
+149750	Solomon
+149827	Jorvaulx
+149916	Isaac
+149931	York
+149972	Isaac
+149990	Aymer
+150063	Aymer
+150089	Isaac
+150247	Isaac
+150266	Isaac
+150292	Kind Isaac
+150582	Aymer
+150592	Isaac
+150618	Rebecca
+150624	Rachel
+150722	Jacob
+150845	Ichabod
+150847	Ichabod
+150890	Isaac
+150906	Isaac
+150992	Brian de
+150994	Bois-Guilbert
+151108	De Bois-Guilbert
+151161	Isaac
+151282	Aymer
+151314	Robert
+151326	Rebecca
+151351	Ashby
+151354	Brian de
+151356	Bois-Guilbert
+151527	Isaac
+151564	Isaac
+151568	Locksley
+151596	Isaac
+151638	Isaac
+151717	Rebecca
+151751	-- Usurer
+151791	Diccon Bend-the-Bow
+151796	Isaac
+151823	Locksley
+151920	Diccon
+151994	Rebecca
+152034	Diccon
+152208	Isaac
+152276	Isaac
+152422	Isaac
+152455	Isaac
+152524	Isaac
+152551	Isaac
+152568	Hubert
+152613	Aymer
+152728	Holderness
+152761	Jorvaulx
+152790	Brian de
+152792	Bois-Guilbert
+152863	Knight Bois-Guilbert
+152942	Mary
+152979	Bois-Guilbert
+152988	Isaac of
+152990	York
+153027	Prior Aymer
+153097	Locksley
+153388	Bishop of
+153390	York
+153881	Sheva
+153908	Locksley
+153921	Isaac
+153971	Isaac
+154007	Diccon
+154040	Isaac
+154061	Isaac
+154105	Isaac
+154204	Knight
+154306	Knight
+154432	Locksley
+154591	John There
+154605	John
+154633	Waldemar Fitzurse
+154704	De Bracy
+154717	Brian de
+154719	Bois-Guilbert
+154743	John
+154753	Isaac the
+154755	Jew
+154780	John
+154829	De Bracy
+154832	Bois-Guilbert
+154845	Waldemar
+154851	John
+154881	Saxon Cedric
+154949	Alfred
+154995	Ahithophel
+155094	De Bracy
+155115	John
+155167	Waldemar
+155199	Waldemar
+155258	Waldemar
+155280	John
+155299	Louis Winkelbrand
+155302	De Bracy
+155348	John
+155383	Waldemar Fitzurse
+155435	Fitzurse
+155518	-- De
+155520	Bracy
+155542	De Bracy
+155626	Prince John
+155652	De Bracy
+155657	Fitzurse
+155695	De Bracy
+155736	Waldemar
+155762	De Bracy
+155770	Prince John
+155783	Richard
+155798	John
+155834	De Bracy
+155839	Fitzurse
+155859	De Bracy
+155876	Richard Plantagenet
+155888	Richard Plantagenet
+155893	De Bracy
+155898	Richard Coeur-de-Lion
+155902	Richard
+155916	Waldemar
+155980	Fitzurse
+155989	Richard
+156017	Bevis
+156042	De Bracy
+156052	Richard
+156070	Hull
+156099	Waldemar
+156136	Maurice
+156146	Waldemar
+156176	De Bracy
+156197	Peter
+156212	John
+156396	De Bracy
+156403	Richard
+156448	Mother
+156461	Prince John
+156483	De Bracy
+156489	Waldemar Fitzurse
+156510	Clifford
+156518	Waldemar
+156546	Richard
+156552	De Bracy
+156556	Robert Estoteville
+156562	Hull
+156589	Richard
+156610	Estoteville
+156626	-- Waldemar
+156628	Fitzurse
+156630	De Bracy
+156688	De Bracy
+156726	Prince John
+156788	Richard
+156798	Robert
+156816	Waldemar
+156821	Henry
+156867	De Bracy
+156886	Prince John
+156908	De Bracy
+156930	Knight
+156934	Waldemar
+156949	De Bracy
+156979	Maurice
+157010	Richard
+157054	De Bracy
+157109	Waldemar
+157117	Lancelot de
+157119	Lac
+157122	Tristram
+157154	De Bracy
+157162	Lancelot
+157173	Richard Plantagenet
+157198	De Bracy
+157224	John
+157277	De Bracy
+157330	Louis Winkelbrand
+157351	De Bracy
+157373	De Bracy
+157378	Prince John
+157407	De Bracy
+157447	Waldemar
+157451	Prince John
+157463	King Henry
+157503	-- Tracy
+157506	Morville
+157508	Brito
+157528	Reginald Fitzurse
+157558	Waldemar Fitzurse
+157605	Henry
+157636	-- De
+157638	Bracy
+157657	Prince John
+157709	Stephen Wetheral
+157732	Hugh Bardon
+157743	Prince
+157769	Prince John
+157772	De Bracy
+157807	Richard
+157816	De Bracy
+157836	Prince John
+157874	Richard
+157885	Waldemar
+157905	De Bracy
+157937	Waldemar
+157947	Prince John
+157971	Maurice
+157998	John
+158019	Waldemar Fitzurse
+158023	De Bracy
+158065	Richard
+158094	Maurice
+158184	De Bracy
+158200	De Bracy
+158289	De Bracy
+158299	John
+158306	Hugh Bardon
+158323	Waldemar Fitzurse
+158337	John
+158349	Bardon
+158358	Waldemar
+158456	Sherwood
+158499	Bardon
+158508	John
+158520	Wetheral
+158530	Stephen Steel-heart
+158540	Ralph Middleton
+158561	Prince John
+158574	Bardon
+158587	Maurice De
+158589	Bracy
+158634	Hugh Bardon
+158643	Maurice
+158649	Prince John
+158673	Richard
+158720	Isaac of
+158722	York
+158908	Isaac
+158913	Nathan Ben
+158915	Israel
+158988	Isaac
+158997	Nathan
+159024	Isaac
+159096	Nathan
+159174	Nathan
+159181	Lucas de
+159183	Beaumanoir
+159213	Isaac
+159234	Philip
+159258	Ben Israel
+159328	Isaac
+159335	Lucas Beaumanoir
+159386	Nathan
+159444	Jacob
+159468	Judah
+159472	David
+159532	Isaac
+159562	Nathan
+159631	Isaac
+159653	Lucas Beaumanoir
+159665	Brian de
+159667	Bois-Guilbert
+159686	Rebecca
+159695	Nathan Ben
+159697	Israel
+159707	Daniel
+159772	Bois-Guilbert
+159851	Rebecca
+159859	Miriam
+159876	Isaac
+160170	Lucas Beaumanoir
+160173	Isaac
+160256	Lucas Beaumanoir
+160479	Bernard
+160489	Burrel
+160699	Beaumanoir
+160809	Robert de
+160811	Ros
+160841	William de
+160843	Mareschal
+160886	Conrade Mont-Fitchet
+160996	Bernard
+161011	Leo
+161571	Hugh de
+161573	Payen
+161575	Godfrey de
+161577	Saint Omer
+161649	Beaumanoir
+161745	Beaumanoir
+161780	Conrade
+161855	Mont-Fitchet
+161885	Mont-Fitchet
+162060	Conrade
+162274	Damian
+162324	Damian
+162352	Squire
+162361	Brian de
+162363	Bois-Guilbert
+162444	Bois-Guilbert
+162467	Conrade
+162505	Brian
+162621	-- Damian
+162708	Beaumanoir
+162768	Damian
+162933	Brian de
+162935	Bois-Guilbert
+162938	Isaac
+162976	Beaumanoir
+163024	Brian de
+163026	Bois-Guilbert
+163189	-- Conrade
+163207	Beaumanoir
+163239	Conrade
+163264	Beaumanoir
+163281	De Lectione
+163283	Literarum
+163411	Mont-Fitchet
+163447	Isaac
+163491	Mary
+163498	Brian de
+163500	Bois-Guilbert
+163524	Lady Venus
+163570	Front-de-Boeuf
+163689	Isaac of
+163691	York
+163817	S. M.
+163819	Jorvolciencis
+163932	Aymer
+163948	Endor
+163960	Conrade
+164032	Conrade
+164047	Rebecca of
+164049	York
+164055	Miriam
+164076	Isaac
+164091	Brian de
+164093	Bois-Guilbert
+164106	Isaac
+164214	Jacob
+164220	Beaumanoir
+164223	Mont-Fitchet
+164360	Isaac
+164384	Beaumanoir
+164395	Isaac
+164401	Miriam
+164431	Miriam
+164519	Damian
+164557	Isaac
+164739	Albert Malvoisin
+164764	Philip Malvoisin
+164787	Brian de
+164789	Bois-Guilbert
+164807	Albert
+164821	Bois-Guilbert
+164899	Albert Malvoisin
+164955	Lucas Beaumanoir
+165000	Albert
+165031	Albert
+165094	Albert Malvoisin
+165104	Rebecca
+165140	Bois-Guilbert
+165347	Albert Malvoisin
+165385	Rebecca
+165393	Isaac of
+165395	York
+165404	Miriam
+165456	Brian de
+165458	Bois-Guilbert
+165546	Magdalene
+165654	Beaumanoir
+165660	Conrade
+165737	Bois-Guilbert
+165792	Conrade Mont-Fitchet
+165824	Brian de
+165826	Bois-Guilbert
+165899	Sampson
+165981	Bois-Guilbert
+166007	Beaumanoir
+166101	Albert Malvoisin
+166121	Brian de
+166123	Bois-Guilbert
+166197	Malvoisin
+166403	Lucas Beaumanoir
+166421	Lucas Beaumanoir
+166427	Bois-Guilbert
+166436	Malvoisin
+166446	Rebecca
+166511	Rebecca
+166545	Bois-Guilbert
+166558	Malvoisin
+166571	Lucas Beaumanoir
+166632	Bois-Guilbert
+166653	Malvoisin
+166699	Bois-Guilbert
+166702	Albert
+166716	Malvoisin
+166870	Bois-Guilbert
+166899	Rebecca
+166997	Judah
+167017	Bois-Guilbert
+167080	Rebecca
+167147	Malvoisin
+167239	Flanders
+167250	Malvoisin
+167254	Brian de
+167256	Bois-Guilbert
+167278	Rebecca
+167328	Malvoisin
+167406	Bois-Guilbert
+167437	Rebecca
+167441	Bois-Guilbert
+167538	Conrade Mont-Fitchet
+167601	Mont-Fitchet
+167606	Albert
+167630	Brian de
+167632	Bois-Guilbert
+167687	Brian
+167721	Bois-Guilbert
+167743	Malvoisin
+167756	Rebecca
+167786	Albert
+167790	Mont-Fitchet
+167848	Conrade
+167917	Malvoisin
+167926	Bois-Guilbert
+167941	Philip de
+167943	Malvoisin
+168025	Mont-Fitchet
+168051	Hamet Alfagi
+168075	Rebecca
+168144	Conrade
+168187	Rebecca
+168261	Rebecca
+168380	Rebecca
+168518	Stern
+168575	Rebecca
+169089	Lucas
+169186	Brian de
+169188	Bois-Guilbert
+169293	Conrade
+169389	Semper Leo
+169404	Conrade Mont-Fitchet
+169465	Christian
+169535	Bernard
+169736	Rebecca
+169740	Isaac of
+169742	York
+169817	Brian de
+169819	Bois-Guilbert
+169915	De Bois-Guilbert
+170277	Brian de
+170279	Bois-Guilbert
+170548	Bois-Guilbert
+170555	Rebecca
+170631	Bois-Guilbert
+170651	Rebecca
+170742	Malvoisin
+170757	Bois-Guilbert
+170817	Rebecca
+170889	Albert
+170893	Beaumanoir
+171119	Herman
+171137	Bois-Guilbert
+171140	Herman
+171203	Brian de
+171205	Bois-Guilbert
+171233	Brian de
+171235	Bois-Guilbert
+171267	Bois-Guilbert
+171307	Brian de
+171309	Bois-Guilbert
+171324	Bois-Guilbert
+171353	Brian de
+171355	Bois-Guilbert
+171408	Brian
+171523	Goodalricke
+171729	Isaac
+171756	Rebecca
+172008	Beaumanoir
+172048	Judah
+172221	Saxon
+172268	Snell
+172281	Snell
+172400	Nathan Ben
+172402	Samuel
+172432	Beaumanoir
+172453	Snell
+172514	Rebecca
+172588	Beaumanoir
+172812	Brian
+172833	Higg
+172838	Snell
+172911	Rebecca
+172955	Higg
+173006	Albert Malvoisin
+173184	Rebecca
+173306	Rebecca
+173459	Rebecca
+173558	Rebecca
+173560	Bois-Guilbert
+173593	Rebecca
+173686	Rebecca
+173714	Rebecca
+174003	Brian de
+174005	Bois-Guilbert
+174038	Brain de
+174040	Bois-Guilbert
+174154	Bois-Guilbert
+174182	Rebecca
+174199	Beaumanoir
+174236	Rebecca
+174248	Bois-Guilbert
+174299	Rebecca
+174323	Rebecca
+174375	Rebecca
+174459	Rebecca
+174498	Rebecca
+174616	Richard II
+174618	Even Lucas
+174620	Beaumanoir
+174630	Rebecca
+174920	Rebecca
+174978	Beaumanoir
+174998	Rebecca
+175051	Beaumanoir
+175089	Rebecca
+175139	Rebecca
+175189	Rebecca
+175244	Beaumanoir
+175343	Rebecca
+175348	Isaac of
+175350	York
+175426	Brian de
+175428	Bois-Guilbert
+175440	Goodalricke
+175472	Brian
+175560	Albert Malvoisin
+175569	Brian de
+175571	Bois-Guilbert
+175590	Bois-Guilbert
+175614	Rebecca
+175643	Rebecca
+175731	Rebecca
+175817	Albert Malvoisin
+175822	Rebecca
+175832	Bois-Guilbert
+175873	Malvoisin
+175901	George
+175929	Rebecca
+176072	Rebecca
+176079	Isaac of
+176081	York
+176224	Brian de
+176226	Bois-Guilbert
+176274	Lucas Marquis
+176319	George
+176439	Rebecca
+176553	Rebecca
+176642	Rebecca
+176708	Snell
+176750	Rebecca
+176802	Rebecca
+176818	Judah
+176843	Isaac of
+176845	York
+176947	Higg
+176992	Buthan
+177084	Isaac of
+177086	York
+177093	Ben Samuel
+177128	Ben Samuel
+177133	Isaac
+177218	Solomon
+177258	Higg
+177263	Snell
+177367	Isaac
+177377	Higg
+177513	Isaac
+177541	Rebecca
+177620	Isaac
+177627	Daniel
+177698	Jonah
+177716	Rebecca
+177720	Rachel
+177771	Isaac
+177802	Isaac
+177813	Isaac of
+177815	York
+177997	Wilfred
+178001	Cedric
+178079	Wilfred
+178084	Cedric
+178088	Rebecca
+178093	Rebecca
+178147	Cordova
+178185	Jacob
+178197	Isaac
+178203	Ben Samuel
+178280	Wilfred
+178285	Cedric
+178309	Richard
+178381	Isaac
+178398	Jacob
+178475	Wilfred
+178584	Isaac
+178876	Gentile
+178970	Rebecca
+179169	Judah
+179202	Babel
+179212	Gentile
+179270	Rebecca
+179326	Brian de
+179328	Bois-Guilbert
+179339	Rebecca
+179372	Rebecca
+179466	Rebecca
+179502	Knight
+179506	Rebecca
+179542	Bois-Guilbert
+179580	Rebecca
+179734	Rebecca
+179913	Rebecca
+180021	Rebecca
+180074	Rebecca
+180111	Knight
+180185	Rebecca
+180189	Bois-Guilbert
+180216	Knight
+180220	Rebecca
+180363	Rebecca
+180468	Rebecca
+180525	Knight
+180583	Rebecca
+180587	Bois-Guilbert
+180683	Bois-Guilbert
+180706	Rebecca
+180753	Bois-Guilbert
+180781	Goodalricke
+180874	Beaumanoir
+180908	Rebecca
+180938	Knight
+180942	Rebecca
+181079	Rebecca
+181095	Bois-Guilbert
+181120	-- Rebecca
+181181	Lucas de
+181183	Beaumanoir
+181214	Goodalricke
+181226	Albert de
+181228	Malvoisin
+181293	Rebecca
+181341	Rebecca
+181435	Richard Coeur-de-Lion
+181459	Richard
+181503	Rebecca
+181559	Bois-Guilbert
+181682	Rebecca
+181728	Bois-Guilbert
+181746	Knight
+181750	Rebecca
+181760	Queen Mother
+181766	John
+181877	Rebecca
+181998	Rebecca
+182046	Marquis
+182071	Saladin
+182205	Rebecca
+182241	Rebecca
+182373	Richard
+182388	Rebecca
+182437	Richard
+182452	Rebecca
+182494	Rebecca
+182617	-- Rebecca
+182780	Jacob
+182936	Rebecca
+182969	Rebecca
+183033	Jehovah
+183138	Rebecca
+183168	Judah
+183215	Isaac
+183279	Bois-Guilbert
+183475	Rebecca
+183497	Bois-Guilbert
+183557	Rebecca
+183647	Rebecca
+183678	Albert
+183688	Bois-Guilbert
+183762	Bois-Guilbert
+183821	Malvoisin
+183871	Malvoisin
+183906	Beaumanoir
+183972	Malvoisin
+184025	Lucas Beaumanoir
+184143	Brian
+184165	Bois-Guilbert
+184277	Wert
+184320	Brian de
+184322	Bois-Guilbert
+184359	Richard
+184445	Bois-Guilbert
+184451	Richard
+184558	Bois-Guilbert
+184600	Malvoisin
+184611	George
+184667	Malvoisin
+184704	Bois-Guilbert
+184736	Mont-Fitchet
+184752	Rebecca
+184792	Malvoisin
+184797	Bois-Guilbert
+184876	Bois-Guilbert
+184886	Rebecca
+184909	-- Richard
+184915	Richard III
+184964	Botolph
+184970	Ivanhoe
+185007	Wilfred
+185056	Wamba
+185073	Ivanhoe
+185084	Athelstane
+185090	Cedric
+185104	Saxon
+185109	Wilfred
+185149	Ivanhoe
+185199	Wamba
+185223	Wamba
+185282	Knight
+185296	Cedric
+185335	Knight
+185407	Knight
+185456	Ivanhoe
+185553	Wilfred
+185577	Ivanhoe
+185600	Wamba
+185605	Ivanhoe
+185758	Saxon Cedric
+185799	Ivanhoe
+185999	Ivanhoe
+186060	Norman
+186206	Malkin
+186286	Ivanhoe
+186290	Malkin
+186325	Malkin
+186354	Malkin
+186423	Ivanhoe
+186460	Gurth
+186503	Ivanhoe
+186538	Malkin
+186615	Malkin
+186645	Malkin
+186662	Ivanhoe
+186712	Malkin
+186809	Gurth
+186853	Mary
+186871	Malkin
+186928	Malkin
+187048	Botolph
+187184	Father Diggory
+187726	Anna-Marie
+187735	Anna-Marie
+187760	Anna-Marie
+187762	Anna-Marie
+187800	Anna-Marie
+187904	Wamba
+187932	Gurth
+188008	Anna-Marie
+188191	Hur
+188218	David ap
+188220	Morgan ap
+188222	Griffith
+188266	Jollily
+188338	Wamba
+188381	Wamba
+188410	Locksley
+188521	Wamba
+188649	Wamba
+188778	Wamba
+188820	Wamba
+188833	Cedric
+188847	Wamba
+188913	Isaac the
+188915	Jew
+188971	Wamba
+188994	Wamba
+189088	Wamba
+189105	Knight
+189233	Wamba
+189302	Wamba
+189362	Malvoisin
+189368	Wamba
+189448	Knight
+189473	Wamba
+189515	Wamba
+189532	Locksley
+189586	Wamba
+189681	Knight
+189718	Black Knight
+189744	Knight
+189845	Wamba
+189871	Wamba
+189961	Folly
+190053	Nicholas
+190163	-- ``
+190165	Wamba
+190302	Edward
+190307	George
+190312	Black Knight
+190447	Wamba
+190482	Wamba
+190619	Wamba
+190695	Fetterlock
+190765	Locksley
+190884	Wamba
+190937	Wamba
+191044	Richard
+191078	Adam
+191109	Richard
+191123	Norman
+191177	Waldemar Fitzurse
+191203	Waldemar
+191224	Richard
+191276	Waldemar
+191314	Richard
+191352	Norman
+191364	John
+191407	George
+191445	Locksley
+191518	Locksley
+191523	Black Knight
+191543	Richard
+191605	Richard
+191720	Locksley
+191728	Locksley
+191761	Robin Hood
+191764	Sherwood Forest
+191846	Wamba
+191888	Richard
+191916	Wamba
+192016	Wamba
+192087	Richard
+192156	Wamba
+192215	Richard
+192234	Dunstan
+192236	-- Tush
+192245	Richard
+192279	Robin Hood
+192332	Richard
+192413	Friar Tuck
+192601	Dunstan
+192642	Dunstan
+192687	Dunstan
+192860	Dunstan
+192907	Mark
+192965	Dunstan
+193020	Malvoisie
+193060	Dunstan
+193144	Richard
+193311	Macdonald
+193316	Wilfred
+193324	Botolph
+193329	Gurth
+193345	Ivanhoe
+193386	Richard
+193439	Richard
+193448	Wilfred
+193457	Richard Plantagenet
+193494	Wilfred
+193561	Wilfred
+193638	Richard
+193678	Ivanhoe
+193701	Prince
+193758	Richard Plantagenet
+193782	Richard Plantagenet
+193830	Ivanhoe
+193896	Richard
+193906	Wilfred
+193930	Wilfred
+193977	Wilfred
+194021	Richard
+194057	Estoteville
+194059	Bohun
+194095	Percy
+194132	Robin
+194158	Wilfred
+194219	Richard
+194248	Robin Hood
+194331	Richard
+194388	Robin
+194399	Robin Hood
+194459	Robin Hood
+194499	Richard Coeur-de-Lion
+194664	Richard
+194818	Robin Hood
+194847	Ivanhoe
+194863	Ivanhoe
+194906	Robin Hood
+194911	Wilfred
+195032	Ivanhoe
+195070	Robin Hood
+195082	Christopher
+195106	Scathlock
+195118	Norman
+195137	Scathlock
+195170	Miller
+195238	Richard
+195271	Gurth
+195283	Wilfred
+195314	Wilfred
+195333	Richard
+195347	Robin Hood
+195379	Richard
+195410	Richard
+195498	Malvoisin
+195590	Richard
+195613	Sherwood
+195637	Robin
+195677	Wilfred
+195688	Robin
+195732	Robin
+195739	Little John
+195820	Richard
+195908	Robin Hood
+196005	Richard
+196038	Robin Hood
+196086	Richard
+196117	John
+196131	Robin Hood
+196192	Ivanhoe
+196250	Don
+196291	Saxon
+196532	Coeur-de-Lion
+196557	Saxon
+196635	Norman
+196681	Hengist
+196684	Saxon
+196743	Athelstane
+196867	Saxon
+196922	Norman
+197019	Saxon
+197233	Richard
+197282	Ivanhoe
+197372	Richard
+197382	Gurth
+197384	Wamba
+197413	Marcello
+197639	Richard
+197665	Wilfred
+197767	Ivanhoe
+197881	Cedric
+197910	Richard
+197919	Knight of
+197921	the Fetterlock
+197999	Ivanhoe
+198034	Cedric
+198043	Richard
+198181	Edmund
+198206	Sacristan
+198281	Zernebock
+198285	Saxon Apollyon
+198323	Edmund
+198368	Edmund
+198388	Athelstane
+198425	Richard
+198427	Wilfred
+198430	Saxon Cedric
+198483	Cedric
+198698	Edith
+198702	Cedric
+198715	Richard
+198717	Wilfred
+198947	Saxon
+198953	Rowena
+199043	Mary
+199253	Rowena
+199318	Cedric
+199389	Wilfred
+199422	Cedric
+199482	Black Knight
+199496	Thane
+199538	Knight
+199542	Cedric
+199592	Athelstane
+199614	Cedric
+199708	Richard Plantagenet
+199713	Richard
+199719	Cedric
+199732	Cedric
+199734	Richard
+199777	Norman
+199782	Cedric
+199826	Cedric
+199859	Edgar Atheling
+199865	Malcolm
+199870	Matilda
+199876	Saxon
+199903	Richard
+199950	Cedric
+199973	Saxon
+200159	Wilfred
+200199	Cedric
+200216	Ivanhoe
+200221	Cedric
+200242	Cedric
+200252	Hereward
+200308	Cedric
+200339	Rowena
+200355	Saxon
+200402	Athelstane
+200426	Cedric
+200448	Athelstane
+200490	Cedric
+200539	Ivanhoe
+200561	Richard
+200634	Cedric
+200689	Athelstane
+200760	Cedric
+200809	Black Knight
+200838	Wamba
+200856	Knight
+200860	Athelstane
+200864	Wamba
+201012	Edmund
+201211	Jeremy
+201304	Athelstane
+201418	Cedric
+201450	Athelstane
+201554	Sacristan
+201635	Sacristan
+201692	Abbot
+201721	Richard
+201745	Athelstane
+201829	Edith
+201991	Sacristan
+202075	Sacristan
+202114	Richard
+202133	Athelstane
+202454	Cedric
+202489	Saxon
+202505	Athelstane
+202524	Abbot
+202575	Edith
+202594	Athelstane
+202607	Front-de-Boeuf
+202688	Cedric
+202702	Athelstane
+202740	Cedric
+202759	Norman
+202762	Richard
+202781	Alfred
+202802	Athelstane
+202810	Richard
+202816	Richard Plantagenet
+202822	Cedric
+202870	Athelstane
+202900	Edith
+202919	Prince
+202923	Cedric
+202932	Athelstane
+202982	Abbot Wolfram
+203076	Rowena
+203080	Cedric
+203095	Cedric
+203099	Athelstane
+203107	Rowena
+203121	Wilfred
+203165	Rowena
+203225	Wilfred of
+203227	Ivanhoe
+203241	Dunstan
+203245	Wilfred
+203282	Ivanhoe
+203315	Gurth
+203332	Athelstane
+203334	Rowena
+203345	Ivanhoe
+203375	Ivanhoe
+203380	Rowena
+203406	Athelstane
+203469	Richard
+203486	Richard
+203520	Ivanhoe
+203566	Jew
+203583	Athelstane
+203590	Zernebock
+203682	Saxon
+203708	Mowbray
+203740	-- Richard
+203777	Rebecca
+204392	Father Dennet
+204418	Athelstane
+204440	Dunstan
+204633	Athelstane
+204694	Edmund
+204733	Mabel Parkins
+204767	Saxon
+204872	Dennet
+204885	Edmund
+204978	Father Dennet
+204992	Edmund
+205082	Dennet
+205111	Dennet
+205167	Edmund
+205219	Dennet
+205327	Athelstane
+205408	Athelstane
+205516	Hubert
+205646	Michael
+205818	Brian de
+205820	Bois-Guilbert
+205962	Albert de
+205964	Malvoisin
+206323	Rebecca
+206468	Malvoisin
+206511	Father
+206524	Brian de
+206526	Bois-Guilbert
+206576	Rebecca
+206679	Malvoisin
+206738	Albert
+206760	Brian de
+206762	Bois-Guilbert
+206795	Albert Malvoisin
+206841	Brian de
+206843	Bois-Guilbert
+206867	Rebecca
+206980	Rebecca
+206985	Bois-Guilbert
+207016	Rebecca
+207040	Malvoisin
+207049	Albert de
+207051	Malvoisin
+207058	Beaumanoir
+207106	Rebecca
+207167	Rebecca
+207263	Lucas Beaumanoir
+207330	Rebecca
+207373	Bois-Guilbert
+207402	Rebecca
+207543	Rebecca
+207578	Rebecca
+207605	Rebecca
+207642	Zamor
+207746	Rebecca
+207799	Albert Malvoisin
+207830	Bois-Guilbert
+207850	Bois-Guilbert
+207857	Malvoisin
+207952	Brian
+207985	Malvoisin
+207988	Mont-Fitchet
+208037	Friar Tuck
+208145	Malvoisin
+208161	Rebecca
+208339	Rebecca
+208343	Isaac of
+208345	York
+208364	Brian de
+208366	Bois-Guilbert
+208404	George
+208420	Malvoisin
+208469	Malvoisin
+208477	Wilfred
+208547	Ivanhoe
+208603	Wilfred
+208656	Bois-Guilbert
+208662	Rebecca
+208707	Ivanhoe
+208781	Ivanhoe
+208798	-- Rebecca
+208890	Ivanhoe
+208908	Bois-Guilbert
+209052	Rebecca
+209135	Ivanhoe
+209146	Bois-Guilbert
+209174	Ivanhoe
+209203	Wilfred
+209233	Bois-Guilbert
+209244	Knight
+209399	Webster
+209409	Wilfred
+209494	Ivanhoe
+209630	-- Ivanhoe
+209663	Ivanhoe
+209698	Richard
+209736	Bohun
+209762	Albert de
+209764	Malvoisin
+209852	Henry Bohun
+209886	Richard Plantagenet
+209892	-- Conrade
+209894	Mont-Fitchet
+209914	Malvoisin
+209921	Philip
+209983	Beaumanoir
+210362	Richard
+210406	Richard
+210469	Richard
+210667	Richard
+210738	Rebecca
+210774	Isaac
+210821	Rebecca
+210873	Isaac
+210947	Rebecca
+210967	Rachel
+210986	Isaac
+211013	Richard
+211030	Rebecca
+211085	John
+211130	Nathan
+211173	Richard
+211196	Ivanhoe
+211219	Earl
+211274	Prince John
+211285	Richard
+211340	Ivanhoe
+211386	John
+211401	Ivanhoe
+211406	Richard
+211498	Ivanhoe
+211559	Earl
+211563	Ivanhoe
+211577	Richard
+211621	Richard
+211665	Maurice de
+211667	Bracy
+211678	Philip
+211683	Philip de
+211685	Malvoisin
+211690	Albert
+211701	Waldemar Fitzurse
+211716	John
+211776	Cedric the
+211778	Saxon
+211785	Richard
+211836	Richard
+211883	Richard
+211924	Cedric
+211944	Rowena
+211946	Athelstane
+211978	Saxon
+212041	Rowena
+212052	Athelstane
+212071	Rowena
+212078	Cedric
+212130	Saxon
+212191	Edith
+212293	Cedric
+212300	Athelstane
+212316	Rowena
+212323	Athelstane
+212346	Wilfred
+212369	Wamba
+212397	Cedric
+212471	Alfred
+212481	Edward
+212489	Cedric
+212548	Richard
+212557	Cedric
+212575	Saxon
+212602	Rowena
+212606	Wilfred
+212716	Gurth
+212756	Wilfred
+212803	Saxons
+212855	Cedric
+212904	Edward
+212930	Norman
+212932	Saxon
+212953	Rowena
+212960	Elgitha
+212981	Rowena
+213061	Rowena
+213110	Rowena
+213113	Elgitha
+213129	Lady of
+213131	Ivanhoe
+213159	Rowena
+213209	Rebecca
+213241	Wilfred
+213291	Rowena
+213294	Wilfred
+213338	Rebecca
+213362	Rowena
+213395	Mohammed Boabdil
+213441	Rowena
+213466	Rebecca
+213518	Ephraim
+213573	Rowena
+213611	Saxon
+213613	Norman
+213634	Rebecca
+213719	Rowena
+213776	Rebecca
+213926	Rowena
+213979	Rowena
+214043	Rebecca
+214191	Rowena
+214199	Rebecca
+214242	Rebecca
+214336	Rowena
+214358	Abraham
+214398	Rebecca
+214430	Rebecca
+214455	Rowena
+214509	Rowena
+214522	Saxon
+214546	Rowena
+214596	Rebecca
+214614	Alfred
+214620	Ivanhoe
+214627	Richard
+214707	Johnson
+214709	Charles
+214800	Saxon
+214813	William
+214865	William Stewart
+214867	Rose
+215062	John
+215072	Richard Thomson
+215101	Brian de
+215103	Bois-Guilbert
+215132	Mat Lewis
+215378	John of
+215380	Rampayne
+215395	Audulf de
+215397	Bracy
+215513	Norman
+215600	Richard
+215710	King Harold
+215718	Tosti
+216026	Drake
+216053	Robert Belt
+216139	Mary
+216268	James Stewart
+216472	Bannatyne
+216476	John Knox
+216517	Carrick
+216527	Bannatyne
+216680	Allan Stewart
+216686	James Stewart
+216708	Earl
+216760	Allan
+216773	Kennedy
+216780	Earl
+216806	Earl
+216835	Thomas Kennedie
+216842	Earl
+216849	Allan
+216874	Earl
+216906	Allan
+216915	Denure
+216988	Allan
+217001	Earl
+217050	Abbot
+217277	Carrick
+217289	Abbot
+217482	Darnley
+217535	Carrick
+217570	Jesus Maria
+217697	Denure
+217719	Laird
+217729	Abbot
+217776	Earl
+217827	God
+217862	Earl
+217896	Allan Stewart
+217929	Denure
+217983	John Stewart
+218140	Alexander Richard
+218307	George Buchanan
+218346	Laird
+218386	Denure
+218391	Abbot
+218400	Carrick
+218402	Galloway
+218430	Denure
+218529	Laird
+218587	Kyle
+218589	Cunynghame
+218597	Carrick
+218622	Allan
+218654	King
+218743	Laird
+218890	Cassilis
+218942	Bargany
+219028	Carrick
+219222	Godfrey
+219270	Ferne
+219278	Godfrey
+219292	Nisbet
+219297	Ferne
+219310	Godfrey
+219363	Godfrey
+219413	Ferne
+219426	Nisbet
+219448	Ulrica
+219494	Stern
+219568	Richard Coeur-de-Lion
+219587	Richard I.
+219726	Ellis
+219892	John Oldcastle
+219900	Robin Hood
+220021	Saxon
+220230	Mousa
+220678	Burghs
+220825	Vauban
+221122	Saxon
+221223	Coningsburgh
+221258	Mousa
+221350	Mousa
+221428	Don
+221440	Hengist
+221628	Saxon
+221636	Harold
+221643	William de
+221645	Warren
+221912	King
+221927	Watson
+222055	Saxon
+222255	-- Gough
+222347	David Laing
+222460	Strutt
+222671	Skene
+222809	Norman
+222858	Morat
+222973	Dame Juliana
+222975	Berners
+222993	Tristrem
+223063	-- L.
+223065	T. -RSB-
+223067	-LSB- Footnote
+223105	Coleridge
+223108	Muse
+223250	William the
+223252	Conqueror
+223286	Bartholinus
+223340	Robin Hood
+223536	Henry
+223565	Niobe
+223578	Moses
+223822	Froissart
+223928	G. Ulrica
+223992	H. Richard
+223994	Coeur-de-Lion
+224091	Reginald Fitzurse
+224094	William de
+224096	Tracy
+224098	Hugh de
+224100	Morville
+224103	Richard Brito
+224110	Henry
+224166	John
+224310	L. T.
+224312	-RSB- -LSB-
+224314	Footnote
+224389	Robin Hood
+224557	Saxon
+224577	Ritson
+224654	Bannatyne

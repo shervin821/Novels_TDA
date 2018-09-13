@@ -1,0 +1,3296 @@
+216	Elizabeth
+233	Giles Gosling
+287	Harry Baillie
+299	Giles Gosling
+464	John Tapster
+472	Will Hostler
+620	Giles Gosling
+1138	Giles Gosling
+1222	Giles Gosling
+1454	Giles Gosling
+1629	Robin of
+1631	Drysandford
+1751	Gosling
+1772	Mary
+1821	Michael Lambourne
+1856	Michael Lambourne
+1877	Michael Lambourne
+1894	Maurice
+1929	Giles Gosling
+1982	Mike
+1995	Michael Lambourne
+2033	Michael
+2090	Mike
+2217	Mike Lambourne
+2339	Michael Lambourne
+2388	Giles Gosling
+2395	Mike
+2470	Mike
+2474	Mike
+2519	Mike
+2629	Mike
+2684	Michael Lambourne
+2861	Giles Gosling
+2886	Gosling
+2924	Kinsman Michael
+3020	Mike Lambourne
+3057	Tabor
+3077	Mike
+3172	Lambourne
+3284	Mike
+3289	Laurence Goldthred
+3336	Lambourne
+3413	Michael
+3524	Giles Gosling
+3557	Goldthred
+3742	Benedict Lambourne
+3764	Mike
+3802	Bircham
+3832	Lambourne
+3848	Giles Gosling
+3929	Mike
+3945	Goldthred
+4015	Lambourne
+4217	Lambourne
+4259	-- Nephew
+4466	Tabor
+4660	Giles Gosling
+4674	Elizabeth
+4765	Giles Gosling
+4861	Giles
+5067	Elizabeth
+5168	Giles Gosling
+5196	Bacon
+5499	Michael Lambourne
+5544	Michael
+5566	Giles Gosling
+5843	Michael Lambourne
+5896	Dick
+5901	Mike
+6010	Cornish
+6024	Tre
+6027	Pen
+6096	Michael
+6161	Master Lancelot
+6392	Michael
+6474	Thatcham
+6499	Michael
+6539	Lambourne
+6623	Hal
+6650	Hal Hempseed
+6730	Michael Lambourne
+6739	Tony Foster
+6763	Tony
+6773	Tony Foster
+6789	Tony Fire-the-Fagot
+6802	Latimer
+6804	Ridley
+6811	Jack Thong
+6831	Tony Foster
+6854	Tony Fire-the-Fagot
+6878	Lambourne
+6918	Mary
+6929	Tony
+6945	Tony
+7001	Lambourne
+7111	Anthony Foster
+7181	Tony
+7194	Tony
+7212	Tressilian
+7231	Foster
+7266	Tony
+7283	Tony
+7332	Tressilian
+7531	Michael Lambourne
+7606	Tony Foster
+7738	Mike
+7742	Goldthred
+7771	Lambourne
+7804	Tressilian
+8004	Tressilian
+8013	Master Goldthred
+8172	Tressilian
+8281	Lambourne
+8367	Michael Lambourne
+8379	Goldthred
+8387	Tony Foster
+8429	Goldthred
+8519	Lambourne
+8588	Mike
+8673	Tony Foster
+8750	Gosling
+8815	Mike
+8862	Lambourne
+8871	Tony Foster
+8890	Saint George
+8915	Tressilian
+8941	Lambourne
+8951	Tressilian
+9009	Lambourne
+9060	Michael Lambourne
+9123	Lambourne
+9170	Michael Lambourne
+9272	Gosling
+9334	Julian
+9540	Gosling
+9548	Anthony Foster
+9597	Solomon
+9788	Tressilian
+9791	Giles Gosling
+9894	Mike
+9946	Tressilian
+9990	Giles Gosling
+10004	Giles
+10006	Giles
+10021	Wilt
+10029	Giles Gosling
+10196	Dick
+10280	Tressilian
+10341	Gosling
+10361	Mary
+10372	Elizabeth
+10557	Mike
+10588	Tressilian
+10667	Gosling
+10670	Cicely
+10686	Michael Lambourne
+10825	Cicely
+10851	Cicely
+10857	Giles Gosling
+10905	Lambourne
+10937	Mike
+10995	Mike
+11057	Lambourne
+11256	Tony Fire-the-Faggot
+11286	Tressilian
+11298	Lambourne
+11366	Tressilian
+11407	Giles Gosling
+11439	Tony Foster
+11492	Giles Gosling
+11508	Tony
+11570	Anthony Foster
+11601	Anthony Foster
+11706	Michael Lambourne
+12050	Michael Lambourne
+12090	Tressilian
+12148	Lambourne
+12193	Anthony
+12230	Foster
+12260	Tressilian
+12268	Lambourne
+12290	Tony
+12404	Master Lambourne
+12409	Tressilian
+12452	Lambourne
+12479	Tressilian
+12504	Lambourne
+12548	Anthony Foster
+12592	Tressilian
+12618	Lambourne
+12769	Tressilian
+12796	Lambourne
+12863	Tony
+12898	Anthony
+12937	Tressilian
+12963	Lambourne
+13234	Samson
+13267	Lambourne
+13313	Lambourne
+13406	Michael Lambourne
+13422	Tressilian
+13657	Tressilian
+13706	Anthony Foster
+13711	Tressilian
+13988	Tressilian
+13997	Anthony Foster
+14163	Lambourne
+14186	Michael
+14225	Tony Foster
+14284	Michael Lambourne
+14289	Michael Lambourne
+14294	Foster
+14330	Michael Lambourne
+14341	Anthony Foster
+14346	Lambourne
+14363	Michael Lambourne
+14379	Lambourne
+14418	Foster
+14455	Lambourne
+14481	Anthony Fire-the-Fagot
+14508	Michael Lambourne
+14580	Anthony Foster
+14607	Lambourne
+14728	Michael Lambourne
+14741	Mike
+14781	Michael Lambourne
+14874	Foster
+14895	Mike
+14922	Lambourne
+15063	Mike
+15118	Tressilian
+15147	Lambourne
+15393	Lambourne
+15425	Anthony Foster
+15465	Lambourne
+15495	Foster
+15549	Lambourne
+15571	Mike
+15607	Michael Lambourne
+15675	Melchisedek Maultext
+15687	Apostle Paul
+15700	Stephen
+15738	Lambourne
+15884	Foster
+15950	Lambourne
+16090	Mike
+16113	Lambourne
+16135	Anthony
+16345	Michael Lambourne
+16360	Knight
+16400	Anthony Foster
+16544	Anthony
+16548	Lambourne
+16585	Foster
+16757	Anthony
+16765	Lambourne
+16829	Antonlin
+16878	Foster
+16939	Lambourne
+16993	Anthony
+17017	Michael
+17028	Foster
+17090	Lambourne
+17168	Anthony Foster
+17201	Michael Lambourne
+17235	Lambourne
+17296	Amy
+17611	Amy
+17615	Tressilian
+17680	Tressilian
+17783	Amy
+17787	Tressilian
+17829	Amy
+17864	Tressilian
+17933	Tressilian
+18054	Amy
+18064	Amy
+18133	Amy
+18499	Amy
+18553	Amy
+18655	Amy
+18722	Tressilian
+18738	Amy
+18779	Amy
+18843	Lambourne
+18944	Mike
+18964	Lambourne
+19046	Dudman
+19048	Ramhead
+19057	Cornish
+19074	Tressilian
+19142	Foster
+19229	-- Mike
+19281	Michael Lambourne
+19424	Tressilian
+19628	Varney
+19653	Tressilian
+19682	Varney
+19686	Tressilian
+19748	Tressilian
+19757	Varney
+19802	Amy Robsart
+19840	Varney
+19844	Tressilian
+19884	Varney
+19932	Tressilian
+19956	Varney
+19990	Tressilian
+20039	Tressilian
+20125	Varney
+20183	Tressilian
+20201	Varney
+20242	Michael Lambourne
+20264	Varney
+20275	Lambourne
+20312	Tressilian
+20318	Lambourne
+20340	Lambourne
+20395	Varney
+20438	Lambourne
+20461	-- Varney
+20492	Varney
+20531	Lambourne
+20539	Foster
+20560	Michael Lambourne
+20613	Lambourne
+20636	Varney
+20648	Michael Lambourne
+20658	Lambourne
+20695	Varney
+20708	Anthony
+20821	Antony Foster
+20871	Foster
+20913	Lambourne
+20993	Richard Varney
+21004	Varney
+21033	Richard Varney
+21085	Anthony Foster
+21097	Varney
+21136	Janet
+21148	Varney
+21234	Janet
+21266	Varney
+21322	Anthony Foster
+21351	Janet
+21361	Anthony Foster
+21435	Janet
+21522	Master Varney
+21593	Varney
+21660	Foster
+21692	Varney
+21722	Varney
+21798	Varney
+21802	Foster
+21842	Holdforth
+21850	Antonlin
+21876	Varney
+21909	Foster
+21934	Cornish
+21940	Hugh Robsart
+21945	Amy
+22026	Mike Lambourne
+22042	Mike Lambourne
+22047	Varney
+22103	Richard Varney
+22234	Varney
+22300	Foster
+22328	Lambourne
+22342	Varney
+22399	Anthony Foster
+22460	Master Varney
+22465	Foster
+22595	Master Varney
+22623	Varney
+22747	Foster
+22757	Varney
+22805	Varney
+22866	Anthony
+22937	Varney
+23021	Foster
+23028	Master Varney
+23085	Anthony Foster
+23100	Anthony
+23264	Varney
+23276	Anthony Foster
+23298	Varney
+23327	Anthony
+23331	Varney
+23403	Foster
+23467	Tony
+23471	Varney
+23545	Anthony Foster
+23612	Killigrew
+23616	Lambourne
+23673	Anthony Foster
+23678	Varney
+23769	Foster
+23800	Varney
+23881	Allan
+23933	Anthony
+23955	Master Varney
+23960	Foster
+24004	Varney
+24155	Varney
+24159	Anthony Foster
+24202	Anthony
+24206	Varney
+24280	Anthony
+24288	Dame Amy
+24315	Anthony
+24319	Varney
+24343	Anthony Foster
+24422	Varney
+24473	Varney
+24477	Foster
+24565	Amy Robsart
+24588	Edmund Tressilian
+24739	Dick Varney
+24768	Varney
+24827	Varney
+24878	Anthony
+24946	Varney
+25002	Foster
+25078	Anthony
+25082	Varney
+25150	Anthony
+25337	Foster
+25349	Michael Lambourne
+25388	Edmund Tressilian
+25417	Foster
+25597	Eve
+25905	-- MICKLE
+26068	Anthony Foster
+26820	Moor
+27536	Amy
+27657	Janet
+27667	Anthony Foster
+27696	Janet
+27848	Janet
+27911	Janet
+28007	Janet
+28290	Janet
+28334	Richard Varney
+28373	Janet
+28395	Varney
+28431	Janet
+28451	Varney
+28473	Janet Foster
+28500	Richard Varney
+28585	Janet
+28651	Janet
+28680	Janet Foster
+28709	Varney
+28766	Janet
+28950	Janet
+28971	Varney
+29016	Janet
+29019	Janet Foster
+29032	Varney
+29069	Anthony Foster
+29215	Varney
+29232	Anthony Foster
+29302	Richard Varney
+29357	Varney
+29422	Richard Varney
+29475	Foster
+29602	Foster
+29636	Richard Varney
+29659	-- Janet
+29704	Varney
+29716	Foster
+29779	Richard Varney
+29925	Varney
+30012	Varney
+30061	Varney
+30097	Tressilian
+30127	Varney
+30173	Tressilian
+30205	Master Varney
+30270	Varney
+30337	Varney
+30390	Tressilian
+30531	Varney
+30631	Varney
+30734	Varney
+30844	Tressilian
+30874	Varney
+30889	Tressilian
+30939	Tressilian
+31001	Varney
+31109	Varney
+31326	Varney
+31389	Varney
+31431	Varney
+31500	Varney
+31512	Tressilian
+31588	Tressilian
+31628	Foster
+31642	Varney
+31693	Varney
+31722	Tressilian
+31737	Foster
+31781	Varney
+31788	Foster
+31842	Varney
+31904	Varney
+31976	Varney
+32000	Varney
+32026	Varney
+32219	Varney
+32271	Varney
+32280	Janet
+32412	Amy
+32472	Earl
+32522	Amy
+32971	Edward
+33050	Marquis
+33118	Countess
+33189	Amy
+33294	Mary
+33301	Philip
+33534	Andrew
+33540	James
+33777	Amy Robsart
+33849	Amy
+34022	Amy
+34087	Amy
+34097	Amy
+34223	Amy
+34485	Varney
+34551	Janet
+34618	Janet
+34763	Janet Foster
+34791	Janet
+34822	Holdforth
+34878	Janet
+34936	Janet
+34999	Mary
+35012	Janet
+35041	Janet
+35072	Varney
+35090	Janet
+35117	Amy
+35139	Richard Varney
+35168	Anthony Foster
+35261	Varney
+35263	Foster
+35360	Janet
+35409	Varney
+35411	Foster
+35449	Varney
+35592	Countess
+35618	Varney
+35681	Varney
+35770	Varney
+35865	Varney
+35906	Varney
+36015	Dan Cupid
+36023	Varney
+36032	Varney
+36049	Varney
+36175	Varney
+36194	Richard Varney
+36275	Varney
+36311	Varney
+36477	Varney
+36596	Varney
+36647	Varney
+36722	Varney
+36807	Varney
+36848	Eve
+36886	Richard Varney
+36996	Burleigh
+36998	Walsingham
+37110	Tressilian
+37174	Thomas Cromwell
+37206	Ralph Sadler
+37212	Cromwell
+37509	Amy
+37646	Varney
+37650	Hugh
+37758	Amy
+37804	Cornish
+37914	Amy
+38029	Radcliffe
+38061	Amy
+38075	Elizabeth
+38112	Henry
+38305	Earl
+38518	Varney
+38553	Varney
+38602	Anthony Foster
+38640	Richard Varney
+38658	Varney
+38711	Varney
+38791	Varney
+38831	Anthony
+38900	Foster
+38922	Janet
+38936	Anthony Foster
+38945	Janet
+38979	Foster
+39015	Foster
+39038	Janet
+39074	Master Varney
+39099	Janet
+39154	Tony
+39164	Varney
+39199	Foster
+39240	Tony
+39278	Tony
+39301	Foster
+39367	Tony
+39371	Varney
+39415	Tressilian
+39439	Foster
+39449	Varney
+39504	Tony
+39565	Anthony Foster
+39591	Earl
+39596	Janet
+39645	Janet
+39699	Holdforth
+39727	Romish
+39733	Lambourne
+39799	Varney
+39827	Varney
+39878	Varney
+39956	Varney
+40050	Varney
+40082	Michael Lambourne
+40114	Varney
+40120	Tressilian
+40145	Lambourne
+40218	Varney
+40250	Lambourne
+40272	Giles Gosling
+40282	Cicely
+40338	Varney
+40356	Lambourne
+40446	Lambourne
+40450	Varney
+40511	Lambourne
+40556	Varney
+40569	Lambourne
+40591	Varney
+40622	Lambourne
+40663	Varney
+40692	Lambourne
+40818	Francis Drake
+40821	Morgan
+40861	Varney
+40897	Lambourne
+40999	Varney
+41031	Lambourne
+41061	Anthony Foster
+41113	Varney
+41140	Lambourne
+41152	Duke
+41166	Hill
+41212	Varney
+41265	Lambourne
+41327	Cicely
+41338	Mike
+41367	Cicely
+41376	Varney
+41457	Varney
+41486	Gosling
+41498	Richard Varney
+41657	Varney
+41697	Varney
+41726	Lambourne
+41733	Varney
+41759	Lambourne
+41788	Varney
+41806	Lambourne
+41846	Varney
+41875	Lambourne
+41896	Varney
+41946	Michael Lambourne
+41969	Richard Varney
+41984	Lambourne
+42019	Varney
+42048	Lambourne
+42056	Anthony Foster
+42064	Anthony
+42080	Varney
+42160	Lambourne
+42184	Varney
+42219	Lambourne
+42280	Rosamond
+42286	Henry
+42325	Vanbrugh
+42347	Elizabeth
+42434	Varney
+42436	Lambourne
+42607	Varney
+42662	Varney
+42687	Lambourne
+42719	Jack
+42774	Lambourne
+42931	Elizabeth
+42978	Varney
+43025	Varney
+43068	Varney
+43130	Thomas Copely
+43154	Varney
+43174	Varney
+43228	Earl
+43247	Richard Varney
+43608	Varney
+43620	Lambourne
+43669	Elizabeth
+43674	Earl
+43727	Varney
+43729	Lambourne
+43755	Fenton
+43820	Varney
+43825	Giles Gosling
+43871	Michael Lambourne
+43888	Varney
+43918	Tressilian
+43930	Lambourne
+44004	Lambourne
+44050	Tressilian
+44104	Michael Lambourne
+44195	Varney
+44214	Tressilian
+44275	Tressilian
+44332	Giles Gosling
+44386	Tressilian
+44512	Tressilian
+44634	Tressilian
+44674	Anthony Foster
+44749	Mike Lambourne
+44808	Tressilian
+44863	Richard Varney
+44926	Gosling
+44935	Varney
+44942	Anthony Foster
+44964	Varney
+45094	Richard Varney
+45156	Tony Foster
+45164	Richard Varney
+45501	Roger Robsart
+45514	Henry VII.
+45527	Lincoln
+45530	Geraldin
+45552	Lambert Simnel
+45567	Giles Gosling
+45586	Roger Robsart
+45619	Martin Swart
+45668	Henry Weber
+45679	Martin Swart
+45720	Martin Swart
+45735	Martin Swart
+45747	Martin Swart
+45786	Martin Swart
+45926	Perkin Warbeck
+45932	Duke of
+45934	York
+45976	Roger Robsart
+46021	Henry
+46067	Hugh Robsart
+46075	Roger
+46108	Hugh Robsart
+46129	Will Badger
+46217	Will Badger
+46225	Tressilian
+46234	Hugh Robsart
+46304	Hugh
+46372	Amy Robsart
+46481	Hugh Robsart
+46533	Tressilian
+46589	Richard Varney
+46607	Hugh Robsart
+46649	Gosling
+46705	Amy Robsart
+46713	Varney
+46755	Varney
+46771	Amy
+46885	Varney
+46969	Tressilian
+46981	Hugh Robsart
+47049	Amy
+47117	Giles Gosling
+47216	Varney
+47245	Foster
+47289	Tressilian
+47389	Tressilian
+47543	Tressilian
+47634	Varney
+47695	Coragio
+47710	Hugh
+47729	Earl
+47747	Varney
+47813	Hugh Robsart
+47843	Tressilian
+47990	Tressilian
+48004	Cicely
+48029	Gosling
+48079	Tressilian
+48129	Tressilian
+48225	Tressilian
+48233	Amy
+48607	Varney
+48705	Varney
+48754	Tressilian
+49042	Giles Gosling
+49146	Tressilian
+49289	Tressilian
+49452	Smith
+49549	Gammer Sludge
+49588	Wayland Smith
+49699	Dionysius
+49826	Tressilian
+49990	Tressilian
+50041	Wayland Smith
+50089	Tressilian
+50109	FELIX BIS
+50111	TERQUE
+50131	Tressilian
+50189	Junius Juvenalis
+50206	Tressilian
+50258	Quintilian
+50268	Quintilian
+50452	CORNU
+50501	Dickie
+50531	Gammer
+50538	Dickie
+50770	Horace
+50779	Erasmus
+50896	Erasmus
+51000	LUDI MAGISTER
+51098	Earl
+51206	Erasmus
+51209	Fausto
+51227	Diedrichus Buckerschockius
+51347	Doboobie
+51357	MAGISTER
+51460	Tressilian
+51506	Demetrius
+51545	Geber
+51630	Tressilian
+51694	Marcus Tullius
+51707	Demetrius Doboobie
+51785	Demetrius
+51812	Doboobie
+51878	Zany
+51887	Maro
+52058	Wilt
+52155	Demetrius
+52157	Doboobie
+52237	Tressilian
+52259	Magister
+52392	Magister
+52447	Tressilian
+52601	Mulciber
+52657	Tressilian
+52760	Magister
+52882	Dickie
+52921	Wayland Smith
+53051	HEUS RICARDE
+53180	Gammer Sludge
+53245	Wayland Smith
+53382	Dickie
+53469	Tressilian
+53479	Dickie
+53556	Wayland Smith
+53652	Tressilian
+53700	Dickie
+53751	Dickie
+53853	Tressilian
+53954	Dickie Sludge
+54075	Tressilian
+54165	Tressilian
+54213	Dominie
+54406	Tressilian
+54425	Dickie
+54521	Richard
+54531	Tressilian
+54574	Richard Sludge
+54624	Dickie
+54669	Dominie
+54716	Tressilian
+54745	Dominie
+54845	Tressilian
+54868	Richard Sludge
+54968	Smith
+54983	Tressilian
+55042	Wayland Smith
+55096	Dickie
+55243	Tressilian
+55437	Tressilian
+55583	Dickie
+55646	Tressilian
+55841	Tressilian
+55913	Tressilian
+55991	Dickie Sludge
+56081	Tressilian
+56156	Tressilian
+56237	Dickie
+56268	Tressilian
+56427	Dickie
+56469	Tressilian
+56744	Tressilian
+56832	Tressilian
+56916	Talpack
+56960	Tressilian
+57117	Tressilian
+57341	Tressilian
+57405	Wayland Smith
+57462	Dickie Sludge
+57533	Tressilian
+57544	Hobgoblin
+57814	Lucy
+57876	Tressilian
+57986	Tressilian
+58097	Tressilian
+58143	Tressilian
+58245	Tressilian
+58354	Dickie Sludge
+58516	Tressilian
+58827	Tressilian
+58846	Hugh Robsart
+58989	Tressilian
+59039	Tressilian
+59321	Tressilian
+59445	Tressilian
+59491	Doboobie
+59809	Doboobius
+59882	Tressilian
+60200	Tressilian
+60225	Wayland Smith
+60248	Tressilian
+60324	Tressilian
+60392	Wayland Smith
+60441	Tressilian
+60624	Tressilian
+60713	Wayland Smith
+60761	Dickie Sludge
+60919	Tressilian
+60977	Tressilian
+60998	Wayland Smith
+61059	Tressilian
+61082	Tressilian
+61116	Wayland Smith
+61176	Tressilian
+61381	Tressilian
+61413	Tressilian
+61540	Dame Nature
+61590	Tressilian
+61683	Tressilian
+61904	Wayland Smith
+61987	Wayland Smith
+62050	Gaffer Grimesby
+62067	Wayland Smith
+62089	Dame Alison
+62091	Crane
+62153	Crane
+62176	Jack Hostler
+62197	Jack Hostler
+62229	Jack Hostler
+62237	Crane
+62298	Jack Hostler
+62365	Gaffer Grimesby
+62392	Jack Hostler
+62440	Jack Hostler
+62520	Wayland Smith
+62561	Wayland Smith
+62581	Tressilian
+62625	Gaffer Grimesby
+62657	Dame Crane
+62665	Jack Hostler
+62691	Jack Hostler
+62775	Dame Crane
+62781	Jack Hostler
+62829	Gaffer Pinniewinks
+62848	Wayland Smith
+62860	Pinniewinks
+62876	Blindas
+62890	Blindas
+62904	Dame Crank
+62912	Wayland Smith
+62918	Pinniewinks
+63039	Simpkins
+63167	Jack Hostler
+63174	Tressilian
+63194	Goodman Crane
+63220	Wayland Smith
+63241	Tressilian
+63359	Tressilian
+63484	Tressilian
+63517	Dame Crane
+63536	Wayland Smith
+63605	Sampson
+63653	Wayland Smith
+63693	Wayland Smith
+63774	Wayland Smith
+63837	Wayland Smith
+63914	Gaffer Crane
+63965	Gaffer Crane
+64015	Tressilian
+64160	Tressilian
+64267	Tressilian
+64275	Hugh Robsart
+64314	JOANNA BAILLIE
+64359	Robsart
+64363	Hugh
+64676	Will Badger
+64732	Edmund
+64750	Hugh
+64773	Master Mumblazen
+64786	Hugh
+64794	Will
+64906	Tressilian
+64920	Will Badger
+64966	Edmund
+65003	Bungay
+65099	Will Badger
+65116	Tom Butler
+65224	Hugh
+65234	Mumblazen
+65455	Amy
+65500	Varney
+65536	Mumblazen
+65604	Tressilian
+65622	Hugh
+65702	Hugh Robsart
+65835	Mary
+65907	Hugh
+65948	Tressilian
+66026	Will Badger
+66065	Edmund
+66085	Tressilian
+66117	Edmund
+66167	Amy
+66169	Edmund
+66202	Hugh
+66236	Hugh
+66288	Varney
+66292	Varney
+66318	Richard
+66353	Richard Crookback
+66356	Henry Tudor
+66521	Hugh
+66568	Edmund
+66643	Tressilian
+66679	Hugh
+66728	Master Mumblazen
+66748	Master Mumblazen
+66767	Hugh
+66789	-- Tressilian
+66812	-- Amy
+66821	Edmund
+66981	Michael Mumblazen
+67073	Hugh
+67159	Michael Mumblazen
+67230	Edmund
+67392	Master Michael
+67421	Tressilian
+67434	Varney
+67529	Mumblazen
+67546	Tressilian
+67707	Tressilian
+67723	Amy
+67794	Hugh
+67864	Mumblazen
+67968	Varney
+67996	Tressilian
+68032	Dudley
+68060	Hugh Robsart
+68165	Michael Mumblazen
+68201	Varney
+68268	Austen
+68274	Varney
+68290	Amy
+68324	Tressilian
+68389	Tressilian
+68421	Varney
+68430	Varney
+68434	Mumblazen
+68494	Hugh Robsart
+68511	Amy
+68526	Will Badger
+68578	Diddleum
+68627	Hugh
+68795	Robsart
+68805	Tressilian
+68813	Wayland Smith
+68838	Hugh Robsart
+68875	Doboobie
+68940	Tressilian
+68963	Hugh Robsart
+69022	William Badger
+69056	Hugh Robsart
+69079	Tressilian
+69125	Gaffer Pinniewinks
+69210	Wayland Smith
+69228	Will Badger
+69301	Tressilian
+69566	Elizabeth
+69589	Tressilian
+69599	Hugh Robsart
+69633	Michael Mumblazen
+69768	Tressilian
+69780	Wayland Smith
+69808	Hugh Robsart
+69824	Tressilian
+69907	Blindas
+69909	Wayland Smith
+70032	Tressilian
+70237	Master Mumblazen
+70240	Will Badger
+70246	Tressilian
+70277	Will Badger
+70315	Master Mumblazen
+70342	Edmund Tressilian
+70528	Will Badger
+70533	Tressilian
+70549	Stevens
+70600	Tressilian
+70661	Wayland Smith
+70669	Anan
+70810	Nicholas
+70839	Tressilian
+70872	Wayland Smith
+70895	Hugh Robsart
+70908	Tressilian
+70936	Stevens
+70942	Wayland Smith
+70952	Hugh
+71054	Tressilian
+71244	Tressilian
+71311	Tressilian
+71385	Caliban
+71399	Tressilian
+71518	Blindas
+71597	Demetrius Doboobie
+71649	Wayland Smith
+71720	Alfred
+71728	Pusey Horn
+71741	Wayland Smith
+71751	Wayland Smith
+71845	Lancelot Wayland
+71914	Tressilian
+71936	Rory Oge
+71938	MacCarthy MacMahon
+71946	Tressilian
+71951	Monsieur
+71962	Elizabeth
+71972	Medina
+71984	Philip
+71989	Tressilian
+72056	Tressilian
+72115	Tressilian
+72147	Elizabeth
+72174	Wayland Smith
+72203	Tressilian
+72257	Elizabeth
+72263	Wayland Smith
+72380	Tressilian
+72598	Tressilian
+72623	Yoglan
+72787	Mumblazen
+73336	Zacharias Yoglan
+73726	Jonah
+73806	Alchahest Elixir
+73808	Samech
+73947	Tressilian
+73973	-- Knavery
+74094	Tressilian
+74200	Yoglan
+74489	Evelyn
+74533	Evelyn
+74658	Tressilian
+74697	Elizabeth
+74753	Elizabeth
+75072	Henry VII.
+75086	Dudley
+75088	Duke
+75163	Elizabeth
+75411	Tressilian
+75950	Tressilian
+75978	Tressilian
+76052	Tressilian
+76080	Tracy
+76082	Markham
+76205	Tressilian
+76317	Tressilian
+76399	Edmund
+76569	Walter Wittypate
+76605	Blount
+76654	Walter Raleigh
+76669	Tressilian
+76726	Tressilian
+76811	Demetrius
+76864	Demetrius
+76957	Demetrius
+76983	Demetrius
+77017	Wayland Smith
+77327	Stanley
+77346	Tressilian
+77416	Tressilian
+77519	Thomas Ratcliffe
+77696	Earl
+77711	-- Wayland
+77713	Smith
+77758	Wayland Smith
+78072	Blount
+78120	Blount
+78223	Blount
+78245	Blount
+78250	Markham
+78254	Tracy
+78287	Blount
+78376	Blount
+78528	Walter
+78587	Walter
+78596	Tracy
+78636	Walter
+78666	Tracy
+78680	Blount
+78690	Blount
+78706	Tracy
+78740	Blount
+78742	Tracy
+78755	Tracy
+78878	Tressilian
+78925	Tracy
+78963	Walter
+78983	Blount
+79129	Blount
+79147	Markham
+79220	Tressilian
+79353	Blount
+79379	Walter
+79381	Tracy
+79430	Blount
+79501	Tracy
+79509	Walter Wittypate
+79595	Blount
+79612	Tracy
+79619	Walter
+79640	Said Blount
+79708	Blount
+79770	Walter
+79772	Blount
+79801	Blount
+79861	Tracy
+79885	Blount
+80116	Blount
+80165	Walter
+80357	Blount
+80368	Walter
+80408	Blount
+80416	Walter
+80517	Elizabeth
+80573	Hunsdon
+80591	Elizabeth
+80656	Walter
+80772	Elizabeth
+80917	Elizabeth
+80983	Blount
+81015	Tracy
+81163	Blount
+81171	Earl
+81219	Walter
+81226	Blount
+81371	Blount
+81757	Walter
+81907	Walter
+82021	Walter
+82157	Elizabeth
+82537	Earl
+82648	Walter
+83002	Walter
+83069	Lincoln
+83097	Lincoln
+83184	Elizabeth
+83563	Elizabeth
+83582	Walter Raleigh
+83605	Elizabeth
+83662	Earl
+83765	Lincoln
+83878	Elizabeth
+84053	Earl
+84158	Blount
+84172	Tracy
+84186	Thomas ap
+84188	Rice
+84190	Evan Evans
+84359	Tressilian
+84425	Elizabeth
+84474	Tressilian
+84509	Varney
+85065	Queen
+85160	Varney
+85213	Varney
+85305	Lincoln
+85361	Varney
+85380	Bishop
+85435	Varney
+85544	Varney
+85689	Varney
+85792	Varney
+85877	Ratcliffe
+85955	Varney
+86005	Elizabeth
+86109	-- Blount
+86155	Blount
+86212	Nicholas
+86270	Blount
+86404	Hugh Robsart
+86557	Tressilian
+86657	Tressilian
+86772	Elizabeth
+86942	Earls
+87318	Earls
+87330	Tressilian
+87332	Blount
+87340	Varney
+87401	Blount
+87469	Varney
+87506	Varney
+87533	Blount
+87545	Bowyer
+87580	Bowyer
+87646	Bowyer
+87784	Earl
+87802	Bowyer
+87849	Bowyer
+87853	Elizabeth
+87952	Henry VIII
+88076	Bowyer
+88097	Queen
+88109	Bowyer
+88136	Bowyer
+88212	Elizabeth
+88384	Earls
+88764	Ratcliffe
+88854	Elizabeth
+88913	Henry Lee
+89160	Varney
+89259	Hugh Robsart
+89334	Elizabeth
+89422	Dudley
+89530	Raleigh
+89590	Elizabeth
+89678	Varney
+89694	Bowyer
+89722	Elizabeth
+89862	Varney
+89889	Tressilian
+89891	Varney
+89895	Varney
+89950	Tressilian
+89968	Varney
+90066	Hugh Robsart
+90073	Varney
+90100	Amy Robsart
+90222	Varney
+90251	Varney
+90306	Varney
+90351	Edmund Tressilian
+90408	Varney
+90471	Elizabeth
+90531	Varney
+90658	Varney
+90713	Varney
+90738	Varney
+90838	Varney
+90979	Elizabeth
+90992	Varney
+91170	Elizabeth
+91206	Varney
+91226	Minerva
+91265	Varney
+91361	Minerva
+91382	Varney
+91470	Varney
+91555	Varney
+91639	Elizabeth
+91644	Varney
+91681	Varney
+91697	Elizabeth
+91743	Varney
+91832	Elizabeth
+91909	Leicester
+91973	Elizabeth
+92018	Dudley
+92091	Dudley
+92095	Elizabeth
+92115	Elizabeth
+92330	Varney
+92468	Queen Elizabeth
+92583	Varney
+92797	Shakespeare
+92826	Cressid
+92865	Diomed
+92906	Tressilian
+92969	Varney
+92988	Tressilian
+93002	Varney
+93023	Varney
+93036	Tressilian
+93218	Amy Robsart
+93279	Tressilian
+93517	Elizabeth
+93678	Queen
+93725	Ascham
+93737	Caesar
+93886	Varney
+93911	Menelaus
+93923	Helen
+93933	-- Varney
+94094	Squire
+94151	Elizabeth
+94510	Elizabeth
+94549	Amy
+94613	Elizabeth
+94687	Mary
+94715	Elizabeth
+94799	Elizabeth
+94879	Elizabeth
+94926	Elizabeth
+95320	Earl
+95421	-- Adams
+95449	Alderman Aylford
+95475	Edmund Spenser
+95528	Edmund
+95548	Will Shakespeare
+95560	Philip Sidney
+95571	Venus
+95669	Francis Denning
+95705	Master Bowyer
+95926	Robert Laneham
+95988	Robert Laneham
+96034	Laneham
+96257	Laneham
+96617	Mary
+96659	Robert Laneham
+96739	Robert Laneham
+96872	Elizabeth
+96903	Varney
+96953	Varney
+97012	Varney
+97059	Walter Raleigh
+97090	Varney
+97112	Varney
+97192	Varney
+97272	Varney
+97585	Elizabeth
+97590	Varney
+97611	Varney
+97649	Elizabeth
+97694	Master Varney
+97712	Varney
+97726	Squire
+97812	Tressilian
+97902	Willoughby
+97998	Diana
+98128	Willoughby
+98136	Willoughby
+98163	Burleigh
+98438	Orson Pinnit
+98456	MacDonough
+98626	Will Shakespeare
+98747	Will Shakespeare
+98791	Thomas Lucy
+98793	of Charlecot
+98822	Queen Elizabeth
+99279	Talbot
+99417	Elizabeth
+99466	Ambrose
+99468	Warwick
+99561	Marlow
+99563	Shakespeare
+99619	Elizabeth
+99796	Elizabeth
+99825	Shakespeare
+99915	Shakespeare
+99957	Philip Sidney
+100015	Philip
+100043	Philip Sidney
+100128	Tressilian
+100207	Walter Raleigh
+100471	Elizabeth
+100797	Elizabeth
+101063	Elizabeth
+101071	Raleigh
+101254	Squire Lack-Cloak
+101259	Paget
+101330	Paget
+101439	Lady Paget
+101494	Lady Paget
+101510	Lady Paget
+101554	Elizabeth
+101569	Lady Paget
+101590	Paget
+101632	Fain
+101827	Lady Paget
+101839	Elizabeth
+101866	Lady Paget
+102112	Elizabeth
+102208	Raleigh
+102245	Blount
+102270	Blount
+102279	Walter
+102317	Walter
+102383	Blount
+102409	Stanley
+102488	Wayland Smith
+102528	Smith
+102532	Tressilian
+102597	Tressilian
+102675	Tressilian
+102757	Doboobie
+102797	Tressilian
+102850	Tressilian
+103027	Tressilian
+103074	Demetrius
+103092	Tressilian
+103158	Tressilian
+103187	Giles Gosling
+103204	Varney
+103247	Varney
+103252	Foster
+103254	Lambourne
+103264	Leicester
+103295	Giles Gosling
+103470	Tankerville
+103557	Wayland Smith
+103645	-- SCHILLER
+103648	WALLENSTEIN
+103651	COLERIDGE
+103654	Leicester
+103738	Varney
+103754	Varney
+103818	Varney
+103908	Leicester
+103924	Varney
+103967	Varney
+104050	Varney
+104159	Varney
+104174	Varney
+104224	Varney
+104256	Darnley
+104266	Varney
+104299	Mary
+104308	Earl
+104371	Varney
+104389	Henry Darnley
+104397	Mary
+104418	Elizabeth
+104420	Varney
+104540	Varney
+104593	Amy
+104630	Varney
+104774	Elizabeth
+104796	Varney
+104874	Varney
+105237	Alasco
+105390	Elizabeth
+105398	Alasco
+105662	Varney
+105903	Venus
+105954	Augustus
+106614	Dudley
+106767	Devon
+106824	Varney
+106867	Varney
+106896	Varney
+106943	Varney
+106993	Alasco
+107025	Varney
+107089	Varney
+107166	Alasco
+107237	Varney
+107309	Varney
+107327	Demetrius
+107350	Hali
+107420	Alasco
+107475	Varney
+107653	Varney
+107657	Alasco
+107687	Varney
+107776	Varney
+107899	Varney
+107962	Master Varney
+108045	Varney
+108063	Hal
+108139	Varney
+108257	Jewish Cabala
+108439	Varney
+108480	Richard Varney
+108511	Varney
+108661	Varney
+108760	Nicholas
+109094	Varney
+109147	Varney
+109195	Alasco
+109222	Varney
+109466	Varney
+109599	Varney
+109608	Alasco
+109707	Varney
+109723	Richard Varney
+109764	Varney
+109792	Michael Lambourne
+109811	Julio
+109815	Varney
+109922	Lambourne
+109932	Michael
+109955	Varney
+109969	Michael
+110047	Varney
+110091	Lambourne
+110154	Varney
+110157	Lambourne
+110421	Lambourne
+110428	Alasco
+110442	Lambourne
+110446	Varney
+110505	Alasco
+110534	Lambourne
+110551	John
+110554	Berg
+110676	Varney
+110863	Giles Gosling
+111073	Cicely
+111133	Gascoigne
+111201	Will Hostler
+111204	John Tapster
+111271	Michael Lambourne
+111286	Alasco
+111353	Lambourne
+111374	Lambourne
+111384	Capricorn
+111562	Lambourne
+111599	God
+111642	Jack Tapster
+111666	Mike
+111676	Lambourne
+111721	Potosi
+111757	Michael
+111865	Lambourne
+111958	Giles Gosling
+111990	Michael
+112001	Earl
+112031	Earl
+112040	Earl
+112090	Michael Lambourne
+112162	Lambourne
+112275	Goldthred
+112285	Mike
+112331	Mike
+112383	Lawrence Goldthred
+112459	Lambourne
+112483	Mike
+112525	Gascoigne
+112561	Lambourne
+112666	Giles Gosling
+112799	Goldthred
+112826	Robin Hood
+112839	Robin Hood
+112859	Robin Hood
+112912	Mike
+112916	Mike
+112943	Mike
+112981	Mike
+112994	Tony Foster
+113046	Lambourne
+113125	Tony Foster
+113134	Mike
+113155	Michael Lambourne
+113195	Tony Foster
+113238	Lambourne
+113277	Tony Foster
+113307	Lambourne
+113356	Michael Lambourne
+113442	Lambourne
+113480	Michael
+113562	Lambourne
+113609	Michael
+113625	Foster
+113667	Lambourne
+113725	Lambourne
+113803	Lambourne
+113845	Tony Foster
+113870	Lambourne
+113897	Giles Gosling
+113971	Gosling
+113992	Mike
+114225	Tony Foster
+114237	Mike Lambourne
+114406	Giles Gosling
+114588	Michael
+114650	Albumazar
+114764	Anthony Foster
+115015	Zhe
+115116	Will Shakespeare
+115196	Janet
+115216	Janet
+115233	Dorcas
+115280	Janet
+115295	Janet
+115328	Janet
+115427	Janet
+115656	Janet
+115667	Janet
+115754	Janet
+115789	Janet
+115848	Dorcas
+115850	Alison
+115852	Janet
+116022	Janet
+116056	Earl
+116083	Elizabeth --
+116085	God
+116127	Janet
+116147	Janet
+116202	Wayland Smith
+116255	Janet
+116589	Edmund Tressilian
+116706	Janet
+116738	Janet
+116791	Janet
+116856	Janet
+116926	Janet
+116968	Janet
+117009	Janet
+117044	Janet
+117112	Janet
+117123	Wayland Smith
+117199	Janet
+117270	Wayland Smith
+117343	Janet
+117472	Wayland Smith
+117486	Janet
+117532	Janet
+117571	Lambourne
+117645	Lambourne
+117693	Michael
+117747	Tony Fire-the-Fagot
+117795	Foster
+117877	Varney
+117914	Truepenny
+117965	Tony Fire-the-Fagot
+118003	Varney
+118006	Varney
+118030	Lambourne
+118088	Tony
+118146	Foster
+118187	Lambourne
+118204	Richard Varney
+118235	Lex Julia
+118270	Varney
+118324	Lambourne
+118407	Janet
+118443	Lambourne
+118637	Lambourne
+118657	Varney
+118697	Wayland Smith
+118733	Amy Robsart
+118753	Elizabeth
+118837	Giles Gosling
+118884	Anthony Fire-the-Fagot
+118888	Giles Gosling
+118965	Tressilian
+119045	Elizabeth
+119134	Elizabeth
+119353	Queen Elizabeth
+119446	Henry VIII.
+119489	John Harrington
+119677	Burleigh
+119707	Elizabeth
+119939	Countess
+120005	Elizabeth
+120199	Amy
+120254	Elizabeth
+120284	Henry
+120331	-- Elizabeth
+120378	Varney
+120460	Elizabeth
+120531	Amy Robsart
+120537	Amy
+120572	Varney
+120683	Amy Robsart
+120707	Richard Varney
+120714	Varney
+120733	Dudley
+120774	Varney
+120812	Varney
+120823	Elizabeth
+120845	Varney
+120879	Varney
+120889	Elizabeth
+120959	Varney
+121040	Varney
+121082	Elizabeth
+121089	Varney
+121123	Varney
+121139	Varney
+121184	Varney
+121213	Amy
+121260	Varney
+121300	Varney
+121349	Varney
+121382	Philip Sidney
+121476	Varney
+121547	Varney
+121610	Elizabeth Tudor
+121662	Varney
+121683	Varney
+121742	Varney
+121925	Varney
+121940	Varney
+121967	Varney
+122004	Varney
+122084	Varney
+122255	Elizabeth
+122283	George
+122285	Clarence
+122504	Varney
+122593	Alasco
+122620	Varney
+122635	Elizabeth
+122750	Earl
+122788	Earl
+122800	WILLIAM JULIUS
+122802	MICKLE
+122933	Janet
+122957	Amy
+123036	Minerva
+123052	Hugh Robsart
+123060	Amy
+123393	Varney
+123417	Amy
+123494	Janet
+123542	Mumblazen
+123576	Janet
+123582	Tressilian
+123639	Janet
+123713	Janet
+123791	Tressilian
+123855	Janet
+123889	Janet
+123978	Janet
+124049	RICHARD LANT
+124055	SKELTON
+124150	Earl
+124185	Foster
+124204	Richard Varney
+124228	Varney
+124260	Varney
+124279	Janet
+124343	Varney
+124447	Varney
+124467	Varney
+124538	Varney
+124562	Janet
+124586	Foster
+124652	Janet
+124682	Anthony Foster
+124722	Janet
+124743	Janet
+124778	Varney
+124790	Janet
+124998	Varney
+125024	Janet
+125030	-- Foster
+125070	Varney
+125115	Janet
+125137	Varney
+125310	Amy
+125315	Janet
+125343	Anthony Foster
+125347	Richard Varney
+125384	Foster
+125399	Varney
+125451	Janet
+125515	Varney
+125566	Janet
+125726	Varney
+125848	Abraham
+125850	Sarah
+125925	Sarah
+125942	Foster
+125951	Abraham
+126021	Dudley
+126096	Varney
+126170	Janet
+126206	Janet
+126263	Varney
+126479	Varney
+126494	Foster
+126558	Varney
+126649	Tony
+126680	Holdforth
+126763	Alasco
+126827	Varney
+126855	Varney
+126864	Foster
+126900	Alasco
+126960	Anthony Foster
+126988	Varney
+127098	Varney
+127108	-- Foster
+127125	Varney
+127182	Janet
+127280	-- Janet
+127305	Janet
+127321	Varney
+127357	Janet
+127429	Janet
+127456	Anthony Foster
+127656	Janet
+127754	Foster
+127788	Janet
+127876	Janet
+128044	Janet
+128174	Janet
+128242	Janet
+128270	Janet
+128367	Janet
+128392	Janet
+128583	Varney
+128622	Foster
+128639	Wert
+128653	Varney
+128681	Wert
+128754	Alasco
+128802	Trismegistus
+128819	Varney
+128882	Alasco
+128894	Anthony
+128914	Foster
+129029	Tony
+129033	Varney
+129054	Alasco
+129067	Varney
+129093	Alasco
+129100	Varney
+129180	St. John
+129189	Christian Apocalypse
+129267	Holdforth
+129276	Foster
+129284	Alasco
+129343	Foster
+129617	Foster
+129637	Alasco
+129664	Foster
+129697	Alasco
+129809	Varney
+129842	Varney
+129850	Varney
+129875	Varney
+129952	Varney
+130028	Foster
+130037	Varney
+130109	Foster
+130125	Varney
+130153	Anthony Foster
+130197	XXIII
+130272	Janet
+130331	Janet
+130412	Janet
+130432	Janet
+130586	Janet
+130656	Janet
+130683	Varney
+130711	Janet
+130841	Janet
+130929	Janet
+131124	Janet
+131154	Janet
+131253	Janet
+131290	Janet
+131416	Janet
+131477	Janet
+131561	Anthony Foster
+131603	Janet
+131749	Janet
+131932	Janet
+132082	Janet
+132096	Janet
+132235	Ahab
+132245	Zedekiah
+132309	Naas
+132350	Holdforth
+132421	Janet
+132471	Janet
+132497	Janet
+132570	Janet
+132649	Janet
+132658	Janet
+132697	Earl
+132789	Janet
+132867	Varney
+132897	Janet
+132922	Janet
+132951	Janet
+133086	Janet
+133137	Janet
+133322	Janet
+133411	Tressilian
+133426	Janet
+133487	Janet
+133529	Janet
+133585	Janet
+133685	Varney
+133689	Janet
+133729	Varney
+133787	Dudley
+133796	Varney
+133807	Janet
+133854	Janet
+133930	Janet
+133996	Janet
+134081	Wayland Smith
+134105	Janet
+134138	Giles Gosling
+134197	Janet
+134218	Joab
+134226	Janet
+134338	Janet
+134428	Janet
+134453	Janet
+134490	Janet
+134543	Janet
+134636	Wayland Smith
+134709	Giles Gosling
+135082	Wayland Smith
+135203	RICHARD
+135233	RICHARD III
+135342	Wayland Smith
+135633	Bacon
+136005	St. Paul
+136536	Haro
+136656	Goldthred
+136793	Jane Thackham
+136821	Gaffer Thackham
+136972	Goldthred
+137009	Goldthred
+137036	Giles Gosling
+137114	Bayard
+137657	Tressilian
+137700	Warwick
+138043	Richard Varney
+138197	Lambourne
+138235	Varney
+138237	Lambourne
+138342	Varney
+138504	Varney
+138573	Varney
+138725	Varney
+138738	Lambourne
+138834	Varney
+138867	Varney
+139015	Varney
+139077	George
+139104	Varney
+139111	Lambourne
+139153	Lambourne
+139205	Varney
+139221	GAUDET
+139235	Sibyl Laneham
+139241	Robert Laneham
+139254	Varney
+139343	Varney
+139421	Varney
+139458	Laneham
+139549	Varney
+139599	Lambourne
+139755	Wayland Smith
+139779	Dickie Sludge
+139928	Dickie
+140118	Dickie
+140279	Wayland Smith
+140436	Laneham
+140525	Gillian
+140822	Wayland Smith
+140851	Richard Sludge
+141059	Oliver
+141065	Dickon Sludge
+141158	Dickon
+141366	Prince
+141852	Wayland Smith
+142615	Wayland Smith
+142674	Elizabeth
+143090	Joan
+143479	Elizabeth
+143588	Griffin
+143888	Wayland Smith
+144301	Caesar
+144350	Norman Conquest
+144362	Clintons
+144373	Henry I.
+144382	Simon de
+144384	Montfort
+144401	Henry III
+144405	Mortimer
+144407	Earl
+144432	Edward II.
+144441	John of
+144443	Gaunt
+144468	Lancaster
+144546	Elizabeth
+144806	Earl
+144809	Elizabeth
+145811	Dudley
+145825	Amy
+145830	Dudley
+146270	Arthur
+146406	Colbrand
+146408	Ascapart
+146637	Wayland Smith
+146829	Dickie
+147175	Dickie Sludge
+147298	Dickie
+147395	Gath
+147508	Mortimer
+147651	Edward II.
+148049	Bess
+148374	Caesar
+148389	Henry
+148427	Elizabeth
+148591	Mervyn
+148903	Countess
+148991	Earl
+149485	Tressilian
+149680	Robin
+149732	Tressilian
+150147	Dickie Sludge
+150238	Dickie
+150380	Wayland Smith
+150430	Dickie
+150641	Dickie
+150675	Dickie
+150691	Dickie
+150810	Dickie
+150838	Dickie
+150866	Dickie
+151102	Varney
+151270	Pleasance
+151486	Amy Robsart
+151665	Pleasance
+151766	Elizabeth
+151792	Mervyn
+151891	Amy Robsart
+151932	Amy
+151970	Amy
+152070	Amy
+152188	Tressilian
+152199	Varney
+152206	Varney
+152382	Amy
+152460	Tressilian
+152500	Amy
+152579	Tressilian
+152653	Elizabeth
+152790	Elizabeth
+152814	Tressilian
+152833	Edmund
+152887	Tressilian
+153152	Amy
+153232	Amy
+153292	Elizabeth
+153308	Amy
+153326	Varney
+153337	Amy
+153441	Tressilian
+153520	Tressilian
+153570	Amy
+153574	Tressilian
+153630	Tressilian
+153677	Edmund
+153684	Amy
+153802	Michael Lambourne
+153814	Tressilian
+153829	Amy
+153866	Lambourne
+153895	Lambourne
+154027	Tressilian
+154048	Lambourne
+154073	Michael Lambourne
+154173	Tressilian
+154191	Amy
+154230	Lambourne
+154282	Mike Lambourne
+154417	Mike Lambourne
+154429	Tressilian
+154450	Lambourne
+154466	Tressilian
+154516	Tressilian
+154683	Lindabrides
+154735	Tressilian
+154758	Amy Robsart
+154815	Varney
+154844	Tressilian
+154853	Varney
+154860	Amy
+154903	Amy
+154964	Amy
+155017	Elizabeth
+155062	Tressilian
+155119	Tressilian
+155215	Tressilian
+155314	Tressilian
+155363	Varney
+155462	Tressilian
+155547	Tressilian
+155809	Varney
+156228	Mervyn
+156387	Michael Lambourne
+156469	Lawrence Staples
+156493	Lambourne
+156630	Lambourne
+156636	Clinton
+156673	Lambourne
+156849	Adam
+156858	Lambourne
+156964	Christopher
+156968	Lambourne
+157009	Lawrence
+157018	Lawrence
+157031	Lambourne
+157051	Tressilian
+157132	Lambourne
+157206	Lawrence
+157208	Lambourne
+157239	Master Lambourne
+157283	Lawrence
+157287	Lambourne
+157295	Joan Jugges
+157313	Duke
+157340	Signior
+157355	Richard Varney
+157422	Lawrence Staples
+157468	Lambourne
+157498	Tressilian
+157557	Lawrence
+157604	Lambourne
+157652	Mervyn
+157666	Master Lambourne
+157732	Mortimer
+157775	Lambourne
+158007	Mervyn
+158009	Bower
+158016	Peter of
+158018	the Fetters
+158029	Varney
+158081	Lambourne
+158134	Lambourne
+158187	Lambourne
+158320	Lambourne
+158408	Lawrence Lock-the-door
+158428	Lawrence
+158468	Lawrence
+158651	Lawrence
+158670	Lawrence
+158739	Bircham
+158754	Lawrence
+158781	Michael
+158798	Arion
+158840	Lambourne
+158883	Lawrence
+158895	Varney
+159024	Lawrence
+159050	Elizabeth
+159063	Varney
+159068	Michael Lambourne
+159134	Mervyn
+159136	Bower
+159139	Tressilian
+159173	Varney
+159337	Blount
+159358	Tressilian
+159396	Amy
+159480	Blount
+159523	Blount
+159570	Blount
+159621	Blount
+159669	Walter Raleigh
+159707	Blount
+159782	Tressilian
+159789	Blount
+159803	Blount
+159903	Tressilian
+160016	Tressilian
+160041	Blount
+160044	Varney
+160162	Tressilian
+160184	Blount
+160294	Blount
+160298	Tressilian
+160336	Edmund
+160340	Blount
+160357	Wittypate
+160380	Blount
+160466	Tressilian
+160634	Tressilian
+160710	Tressilian
+161105	Blount
+161139	Tressilian
+161189	Tressilian
+161260	Tressilian
+161317	Barnaby
+161321	Blount
+161477	Blount
+161557	Queen Elizabeth
+162086	Dudley
+162255	Varney
+162347	Varney
+162444	Leicester
+162448	Varney
+162801	Dickie Sludge
+163031	Gascoigne
+163074	Chiswick
+163079	Elizabeth
+163226	Elizabeth
+163321	Raleigh
+163636	Elizabeth
+163667	Arthur
+163678	Lancelot
+163698	Merlin
+163746	Clintons
+163810	Elizabeth
+163903	Arion
+163918	Lambourne
+163999	Mike Lambourne
+164069	Lambourne
+164285	Nichols
+164300	Elizabeth
+164326	Radcliffe
+164338	Gascoigne
+164392	Elizabeth
+164401	Richard Badnall
+164429	J. J.
+164431	Rousseau
+164451	Davenport
+164463	Badnall
+164508	FLETCHER
+164532	Robert Laneham
+164563	Laneham
+164835	Elizabeth
+164932	James Melville
+164938	Mary
+164955	James
+164966	Earle
+164981	Elizabeth
+165020	kittle
+165040	-- MELVILLE
+165045	BANNATYNE
+165148	Blount
+165337	Elizabeth
+165446	Elizabeth
+165506	Elizabeth
+165545	Elizabeth
+165607	Elizabeth
+165613	Menelaus
+165637	Helen
+165679	Varney
+165778	Geoffrey Chaucer
+165795	Varney
+165879	Tressilian
+165934	Earl
+166146	Elizabeth
+166231	Varney
+166289	Elizabeth
+166299	Varney
+166328	Elizabeth
+166383	Varney
+166427	Varney
+166516	Anthony Foster
+166612	Amy Robsart
+166616	Varney
+166756	Tressilian
+166782	Amy
+166954	Elizabeth
+167046	Tressilian
+167076	Amy
+167167	Earl
+167203	Varney
+167248	Varney
+167276	Anthony Foster
+167295	Foster
+167416	Alasco
+167527	Hugh Robsart
+167586	Elizabeth
+167632	Tressilian
+167814	Elizabeth
+167849	Harrington
+167882	Tressilian
+168022	Amy
+168049	Elizabeth
+168148	Henry
+168215	Luke
+168279	Blount
+168320	Blount
+168453	Nicholas Blount
+168500	Walter
+168564	Blount
+168586	Walter
+168607	Walter
+168640	Blount
+168728	Amy
+168761	Blount
+168788	Nicholas
+168977	Tressilian
+169038	Varney
+169083	Varney
+169125	Hugh Robsart
+169185	Elizabeth
+169290	Harrington
+169320	Richard Varney
+169337	George
+169355	Richard Varney
+169488	Elizabeth
+169509	John Harrington
+169525	Orlando Furioso
+169548	Varney
+169599	Richard Varney
+169635	Earl
+169730	Elizabeth
+169782	Tressilian
+169844	Elizabeth
+169922	Nicholas Blount
+170119	Walter Raleigh
+170156	Elizabeth
+170195	Blount
+170250	Nicholas Blount
+170356	Blount
+170586	Blount
+170621	Blount
+170657	Stewarts
+170676	Blount
+170743	Richard Varney
+170767	Varney
+170945	Nicholas
+171189	George
+171292	HARDIS
+171349	Varney
+171361	Raleigh
+171386	Blount
+171471	Varney
+171481	Lambourne
+171496	Richard Varney
+171505	Richard
+171606	Varney
+171644	Richard
+171677	Varney
+171884	Varney
+171919	Varney
+172102	Varney
+172153	Earl
+172273	Varney
+172292	Alasco
+172335	Varney
+172357	Saul
+172410	Varney
+172432	Alasco
+172521	Richard
+172596	Varney
+172669	Varney
+172719	Varney
+172759	Varney
+172820	Varney
+172900	Varney
+172977	Varney
+173018	Varney
+173222	Varney
+173288	Varney
+173393	Varney
+173422	Fool
+173466	Varney
+173517	Varney
+173547	Varney
+173626	Varney
+173689	Elizabeth
+173704	Don Philip
+173712	Mary
+173743	Eleanor
+173747	Rosamond
+173792	Richard Varney
+173803	Tressilian
+173844	Varney
+173889	Varney
+173902	Varney
+173906	Tressilian
+173945	Mervyn
+173947	Bower
+174069	Varney
+174082	Varney
+174112	Michael Lambourne
+174207	Varney
+174300	Mervyn
+174302	Bower
+174379	Elizabeth
+174499	Amy
+174558	Amy
+174666	Mervyn
+174933	Amy
+174964	Tressilian
+175043	Amy
+175298	Amy
+175353	Tressilian
+175646	Mumblazen
+175693	Earl
+175712	Amy
+175804	Amy
+176018	Michael Lambourne
+176103	Lambourne
+176120	Varney
+176158	Lambourne
+176193	Janet
+176263	Lambourne
+176289	Amy
+176460	Mike Lambourne
+176674	Lawrence
+176698	Lambourne
+176744	Peter
+176761	Lambourne
+176903	Lambourne
+176947	Lawrence
+176952	Michael
+176964	Lambourne
+177049	Lambourne
+177067	Pleasance
+177089	Lawrence
+177091	Lambourne
+177116	Lawrence
+177126	Michael
+177131	Michael
+177213	Lambourne
+177240	Lambourne
+177306	Lambourne
+177314	Lawrence
+177338	Arthur
+177371	Lawrence
+177393	Michael Lambourne
+177458	Lambourne
+177494	Varney
+177497	Richard
+177530	Lambourne
+177872	Lambourne
+177962	Pleasance
+178087	Tressilian
+178094	Dudley
+178180	Pleasance
+178440	Varney
+178443	Lambourne
+178531	Amy
+178751	Pleasance
+178926	Elizabeth
+179088	Elizabeth
+179092	Earl
+179131	Elizabeth
+179228	Elizabeth
+179342	Nobles
+179553	Dudley
+179557	Elizabeth
+179719	Dudley
+179760	Elizabeth
+179816	Elizabeth
+179935	Queen
+179978	Elizabeth
+180030	Amy
+180089	Amy
+180153	Elizabeth
+180267	Elizabeth
+180330	Amy
+180396	Elizabeth
+180473	Elizabeth
+180585	Elizabeth
+180684	Amy
+180769	Elizabeth
+180847	Varney
+180872	Varney
+180875	Richard Varney
+180936	Elizabeth
+180988	Amy
+180993	Hugh Robsart
+181013	Amy
+181041	Elizabeth
+181099	Varney
+181102	Amy
+181163	Varney
+181183	Amy
+181297	Elizabeth
+181345	Amy
+181370	Elizabeth
+181470	Amy
+181487	Elizabeth
+181515	Pleasance
+181612	Elizabeth
+181686	Henry VIII
+182131	Elizabeth
+182151	Elizabeth
+182299	Elizabeth
+182376	Dudley
+182378	Earl
+182382	-- Cousin
+182384	of Hunsdon
+182411	Hunsdon
+182506	Amy
+182647	Amy
+182698	Elizabeth
+182831	Varney
+182871	Elizabeth
+182873	Varney
+182936	Amy
+183167	Hunsdon
+183261	Hunsdon
+183280	-- Hunsdon
+183301	Hunsdon
+183317	Amy
+183456	Hunsdon
+183483	Hunsdon
+183547	Dean
+183710	Hunsdon
+183735	Elizabeth
+183769	Varney
+183775	Richard
+183819	Varney
+183969	Varney
+183983	Anthony Foster
+184049	Richard
+184094	Varney
+184131	Elizabeth
+184152	Varney
+184187	Elizabeth
+184199	Varney
+184285	Varney
+184295	Elizabeth
+184400	Leicester
+184462	Elizabeth
+184543	Blount
+184592	Blount
+184658	Walter
+184663	Blount
+184785	Blount
+184836	-- DOUGLAS
+184875	Varney
+184899	Foster
+184919	Varney
+185001	Elizabeth
+185170	Varney
+185201	Richard
+185252	Varney
+185311	Elizabeth
+185321	Varney
+185340	Elizabeth
+185401	Varney
+185457	Varney
+185504	Elizabeth
+185525	Varney
+185554	Elizabeth
+185622	Varney
+185734	Varney
+185755	Elizabeth
+185851	Varney
+185874	Amy
+185880	Varney
+185982	Hunsdon
+186018	Hunsdon
+186048	Varney
+186075	Varney
+186086	Hunsdon
+186123	Hunsdon
+186148	Richard Varney
+186228	Varney
+186254	Countess Amy
+186304	Varney
+186366	Richard Varney
+186392	Dudley
+186424	Varney
+186609	Amy
+186625	Dudley
+186687	Amy
+186708	Amy
+186742	Amy
+186849	Amy
+186892	Varney
+186944	Varney
+186956	Varney
+187211	Amy
+187305	Varney
+187314	Varney
+187354	Edmund Tressilian
+187399	Amy
+187452	Varney
+187502	Varney
+187550	Varney
+187591	Tressilian
+187674	Varney
+187702	Amy
+187988	Elizabeth
+188022	Amy Robsart
+188091	Amy
+188174	Amy
+188327	Amy
+188335	Dudley
+188390	Amy
+188395	Dudley
+188445	Amy
+188523	Amy
+188579	-- Varney
+188589	Amy
+188634	Varney
+188659	Amy
+188810	Varney
+188925	Varney
+188946	Saintlowe
+188975	Camillo
+189025	Varney
+189092	Knollis
+189104	Horsey
+189115	Huntingdon
+189164	Owen Hopton
+189213	Varney
+189244	Varney
+189277	Richard
+189340	Varney
+189419	Elizabeth
+189548	Westmoreland
+189612	Elizabeth
+189791	Varney
+189871	Varney
+190039	Varney
+190115	Amy
+190213	Edmund Tressilian
+190317	Richard
+190384	Varney
+190412	Tressilian
+190441	Varney
+190468	Varney
+190493	Tressilian
+190603	Varney
+190703	Varney
+190733	Michael Lambourne
+190794	Leicester
+190811	Anthony Foster
+190835	Lambourne
+190837	Tressilian
+190847	Varney
+190875	Amy
+190924	Varney
+190943	Varney
+190955	Tressilian
+191038	Richard
+191101	Varney
+191174	Mervyn
+191321	Varney
+191353	Tressilian
+191433	Carrol
+191451	Lambourne
+191496	Varney
+191507	Nicholas Blount
+191519	Carrol
+191543	Varney
+191546	Carrol
+191557	Lambourne
+191671	Varney
+191848	Varney
+191879	Anthony Foster
+191897	Gosling
+191969	Varney
+192030	Varney
+192132	Varney
+192155	Varney
+192238	Varney
+192320	Elizabeth
+192485	Varney
+192586	Varney
+192601	Varney
+192758	Varney
+192781	Varney
+192851	Richard
+192954	Varney
+192985	Varney
+193091	Varney
+193156	Varney
+193261	Varney
+193287	Varney
+193401	Varney
+193411	Richard Varney
+194021	Elizabeth
+194225	Elizabeth
+194246	Varney
+194468	Varney
+194583	Varney
+194681	Varney
+194744	Elizabeth
+194762	Varney
+194814	Varney
+194963	Varney
+194997	Varney
+195039	Elizabeth
+195093	Richard Varney
+195159	Richard Varney
+195183	Varney
+195246	Earl
+195263	Varney
+195294	Varney
+195488	Varney
+195558	Varney
+195622	Varney
+195727	Varney
+195909	Varney
+195951	Varney
+196060	Varney
+196119	Elizabeth
+196121	Leicester
+196167	Varney
+196198	Elizabeth
+196256	Elizabeth
+196305	Dudley
+196441	Willoughby
+196504	Lady Varney
+196593	Michael Angelo
+196619	Varney
+196807	Lady Varney
+196869	PHRENESIS
+196960	Varney
+197043	Elizabeth
+197690	Odin
+198236	Elizabeth
+198385	Merlin
+198511	Elizabeth
+198634	Merlin
+198729	Saxon
+198740	Norman
+198756	Merlin
+198813	Elizabeth
+198826	Merlin
+199285	Edmund Tressilian
+199459	Tressilian
+199493	Edmund Tressilian
+199626	Tressilian
+199676	Pleasance
+199692	Tressilian
+199956	Elizabeth
+199974	Elizabeth
+200001	Richard Varney
+200063	Richard Varney
+200146	Varney
+200249	Elizabeth
+200311	Elizabeth
+200349	Elizabeth
+200451	Varney
+200474	Richard Varney
+200586	Michael Lambourne
+200605	Richard Varney
+200673	Varney
+200815	Richard Varney
+200940	R. LEICESTER
+200978	Michael Lambourne
+201047	Lambourne
+201074	Richard Varney
+201110	Lambourne
+201187	Lambourne
+201272	Richard Varney
+201288	Lambourne
+201325	Lambourne
+201496	Bayard
+201522	Lambourne
+201554	Richard Varney
+201560	Lambourne
+201620	Pleasance
+201890	Earl
+201897	Pleasance
+202044	Pleasance
+202394	Tressilian
+202441	Tressilian
+202507	Tressilian
+202618	Tressilian
+202773	Tressilian
+202816	Amy Robsart
+203130	Tressilian
+203166	Tressilian
+203377	Tressilian
+203571	Pleasance
+203734	George
+203820	God
+203929	Mervyn
+204006	Tressilian
+204092	Saintlowe
+204118	Hunsdon
+204193	Varney
+204226	Varney
+204242	Pleasance
+204320	Hunsdon
+204351	Hunsdon
+204421	Hunsdon
+204457	Hunsdon
+204646	Elizabeth
+204653	Earl of
+204655	Lester
+204664	BEN JONSON
+204675	Elizabeth
+204706	Danes
+204923	Elizabeth
+205155	Bayes
+205324	Coxe
+205396	Laneham
+205423	Henry
+205588	Coxe
+205618	Mortimer
+205687	Laneham
+205897	Coxe
+205946	Amadis
+205948	Belianis
+205950	Bevis
+205966	Coxe
+206045	Ben Jonson
+206079	Coxe
+206107	Elizabeth
+206174	Henry
+206182	Elizabeth
+206222	Hunsdon
+206388	Hunsdon
+206395	Nicholas Blount
+206416	Tressilian
+206496	Tressilian
+206647	Tressilian
+206779	Tressilian
+206842	Tressilian
+206890	Tressilian
+206982	Tressilian
+207124	Tressilian
+207492	Tressilian
+207563	Dickon
+207641	Amy
+207690	Tressilian
+207754	Varney
+207802	Tressilian
+207943	Amy
+208023	Varney
+208047	Tressilian
+208108	Tressilian
+208146	Amy Robsart
+208160	Varney
+208167	Amy
+208205	Earl
+208263	Amy
+208306	Amy
+208344	Hugh Robsart
+208394	Dudley
+208398	Dudley
+208403	Elizabeth
+208529	Dickon
+208551	Amy
+208672	Lambourne
+208738	Varney
+208740	Lambourne
+208944	Tressilian
+208968	Pleasance
+209026	Dickon
+209213	Varney
+209215	Lambourne
+209286	Tressilian
+209337	Tressilian
+209456	Nicholas Blount
+209467	Tressilian
+209578	Tressilian
+209612	Blount
+209671	Burleigh
+209673	Walsingham
+209705	Raleigh
+209732	Blount
+209785	Blount
+209815	Blount
+209833	Blount
+209947	Blount
+210078	Tressilian
+210094	Elizabeth
+210257	Henry
+210369	Elizabeth
+210384	Dame Amy
+210386	Dudley
+210402	Robert Dudley
+210460	Tressilian
+210520	Burleigh
+210561	Elizabeth
+210580	Burleigh
+210627	Burleigh
+210714	Burleigh
+210718	Elizabeth
+210772	Elizabeth
+210790	Burleigh
+210841	Burleigh
+210857	Elizabeth
+210886	Elizabeth
+210951	Burleigh
+210999	Elizabeth
+211053	Burleigh
+211091	Burleigh
+211093	Walsingham
+211215	Tressilian
+211301	Tressilian
+211348	Tressilian
+211469	Amy Robsart
+211533	Varney
+211576	Lambourne
+211825	Leicester
+212186	Amy Robsart
+212210	Varney
+212373	Elizabeth
+212407	Earl
+212670	Richard Varney
+212845	Burleigh
+212847	Walsingham
+212966	Amy
+213053	Elizabeth
+213116	Elizabeth
+213322	Varney
+213535	Michael Lambourne
+213645	Tressilian
+213662	Lady Leicester
+213668	Lambourne
+213713	Tressilian
+213731	Giles Gosling
+213733	of the
+213735	Black Bear
+213855	-- MICKLE
+213873	Varney
+213972	Lambourne
+214004	Richard
+214034	Varney
+214042	Robin Tider
+214083	Lambourne
+214097	Varney
+214164	Amy
+214177	Anthony Foster
+214184	Varney
+214250	Varney
+214299	NOBIS
+214328	Varney
+214381	Varney
+214434	Janet
+214438	Janet
+214452	Varney
+214480	Varney
+214506	Anthony
+214510	Varney
+214546	Foster
+214634	Foster
+214669	Varney
+214680	Foster
+214699	Varney
+214738	Janet
+214770	Foster
+214846	Lambourne
+214861	Richard
+214865	Foster
+214962	Anthony
+215044	Varney
+215061	Hunsdon
+215098	Amy
+215115	Varney
+215157	Varney
+215256	Varney
+215320	Varney
+215363	Amy
+215387	Hunsdon
+215420	Janet
+215461	Foster
+215507	Foster
+215528	Varney
+215602	Amy
+215680	Varney
+215712	Varney
+215847	Varney
+215864	Varney
+215912	Tider
+215940	Tider
+215954	Varney
+216061	Varney
+216072	Lambourne
+216149	Michael Lambourne
+216160	Varney
+216211	Lambourne
+216288	Leicester
+216303	Varney
+216314	Varney
+216347	Lambourne
+216388	Michael Lambourne
+216422	Richard
+216430	Michael
+216489	Michael Lambourne
+216529	Varney
+216552	Lambourne
+216575	Varney
+216626	Varney
+216644	Lambourne
+216675	Varney
+216744	Lambourne
+216772	Michael
+216788	Michael
+216794	Lambourne
+216852	Varney
+216871	Lambourne
+216888	Varney
+216928	Lambourne
+217152	Lady Varney
+217179	Amy
+217209	Varney
+217229	Varney
+217271	Varney
+217306	Foster
+217329	Varney
+217363	Foster
+217369	Janet
+217405	Anthony
+217409	Varney
+217432	Anthony
+217582	Varney
+217595	Tider
+217610	Janet
+217644	Foster
+217721	Foster
+217904	Janet
+217980	Foster
+218009	Amy
+218110	Foster
+218171	Varney
+218196	Foster
+218329	Foster
+218339	Varney
+218380	Foster
+218397	Varney
+218415	Foster
+218437	Varney
+218439	Foster
+218496	Varney
+218498	Alasco
+218550	Varney
+218610	Foster
+218649	Varney
+218660	Foster
+218702	Alasco
+218742	Varney
+218801	Foster
+218852	Varney
+218889	Foster
+218927	Varney
+218936	Varney
+218999	Foster
+219034	Varney
+219079	Foster
+219096	Varney
+219134	Anthony Foster
+219150	Richard
+219167	Anthony
+219195	Foster
+219202	Richard
+219230	Varney
+219244	Alasco
+219263	Lambourne
+219267	Anthony
+219276	Varney
+219304	Tony
+219347	Foster
+219374	Varney
+219396	Foster
+219420	Tony
+219444	Varney
+219456	Foster
+219472	Anthony
+219561	Amy
+219574	Foster
+219684	Varney
+219734	Foster
+219754	Varney
+219775	Foster
+219852	Varney
+219896	Anthony Foster
+219907	Varney
+219947	Foster
+219970	Tony
+219980	Varney
+219990	Foster
+220011	Varney
+220050	Foster
+220092	Varney
+220137	Raleigh
+220151	Foster
+220163	Anthony Foster
+220187	Varney
+220296	Varney
+220462	Demetrius Alasco
+220560	Dudley
+220586	Janet
+220624	Elizabeth
+220676	Dudley
+220711	Anthony Foster
+220834	Varney
+220945	Hugh Robsart
+220975	Elizabeth
+221033	Hugh
+221046	Raleigh
+221081	Blount
+221140	Burleigh
+221142	Walsingham
+221153	-- FOSTER
+221172	Anthony Foster
+221187	Ashmole
+221279	ANTONIUS FORSTER
+221297	Ricardo
+221314	Antonius
+221453	HUNTER
+221502	Anthony Foster
+221552	Anthony Foster
+221672	Lambourne
+221699	Michael Lambourne
+221716	Michael
+221779	Alfred
+221788	Gough
+221896	-- GOUGH
+221965	Wayland Smith
+222044	Saxon
+222077	Naunton
+222092	Ratcliffe
+222149	WALTER RALEIGH
+222178	Aubrey
+222188	Walter Raleigh
+222214	Robert Harley
+222216	of Brampton
+222218	Brian Castle
+222238	Walter
+222241	Thomas Overbury
+222254	Thomas
+222267	Raleigh
+222279	Walter
+222374	Walter Raleigh
+222415	AUBREY
+222439	WALTER RALEIGH
+222463	Elizabeth
+222704	ROBERT LANEHAM
+222711	Robert Laneham
+222730	Elizabeth
+222920	JULIO
+222930	Julio
+222954	Jesuit Parsons
+223002	Lady Sheffield
+223131	W. Knooles
+223167	Crompton
+223183	Lloid
+223326	Julio
+223372	Bayly
+223519	-- PARSONS
+223674	William Hamper
+223948	Storie
+223950	Susanna
+223953	Prodigall Childe
+223956	Saule
+223958	Tobie
+223969	Jezabell
+223971	Judith
+223975	David
+223977	Abraham
+223979	Sampson
+223983	Alexander the
+223985	Great
+223987	Naaman
+223991	Jacob
+224419	R. L.
+224524	R. L.
+224762	St. Jerome
+224771	Mathevers
+224777	Counte Egmondt
+224786	Philip
+224798	Alexander Magnus
+224805	Pompaea Sabina
+224808	Fred
+224816	Charles
+224818	K. Philip
+224823	Prince of
+224825	Orange
+224830	Marq
+224833	Berges
+224849	Duke Alva
+224859	Henrie E.
+224861	of Pembrooke
+224877	Mowntacute
+224880	Jas
+224891	Wm. Pickering
+224894	Edwin Abp
+225309	Ben Jonson
+225312	Drummond
+225320	Robert Sibbald
+225373	Jonson
+225406	Drummond
+225424	LEISTER

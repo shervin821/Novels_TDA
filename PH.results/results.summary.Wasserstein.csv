@@ -1,0 +1,76 @@
+novel,writer,count,correct,Accuracy
+A Double Barrelled Detective Story,Mark Twain,1182,190,0.160744500846024
+Life on the Mississippi,Mark Twain,1188,232,0.195286195286195
+The Gambler,Fyodor Dostoyevsky,1181,270,0.228619813717189
+The Fortune of the Rougons,Émile Zola,783,201,0.256704980842912
+Martin Chuzzlewit,Charles Dickens,831,219,0.263537906137184
+The Stolen White Elephant,Mark Twain,1186,337,0.284148397976391
+Oliver Twist,Charles Dickens,815,258,0.316564417177914
+A Christmas Carol,Charles Dickens,816,284,0.348039215686275
+The Adventures of Tom Sawyer,Mark Twain,1185,518,0.437130801687764
+Germinal,Émile Zola,778,377,0.484575835475578
+Adventures of Huckleberry Finn,Mark Twain,1194,592,0.495812395309883
+Poor Folk,Fyodor Dostoyevsky,1197,610,0.509607351712615
+Barnaby Rudge- A Tale of the Riots of 'Eighty,Charles Dickens,813,452,0.555965559655597
+The Brothers Karamazov,Fyodor Dostoyevsky,1181,697,0.590177815410669
+The Abbot,Walter Scott,799,473,0.591989987484356
+Guy Mannering,Walter Scott,837,531,0.634408602150538
+Piping Hot!,Émile Zola,798,509,0.637844611528822
+Peveril of the Peak,Walter Scott,774,497,0.642118863049096
+The Idiot,Fyodor Dostoyevsky,1187,778,0.655433866891323
+Crime and Punishment,Fyodor Dostoyevsky,1185,786,0.663291139240506
+The Uncommercial Traveller,Charles Dickens,817,550,0.673194614443085
+The Mystery of Edwin Drood,Charles Dickens,819,567,0.692307692307692
+Great Expectations,Charles Dickens,820,569,0.69390243902439
+The Possessed (The Devils),Fyodor Dostoyevsky,1183,853,0.721048182586644
+Rob Roy - Complete,Walter Scott,786,578,0.735368956743003
+The Personal History of David Copperfield,Charles Dickens,829,622,0.750301568154403
+Old Mortality- Complete,Walter Scott,801,652,0.81398252184769
+Pictures from Italy,Charles Dickens,821,672,0.818514007308161
+His Excellency,Émile Zola,779,656,0.842105263157895
+Emma,Jane Austen,1250,1060,0.848
+The Rush for the Spoil,Émile Zola,803,683,0.850560398505604
+To Be Read at Dusk,Charles Dickens,829,709,0.85524728588661
+Theresa Raquin,Émile Zola,792,681,0.859848484848485
+Doctor Pascal,Émile Zola,773,668,0.864165588615783
+The Ladies' Paradise,Émile Zola,790,683,0.864556962025316
+The Surgeon's Daughter,Walter Scott,777,675,0.868725868725869
+The Fat and the Thin,Émile Zola,797,700,0.878293601003764
+The Black Dwarf,Walter Scott,794,711,0.895465994962217
+The Joy of Life,Émile Zola,797,714,0.895859473023839
+L'Assommoir,Émile Zola,813,729,0.896678966789668
+The Fortunes of Nigel,Walter Scott,779,700,0.898587933247754
+His Masterpiece,Émile Zola,771,693,0.898832684824903
+"The Fair Maid of Perth; Or, St Valentine's Day",Walter Scott,777,700,0.900900900900901
+Soil,Émile Zola,809,732,0.904820766378245
+Quentin Durward,Walter Scott,793,720,0.907944514501892
+The Betrothed,Walter Scott,783,712,0.909323116219668
+Truth,Émile Zola,819,747,0.912087912087912
+Fruitfulness,Émile Zola,787,721,0.916137229987294
+Uncle's Dream; and The Permanent Husband,Fyodor Dostoyevsky,1194,1100,0.921273031825796
+Roughing It,Mark Twain,1187,1094,0.921651221566976
+The Three Cities Trilogy- Lourdes- Complete,Émile Zola,802,740,0.922693266832918
+White Nights and Other Stories,Fyodor Dostoyevsky,1184,1098,0.927364864864865
+St Ronan's Well,Walter Scott,802,745,0.928927680798005
+A Tramp Abroad,Mark Twain,1184,1101,0.929898648648649
+The Man That Corrupted Hadleyburg,Mark Twain,1186,1103,0.930016863406408
+The Three Cities Trilogy- Rome- Complete,Émile Zola,782,732,0.936061381074169
+David Copperfield,Charles Dickens,840,801,0.953571428571429
+Woodstock- or- the Cavalier,Walter Scott,794,759,0.955919395465995
+The Three Cities Trilogy- Paris- Complete,Émile Zola,777,747,0.961389961389961
+Bleak House,Charles Dickens,839,809,0.964243146603099
+Mansfield Park,Jane Austen,1250,1213,0.9704
+The Monastery,Walter Scott,790,769,0.973417721518987
+Sense and Sensibility,Jane Austen,1250,1218,0.9744
+Kenilworth,Walter Scott,785,768,0.978343949044586
+A Tale of Two Cities,Charles Dickens,817,800,0.979192166462668
+Redgauntlet- A Tale Of The Eighteenth Century,Walter Scott,789,775,0.982256020278834
+The Chimes,Charles Dickens,808,799,0.988861386138614
+Ivanhoe- A Romance,Walter Scott,800,793,0.99125
+The Bride of Lammermoor,Walter Scott,790,785,0.993670886075949
+Persuasion,Jane Austen,1250,1244,0.9952
+Our Mutual Friend,Charles Dickens,821,818,0.996345919610232
+The Magic Fishbone,Charles Dickens,829,828,0.998793727382388
+The Cricket on the Hearth- A Fairy Tale of Home,Charles Dickens,836,836,1
+Northanger Abbey,Jane Austen,1250,1250,1
+Pride and Prejudice,Jane Austen,1250,1250,1

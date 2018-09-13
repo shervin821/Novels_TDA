@@ -1,0 +1,4135 @@
+29	Scot
+36	Saunders
+139	James I.
+233	James
+436	David Ramsay
+483	James
+614	David Ramsay
+643	Robinson Crusoe
+660	Ramsay
+693	Napier
+825	Gentile
+1122	Johnson
+1274	David Ramsay
+1324	Jenkin Vincent
+1327	Frank Tunstall
+1330	Vincent
+1526	David Ramsay
+1587	Jin Vin
+1723	Vincent
+1983	David Ramsay
+2002	James I.
+2004	Jenkin
+2042	Francis Tunstall
+2117	Tunstall
+2206	Tunstall
+2252	Vincent
+2300	David Ramsay
+2309	Vincent
+2322	Tunstall
+2364	Tunstall
+2500	Tunstall
+2575	Jin Vin
+2596	Vincent
+2598	Tunstall
+2627	Cavaliero Cuddy
+2633	Tunstall
+2801	David Ramsay
+2930	David Ramsay
+2998	Jenkin
+3004	Widow Simmons
+3052	David Ramsay
+3064	Frank
+3114	Jin Vin
+3188	Ramsay
+3235	Ramsay
+3265	Dame Simmons
+3286	Ramsay
+3302	Dame Ursula
+3307	Benjamin Suddlechop
+3415	Margaret
+3471	Jenkin Vincent
+3596	Jenkin Vincent
+3680	David Ramsay
+3688	God
+3736	God
+3814	Jenkin
+3882	Majesty
+3917	Daniel
+3993	Tunstall
+4016	Frank
+4020	Vincent
+4178	Vin
+4217	Jenkin
+4328	Vin
+4386	Tunstall
+4416	Vincent
+4540	Dunstan
+4562	Adam
+4571	Frank
+4671	Frank
+4681	Tunstall
+4724	Frank
+4728	Vincent
+4765	Tunstall
+4823	Scot
+4908	Vincent
+4984	Fergus
+5033	Vincent
+5075	Galen
+5111	Jenkin
+5157	Vincent
+5161	Scot
+5265	Tunstall
+5300	Jenkin
+5361	Jenkin
+5382	Tunstall
+5447	Jenkin
+5475	David Ramsay
+5793	Napier
+5825	Davie
+6134	Ramsay
+6151	George
+6243	Jenkin
+6262	Francis Tunstall
+6329	George
+6348	Ramsay
+6404	Master George
+6585	Tunstall
+6663	Ramsay
+6685	Master George
+6703	Sam Porter
+6804	David Ramsay
+6951	Jenkin Vincent
+7038	Ramsay
+7067	Jenkin
+7102	Tunstall
+7132	Galen
+7163	George
+7202	Irving
+7229	Ramsay
+7263	Irving
+7291	Irving
+7351	Ramsay
+7525	Raredrench
+7531	Jenkin
+7533	Francis
+7714	Jenkin Vincent
+7862	Jin Vin
+7909	Jenkin
+7988	Master George
+8039	Vincent
+8136	Master George
+8144	David Ramsay
+8154	David
+8334	Vincent
+8350	Master George
+8392	John
+8417	Sawney
+8441	Richie Moniplies
+8491	Richie
+8508	George
+8580	Holbein
+8584	Master George
+8634	Richie
+8681	Master George
+8727	Richie
+8740	Scot
+8811	Master George
+8888	Master George
+8923	Richie
+8952	Richie
+8973	Guy
+9049	Master George
+9099	Richie Moniplies
+9211	George
+9249	Richie
+9463	George
+9490	Jenkin
+9558	Master George
+9616	George
+9656	Richie
+9731	George
+9736	Richie
+9770	Richie
+9870	Glenvarloch
+9874	George
+9891	Glenvarloch
+9963	Master George
+9996	Glenvarloch
+10066	Richie
+10147	John Christie
+10198	Nigel Olifaunt
+10217	Nigel
+10266	Richie Moniplies
+10297	Richie
+10339	Jenkin
+10388	Tunstall
+10417	Richie Moniplies
+10493	George
+10499	Jenkin
+10501	Frank
+10509	Richie Moniplies
+10597	Master George
+10601	David
+10660	Master George
+10754	Don
+10794	Davie
+10809	Davie
+10862	Davie
+10936	Master George
+11025	Marget
+11054	Ramsay
+11086	Ramsay
+11119	Sam Porter
+11123	Jenkin
+11126	Tunstall
+11132	Frank
+11214	George
+11245	Jenkin
+11249	Tunstall
+11286	Vincent
+11314	Tunstall
+11326	Jenkin
+11404	Frank
+11415	Tunstall
+11419	Scotch Janet
+11432	Janet
+11459	Marget
+11467	Tunstall
+11483	Jenkin
+11528	Tunstall
+11550	Frank
+11554	Jenkin
+11601	Tunstall
+11611	Marget
+11643	Jenkin
+11687	Francis
+11716	Bobadil
+11738	Matthew
+11753	Ben Jonson
+11761	Nigel Olifaunt
+11785	John Christie
+11832	Paul
+11912	John Christie
+12050	John Christie
+12054	Richie Moniplies
+12094	Dame Nelly
+12256	James
+12283	Dame Nelly
+12313	Olifaunt
+12360	Dame Nelly
+12416	John
+12431	Olifaunt
+12574	Nigel Olifaunt
+12582	Glenvarloch
+12606	Richard Moniplies
+12653	Richie
+12670	Nelly Christie
+12881	Sandie Christie
+12907	Barnaby
+12939	John
+13029	Olifaunt
+13138	Lady Trebleplumb
+13142	Thomas Trebleplumb
+13153	Awley Macauley
+13166	Doublefee
+13170	Doublefee
+13194	Pitchpost
+13253	John Christie
+13318	Olifaunt
+13351	Dame Nelly
+13431	Richie
+13510	Clement
+13542	Richie
+13566	Olifaunt
+13691	Dame Drinkwater
+13711	Dame Drinkwater
+13746	John Christie
+13789	John Christie
+13870	Dame Nelly
+13958	Richie
+13978	Dame Nelly
+14146	Elizabeth
+14208	John Taylor
+14411	Paul
+14505	Richie Moniplies
+14528	Dame Nelly
+14533	Moniplies
+14585	Richie
+14645	Nigel Olifaunt
+14694	Richard
+14708	Richard
+14903	Nigel
+14945	Nigel
+15073	Nigel
+15103	Nigel
+15107	Richie
+15200	Cuthbert
+15218	Cuthbert
+15406	Andrew Ferrara
+15416	Scot
+15480	Richie
+15484	Nigel
+15521	Moniplies
+15541	Richie
+15557	Richie
+15796	Richie
+15923	Richie
+15974	Laurie Linklater
+16008	Nigel
+16024	Richie
+16059	Laurie
+16172	Laurie
+16186	Richie
+16391	Frank Stewart
+16396	Earl of
+16398	Bothwell
+16409	Glenvarloch
+16472	Laurie
+16764	Gie
+16823	Laurie Linklater
+16964	Linklater
+16988	James
+17048	John Harrington
+17081	Richie
+17112	Richie
+17181	Laurie
+17216	Richie Moniplies
+17271	Richie
+17276	Nigel
+17462	Nigel
+17509	Richie
+17579	Paul
+17604	Richie
+17706	Nigel
+17757	Richie
+17814	Nigel
+17858	Richard
+17862	Nigel Olifaunt
+17989	Richie
+18008	Nigel
+18086	Richie
+18195	Richie
+18231	Olifaunt
+18249	Richie
+18311	Nigel
+18455	Nigel
+18530	Glenvarloch
+18597	Master George
+18631	George Heriot
+18754	Master Heriot
+18760	Nigel
+18834	Heriot
+18936	Nigel
+18957	Heriot
+18981	Nigel
+19083	Nigel
+19124	Heriot
+19137	Philip Massinger
+19156	Nigel
+19351	Nigel
+19381	Heriot
+19464	Heriot
+19516	Glenvarloch
+19597	Heriot
+19625	Nigel
+19681	Nigel
+19767	Heriot
+20057	Heriot
+20283	Master George
+20429	Moniplies
+20460	Olifaunt
+20463	Heriot
+20498	Moniplies
+20656	Richie
+20686	Master Heriot
+20853	John Knox
+20859	Richie
+20873	George
+20954	Bothwell
+21127	Nigel
+21260	Moniplies
+21331	Master George
+21385	Moniplies
+21419	Maister George
+21653	Heriot
+21753	Master George
+21838	Nigel Olifaunt
+21867	Master Heriot
+21967	Heriot
+22212	Nigel
+22324	Peregrine Peterson
+22435	Heriot
+22463	Peterson
+22515	Peterson
+22536	Glenvarloch
+22570	Nigel
+22727	Nigel Olifaunt
+22787	Heriot
+22840	Heriot
+23166	George Heriot
+23178	Master Heriot
+23184	Nigel
+23346	Master Heriot
+23351	Nigel
+23422	Master George
+23551	Nigel
+23589	Heriot
+23595	Nigel
+23798	Nigel Olifaunt
+23879	Paul
+24039	Master Heriot
+24046	Nigel
+24074	John Bunyan
+24149	Auld Reekie
+24174	Nigel
+24211	Dame Christie
+24308	George Heriot
+24462	Heriot
+24554	Scot
+24862	Skelton
+24870	Skelton Skeltonizeth
+24912	Dame Christie
+24967	James
+25157	George Heriot
+25186	Tunstall
+25284	David Ramsay
+25290	Margaret
+25332	Heriot
+25353	David
+25376	Theobald
+25454	David Ramsay
+25473	George
+25556	Heriot
+25565	David
+25623	Margaret
+25642	Glenvarloch
+25753	Nigel
+25762	Ramsay
+25816	David
+25866	David
+25895	George
+25936	Mungo Malagrowther
+25955	Davie
+25973	Ramsay
+25986	Heriot
+25993	Jenkin
+25997	Scots Janet
+26003	Margaret
+26046	Jenkin
+26087	George
+26129	George Heriot
+26148	Margaret
+26166	Master George
+26193	Jenkin
+26280	Jenkin
+26302	Tunstall
+26366	Jenkin
+26468	Davie
+26617	Andrew
+26678	Andrew
+26714	Gill
+26864	Andrew
+27004	Heriot
+27170	Martin
+27332	Johnson
+27381	Holbein
+27394	Moniplies
+27430	James
+27478	De Burgh
+27481	Henry VIII.
+27485	Queen Elizabeth
+27497	Inigo Jones
+27777	Heriot
+27862	James
+27874	Maxwell
+27902	Heriot
+27942	James
+28559	James
+28701	Heriot
+28707	Geordie
+28838	Heriot
+28846	Steenie
+28884	Geordie
+28962	Babie Charles
+28988	George Heriot
+29017	James
+29051	Maxwell
+29085	Heriot
+29118	Heriot
+29208	Maxwell
+29223	Heriot
+29260	Saul
+29344	Maxwell
+29419	Geordie
+29440	Benvenuto Cellini
+29446	Francis
+29464	Francis
+29475	Solomon
+29483	Francis
+29498	Cellini
+29513	Francis
+29542	David
+29555	Solomon
+29577	Solomon
+29585	Francis
+29603	Heriot
+29661	Solomon
+29693	George Heriot
+29709	Solomon
+29905	Heriot
+29967	Geordie
+30084	George Heriot
+30134	James
+30184	Steenie
+30186	Babie Charles
+30209	Geordie
+30219	Solomon
+30243	George Heriot
+30282	James
+30371	Heriot
+30568	Heriot
+30604	James
+30632	Geordie
+30675	Heriot
+30708	Geordie
+30765	-- Vera
+30769	George
+30904	James
+30921	Glenvarloch
+31013	Heriot
+31134	Heriot
+31217	Steenie
+31238	-- Maxwell
+31271	Geordie
+31405	Jock of
+31407	Milch
+31442	Heriot
+31503	Jock
+31505	Milch
+31533	Torthorwald
+31541	-- Cocksnails
+31747	Glenvarloch
+31756	Justus
+31782	Randal Olifaunt
+31785	Glenvarloch
+31808	Randal
+31820	Geordie
+31879	Ruthven
+31891	King James
+31893	-- ``
+31895	Od
+32086	Glenvarloch
+32140	Olifaunt
+32383	Geordie
+32394	Heriot
+32420	Donna
+32432	James
+32441	Dean Giles
+32491	Heriot
+32500	Geordie
+32536	Geordie
+32546	Glenvarloch
+32559	Heriot
+32583	George Heriot
+32637	Heriot
+32685	Levite
+32737	George
+32794	George Heriot
+32817	George Heriot
+32839	Nigel Olifaunt
+32894	George Heriot
+32921	Majesty
+32925	George Heriot
+32979	Nigel
+32988	George Heriot
+33047	Steenie
+33049	Babie Charles
+33064	George
+33098	Geordie
+33121	Jamie
+33220	Chamberlain
+33304	Nigel
+33473	David Ramsay
+33566	Marget
+33665	Mungo Malagrowther
+33697	Heriot
+33773	Mungo
+33795	James the
+33797	Sixth
+33815	George Buchanan
+33870	George Buchanan
+33884	James
+33894	Mungo Malagrowther
+33901	James
+33907	Patrick Young
+33950	Mungo
+34026	Peter Young
+34081	Mungo Malagrowther
+34187	Mungo
+34267	Rullion Rattray
+34292	Mungo
+34311	Lady Cockpen
+34493	Archie Armstrong
+34497	Mungo
+34539	Mungo
+34586	Mungo Malagrowther
+34614	James
+34648	Mungo
+34698	Paul
+34832	George Heriot
+34891	Mungo
+34923	Mungo Malagrowther
+34938	Heriot
+34961	Judith
+34994	David Ramsay
+35018	Paul
+35151	-- ``
+35153	Davie
+35161	Davie
+35221	Mungo
+35304	Mungo
+35329	Rullion
+35353	Heriot
+35363	David
+35429	Mungo
+35475	Margaret
+35492	Mungo Malagrowther
+35517	Margaret
+35601	Mungo
+35656	Mungo
+35660	George Heriot
+35705	Mungo
+35739	Master George
+35807	George Heriot
+35816	Mungo
+35827	Nigel
+35830	Mungo
+35858	Nigel Olifaunt
+35862	Glenvarloch
+35960	Nigel
+35970	Mungo
+36018	Mungo
+36187	Nigel
+36205	Mungo
+36297	Mungo
+36339	Nigel
+36376	Judith
+36380	Nigel
+36398	Margaret
+36492	Mungo
+36516	Mungo
+36599	Judith
+36645	Mungo
+36676	Master Heriot
+36699	Mungo
+36726	George
+36754	Nigel
+36802	Nigel
+36818	Judith
+36842	George
+36970	Nigel
+37000	Mungo Malagrowther
+37119	Master George
+37133	Knighton
+37154	Duke
+37166	Heriot
+37199	Mungo
+37240	Knighton
+37304	George Heriot
+37335	Mungo
+37338	Nigel
+37370	Heriot
+37398	Roberts
+37417	Knighton
+37420	Heriot
+37426	Knighton
+37480	George Heriot
+37496	Roberts
+37500	Mungo
+37539	Mungo
+37557	George Heriot
+37585	Knighton
+37689	Nigel
+37734	Ramsay
+37783	George Villiers
+37792	Lambe
+37843	Ramsay
+37903	Eichstadius
+37938	Heriot
+37997	George
+38101	Heriot
+38156	Margaret
+38208	Judith
+38274	Mungo
+38280	Heriot
+38309	George
+38327	Roberts
+38405	Master Roberts
+38425	Roberts
+38429	Mungo
+38441	Mungo
+38470	Mungo
+38543	Andrew
+38560	Daniel Driver
+38578	Mungo
+38642	Mungo
+38705	Heriot
+38713	Glenvarloch
+38789	Windsor
+38840	Nigel
+38941	Heriot
+38950	Nigel
+39053	Judith
+39081	Judith
+39327	Nigel
+39365	Judith
+39389	Nigel
+39492	Nigel
+39546	Nigel
+39657	Nigel
+39680	Heriot
+39716	Judith
+39749	Nigel
+39806	Nigel
+39937	Theobald
+40064	Heriot
+40175	Nigel
+40355	George Heriot
+40391	Anthony Hamilton
+40406	James I.
+40469	Moniplies
+40615	Nigel
+40658	Moniplies
+40759	Moniplies
+40778	Jenkin
+40813	Elsie Marley
+40832	John Bunyan
+40852	Elsie Marley
+40867	Elsie Marley
+40945	Jen Win
+40995	Nigel
+41039	Heriot
+41161	Maister Heriot
+41356	Maister George
+41358	Heriot
+41443	Moniplies
+41497	Heriot
+41518	Nigel
+41575	Jenkin
+41666	Glenvarloch
+41738	Nigel
+41866	Nigel Olifaunt
+41912	John Knox
+41954	Rollock
+41958	David Black
+42044	Sara
+42049	Raguel
+42194	Maister Heriot
+42318	Nigel Olifaunt
+42391	Nigel
+42478	Nigel
+42520	Moniplies
+42603	Glenvarloch
+42749	Nigel Olifaunt
+42856	John Christie
+42900	Harry
+42948	Martha Drink
+43038	Dame Ursula
+43040	Suddlechop
+43044	Benjamin Suddlechop
+43181	Dame Ursula
+43183	Suddlechop
+43367	Turner
+43479	Dame Ursula
+43565	Dame Ursley
+43676	Dame Ursley
+43736	Dame Ursley
+43819	Dame Ursley
+43908	Dame Ursley
+43955	Benjamin
+43964	Ursula
+43983	Benjamin
+44012	Nigel Olifaunt
+44024	Ursula Suddlechop
+44147	Dame Ursula
+44221	Benjamin
+44234	Dame Ursley
+44356	Benjamin
+44365	Ramsay
+44381	Dame Ursley
+44412	Jenny
+44482	Dame Suddlechop
+44510	Dame Ursley
+44524	Jenny
+44532	Dame Ursley
+44566	Jenny
+44596	Mother Redcap
+44669	Dame Ursley
+44703	Mother Redcap
+44706	Janet
+44733	Margaret
+44774	Ramsay
+44786	Jenny
+44850	Suddlechop
+44864	Dame Ursley
+44954	Margaret Ramsay
+44966	Jenny
+44979	Jenny
+45023	Sandy MacGivan
+45041	Janet
+45045	Dame Ursley
+45078	Jenny
+45092	Dame Suddlechop
+45105	Jenny
+45138	Marget
+45153	Jenny
+45181	Jenny
+45210	Wilsa
+45300	Benjamin
+45379	Dame Ursley
+45475	Marget
+45622	George Heriot
+45680	Dame Ursula
+45695	Lady Cristabelle
+45764	Margaret
+45864	Dame Ursula
+45888	Margaret
+45914	Wilsa
+45918	Jenny
+45922	Dame Ursula
+45974	Margaret
+46004	Dame Ursula
+46067	Margaret
+46094	Dame Suddlechop
+46145	Ursula
+46180	Jenny
+46196	Margaret
+46211	Mother Redcap
+46223	Dame Ursula
+46249	Jenny
+46307	Dame Ursula
+46326	Mother Ursula
+46416	Ware
+46439	Dame Suddlechop
+46444	Margaret
+46474	Dame Ursula
+46516	Ursula
+46632	Margaret
+46670	Janet
+46677	Dame Ursula
+46702	Janet
+46775	Dame Ursula
+46850	Margaret
+46875	Dame Ursula
+46931	Margaret
+46969	Dame Ursula
+47008	Dame Ursula
+47069	Margaret
+47080	Ursula
+47101	Ursula
+47187	Margaret
+47275	Margaret
+47286	Dame Ursula
+47303	Jenkin Vincent
+47312	Jenkin Vincent
+47369	Jin Vin
+47421	Margaret
+47437	Dame Ursula
+47447	Frank Tunstall
+47455	Jin Vin
+47494	Margaret
+47510	Dame Ursula
+47530	Dame Ursula
+47559	Margaret
+47627	Margaret
+47650	Mungo Malagrowther
+47666	Benjamin
+47718	Pancras
+47760	Margaret
+47789	Dame Ursula
+47803	Margaret
+47871	Lucifer
+47927	Ursula
+47937	Margaret
+47977	Margaret
+48015	Margaret
+48061	Ramsay
+48085	Allan Ramsay
+48123	Dame Ursula
+48223	Glenvarloch
+48229	Nigel Olifaunt
+48234	Margaret
+48256	Dame Suddlechop
+48348	Glenvarloch
+48359	Margaret
+48425	Dame Ursula
+48521	Margaret
+48573	Margaret
+48577	Ursula
+48612	Turner
+48636	Overbury
+48752	Margaret
+48805	Ursula
+48849	Margaret
+48865	Dame Ursula
+48901	Margaret
+48918	Ursula
+49012	Margaret Ramsay
+49135	Benjamin
+49156	Margaret
+49204	Dame Ursula
+49259	Margaret
+49277	Margaret
+49304	Christie
+49313	Paul
+49340	Margaret
+49418	Marguerite
+49464	Margaret Ramsay
+49813	Hubbard
+49826	George Heriot
+49989	George Heriot
+50021	Glenvarloch
+50043	Heriot
+50074	Nigel
+50156	Richie Moniplies
+50188	Heriot
+50331	Nigel
+50351	Glenvarloch
+50428	Nigel
+50492	Glenvarloch
+50679	Heriot
+50811	Glenvarloch
+50883	Nigel
+50886	Mungo Malagrowther
+50923	Glenvarloch
+50967	George Heriot
+51051	Glenvarloch
+51064	Heriot
+51147	Nigel Olifaunt
+51150	Heriot
+51159	Mungo
+51172	Glenvarloch
+51199	Mungo
+51243	Maxwell
+51299	Heriot
+51306	Mungo Malagrowther
+51404	Mungo
+51431	Mungo
+51496	Maxwell
+51552	Maister Maxwell
+51596	James Stitchell
+51606	Merlin
+51608	Wynd
+51641	Maxwell
+51708	Mungo
+51876	Nigel
+51893	Maxwell
+51951	George Heriot
+51956	Nigel
+51968	Heriot
+51985	Maxwell
+52049	George Heriot
+52057	Nigel
+52072	Maxwell
+52085	Mungo Malagrowther
+52095	Glenvarloch
+52145	Mungo
+52174	Ochtred Olifaunt
+52192	Nigel
+52210	Maxwell
+52282	Maxwell
+52398	Douglas
+52455	Huntinglen
+52493	James
+52721	Huntinglen
+52724	Nigel
+52774	Huntinglen
+52827	Huntinglen
+52987	Auld John
+52989	Anderson
+53031	Huntinglen
+53081	BEATI PACIFICI
+53118	James
+53212	Glenvarloch
+53240	Nigel
+53385	James
+53418	Nigel
+53493	Nigel
+53563	Nigel
+53571	Vorstius
+53597	James
+53675	Glenvarloch
+53796	James
+53834	Belle
+54116	Nigel
+54196	James
+54363	Glenvarloch
+54437	-- Weel
+54482	Andrews
+54501	Incumbite Remis
+54503	Fortiter
+54605	Huntinglen
+54628	Nigel
+54655	Huntinglen
+54658	James
+54707	James
+54728	Ruthven
+54912	Theobald
+54945	Huntinglen
+54969	Glenvarloch
+55048	Huntinglen
+55097	George Heriot
+55114	Steenie
+55116	Babie Charles
+55218	Rex
+55254	Huntinglen
+55292	Huntinglen
+55340	Huntinglen
+55407	Huntinglen
+55411	Steenie
+55432	Huntinglen
+55486	Huntinglen
+55566	Huntinglen
+55599	Steenie
+55619	Babie Charles
+55622	Steenie
+55785	Huntinglen
+55807	Naboth
+55809	Ahab
+55845	James
+56039	Huntinglen
+56062	Ahab
+56066	Naboth
+56117	Huntinglen
+56203	Steenie
+56205	Babie Charles
+56218	Huntinglen
+56241	James
+56269	Steenie
+56299	Stephen
+56352	James
+56462	Glenvarloch
+56560	Heriot
+56572	Huntinglen
+56825	Huntinglen
+56885	Huntinglen
+56890	Heriot
+56959	Master Heriot
+57073	Heriot
+57136	Huntinglen
+57151	Nigel Olifaunt
+57155	Glenvarloch
+57173	Glenvarloch
+57189	George Villiers
+57214	Glenvarloch
+57308	Nigel
+57328	Huntinglen
+57707	George Heriot
+57745	Glenvarloch
+57761	David Ramsay
+57795	Huntinglen
+57867	Heriot
+57934	Heriot
+58003	Nigel
+58039	Huntinglen
+58045	Heriot
+58109	Huntinglen
+58134	Glenvarloch
+58139	Heriot
+58247	Heriot
+58266	Huntinglen
+58307	Glenvarloch
+58380	Huntinglen
+58410	Grace of
+58412	Buckingham
+58440	Master George
+58454	Glenvarloch
+58527	Glenvarloch
+58608	John Skene
+58635	Heriot
+58753	Nigel
+58804	Huntinglen
+58861	Dalgarno
+58864	Glenvarloch
+58951	Dalgarno
+58962	Heriot
+58982	Huntinglen
+58997	Nigel
+59095	Heriot
+59185	Dalgarno
+59234	Tay
+59414	Dalgarno
+59431	Heriot
+59462	Dalgarno
+59472	Duke of
+59474	Buckingham
+59553	Dalgarno
+59591	Dalgarno
+59616	Nigel
+59773	Glenvarloch
+59789	Nigel
+59795	Dalgarno
+59853	Dalgarno
+59899	Nigel Olifaunt
+60110	Dalgarno
+60167	Huntinglen
+60274	John Cook
+60303	George Heriot
+60397	Master Heriot
+60446	Huntinglen
+60526	Dalgarno
+60558	Glenvarloch
+60582	Nigel
+60607	Dalgarno
+60700	Nigel
+60710	George Heriot
+60731	Glenvarloch
+60769	Master Heriot
+60871	Heriot
+60908	Huntinglen
+60927	George Heriot
+60939	George Heriot
+61134	Heriot
+61166	Huntinglen
+61216	Glenvarloch
+61229	Heriot
+61242	Andrew
+61372	Dalgarno
+61403	Dalgarno
+61410	Nigel
+61571	Noah
+61624	Glenvarloch
+61634	Heriot
+61706	Dalgarno
+61748	Nigel
+61798	Dalgarno
+61823	Dalgarno
+61839	Glenvarloch
+61865	Nigel
+61909	Dalgarno
+61936	Glenvarloch
+62103	Leyden
+62221	-- Swouns
+62283	Nigel
+62334	Nigel
+62438	Dalgarno
+62474	Glenvarloch
+62503	Nigel
+62518	Dalgarno
+62580	Dalgarno
+62697	Nigel
+62748	Dalgarno
+62875	Glenvarloch
+62917	Dalgarno
+63027	Lutin
+63041	Douglas
+63060	James
+63075	James Douglas
+63078	Earl of
+63080	Morton
+63356	Paul
+63361	Nigel
+63474	Mungo Malagrowther
+63486	Glenvarloch
+63524	Althea
+63592	Mungo
+63668	Mungo
+63690	Dalgarno
+63721	Dalgarno
+63779	Mungo
+63863	Mungo
+63886	Dalgarno
+63909	Mungo
+63993	George Heriot
+64071	Huntinglen
+64127	Dalgarno
+64140	Dalgarno
+64152	Glenvarloch
+64246	Murray
+64254	Giles
+64295	Murray
+64298	Giles
+64368	Glenvarloch
+64399	George Heriot
+64507	Glenvarloch
+64511	Paul
+64534	Richie
+64553	Huntinglen
+64567	Dame Nelly
+64583	Richie
+64666	Ben Jonson
+64675	Nigel
+64706	Dame Nelly
+64771	Dalgarno
+64802	Nigel
+64880	Dalgarno
+64939	Glenvarloch
+64956	Dalgarno
+65013	Glenvarloch
+65023	Nigel
+65063	Dame Nelly
+65088	Dalgarno
+65147	Dalgarno
+65180	Glenvarloch
+65182	Dame Nelly
+65200	John
+65233	Paul
+65295	Dalgarno
+65407	Glenvarloch
+65458	North
+65513	Glenvarloch
+65545	Dalgarno
+65594	Dalgarno
+65631	Nigel
+65636	Glenvarloch
+65643	Nigel
+65645	Malcolm
+65690	Duke of
+65692	Buckingham
+65710	Dalgarno
+65721	Glenvarloch
+65847	Glenvarloch
+65914	Dalgarno
+66001	Glenvarloch
+66081	Nigel
+66114	Glenvarloch
+66119	Lutin
+66133	Dalgarno
+66183	Nigel
+66211	Dalgarno
+66246	Glenvarloch
+66272	Dalgarno
+66288	Lutin
+66354	Nigel
+66390	Nigel
+66429	Dalgarno
+66555	Jacky Goodchild
+66663	Dalgarno
+66765	Dalgarno
+66839	Nigel
+66863	Nigel
+66867	Dalgarno
+66908	Nigel
+66928	Lutin
+66930	Moniplies
+66953	Dalgarno
+66994	Dalgarno
+67104	Dalgarno
+67116	Nigel
+67182	Dalgarno
+67207	Nigel
+67253	Glenvarloch
+67285	Dalgarno
+67325	Nigel
+67384	Dalgarno
+67416	Glenvarloch
+67427	Huntinglen
+67435	Dalgarno
+67514	Earl
+67527	Henry Howard
+67553	Dalgarno
+67606	Nigel
+67632	Dalgarno
+67706	Nigel
+67900	Dalgarno
+67953	Don
+67991	Richie Moniplies
+68032	Dalgarno
+68100	Lutin
+68138	Nigel
+68146	Glenvarloch
+68170	Nigel
+68180	Richie
+68205	Auld Reekie
+68294	Richie
+68318	Dalgarno
+68351	Richie
+68370	Lutin
+68399	Richie
+68419	Malcolm
+68423	Nigel
+68458	Dalgarno
+68538	Nigel
+68558	Dalgarno
+68747	Glenvarloch
+68791	Dalgarno
+68808	Monsieur le
+68810	Chevalier de
+68812	Beaujeu
+68847	Lully
+68974	Beaujeu
+69006	Nigel
+69055	Beaujeu
+69101	Nigel
+69130	Dalgarno
+69248	Bacchus
+69264	Beaujeu
+69301	Glenvarloch
+69324	Dalgarno
+69345	Tom Tally
+69356	Quinze le
+69358	Va
+69405	Malcolm
+69451	Dalgarno
+69461	Malcolm
+69497	Dalgarno
+69728	Nigel
+69800	Dalgarno
+69913	Southron
+69966	Nigel
+69998	Glenvarloch
+70017	Dalgarno
+70109	Dalgarno
+70146	Monsieur de
+70148	Beaujeu
+70257	James
+70327	Monsieur le
+70329	Chevalier
+70339	Priest de
+70341	Beaujeu
+70348	Gascon
+70472	Monsieur le
+70474	Chevalier
+70512	Dalgarno
+70521	Monsieur de
+70523	Beaujeu
+70558	Gascon
+70598	Nigel
+70621	Elizabeth
+70689	Dalgarno
+70803	Nigel
+70818	Dalgarno
+70905	Chevalier
+70947	Dalgarno
+70964	Milor
+70978	Chevalier
+70987	Pardieu
+71014	Chevalier
+71019	Dalgarno
+71023	Monsieur le
+71025	Chevalier
+71038	Glenvarloch
+71090	Monsieur de
+71092	la Motte
+71102	Milor Kenfarloque
+71163	Glenvarloch
+71168	Dalgarno
+71172	Chevalier
+71221	Chevalier
+71261	Chevalier
+71366	Dalgarno
+71426	Glenvarloch
+71479	Dalgarno
+71527	Chevalier
+71564	Chevalier
+71678	Nigel
+71811	Nigel
+71847	Milor
+71925	Marechal Strozzi
+71988	Despardieux
+72171	Leith
+72223	Leith
+72328	Chevalier
+72331	Monsieur
+72362	Monseigneur de
+72364	Strozzi
+72406	Monsieur
+72457	Chevalier
+72478	Saar
+72492	Henri Quatre
+72533	Dalgarno
+72626	Dalgarno
+72960	Paul
+73351	Nigel
+73356	Dalgarno
+73407	Chevalier
+73465	Nigel
+73637	Dalgarno
+73808	Dalgarno
+73950	Dalgarno
+73998	Chevalier
+74052	Dalgarno
+74060	Monsieur le
+74062	Chevalier
+74105	Chevalier
+74113	-- Begar
+74361	Dalgarno
+74438	Burbage
+74442	Shakespeare
+74445	Richard
+74467	Glenvarloch
+74522	Glenvarloch
+74572	Dalgarno
+74577	George Buchanan
+74686	Chevalier
+74693	Dalgarno
+74717	Nigel
+74735	Dalgarno
+74864	Nigel
+74873	Leyden
+74990	Nigel
+75049	Sancte Nigelle
+75196	Will Shakespeare
+75287	-- Goblin
+75320	Lutin
+75354	Dalgarno
+75426	Nigel Olifaunt
+75524	Burbage
+75529	Richard
+75531	Garrick
+75568	Glenvarloch
+75596	Richard
+75704	Ben Jonson
+75878	Nigel Olifaunt
+75901	Dalgarno
+75949	Glenvarloch
+76012	Dalgarno
+76058	Waterman
+76124	Nigel
+76199	Dalgarno
+76250	Nash
+76467	Virgil
+76469	Horace
+76477	Nigel
+76493	Virgil
+76495	Horace
+76532	Ben
+76720	Glenvarloch
+76956	Glenvarloch
+76997	Lady Blackchester
+77057	Buckingham
+77111	Lady Blackchester
+77182	Lady Blackchester
+77211	Nigel Olifaunt
+77344	Lady Blackchester
+77698	Nigel
+77776	Glenvarloch
+77916	Glenvarloch
+77988	Nigel
+78055	Huntinglen
+78113	Dalgarno
+78170	Nigel
+78206	Malcom
+78233	George Villiers
+78266	Nigel
+78303	Glenvarloch
+78308	Dalgarno
+78383	Malcolm
+78439	Nigel
+78446	Dalgarno
+78501	Malcolm
+78567	Dalgarno
+78660	Ruthven
+78938	Tay
+78945	Campsie Linn
+78961	Dalgarno
+79032	Dalgarno
+79038	Nigel
+79071	Glenvarloch
+79164	Huntinglen
+79235	Glenvarloch
+79262	Dalgarno
+79356	Nigel
+79417	Nigel
+79497	Nigel
+79527	Dalgarno
+79560	Beati Pacifici
+79570	Glenvarloch
+79621	Lady Blackchester
+79661	Dalgarno
+79697	Nigel
+79707	Dalgarno
+79769	Dalgarno
+79782	Nigel
+79798	George Heriot
+79910	Glenvarloch
+79932	Master Heriot
+79966	Heriot
+80065	Glenvarloch
+80113	Paul
+80168	John Christie
+80204	Glenvarloch
+80230	Dame Nelly
+80392	Nigel
+80476	Richie Moniplies
+80492	John Christie
+80512	John
+80570	Arthur
+80685	Richie Moniplies
+80713	Nigel
+80739	Nigel
+80789	Richie
+80828	Richie
+80919	Richie
+80950	Nigel
+80959	Richie
+80976	Richie
+81026	Nigel
+81038	Richie
+81051	Richie
+81082	Nigel
+81106	Richie
+81206	Richie
+81280	Nigel
+81349	Richie
+81405	Nigel
+81429	Richie Moniplies
+81551	Nigel
+81586	Richie
+81647	Glenvarloch
+81904	Nigel
+82059	Nigel
+82099	Richie
+82237	Glenvarloch
+82268	Richie
+82319	Nigel
+82350	Richie
+82492	Richie
+82549	Richie
+82567	Richie
+82655	Nigel
+82682	Richie
+82708	Monsieur Lutin
+82719	Gibbet
+82833	Nigel
+82892	Richie
+83002	Goblin
+83066	Dalgarno
+83081	Lutin
+83114	Nigel
+83135	Richie
+83151	Lutin
+83313	Richie
+83334	Nigel
+83375	Richie
+83420	Glenvarloch
+83433	Richie
+83554	Nigel
+83609	Nigel
+83689	Nigel
+83722	Richie
+83778	Richie
+83941	Nigel
+83968	Richie
+84076	Solomon
+84154	Glenvarloch
+84165	Richie
+84198	Mickle
+84204	Richie
+84317	Nigel
+84380	Richie Moniplies
+84434	Glenvarloch
+84472	Nigel
+84495	Richie
+84562	Nigel
+84643	Richie
+84712	Richie
+84795	Nigel
+84858	Richie Moniplies
+84879	Glenvarloch
+84954	Dalgarno
+85042	Glenvarloch
+85112	Glenvarloch
+85263	James
+85307	James
+85322	Charles II.
+85359	Glenvarloch
+85379	Richie Moniplies
+85505	Glenvarloch
+85539	Mungo Malagrowther
+85569	Nigel
+85653	Glenvarloch
+85683	Mungo
+85707	Nigel
+85797	Glenvarloch
+85837	Nigel
+85854	Mungo
+85951	Glenvarloch
+86138	Mungo
+86141	Nigel
+86175	Nigel
+86208	Mungo Malagrowther
+86240	Mungo
+86363	Nebuchadnezzar
+86427	Mungo
+86431	Nigel
+86452	Mungo
+86590	Nigel
+86670	Mungo
+86699	Mungo
+86711	Nigel
+86770	Dame Fortune
+86810	Mungo Malagrowther
+86816	Glenvarloch
+86854	Mungo
+86883	Nigel
+86966	Mungo
+86976	Nigel
+87205	Glenvarloch
+87271	Mungo
+87307	Rullion Rattray
+87319	Lady Cockpen
+87354	Beaujeu
+87408	Glenvarloch
+87456	Mungo
+87513	Glenvarloch
+87663	Mungo
+87667	Nigel
+87684	Mungo
+87728	Mungo
+87733	Glenvarloch
+87760	Mungo
+87822	Huntinglen
+87861	Dalgarno
+87901	George Heriot
+87957	Glenvarloch
+87972	Mungo
+87986	Dalgarno
+88060	Glenvarlochides
+88071	Dalgarno
+88133	Nigel
+88151	Mungo Malagrowther
+88200	Simmie
+88232	Nigel
+88285	Mungo
+88294	Nigel
+88339	Mungo
+88401	Glenvarloch
+88406	Dalgarno
+88423	Mungo
+88515	Mungo
+88520	Dalgarno
+88568	Glenvarloch
+88584	Mungo
+88666	Mungo
+88776	Glenvarloch
+88788	Mungo
+88850	Mungo
+88867	Glenvarloch
+88998	Henri Quatre
+89157	King James
+89194	Prince
+89231	James
+89233	Charles
+89280	Charles
+89299	James
+89431	Felton
+89455	Glenvarloch
+89458	Mungo
+89484	Nigel
+89490	Dalgarno
+89524	Duke of
+89526	Buckingham
+89537	Nigel
+89572	Buckingham
+89583	Dalgarno
+89605	Nigel
+89609	Malcolm
+89626	Glenvarloch
+89629	Mungo
+89665	Mungo
+89697	Mungo
+89760	Nigel
+89775	Mungo
+89795	Mungo
+89868	Nigel
+89894	Mungo
+89905	Mungo
+89983	Glenvarloch
+90129	Mungo Malagrowther
+90242	Mungo
+90246	Nigel
+90305	Prince
+90323	Mungo
+90337	Mungo
+90379	Nigel
+90418	Mungo
+90498	Glenvarloch
+90568	Jouk
+90695	Mungo
+90729	Glenvarloch
+90740	Mungo
+90776	Prince
+90814	Mungo
+90962	Nigel
+91074	Charles
+91111	Glenvarloch
+91115	Dalgarno
+91145	Glenvarloch
+91202	Nigel
+91287	Glenvarloch
+91316	Dalgarno
+91423	Nigel
+91426	Dalgarno
+91468	Huntinglen
+91488	Glenvarloch
+91510	Nigel
+91553	Dalgarno
+91584	Dalgarno
+91589	Glenvarloch
+91598	Nigel
+91603	Dalgarno
+91616	Nigel
+91670	Glenvarloch
+91687	Dalgarno
+91704	Nigel
+91773	Glenvarloch
+91790	Dalgarno
+91814	Dalgarno
+91823	Ewes Haldimund
+91928	Glenvarloch
+91973	Ewes Haldimund
+92003	Nigel
+92043	Dalgarno
+92060	Ewes Haldimund
+92115	Glenvarloch
+92218	Glenvarloch
+92223	Ewes Haldimund
+92233	Dalgarno
+92272	Glenvarloch
+92295	Dalgarno
+92316	Pylades
+92318	Orestes
+92324	Damon
+92330	Pirithoiis
+92550	Glenvarloch
+92569	Dalgarno
+92620	Dalgarno
+92650	Dalgarno
+92673	Glenvarloch
+92693	Dalgarno
+92763	Dalgarno
+92792	Ewes Haldimund
+92806	Glenvarloch
+92835	Glenvarloch
+92919	Glenvarloch
+92936	James
+92962	Nigel
+93021	John Bull
+93054	Nigel
+93103	Glenvarloch
+93219	Dalgarno
+93543	Glenvarloch
+93609	Nigel
+93626	Dalgarno
+93665	Dalgarno
+93770	Glenvarloch
+93898	Nigel
+93977	Reginald Lowestoffe
+94109	Barratter
+94122	Reginald Lowes-toffe
+94154	Glenvarloch
+94171	Chevalier
+94208	Glenvarloch
+94223	Templar
+94258	Nigel
+94323	Lowestoffe
+94416	Master Lowestoffe
+94433	Glenvarloch
+94464	Lowestoffe
+94560	Nigel
+94572	Lowestoffe
+94672	Glenvarloch
+94767	Nigel
+94783	Dalgarno
+94885	Dalgarno
+94978	Lowestoffe
+94984	Glenvarloch
+95202	Dalgarno
+95214	Glenvarloch
+95220	Dalgarno
+95245	Templar
+95330	Dalgarno
+95347	Glenvarloch
+95420	Dalgarno
+95660	Lowestoffe
+95670	Glenvarloch
+95710	Nigel
+95741	Nigel
+95777	Master Lowestoffe
+95898	Glenvarloch
+96071	Lowestoffe
+96104	Lowestoffe
+96151	-- Jump
+96154	Jim
+96376	Glenvarloch
+96614	Reginald Lowestoffe
+96743	Lowestoffe
+96753	Nigel
+96799	James
+96850	Dalgarno
+96951	Jem
+97002	Duke Hildebrod
+97045	Duke Hildebrod
+97074	Duke Hildebrod
+97081	Glenvarloch
+97119	Duke Hildebrod
+97156	Master Lowestoffe
+97162	Glenvarloch
+97197	Lowestoffe
+97315	Nigel
+97482	Alsatia
+97536	Duke Jacob
+97538	Hildebrod
+97563	Glenvarloch
+97712	Duke Hildebrod
+97777	Glenvarloch
+97796	Lowestoffe
+97821	Duke Ilildebrod
+97950	Glenvarloch
+97996	Lowestoffe
+98234	Eleanor
+98288	Templar
+98335	Borgia
+98353	Glenvarloch
+98417	Nigel
+98472	Reginald Lowestoffe
+98505	Glenvarloch
+98809	Venus
+98923	Nicotia
+99159	Nigel
+99202	Reginald Lowestoffe
+99247	Grasso
+99307	Duke Hildebrod
+99316	Grahame
+99320	Nigel
+99359	Grahame
+99368	Nigel
+99440	Nigel
+99495	Duke Hildebrod
+99704	Simon the
+99706	King
+99711	Simon the
+99713	King
+99731	Duke Hildebrod
+99929	Nigel
+100021	Daniel
+100107	Nigel
+100124	Jacob Duke
+100126	Hildebrod
+100198	Duke Hildebrod
+100426	Reginald Lowestoffe
+100521	Nigel Grahame
+100578	Duke
+100671	Nigel
+100711	Nigel Grahame
+100776	Duke Hildebrod
+100797	Nigel
+100833	Dryasdust
+100846	Duke Hildebrod
+100861	Ritson
+100949	Nigel
+101019	Scot
+101062	Duke Hildebrod
+101069	Scot
+101146	Sir Duke
+101177	Duke
+101393	Duke Hildebrod
+101422	Muns
+101426	Tityretu
+101629	Duke
+101738	Lowestoffe
+101781	Glenvarloch
+102078	George-a-Green
+102161	Doge
+102242	Nigel
+102284	Duke Hildebrod
+102330	Harman Beck
+102514	Harman Beck
+102607	Hector
+102616	Nigel
+102629	Blowselinda
+102632	Bonstrops
+102830	Nigel
+102834	Trapbois
+102848	Glenvarloch
+102897	Templar
+102936	Glenvarloch
+103002	Lowestoffe
+103051	Templar
+103117	Paul
+103128	Lowestoffe
+103189	Glenvarloch
+103204	Nigel
+103257	Glenvarloch
+103269	Lowestoffe
+103312	Lowestoffe
+103353	Glenvarloch
+103401	Lowestoffe
+103460	Duke Hildebrod
+103579	Nigel
+103639	Golden Trapbois
+103648	Ramsay
+103719	Janet
+103753	Judith
+103804	George Heriot
+103810	Margaret
+103824	Judith
+103865	Lady Hermione
+103894	Judith
+103905	Hermione
+103910	Judith
+103916	Hermione
+103976	Margaret
+104027	Judith
+104063	Hermione
+104113	Margaret
+104139	Judith
+104172	Judith
+104260	Marget
+104291	Margaret
+104316	Judith
+104348	Judith
+104366	Hermione
+104373	George Heriot
+104399	Richie Moniplies
+104429	Lady Hermione
+104445	Jenkin Vincent
+104491	Richie Moniplies
+104525	Richie
+104562	Vincent
+104589	Hermione
+104604	George Heriot
+104653	Henry VIII.
+104684	Foljambe
+104690	Roque
+104710	Roque
+104724	Foljambe
+104777	Lady Foljambe
+104786	Henry
+104855	Roque
+104867	Lady Foljambe
+104914	Elizabeth
+104926	Lady Foljambe
+104955	Baal
+105013	Paul Crambagge
+105097	George Heriot
+105106	Paul
+105125	Roque
+105155	Heriot
+105263	Judith
+105275	George
+105361	Monna Paula
+105366	Master Heriot
+105372	Mademoiselle Pauline
+105465	Lady Hermione
+105479	Mademoiselle Pauline
+105524	Mademoiselle Pauline
+105536	Judith the
+105538	Lady Hermione
+105626	George
+105650	Hermione
+105704	Heriot
+105750	Lady Foljambe
+105777	George
+105834	Heriot
+105862	George Heriot
+105872	Mademoiselle Pauline
+105956	Heriot
+105980	Richie Moniplies
+105999	David Ramsay
+106026	Lady Hermione
+106035	George Heriot
+106044	David Ramsay
+106050	Margaret
+106065	Hermione
+106237	Margaret
+106391	Lady Hermione
+106452	Margaret Ramsay
+106478	Margaret
+106513	Dame Ursula
+106552	Heriot
+106589	Margaret
+106662	Hermione
+106710	Margaret
+106717	Pauline
+106774	Pauline
+106783	Margaret
+106813	Lady Hermione
+106858	Margaret
+106892	Lady Hermione
+106947	Margaret
+106994	Madame Hermione
+107044	Margaret
+107136	Hermione
+107162	Margaret
+107177	Monna Paula
+107230	Hermione
+107361	Margaret
+107409	Lady Hermione
+107522	Margaret
+107560	Margaret
+107570	Hermione
+107583	Margaret
+107613	Monna Paula
+107635	Monna
+107681	Monna Paula
+107701	Monna Paula
+107709	Margaret
+107774	Monna
+107792	Margaret
+107811	Monna Paula
+107835	Hermione
+107874	Monna Paula
+107901	Margaret
+108022	Margaret
+108098	Lady Hermione
+108114	Margaret
+108196	Margaret
+108380	Heriot
+108435	Margaret
+108457	Margaret
+108491	Margaret
+108523	Margaret
+108578	Hermione
+108587	Margaret
+108600	Monna Paula
+108661	Margaret
+108728	Margaret
+108853	Vincent
+108915	Margaret
+109003	Margaret
+109023	Margaret
+109095	Margaret
+109200	Glenvarloch
+109206	Margaret
+109262	Margaret
+109374	Lady Hermione
+109401	Margaret
+109449	Margaret
+109515	Dame Ursley
+109542	Dame Ursley
+109550	Mistress Turner
+109566	Lady Hermione
+109608	Margaret
+109695	Dame Ursley
+109702	Margaret
+110028	Margaret
+110202	Dalgarno
+110208	Monna Paula
+110211	Monna Paula
+110217	Lady Hermione
+110280	Monna Paula
+110304	Dalgarno
+110308	Margaret
+110327	Glenvarloch
+110415	Dalgarno
+110480	Margaret
+110551	Dalgarno
+110624	Margaret
+110666	Margaret
+110786	Hermione
+110791	Glenvarloch
+110950	Margaret
+111047	Lady Hermione
+111065	Margaret
+111270	Lady Hermione
+111286	Margaret
+111361	Margaret
+111431	Margaret Ramsay
+111486	Dalgarno
+111510	Margaret
+111642	Lady Hermione
+111699	Margaret
+111750	Margaret
+111762	Glenvarloch
+111774	Margaret
+111830	Monna Paula
+111887	Margaret
+111890	Monna Paula
+111895	Hermione
+111925	Monna Paula
+111937	Roberts
+111959	Monna Paula
+111981	Margaret
+112094	Margaret
+112163	Hermione
+112253	Margaret
+112376	Hermione
+112381	Monna Paula
+112410	Margaret
+112452	Margaret
+112492	Monna Paula
+112506	Roberts
+112540	Margaret
+112571	Margaret
+112634	Margaret
+112739	Lady Hermione
+112811	Margaret
+112913	Margaret
+113138	Monna Paula
+113146	Roberts
+113157	Margaret Ramsay
+113212	Monna Paula
+113249	Lady Hermione
+113270	Lady Hermione
+113439	Glenvarloch
+113450	Francis Earl
+113452	of Bothwell
+113487	Ralph Olifaunt
+114003	Margaret
+114262	Margaret
+114366	Margaret
+114915	Don Quixote
+115015	Monna Paula
+115210	Monna Paula
+115773	Guadarrama
+116695	Monna Paula
+116745	Monna Paula
+116781	Monna Paula
+116845	Monna Paula
+117055	Jean de
+117057	Luz
+117206	Jean de
+117208	Luz
+117225	Jean de
+117227	Luz
+117289	Hermione
+117316	Margaret
+117377	Margaret
+117397	Margaret
+117470	Monna Paula
+117475	Hermione
+117539	Margaret
+117653	Monna Paula
+117678	Monna Paula
+118039	James
+118060	Margaret
+118073	Margaret
+118092	Lady Hermione
+118124	Margaret
+118209	Jean de
+118211	Luz
+118224	Margaret
+118235	Hermione
+118323	Margaret
+118350	Hermione
+118375	Margaret
+118552	Monna Paula
+118582	Margaret
+118600	Hermione
+118747	Monna Paula
+118825	Monna Paula
+118853	Heriot
+118877	Monna Paula
+118905	Margaret
+118917	Hermione
+118989	Rove
+119053	Benjamin Suddlechop
+119063	Dame Ursula
+119146	Raredrench
+119346	Benjamin
+119435	Bacchus
+119441	Benjamin
+119512	Dame Ursley
+119575	Benjamin
+119624	Iris of
+119626	Dame Suddlechop
+119701	Margaret
+119709	Lady Hermione
+119713	Dame Suddlechop
+119811	Nigel
+119816	Beaujeu
+119896	Jin Vin
+120134	Vincent
+120194	Jin Vin
+120253	Dame Suddlechop
+120258	Vincent
+120278	George
+120430	Rosa Solis
+120447	Jin Vin
+120493	Dame Ursley
+120538	Dame Suddlechop
+120697	Dame Ursula
+120771	Dame Ursley
+120816	Dame Ursley
+120912	Jenkin
+120928	Dame Suddlechop
+121000	Dame Ursley
+121043	Duke of
+121045	Daldevil
+121096	Jin Vin
+121119	Jenkin
+121139	Dame Ursley
+121188	Dame Ursley
+121225	Tut
+121303	Jin Vin
+121425	Dame Ursley
+121474	Dame Ursley
+121490	Jenkin
+121700	Holborn
+121705	Dame Ursley
+121742	Jin Vin
+121772	Jin Vin
+121819	Paul
+121949	Jin Vin
+121977	Jenkin
+122268	Jin Vin
+122365	Dame Ursley
+122413	Vincent
+122416	Tunstall
+122543	Marget
+122588	Jenkin
+122627	Jin Vin
+122724	Jin Vin
+122729	Ursula
+122834	Crosspatch
+122860	Jin Vin
+122894	Jin Vin
+122904	Jenkin
+123124	Jenkin Vincent
+123163	Dame Ursley
+123277	Jenkin
+123326	Dame Ursley
+123377	Jenkin
+123481	Dame Ursula
+123508	Ursula
+123580	Margaret
+123597	Jenkin
+123769	Catesby
+123771	Piercy
+123794	Dame Ursula
+123859	Vincent
+123893	Glenvarloch
+123901	Vincent
+124035	Jenkin
+124046	Margaret
+124087	Jenkin
+124095	Glenvarloch
+124134	Shortyard
+124152	Stephen
+124217	Dame Ursula
+124233	Glenvarloch
+124263	Margaret
+124355	Dame Ursula
+124445	Marget
+124487	Dame Ursula
+124517	Margaret
+124563	Glenvarloch
+124679	Babington
+124720	Glenvarloch
+124763	Jenkin
+124820	Jenkin
+124830	Ursula
+125075	Ursula
+125079	Jenkin Vincent
+125143	Shavaleer Bojo
+125190	Vin
+125216	Alsatia
+125302	John Taylor
+125308	Grigg the
+125310	Grinner
+125365	Ursula
+125524	Jenkin
+125585	Jenkin
+125624	Margaret
+125643	Ursula
+125651	Jenkin
+125707	Margaret
+125742	Dame Suddlechop
+125784	George Heriot
+125794	Jenkin
+125801	Ursula
+125805	Dame Judith
+125820	Heriot
+125836	Dame Suddlechop
+125841	Jenkin
+125863	Marget
+125887	Jin Vin
+125934	Jenkin
+125948	George Heriot
+126007	Lady Foljambe
+126011	Master George
+126057	Ursula
+126107	Jenkin
+126157	Ursula
+126211	Jenkin
+126338	Jenkin
+126493	Nigel
+126593	Nigel
+126770	Glenvarloch
+126947	Susanna
+126996	Glenvarloch
+127044	Nigel
+127091	Glenvarloch
+127205	Nigel
+127313	Nigel
+127419	Nigel
+127704	Nigel
+127779	Martha
+127786	Martha Trapbois
+127806	Martha
+127820	Nigel
+127856	Martha
+127937	Glenvarloch
+127991	Mary
+128005	Mary
+128227	Martha Trapbois
+128254	Nigel
+128337	Martha
+128397	Martha
+128638	Martha
+128647	Grahame
+128683	Martha
+128781	Nigel
+128840	Martha
+129112	Martha
+129232	Martha
+129235	Nigel
+129291	Nigel
+129338	Martha
+129483	Martha
+129496	Martha
+129636	Nigel
+129678	Martha
+129747	Martha
+129858	Glenvarloch
+129939	Nigel
+130113	Burleigh
+130198	Glenvarloch
+130399	Heriot
+130408	Dalgarno
+130467	Nigel Olifaunt
+130586	Glenvarloch
+130608	Nigel
+130634	Master Grahame
+130662	Nigel
+130740	Nigel
+130764	Samson
+130782	Huff
+130855	Glenvarloch
+130936	Lowestoffe
+130954	Lowestoffe
+131024	Nigel
+131079	Nigel
+131157	Trapbois
+131204	Nigel
+131256	Lowestoffe
+131277	Glenvarloch
+131329	Nigel
+131434	Lowestoffe
+131486	Lowestoffe
+131663	Nigel
+131728	Glenvarloch
+131769	Dorothy
+131813	Nigel
+131826	XXIII
+131829	Bilboe
+131922	Peppercull
+132043	Nigel
+132066	Trapbois
+132077	Peter Pillory
+132112	Nigel Grahame
+132191	Jove
+132206	Master Grahame
+132303	Duke
+132341	Caracco
+132374	-- Basta
+132377	-- Said
+132494	Truepenny
+132516	Trapbois
+132532	Nigel Green
+132596	Green
+132793	Grahame
+132819	Nigel
+132857	Colepepper
+132875	Jack Colepepper
+132900	Fulhams
+132956	Nigel
+132976	Hector
+133045	Glenvarloch
+133180	Nigel
+133200	Hector
+133255	Nigel
+133392	Nigel
+133506	Nigel
+133513	Colepepper
+133666	Hector
+133671	Hector
+133723	Nigel
+133757	Nigel
+134027	Nigel
+134058	Martha Trapbois
+134231	Nigel
+134261	John Colepepper
+134531	Glenvarloch
+134751	Duke Hildebrod
+134830	Nigel
+134984	Nigel
+135046	Glenvarloch
+135070	Martha
+135112	Glenvarloch
+135122	Martha
+135229	Glenvarloch
+135263	Martha
+135356	Nigel
+135421	Alsatia
+135436	Duke Hildebrod
+135532	Nigel
+135620	Nigel
+135633	Belzie
+135645	Duke Hildebrod
+135668	Nigel
+135700	Nigel Grahame
+135761	Malmsey
+135796	Nigel
+135842	Nigel
+135913	Nigel
+135999	Glenvarloch
+136133	Jezebel
+136136	Tim
+136171	Glenvarloch
+136264	Deb
+136318	Belzebub
+136433	Deborah
+136465	Glenvarloch
+136519	Glenvarloch
+136549	Duke Hildebrod
+136679	Nigel
+136695	Duke Hildebrod
+136709	Glenvarloch
+136715	Hildebrod
+136749	Nigel
+136821	Nigel
+136865	Duke
+136909	Paul
+136948	Nigel
+136994	Duke
+137014	Jack Hildebrod
+137032	Richard
+137052	Nigel
+137081	Glenvarloch
+137158	Glenvarloch
+137212	Hildebrod
+137329	Glenvarloch
+137366	Duke Hildebrod
+137385	Jack Hildebrod
+137442	Nigel
+137499	Nigel
+137644	Nigel
+137663	Duke Hildebrod
+137710	Kildare
+137746	Nigel
+137866	Nigel
+137970	Glenvarloch
+138032	Beaujeu
+138069	Martha Trapbois
+138169	Martha
+138268	Glenvarloch
+138293	Duke Hildebrod
+138351	Nigel
+138488	Martha Trapbois
+138521	Trapbois
+138552	Nigel
+138583	Hildebrod
+138631	Nigel
+138741	Nigel
+138776	Duke Hildebrod
+138793	Nigel
+138877	Glenvarloch
+138955	Trapbois
+139012	Duke Hildebrod
+139054	Anthony Keep
+139095	Duke Hildebrod
+139100	Nigel
+139271	Nigel
+139312	Lowestoffe
+139433	Lowestoffe
+139516	Nigel
+139544	Lowestoffe
+139726	Nigel
+139950	Nigel
+140046	Nigel
+140143	Nigel
+140268	Lowestoffe
+140285	Trapbois
+140309	Nigel
+140333	Nigel
+140411	Nigel
+140512	Nigel
+140596	Nigel
+140621	Martha
+140677	Nigel
+140825	Nigel
+140887	Glenvarloch
+140892	Deborah
+140940	Nigel
+141080	Trapbois
+141092	Nigel
+141179	Nigel
+141232	Glenvarloch
+141306	Nigel
+141316	Glenvarloch
+141375	Nigel
+141481	Nigel
+141576	Nigel
+141639	Nigel
+141747	Nigel
+141767	Glenvarloch
+141813	Martha Trapbois
+141831	Witte
+141841	Robert Record
+141856	Nigel
+141872	Duke Hildebrod
+141893	Alsatia
+141901	Nigfil
+141909	Iris
+141991	Nigel
+142180	Reynolds
+142200	Wolfe
+142276	CLUTTERBUCK
+142279	Nigel
+142435	Nigel
+142696	Nigel
+142731	Nigel
+142827	Nigel
+142893	Glenvarloch
+142973	Nigel
+143042	Nigel
+143288	Nigel
+143437	Nigel
+143530	Nigel
+143756	Nigel
+143993	Nigel
+144110	Nigel
+144202	Nigel
+144229	Martha Trapbois
+144371	Martha Trapbois
+144484	Nigel
+144501	Martha
+144632	Nigel
+144727	Glenvarloch
+144981	Nigel
+145099	Glenvarloch
+145227	Nigel
+145339	Nigel
+145437	Hildebrod
+145498	Nigel
+145526	Martha
+145597	Nigel
+145955	Nigel
+146006	Hildebrod
+146151	Hildebrod
+146379	Glenvarloch
+146398	Hildebrod
+146447	Trapbois
+146646	Glenvarloch
+146677	Martha
+146753	Peppercull
+146782	Martha
+146845	Hildebrod
+146863	Haman
+147013	Martha
+147028	Hildebrod
+147068	Martha
+147092	Hildebrod
+147094	Nigel
+147210	Nigel
+147299	Lowestoffe
+147342	-- Ahey
+147350	Nigel Grahame
+147383	Nigel
+147387	Duke Hildebrod
+147419	Lowestoffe
+147436	Nigel
+147446	Lowestoffe
+147456	Whitefriars
+147465	Chief-Justice
+147562	Nigel
+147607	Nigel
+147673	Grahame
+147723	Glenvarloch
+147775	Prince
+147800	Nigel
+147845	Duke Hildebrod
+147856	Nigel
+147942	Glenvarloch
+147972	Duke Hildebrod
+148169	Nigel
+148221	Glenvarloch
+148304	Glenvarloch
+148613	Nigel
+148778	Nigel
+148833	Nigel
+149202	Nigel
+149244	Glenvarloch
+149339	Glenvarloch
+149506	Nigel
+149572	Glenvarloch
+149745	Nigel
+149765	Martha
+149834	Nigel
+149858	Nigel
+150076	Glenvarloch
+150115	Glenvarloch
+150197	Whitefriars
+150296	Grey
+150327	Glenvarloch
+150398	Glenvarloch
+150427	Jack
+150493	Glenvarloch
+150559	Paul
+150568	Trapbois
+150591	Glenvarloch
+150624	Nigel
+150759	Nigel
+150892	Glenvarloch
+150979	Nigel
+151115	Jack
+151188	Martha
+151204	Nigel
+151270	Rigmarole
+151300	Greenjacket
+151324	Glenvarloch
+151499	Peppercull
+151632	Nigel
+151677	Hildebrod
+151691	Colepepper
+151705	Hildebrod
+151717	Nigel
+151791	Glenvarloch
+151881	Christie
+151886	Paul
+151984	Glenvarloch
+151989	Martha
+152022	Christie
+152100	John Christie
+152244	Paul
+152277	Nigel
+152361	John Christie
+152421	Glenvarloch
+152426	Martha Trapbois
+152757	John Christie
+152851	Scandaalum Magnaatum
+152967	John Christie
+153085	Scot
+153169	Maister Christie
+153299	Andrew Ferrara
+153340	John Christie
+153531	Scot
+153561	Maister Christie
+153587	Scot
+153664	John Christie
+153738	Jonn Christie
+153822	Martha Trapbois
+153918	Master Christie
+153935	Glenvarloch
+154123	Nigel Grahame
+154210	Scot
+154292	Martha Trapbois
+154367	Nigel Olifaunt
+154377	Glenvarloch
+154394	Martha
+154406	Nigel Gram
+154411	Nigel Grahame
+155091	Martha
+155113	Scot
+155273	Martha Trapbois
+155307	Richie Moniplies
+155403	Glenvarloch
+155697	Nigel
+155703	Bastile
+155712	Tom Paine
+155867	Nigel
+156029	Nigel
+156106	Nigel
+156193	Glenvarloch
+156356	Nigel
+156463	Glenvarloch
+156526	Nigel
+156594	Glenvarloch
+156710	Nigel
+156793	Nigel
+156884	Nigel
+156925	Jack
+156993	N. O.
+156995	G.
+157029	Jack
+157146	Nigel
+157310	Nigel
+157368	Glenvarloch
+157402	Eliza
+157432	James
+157462	Elizabeth
+157492	James
+157647	Glenvarloch
+157954	Munko Malgrowler
+157966	Nigel
+158016	Munko
+158285	Mungo Malagrowther
+158291	Nigel
+158304	Munko
+158371	Ned Kilderkin
+158382	Ned
+158395	Munko
+158468	Ben Jonson
+158473	James
+158493	Duke of
+158495	Lennox
+158499	Dalgarno
+158621	Munko Malcrowther
+158638	Ned
+158651	Huntinglen
+158699	Huntinglen
+158724	Ned
+158752	Ned
+158805	Solomon
+158978	Munko
+158990	Ned
+158996	Munko
+159052	Ned
+159099	Nigel
+159150	Mungo Malagrowther
+159182	Glenvarloch
+159206	Ned Kilderkin
+159223	Mungo Malagrowther
+159263	Glenvarloch
+159311	Glenvarloch
+159362	Nigel
+159623	Kilderkin
+159642	Kilderkin
+159725	Widdrington
+159737	Kilderkin
+159743	Sacred Majesty
+159752	Master Kilderkin
+159790	Publius Terentius
+159844	Linklater
+159887	Master Kilderkin
+159915	Master Kilderkin
+159964	Glenvarloch
+159981	Ned Kilderkin
+160019	Syrus
+160056	Ned
+160079	Glenvarloch
+160241	Kilderkin
+160251	Nigel
+160282	Nigel
+160420	Glenvarloch
+160444	Glenvarloch
+160466	Nigel
+160491	Laurie Linklater
+160503	Nigel
+160533	Mungo Moniplies
+160564	Richie Moniplies
+160593	Glenvarloch
+160613	Richie
+160654	Richie
+160789	Nigel
+160825	Linklater
+160927	Nigel
+160977	Nigel
+161013	Nigel
+161042	Linklater
+161080	Nigel
+161167	Linklater
+161287	Nigel
+161500	Solomon
+161576	Glenvarloch
+161611	Linklater
+161729	Glenvarloch
+161772	Nigel
+161835	Glenvarloch
+161933	James
+161943	Nigel
+161965	Richie Moniplies
+161987	Fortune
+162101	Nigel
+162177	Glenvarloch
+162397	James
+162442	Battie
+162470	-- Haud
+162482	Nigel
+162573	Jamie
+162635	Glenvarloch
+162810	Bash
+162812	Battie
+162824	Buss
+162946	Nigel
+162995	Nigel
+163074	Nigel
+163188	James
+163253	James Stewart
+163297	Nigel
+163402	Nigel
+163527	Glenvarloch
+163576	Steenie
+163589	Hillo
+163597	Steenie
+163599	Steenie
+163673	Steenie
+163709	Olifaunt
+163736	Glenvarloch
+163861	Glenvarloch
+163913	Nigel
+163952	Glenvarloch
+163958	Mhic-Allastar-More
+164169	Rizzio
+164191	Prince
+164238	Dalgarno
+164262	Baby Charles
+164278	-- Steenie
+164297	-- Buss
+164303	Baby Charles
+164424	Charles
+164535	George
+164581	Duke
+164641	Nigel Olifaunt
+164668	Nigel Olifaunt
+164710	Baby Charles
+164715	James
+164724	Steenie
+164754	-- Saw
+164768	-- Havena
+164818	Prince Charles
+164888	Nigel
+164970	Nigel
+165066	Prince
+165070	Nigel
+165158	Prince
+165261	Nigel
+165291	George
+165395	Steenie
+165438	Cecil
+165481	Joannes Barclaius
+165563	Saul
+165567	Steenie
+165658	Dalgarno
+165742	Dalgarno
+165821	Dalgarno
+165951	Prince
+165964	Basilicon Doron
+166077	Baby
+166155	Vidi
+166213	James
+166270	Cadmus
+166293	Baby Charles
+166296	-- Mind
+166385	Baby Charles
+166446	George
+166491	Nigel
+166728	Nigel
+166788	Nigel
+166791	Glenvarloch
+166798	Julius
+166893	Dante
+166955	Nigel
+167051	Nigel
+167169	Glenvarloch
+167210	Nigel
+167298	Nigel
+167416	Jane Grey
+167557	BAYLEY
+167586	Glenvarloch
+167640	Nigel
+167718	Giles
+167864	Nigel
+168125	Nigel
+168230	Glenvarloch
+168273	Nigel
+168367	Nigel
+168470	Glenvarloch
+168559	Nigel
+168649	Nigel
+168749	Nigel
+168788	Nigel
+168973	Glenvarloch
+169123	Nigel
+169308	Nigel
+169467	Nigel
+169565	Nigel
+169593	Glenvarloch
+169756	Nigel
+169843	Nigel
+170034	Nigel
+170265	Glenvarloch
+170288	John Christie
+170294	Paul
+170320	Glenvarloch
+170355	Christie
+170362	John
+170411	Christie
+170415	Nigel
+170442	Christie
+170523	Glenvarloch
+170550	Christie
+170631	Christie
+170796	Glenvarloch
+170849	Christie
+170911	Dame Nelly
+170960	Dame Nelly
+171095	John Christie
+171114	Nigel
+171270	Don Diego
+171317	John Christie
+171358	Nelly
+171465	Nigel
+171507	John Christie
+171522	Glenvarloch
+171579	Christie
+171685	Glenvarloch
+171702	Dalgarno
+171716	Dame Nelly
+171802	John Christie
+172058	Glenvarloch
+172138	John Christie
+172190	John
+172226	Tower Hill
+172258	Nigel
+172323	John Christie
+172382	Richie
+172546	John Christie
+172552	Nigel
+172593	Glenvarloch
+172733	Nigel
+172781	Glenvarloch
+172850	Glenvarloch
+172877	Joseph
+172893	Glenvarloch
+172989	Nigel
+173192	Nigel
+173286	Nigel
+173442	Glenvarloch
+173517	Glenvarloch
+173755	Glenvarloch
+173783	Chevalier Beaujeu
+173827	Nigel
+173888	Nigel
+174027	Nigel
+174123	Glenvarloch
+174151	Nigel
+174239	George Heriot
+174264	Nigel
+174296	Heriot
+174322	Heriot
+174367	Master Heriot
+174373	Glenvarloch
+174404	Heriot
+174455	Nigel
+174473	Heriot
+174570	Master Heriot
+174575	Nigel
+174627	Heriot
+174641	Nigel
+174651	Heriot
+174755	Nigel
+174795	Heriot
+174825	Nigel
+174886	Nigel
+174919	Heriot
+174947	Nigel
+175012	Heriot
+175062	Dalgarno
+175091	Heriot
+175127	Heriot
+175140	Nigel
+175150	Heriot
+175192	Heriot
+175214	Huntinglen
+175245	Glenvarloch
+175301	Glenvarloch
+175358	Heriot
+175457	Glenvarloch
+175496	Heriot
+175653	Nigel
+175702	Heriot
+175774	Glenvarloch
+175851	Heriot
+175873	Grahame
+175892	Nigel
+175930	Heriot
+175989	Paul
+175995	Nigel
+176016	John Christie
+176031	John Christie
+176087	Heriot
+176115	Sanquhar
+176160	Nigel
+176179	Heriot
+176201	Whitefriars
+176209	Reginald Lowestoffe
+176235	Heriot
+176278	Heriot
+176331	Glenvarloch
+176341	Lowestoffe
+176363	Heriot
+176429	Nigel
+176557	Glenvarloch
+176588	Heriot
+176601	Huntinglen
+176631	Nigel
+176650	Heriot
+176740	Glenvarloch
+176789	Heriot
+176852	Glenvarloch
+176885	Heriot
+176975	Glenvarloch
+177013	Heriot
+177074	Dalgarno
+177107	Glenvarloch
+177192	Glenvarloch
+177215	Heriot
+177236	Heriot
+177354	Glenvarloch
+177414	Glenvarloch
+177463	George Heriot
+177599	Nigel
+177650	Glenvarloch
+177675	Heriot
+177746	Glenvarloch
+177796	Heriot
+177868	William the
+177870	Lion
+177882	Nigel
+177914	Heriot
+177934	Nigel
+177942	Heriot
+177981	Heriot
+178126	Heriot
+178148	Margaret Ramsay
+178238	Heriot
+178243	Glenvarloch
+178343	Heriot
+178415	Heriot
+178420	Glenvarloch
+178543	Master Heriot
+178595	Margaret
+178681	Nigel
+178776	Amadis
+178782	George Heriot
+178865	Margaret
+178880	Monna Paula
+178896	Hermione
+178904	Heriot
+178984	Monna Paula
+178999	Monna Paula
+179006	Margaret
+179085	Heriot
+179148	Glenvarloch
+179187	Margaret
+179202	Master Heriot
+179218	Hermione
+179239	Margaret
+179250	Monna Paula
+179285	Glenvarloch
+179297	Margaret
+179316	Monna Paula
+179337	Margaret
+179346	George
+179352	Nigel
+179445	Margaret
+179461	Monna
+179479	Linklater
+179546	Heriot
+179604	Linklater
+179626	Heriot
+179650	Tod
+179653	Andrews
+179656	Davie Lindsay
+179692	Solomon
+179719	Margaret
+179746	Lady Mansel
+179813	George Heriot
+179846	Mansel
+179910	Heriot
+179956	Lady Hermione
+179964	Davy
+179987	Lady Mansel
+180045	Glenvarloch
+180151	George Heriot
+180183	Davy Ramsay
+180348	Glenvarloch
+180352	Margaret Ramsay
+180428	Nigel
+180498	Nigel
+180542	Jemmy Dawson
+180547	George Heriot
+180564	Margaret
+180610	Heriot
+180631	Edward Mansel
+180635	Mansel
+180637	Margaret
+180644	Master George
+180699	Heriot
+180736	Heriot
+180741	Edward
+180798	Heriot
+180836	Lady Mansel
+180865	Glenvarloch
+180875	Edward
+180884	Heriot
+180915	Mungo
+180934	George Heriot
+180945	Margaret
+180976	Mungo
+180980	Heriot
+181012	Mungo
+181039	Lady Mansel
+181054	Heriot
+181059	Mungo
+181095	Heriot
+181125	Mungo
+181153	Mungo
+181159	Greenwich
+181191	Mungo
+181198	Edward
+181214	James
+181219	Edward
+181301	Glenvarloch
+181317	Dalgarno
+181355	Edward Mansel
+181369	Edward
+181386	Mungo
+181393	Master Heriot
+181443	Knight
+181464	Dalgarno
+181496	Mansel
+181547	Archie Armstrong
+181579	George Heriot
+181604	Mungo
+181632	Mungo
+181640	Heriot
+181710	Edward
+181752	Edward
+181770	Master Heriot
+181819	Mungo
+181862	Mungo
+181879	Glenvarloch
+181977	Mungo
+182017	George Heriot
+182025	Lady Mansel
+182053	Tower Hill
+182171	Lady Hermione
+182245	Monna Paula
+182248	George Heriot
+182319	Glenvarloch
+182346	Margaret
+182357	Nigel
+182381	Lady Hermione
+182394	Mungo Malagrowther
+182428	Nigel
+182580	Nigel
+182673	Nigel
+182726	Mungo
+182784	Wilson
+182789	Colonel Grey
+182862	WILSON
+182869	James VI
+182877	KENNET
+182899	James
+182978	Mungo
+182982	Nigel
+183025	Dalgarno
+183055	Mungo
+183113	Mungo
+183129	Nigel
+183203	Gray
+183245	Glenvarloch
+183428	Derrick
+183432	Gregory
+183487	Gregory
+183500	Nigel
+183557	Mungo
+183578	Tubbs
+183644	Derrick
+183699	Stubbs
+183702	Tubbs
+183824	Mungo
+183828	Nigel
+183888	Mungo
+183913	Digby
+183967	Mungo
+183971	Nigel
+184014	Mungo
+184186	Mungo
+184191	Glenvarloch
+184251	Mungo
+184279	Maggie Ramsay
+184290	Nigel
+184325	Heriot
+184329	Ye ken
+184419	Mungo Malagrowther
+184424	Nigel
+184454	Davy Ramsay
+184472	Mungo
+184481	Nigel
+184497	Mungo
+184563	Maxwell
+184598	James
+184678	Glenvarlochides
+184747	Lady Mansel
+184812	Glenvarloch
+184825	Mungo
+184891	Watchie Ramsay
+184922	Mungo
+184926	Nigel
+184999	Leddy Glenvarloch
+185038	Mungo
+185042	Nigel
+185086	Mungo
+185181	Glenvarloch
+185220	Nigel
+185234	Mungo Malagrowther
+185485	Nigel
+185728	Nigel
+185912	Margaret Ramsay
+186252	Nigel
+186359	Margaret
+186384	Mungo
+186400	Margaret
+186428	Nigel
+186534	Richie Moniplies
+186592	Glenvarloch
+186729	Nigel
+186803	Richie
+186860	Glenvarloch
+186879	Richie
+186899	Richie
+186936	Nigel
+186954	Richie
+187118	Glenvarloch
+187144	Richie
+187159	Richie
+187242	Richie
+187247	Glenvarloch
+187291	Richie
+187351	Glenvarloch
+187373	Richie
+187429	Glenvarloch
+187499	Richie
+187580	Nigel
+187592	Richie
+187640	Richie
+187648	Nigel
+187754	Moniplies
+187897	Richie Moniplies
+187901	Glenvarloch
+187949	Glenvarloch
+187962	Richie Moniplies
+188058	Richie Moniplies
+188184	Linklater
+188229	Moniplies
+188261	Linklater
+188366	Richie Moniplies
+188411	Richie
+188443	Linklater
+188490	King James
+188501	Richie
+188544	Laurie
+188583	Richie
+188587	Linklater
+188628	Laurie
+188634	Richie
+188733	Majesty
+188758	Richie
+188789	Laurence
+188836	Richie
+188871	Maxwell
+188892	Linklater
+188900	Richie Moniplies
+188927	Maxwell
+188976	Richie
+189012	Maxwell
+189019	Richie
+189090	Richie
+189115	Richie
+189138	Richie Moniplies
+189174	James
+189217	Gie
+189240	Richie
+189357	Richie
+189376	James
+189416	Richie
+189478	Richie Moniplies
+189485	Mungo Moniplies
+189610	Richie
+189661	George Heriot
+189672	Richie
+189684	Harry Wynd
+189728	Nigel Olifaunt
+189733	Glenvarloch
+189774	-- Maxwell
+189783	George Heriot
+189803	Richie
+189821	Geordie
+189861	Richie
+189914	Maxwell
+189924	Maxwell
+189935	Richie Moniplies
+189960	Geordie Heriot
+189973	Richie
+190055	Heriot
+190102	Heriot
+190173	Voetius
+190175	Vinnius
+190177	Groenwigeneus
+190259	Heriot
+190390	George Heriot
+190678	Heriot
+190793	Geordie
+190910	Geordie
+190978	Geordie
+191011	Jingler
+191081	Geordie
+191154	Heriot
+191191	Glenvarloch
+191323	Heriot
+191375	Todlowrie
+191394	Richie Moniplies
+191462	Jingling Geordie
+191520	-- Tene
+191538	Geordie
+191612	George Heriot
+191645	Richie
+191745	Geordie
+191814	Ye ken
+191845	Ophir
+191855	Heriot
+191915	Richie Moniplies
+191929	Master Heriot
+191952	Richie
+191969	Heriot
+192005	Geordie
+192072	Geordie
+192194	Richie Moniplies
+192337	-- Aweel
+192398	Richie Moniplies
+192443	Glenvarloch
+192615	-- Awa
+192620	Geordie
+192647	Richie
+192808	Steenie
+192844	Sathanas
+192858	George Heriot
+192895	Richie
+192949	George Heriot
+192954	Richie
+193002	Heriot
+193031	Richie Moniplies
+193065	Richie
+193143	Richard Moniplies
+193199	George Heriot
+193213	Richie
+193292	-- Gude
+193299	Laurie Linklater
+193321	Andrew
+193382	Benedict
+193400	George Heriot
+193413	James
+193416	Maxwell
+193421	Huntinglen
+193543	Boethius
+193623	Huntinglen
+193669	Huntinglen
+193816	Queen Elizabeth
+193920	Huntinglen
+194001	Dalgarno
+194016	Steenie
+194018	Baby Charles
+194035	Huntinglen
+194164	Lady Hermione
+194187	Dalgarno
+194270	Geordie
+194278	Heriot
+194287	Huntinglen
+194291	Heriot
+194307	Hermione
+194433	Dalgarno
+194490	Geordie
+194504	Steenie
+194522	Dalgarno
+194563	Steenie
+194584	Hermione
+194588	George Heriot
+194676	Huntinglen
+194711	Baby Charles
+194714	Steenie
+194844	Heriot
+194846	Maxwell
+194894	Huntinglen
+194921	Maxwell
+194923	Heriot
+195046	Huntinglen
+195140	Huntinglen
+195178	Baby Charles
+195182	Steenie
+195354	Steenie
+195384	Huntinglen
+195421	Huntinglen
+195638	Baby Charles
+195677	Dalgarno
+195697	Huntinglen
+195768	Huntinglen
+195807	James
+195833	Heriot
+195837	Geordie
+195900	Huntinglen
+195963	Allan Ramsay
+195999	Lang
+196003	Tammy
+196007	Christ
+196009	Kirk On
+196011	The Green
+196027	George Heriot
+196093	Huntinglen
+196155	Geordie
+196182	Dalgarno
+196202	Geordie
+196233	Geordie
+196257	Dalgarno
+196308	Steenie
+196310	Baby Charles
+196360	Michael Scott
+196373	Jingling Geordie
+196422	Heriot
+196478	Dalgarno
+196485	Hermione
+196551	Baby Charles
+196554	Steenie
+196590	Geordie
+196593	Geordie
+196600	Baby Charles
+196610	Steenie
+196626	George Heriot
+196716	Baby Charles
+196772	Steenie
+196813	Heriot
+196873	Geordie
+196962	Dalgarno
+197026	Heriot
+197044	Dalgarno
+197075	Dalgarno
+197127	Dalgarno
+197196	Dalgarno
+197251	Dalgarno
+197287	Dalgarno
+197310	Erminia Pauletti
+197332	Giovanni Pauletti
+197339	Sansovino
+197351	Maud Olifaunt
+197442	Dalgarno
+197453	Earl
+197507	Huntinglen
+197552	Dalgarno
+197581	Huntinglen
+197584	Glenvarloch
+197614	James
+197657	Dalgarno
+197721	Dalgarno
+197751	Dalgarno
+197816	Buckingham
+197819	Duke
+197852	Steenie
+197881	Dalgarno
+197939	Dalgarno
+198023	Dalgarno
+198075	Winchester
+198094	Monna Paula
+198106	Lady Hermione
+198110	Erminia Pauletti
+198114	Dalgarno
+198331	Bishop
+198411	Dalgarno
+198537	Dalgarno
+198563	Duke
+198588	Huntinglen
+198623	Dalgarno
+198660	Dalgarno
+198770	Prince Charles
+198786	James
+198825	Baby Charles
+198856	Dalgarno
+198912	Dalgarno
+198966	Glenvarloch
+199018	Geordie
+199032	Dalgarno
+199133	Hermione
+199310	Dalgarno
+199367	Dalgarno
+199396	Andrea Ferrara
+199448	Glenvarloch
+199491	Huntinglen
+199508	James
+199521	Dalgarno
+199569	Huntinglen
+199611	Heriot
+199638	Richard III.
+199648	James
+199695	Charles
+199849	Glenvarloch
+199893	Dalgarno
+199915	Glenvarloch
+199945	Glenvarloch
+200098	Dalgarno
+200209	Jeddart
+200278	Prince Charles
+200369	Carole
+200409	Glenvarloch
+200430	Lady Lake
+200462	Dionysius
+200518	Dionysius
+200541	Bishop
+200618	Dionysius
+200695	Bishop
+200756	Buckingham
+200979	Hermione
+201059	Dalgarno
+201161	Glenvarlochides
+201211	-- Naething
+201221	Steenie
+201240	Glenvarloch
+201281	Mungo Malagrowther
+201286	George Heriot
+201309	Geordie
+201354	Solomon
+201371	Aweel
+201445	Glenvarloch
+201492	Prince Charles
+201525	Baby Charles
+201562	Mungo
+201623	Mungo
+201668	Dan
+201686	Glenvarloch
+201745	-- Baby
+201747	Charles
+201749	Steenie
+201761	Bishop
+201774	-- Geordie
+201776	Heriot
+201816	Geordie
+201871	Moniplies
+201928	Glenvarloch
+201943	Heriot
+201973	Moniplies
+201996	Heriot
+202058	Glenvarloch
+202204	George Heriot
+202271	Ye ken
+202277	Jingler
+202355	Prince
+202400	Baby Charles
+202547	George Heriot
+202680	Davy Ramsay
+202722	Dunstan
+202786	Dalgarno
+202834	Andrew Skurliewhitter
+202852	Buckingham
+202926	Willie
+202984	Heriot
+203043	-- Willie
+203062	Soh
+203094	Richie Moniplies
+203118	Maister Skurliewhitter
+203123	Richie
+203216	Glenvarloch
+203238	Reginald Lowestoffe
+203289	Lowestoffe
+203321	Andrew
+203346	Lowestoffe
+203430	Dalgarno
+203453	Lowestoffe
+203460	Moniplies
+203489	Andrew
+203638	Andrew
+203642	Lowestoffe
+203655	Andrew
+203697	Master Lowestoffe
+203743	Richie
+203778	Richie
+203860	Richie Moniplies
+203928	Dalgarno
+203941	Lowestoffe
+203962	Dalgarno
+203964	Richie Moniplies
+203977	Moniplies
+204027	Nigel Olifaunt
+204032	Dalgarno
+204042	Glenvarloch
+204057	Dalgarno
+204151	Camlet Moat
+204232	Richie
+204261	Dalgarno
+204344	Richie
+204360	Dalgarno
+204386	Richie
+204448	Dalgarno
+204471	Skurliewhitter
+204551	Majesty
+204586	Dalgarno
+204611	Dalgarno
+204719	Dunstan
+204732	Dalgarno
+204864	Dalgarno
+204957	Dalgarno
+205329	Andrew
+205339	Glenvarloch
+205387	Dalgarno
+205431	Dalgarno
+205438	Skurliewhitter
+205545	Dalgarno
+205665	Skurliewhitter
+206148	Jack Hempsfield
+206364	Dalgarno
+206699	Dalgarno
+206749	Lutin
+206791	Black Feltham
+206795	Dick Shakebag
+206930	Dalgarno
+207063	Richie Moniplies
+207154	Lowestoffe
+207227	Richie
+207282	Master Lowestoffe
+207293	Richie
+207336	Richie
+207385	Richie
+207474	Lowestoffe
+207562	Richie
+207566	Lowestoffe
+207612	Richie
+207659	Richie
+207697	Lowestoffe
+207721	Richie
+207732	Richie
+207745	Moniplies
+207799	Richie
+207840	Richie
+207900	Richie
+207970	Richie
+208147	Jenkin
+208151	Richie
+208191	Jenkin
+208208	Richie
+208231	Jin Vin
+208251	Richie
+208331	Jenkin
+208420	Andrew
+208447	Glenvarloch
+208488	Scot
+208496	Jin Vin
+208553	Richie
+208712	Scot
+208718	Vincent
+208760	Richie
+208803	Richie
+208860	Richie
+208883	Jenkin
+208921	Sharker
+209010	Richie
+209138	Richard Moniplies
+209271	Hannibal
+209298	Jin Vin
+209329	Richie
+209372	Richie
+209409	Margaret Ramsay
+209426	Richie
+209433	George Heriot
+209465	Jin Vin
+209484	Paul
+209498	Glenvarloch
+209514	Richie
+209539	Glenvarloch
+209556	John
+209575	Jin Vin
+209614	Richie
+209648	Prince
+209698	Vincent
+209745	Peg-a-Ramsay
+209776	Peggie
+209795	Vin
+209811	Richie
+209839	Jenkin
+209875	Jenkin
+209930	Clarendon
+210007	Rupert
+210022	Richie
+210077	Jenkin
+210157	Richie
+210330	Richie
+210352	Glenvarloch
+210375	Jenkin
+210441	Richie
+210482	Jenkin
+210605	Scottishman
+210628	Richie
+210640	Glenvarloch
+210685	George Heriot
+210737	Richie
+210824	Mother Suddlechop
+210855	Richie
+210864	Nicholas
+210873	Peto
+210954	Glenvarloch
+210987	Richie
+211003	Jenkin
+211062	Dame Suddlechop
+211111	Moniplies
+211130	Jenkin
+211151	Richie
+211170	Jenkin
+211210	Richie
+211258	Scot
+211280	Jenkin
+211308	Richie
+211357	Jenkin
+211479	Jenkin
+211488	Scot
+211512	Richie
+211648	Richard
+211661	Jenkin
+211760	Richie
+211783	Jenkin
+211843	Richie
+211890	Master Ringwood
+211911	Jenkin
+211945	Richie
+211979	Jenkin
+212082	Master Jenkin
+212087	Richie
+212196	Henry IV.
+212422	-- Nay
+212783	Nelly
+212816	Nell
+212838	Dalgarno
+212946	Dalgarno
+212952	Nell
+212989	Dame Nelly
+213027	John Christie
+213052	Dalgarno
+213068	Nell
+213151	Nelly
+213160	Nelly
+213210	Glenvarloch
+213212	Richie Moniplies
+213233	Nelly
+213238	Dalgarno
+213316	Dalgarno
+213484	Dame Nelly
+213516	Nelly
+213521	Nell
+213538	Dalgarno
+213556	Suddlechop
+213568	John Christie
+213573	Glenvarloch
+213577	David Ramsay
+213596	Nelly
+213622	Dalgarno
+213637	Davy Ramsay
+213689	Nelly
+213710	Dalgarno
+213720	Nelly
+213750	Dalgarno
+213796	Nelly
+213842	John Christie
+213944	Dalgarno
+214021	John Christie
+214217	Earls
+214282	Dalgarno
+214296	Richie Moniplies
+214308	Glenvarloch
+214381	Lutin
+214406	-- Buckingham
+214434	Glenvarloch
+214526	Glenvarloch
+214543	Nelly
+214816	Dalgarno
+214996	Richie Moniplies
+215021	Jin Vin
+215140	Lowestoffe
+215185	Richie
+215196	John Christie
+215234	Dalgarno
+215247	Lowestoffe
+215266	Dalgarno
+215335	John Christie
+215347	Dalgarno
+215399	Richie
+215410	Colepepper
+215459	Richie
+215489	Moniplies
+215552	Richie
+215556	Lowestoffe
+215623	Richie
+215673	Dalgarno
+215678	Lowestoffe
+215680	Richie
+215744	Jin Vin
+215755	Christie
+216034	Richie Moniplies
+216244	-- Richard
+216356	Dalgarno
+216387	Lowestoffe
+216499	Paul
+216524	Lutin
+216528	Richie Moniplies
+216576	Lutin
+216604	Richard
+216606	Vincent
+216620	-- Vincent
+216685	Dalgarno
+216687	George Heriot
+216696	Vincent
+216749	Davy Ramsay
+216768	Dryasdust
+216799	Vincent
+216801	Tunstall
+216806	Lowestoffe
+216822	John Christie
+216825	Dame Nelly
+216910	Dalgarno
+216987	Glenvarloch
+217033	Richard Moniplies
+217096	Dame Suddlechop
+217122	Huntinglen
+217184	Jacques
+217521	James
+217574	Glenvarloch
+217751	Mungo Malagrowther
+217809	Davy Ramsay
+217859	William Ramsay
+217868	John Fordoun
+217907	Davy Ramsay
+218028	Davy Ramsay
+218062	Claudius
+218096	Davy
+218109	Mungo
+218121	Mungo
+218257	Chaucer
+218296	Archie Armstrong
+218384	Ye
+218674	Glenvarloch
+218676	Margaret Ramsay
+218683	David Ramsay
+218733	Dalwolsey
+218754	Geordie
+218774	Heriot
+218847	Charles
+218883	Mungo Malagrowther
+218961	Mungo
+218965	Heriot
+219056	George
+219142	Mungo
+219199	Mungo
+219242	Mungo
+219255	George Heriot
+219269	Heriot
+219274	Mungo
+219337	Dalgarno
+219370	Mungo
+219407	Dalgarno
+219441	Dalgarno
+219484	Dalgarno
+219529	George Heriot
+219543	Andrew Skurliewhitter
+219549	Dalgarno
+219588	Glenvarloch
+219599	Mungo
+219637	Mungo
+219641	Master Heriot
+219696	Mungo
+219725	George Heriot
+219742	Mungo
+219789	Mungo
+219815	James
+219877	Dalgarno
+219906	Richie Moniplies
+219925	Glenvarloch
+220019	Richie
+220034	Richie
+220131	Glenvarloch
+220144	Richie
+220191	Richie
+220220	Richie
+220272	Richie
+220308	George
+220342	Glenvarloch
+220414	Paul
+220478	George Heriot
+220630	Heriot
+220657	James
+220687	Heriot
+220774	-- Moniplies
+220818	Mungo Malagrowther
+220847	Mungo
+220851	Master Lowestoffe
+220856	Glenvarloch
+220888	Mungo
+220894	George Heriot
+220934	Glenvarloch
+220939	Richie Moniplies
+220972	Martha Trapbois
+221052	Richie
+221074	Martha Moniplies
+221081	Saul
+221097	James
+221115	Mary
+221306	Lowestoffe
+221322	Richie
+221327	Richard
+221337	Richie
+221342	Richard Moniplies
+221407	Richie
+221479	Glenvarloch
+221538	Lowestoffe
+221561	Richie
+221599	Glenvarloch
+221630	Glenvarloch
+221683	Martha
+221699	Richie
+221726	James
+221741	Mungo
+221791	Martha
+221799	Richie
+221881	Martha
+221911	Glenvarloch
+222027	Glenvarloch
+222149	Lowestoffe
+222165	Dalgarno
+222230	Glenvarloch
+222237	Moniplies
+222269	Martha
+222298	Glenvarloch
+222320	Martha
+222352	Mungo
+222376	Richie
+222410	Mungo
+222414	Richie
+222452	Richie
+222457	Mungo
+222490	Mungo
+222494	Richie
+222530	Richie
+222549	Mungo
+222714	Richie
+222725	Langstaff
+222790	Richie
+222802	Richie
+222816	Lowestoffe
+222820	Mungo
+222846	Richard Moniplies
+222883	David Ramsay
+222890	James I.
+222987	David Ramsay
+223024	James
+223050	Jonson
+223059	David Ramsay
+223075	Lilly
+223104	David Ramsay
+223133	Dean Withnam
+223143	Lincoln
+223146	Dean
+223174	Davy Ramsay
+223179	John Scott
+223209	Rod
+223243	Davy Ramsay
+223253	Scott
+223412	John Scott
+223565	LILLY
+223576	David Ramsay
+223582	William Ramsay
+223773	David Ramsay
+223791	William
+223885	George Heriot
+223973	George Heriot
+224008	James
+224015	Anne
+224035	Christian Marjoribanks
+224074	George Heriot
+224089	Rosebery
+224096	James Primrose
+224135	George Heriot
+224171	Scougal
+224269	Heriot
+224281	Messrs James
+224284	John Johnstone
+224300	George Heriot
+224310	Alison Primrose
+224317	Gregory
+224330	Barham
+224350	Alison
+224356	George Heriot
+224368	Gregory
+224390	Paul
+224403	Anne
+224415	Heriot
+224437	Jacobi Primrosii
+224440	Regia Majestatis
+224467	GEORGIUS HERIOT
+224472	Regis
+224479	Caroli Gemmarius
+224526	Alicia Primrosa
+224528	Jacet
+224569	Patri
+224571	Cura
+224673	James
+224699	Osborne
+224956	-- KING
+225167	-- DALZELL
+225480	Mungo Malagrowther
+225660	-- MRS.
+225662	ANNE TURNER
+225665	Anne Turner
+225676	Suddlechop
+225707	Thomas Overbury
+225757	King James
+225761	Turner
+225823	Overbury
+225951	James
+225966	Heylin
+225978	James
+225988	HUNTINGLEN
+225994	James I.
+226000	Alexander Ruthven
+226011	Huntinglen
+226027	John Ramsay
+226032	Earl of
+226034	Holderness
+226040	Ruthven
+226053	Anthony Weldon
+226099	John Ramsay
+226169	-- BUCKINGHAM
+226171	Buckingham
+226249	Anthony Weldon
+226277	Buckingham
+226375	Felton
+226387	-- WELDON
+226394	James
+226396	Charles
+226641	John
+226674	Jonson
+226698	Lovel
+226946	Pollux
+227001	Chaucer
+227180	Aquinas
+227184	Thomas-a-Watering
+227209	HENRY HOWARD
+227212	Henry Howard
+227261	Elizabeth
+227304	James
+227329	Cecil
+227332	James
+227350	De Beaumont
+227357	Henry Howard
+227414	Birrel
+227438	Laird
+227443	Laird
+227445	Weems
+227489	Shadwell
+227519	Muns
+227547	Piazza
+227561	Willie
+227631	Leith
+227690	Strozzi
+227720	Brusquet
+227748	Brusquet
+227950	Ellis
+228096	Dryden
+228117	BURBAGE Burbage
+228124	Roscius
+228132	Richard III.
+228147	Bishop Corbet
+228152	Iter Boreale
+228180	Richard
+228232	Richard
+228295	Richard
+228309	Burbage
+228313	RICHARD CORBET
+228369	George IV.
+228407	Glengarry
+228440	JAMES
+228444	Roger Coke
+228467	James I.
+228731	James
+228756	Welldon
+228758	James
+228895	King James
+228906	Edin
+229010	Nigel
+229013	Frederigo Zucchero
+229055	James
+229057	Nigel Oliphaunt
+229066	Nigel
+229089	James
+229102	Prince Charles
+229132	Nigel Olifaunt
+229173	Nigel
+229186	Nigel
+229225	Oliphaunt
+229289	Letitia Aikin
+229298	James
+229307	Thomas Howard
+229311	L. Harrington
+229407	James
+229551	JAMES
+229557	James
+229622	James
+229852	STUBBS
+229865	Mungo Malagrowther
+229895	Elizabeth
+229918	Queen Elizabeth
+229935	Stubbs
+229944	Singleton
+229956	Philip
+229958	Mary
+229994	Queen Mary
+229997	Stubbs
+230046	Camden
+230054	Stubbs
+230173	Richie Moniplies
+230185	Heriot
+230192	James
+230221	Archie Armstrong
+230228	Drummond
+230267	Webster
+230308	Ady
+230353	King James
+230533	John
+230536	John
+230542	John
+230582	John
+230585	John
+230599	John
+230668	John
+230683	John
+230732	WEBSTER
+230784	James
+230810	Bilson
+230821	Richard Haydock
+230843	Wilson
+230881	Lady Lake
+230906	Lady Lake
+230914	Lady Ross
+230927	Ross
+230981	Lady Ross
+231014	Lady Lake
+231037	Diego
+231103	James
+231239	BELDAM
+231245	ABYE
+231410	BLYTHE
+231414	AULD
+231422	AULD REEKIE
+231524	BROCHES
+231574	BUSS
+231589	CALLAN
+231616	CARLE
+231749	CLEEK
+231834	CRAIG
+232170	GAGE
+232193	GARR
+232302	GROSSART
+232312	GULLEY
+232339	HAFT
+232369	HARMAN BECK
+232641	LOOF
+232698	MERK
+232747	MICKLE
+232835	PAIK
+233037	RUDAS
+233045	SAAM
+233164	SPEER
+233294	TIKE
+233311	TOOM
+233330	TREEN
+233338	TROW
+233354	TIKE

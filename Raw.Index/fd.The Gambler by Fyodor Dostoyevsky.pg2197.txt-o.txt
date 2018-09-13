@@ -1,0 +1,608 @@
+90	Maria Philipovna
+140	Monsieur Mezentsov
+168	Polina Alexandrovna
+335	Mischa
+337	Nadia
+721	Blanche
+723	Maria Philipovna
+727	Polina Alexandrovna
+821	Blanche
+855	Blanche
+882	Monsieur
+1019	Maria Philipovna
+1039	Astley
+1220	Nizhni Novgorod
+1247	Polina
+1411	Polina Alexandrovna
+2042	Monsignor
+2634	Perovski
+2652	Maria Philipovna
+2682	Astley
+2692	Monsieur
+2728	Polina Alexandrovna
+2752	Polina
+2764	Nadia
+2777	Mischa
+2798	Polina
+2819	Polina
+2937	Timothy Petrovitch
+3101	Marquis
+3179	Marquis
+3218	La Baboulenka
+3311	Polina
+3353	Astley
+3486	Polina
+3548	Polina
+3566	Polina
+3689	Polina
+3867	Polina
+3884	Blanche
+3908	Grandmamma
+3917	Mlle. Blanche
+3928	Marquis
+4006	Nadia
+4472	Polina
+6733	Polina
+6794	Polina
+7059	Polina Alexandrovna
+7255	Polina
+8296	Polina
+8515	Marquis
+8633	Astley
+8639	Blanche
+8674	Astley
+8677	Astley
+8741	Blanche
+8761	Marquis
+8822	Polina
+8924	Blanche
+9117	Polina
+9119	Maria Philipovna
+9165	Marquis
+9209	Marquis
+9303	Mademoiselle
+9344	Mlle. Blanche
+9401	Polina
+9434	Astley
+9455	Polina
+9508	Astley
+9622	Astley
+9905	Polina Alexandrovna
+10465	Astley
+10691	Polina
+10723	Blanche
+10803	Polina
+12027	Gretchen
+12078	Gretchen
+12126	Gretchen
+12235	Hoppe
+12381	Hoppe
+12550	Polina
+12647	Marquis de
+12649	Griers
+12697	De Griers
+12775	Marquis
+12865	Mlle. Blanche
+12943	Polina
+13037	Polina Alexandrovna
+13471	Polina
+13733	Polina
+16074	Baroness
+16476	Baroness
+16633	Polina
+16638	Polina
+16822	De Griers
+16950	Baroness
+17208	Polina
+17255	Hein
+17328	Baroness
+17363	Hein
+17525	Baroness
+17576	Polina Alexandrovna
+17810	De Griers
+18108	Hein
+18241	De Griers
+18432	Monsieur le
+18434	Marquise
+18466	Baroness Burmergelm
+18652	Baroness
+18750	Baroness
+19385	Baron
+19707	Alexis Ivanovitch
+19851	Alexis Ivanovitch
+19854	Alexis Ivanovitch
+20084	Polina
+20217	Polina
+20288	Maria Philipovna
+20371	Maria Philipovna
+20551	Astley
+20575	De Griers
+20721	Astley
+20938	De Griers
+21019	Monsieur de
+21021	Griers
+21395	Monsieur de
+21397	Griers
+21792	Baroness
+21942	De Griers
+21958	Monsieur
+21960	Monsieur
+22015	Marquis
+22097	De Griers
+22347	De Griers
+22693	Monsieur de
+22695	Griers
+22718	Astley
+22767	Baron
+22789	Astley
+22806	Piebroch
+22833	Astley
+22850	Astley
+23120	Polina
+23229	POLINA
+23484	Monsieur de
+23486	Griers
+23675	Polina
+23796	Polina
+24011	Astley
+24100	Astley
+24185	Polina
+24229	Astley
+24245	Polina
+24396	Astley
+24483	Marquis
+24599	Polina
+24626	De Griers
+24639	Astley
+24710	Astley
+24784	Polina
+24865	Polina
+24910	Astley
+25049	Polina
+25052	Astley
+25075	Polina
+25184	Astley
+25277	De Griers
+25319	De Griers
+25354	Polina
+25370	Polina
+25469	Blanche de
+25471	Cominges
+25520	Astley
+25590	Polina
+25605	Blanche
+25658	Blanche
+25689	Blanche
+25704	Widow de
+25706	Cominges
+25722	De Griers
+25790	De Griers
+25814	Marquis
+25838	Blanche
+25954	Blanche
+26029	Zelma
+26092	Zelma
+26146	Zelma
+26282	Mlle. Zelma
+26335	Prince
+26344	Zelma
+26401	Baron Burmergelm
+26456	Baroness
+26506	Zelma
+26609	De Griers
+26720	Polina
+26767	Astley
+26898	Polina
+26912	De Griers
+26992	Polina
+27054	Polina
+27176	de Cominges
+27193	Polina
+27322	Astley
+27445	Astley
+27526	Polina
+27571	Polina
+27610	Alexis Ivanovitch
+27770	Astley
+27773	Alexis Ivanovitch
+27776	Alexis Ivanovitch
+27949	Antonida Vassilievna
+27951	Tarassevitcha
+28309	Alexis Ivanovitch
+28371	Antonida Vassilievna
+28596	Polina Alexandrovna
+28641	Antonida Vassilievna
+28649	Potapitch
+28727	Astley
+28738	Astley
+29147	Astley
+29177	De Griers
+29194	Astley
+29362	Polina
+29372	De Griers
+29375	Mlle. Blanche
+29389	Prince
+29480	De Griers
+29491	Prince
+29627	De Griers
+29645	Blanche
+29678	Polina
+29740	Astley
+29797	Antonida Vassilievna
+29955	Monsieur de
+29957	Griers
+29970	De Griers
+30099	Madame de
+30101	Cominges
+30181	De Griers
+30203	Blanche
+30216	Madame
+30627	Prascovia
+30646	Polina
+30715	Nicolai
+31191	Alexis Ivanovitch
+31202	Potapitch
+31223	Polina
+31307	Theodosia
+31357	Theodosia
+31419	Polina
+31437	Nilski
+31443	Polina
+31475	Astley
+31507	Astley
+31541	Polina
+31544	Polina
+31558	Astley
+31630	Astley
+31643	Polina
+31670	Astley
+31678	Astley
+31692	Polina
+31761	Grandmamma
+31881	De Griers
+31910	Alexis Ivanovitch
+31930	Polina
+31932	Monsieur de
+31934	Griers
+31962	De Griers
+32090	Mlle. Blanche
+32115	Madame de
+32117	Cominges
+32396	Princesse de
+32398	Tarassevitcheva
+32944	Alexis Ivanovitch
+33230	Alexis Ivanovitch
+33444	Potapitch
+33520	Potapitch
+33532	Alexis Ivanovitch
+33693	Alexis Ivanovitch
+33871	Prascovia
+33892	Grandmamma
+33920	Polina
+33927	Martha
+33971	Potapitch
+34122	Alexis Ivanovitch
+34129	De Griers
+34421	Polina
+34509	Astley
+34538	Potapitch
+34540	Martha
+34542	Potapitch
+34566	Martha
+34594	De Griers
+34669	De Griers
+34689	De Griers
+34702	Prince
+35653	Martha
+35655	Potapitch
+35669	Polina
+35672	De Griers
+36085	Potapitch
+36088	Sortez
+36793	Potapitch
+36795	Potapitch
+37093	Alexis Ivanovitch
+37259	Martha
+37272	Potapitch
+37374	Rien
+37611	Monsieur
+37637	Douze
+37639	Douze
+38064	Potapitch
+38112	Alexis Ivanovitch
+38417	Astley
+38433	De Griers
+38468	De Griers
+38485	Blanche
+38594	Martha
+38613	Martha
+38640	Potapitch
+38642	Martha
+38673	Alexis Ivanovitch
+38834	Mlle. Blanche
+38851	Blanche
+38871	De Griers
+38931	Alexis Ivanovitch
+39027	Alexis Ivanovitch
+39154	De Griers
+39194	Alexis Ivanovitch
+39374	De Griers
+39455	Astley
+39521	Theodosia
+39542	Theodosia
+39544	Martha
+39566	Martha
+39572	Potapitch
+39626	Potapitch
+39642	Holy Mother
+39644	of God
+39719	Alexis Ivanovitch
+39947	De Griers
+39977	Blanche
+40035	Polina
+40162	De Griers
+40344	Polina
+40532	Polina
+40560	Polina
+40767	Polina
+40786	Polina Alexandrovna
+40865	Astley
+40897	Astley
+40932	Astley
+41210	De Griers
+41215	Blanche
+41308	Blanche
+41352	De Griers
+41404	Mlle. Blanche
+41461	Alexis Ivanovitch
+41524	De Griers
+41804	De Griers
+41819	Blanche
+41830	Alexis Ivanovitch
+41906	De Griers
+41963	Monsieur de
+41965	Griers
+41992	De Griers
+42172	Alexis Ivanovitch
+42237	de Cominges
+42302	Potapitch
+42331	Potapitch
+42349	Potapitch
+42392	De Griers
+42574	Baroness Burmergelm
+42610	Martha
+43938	De Griers
+43941	Mlle. Blanche
+43949	Polina
+43952	Astley
+44003	De Griers
+44044	De Griers
+44235	De Griers
+44615	Alexis Ivanovitch
+44923	De Griers
+44951	Blanche
+45045	Prince
+45067	De Griers
+45329	De Grier
+45447	De Griers
+45487	De Griers
+45638	Martha
+45669	Potapitch
+45706	Potapitch
+45808	Alexis Ivanovitch
+45919	De Griers
+45924	Blanche
+45964	Polina
+46016	De Griers
+46040	Blanche
+46093	Elle
+46130	Alexis Ivanovitch
+46168	De Griers
+46186	Martha
+46189	Polina
+46290	Polina
+46296	Blanche
+46440	De Cominges
+46501	Prascovia
+46572	Katerina
+46624	Polina
+46706	Polina
+46815	Grandmamma
+46867	Polina
+47029	Grandmamma
+47096	Polina
+47186	Polina
+47320	Polina
+47354	Polina
+47383	Polina
+47406	Alexis Ivanovitch
+47521	Potapitch
+47578	Polina
+47598	Polina
+47623	Astley
+47643	Astley
+47767	Alexis Ivanovitch
+47987	Potapitch
+48011	Astley
+48033	Potapitch
+48105	Potapitch
+48199	Potapitch
+48571	Polina
+48880	M. Paul
+48882	de Kock
+49552	Potapitch
+50249	Potapitch
+50346	Potapitch
+50446	De Griers
+50552	Blanche
+50729	De Griers
+50766	De Griers
+50918	Blanche
+50986	Astley
+51132	Polina
+51305	Quatre Saisons
+51395	Polina
+51516	Astley
+51522	Polina
+51584	Polina
+52096	Astley
+52129	Polina Alexandrovna
+52428	Alexis Ivanovitch
+52806	Blanche
+52864	De Griers
+53010	Polina
+53166	Potapitch
+53212	Martha
+53250	Alexis Ivanovitch
+53447	Astley
+53511	Alexis Ivanovitch
+53646	Martha
+53726	Polina
+53751	De Griers
+53760	Polina
+53855	Prascovia
+54028	Prince
+54304	De Griers
+54369	Mademoiselle
+54811	Polina
+55013	Polina
+55084	De Griers
+55248	Astley
+55372	Astley
+56472	Madame Blanchard
+57895	Monsieur
+58415	Polina
+58556	Polina
+58685	Polina
+58789	De Griers
+58934	Polina
+59156	De Griers
+59552	Astley
+59730	Grandmamma
+59772	Astley
+59946	De Griers
+59972	De Griers
+60094	Polina
+60152	Polina
+60259	Polina
+60566	De Griers
+60729	De Griers
+60779	Polina
+60837	Polina
+60928	Fraulein
+61039	Mlle. de
+61041	Cominges
+61130	Karl
+61174	Astley
+61229	Polina
+61297	Astley
+61419	Astley
+61441	Polina
+61500	Astley
+61616	Astley
+61647	Astley
+61748	Polina
+61867	Polina
+61949	Polina
+61977	Astley
+62035	Widow de
+62037	Cominges
+62083	Blanche
+62094	Viens
+62282	Corneille
+62452	Blanche
+62816	Polina
+62828	Astley
+62979	Widow de
+62981	Cominges
+63107	Astley
+63135	Blanche
+63207	Hortense
+63392	Astley
+63819	Hortense
+63821	Lisette
+63823	Cleopatre
+63968	Blanche
+64083	Blanche
+64171	Blanche
+64653	Blanche
+64936	Albert
+65135	Hortense
+65151	Therese Philosophe
+65238	Blanche
+65269	Blanche
+65516	Blanche
+65739	Blanche
+65847	Blanche
+65987	Blanche
+66089	Blanche
+66100	Albert
+66241	Blanche
+66638	Astley
+66677	Blanche
+66873	Blanche
+66927	Blanche
+67136	Polina
+67192	De Griers
+67265	Blanche
+67292	Blanche
+67336	Astley
+67532	Albert
+67598	Albert
+67605	Hortense
+67607	Cleopatre
+67634	Blanche
+67641	Blanche
+67677	Blanche
+67748	Blanche
+67954	Zagorianski
+67956	Zagozianski
+68006	Blanche
+68010	Blanche
+68251	Astley
+68290	Roulettenberg
+68730	Homburg
+68771	Heintze
+68832	Astley
+68835	Polina
+68883	Heintze
+68998	Baden
+69061	Baden
+69100	Polina
+69158	Blanche
+69782	Astley
+69984	Astley
+70271	Astley
+70362	Astley
+70573	Astley
+70734	Astley
+70897	Polina
+70967	Astley
+71118	Polina
+71162	Polina
+71192	Polina
+71209	Polina
+71282	Blanche
+71320	De Griers
+71403	Astley
+71411	Polina
+71460	Astley
+71533	Astley
+71577	Astley
+71680	Astley
+71853	De Griers
+71879	Astley
+72043	Monsieur de
+72045	Griers
+72085	De Griers
+72101	De Griers
+72166	De Griers
+72188	De Griers
+72197	De Griers
+72222	Astley
+72312	Polina
+72346	Astley
+72543	Astley
+72815	Astley
+73010	Polina
+73012	De Griers

@@ -1,0 +1,3793 @@
+220	John
+285	John
+566	Henry Lee
+624	Bevis
+807	Alice Lee
+950	Lee
+958	John
+971	Drycotts
+1163	Nehemiah Holdenough
+1220	Chaucer
+1687	Holdenough
+1793	Calvin
+2128	Prithee
+2369	Holdenough
+2410	-- Worthy
+2412	Alderman
+2449	Holdenough
+2503	Holdenough
+2726	Noll Cromwell
+3040	Jack Presbyter
+3116	Nehemiah Holdenough
+3142	Holdenough
+3746	David
+3768	Virgin
+4198	David
+4226	Oliver Cromwell
+4325	Rosamond
+4339	Godstow
+4737	Oliver
+4891	Jesse
+4924	Jacob Aston
+5113	Rosamond
+5197	Saxon
+5220	John
+5299	Joceline Joliffe
+5332	Joceline
+5462	Prelacy
+5495	Jehu
+5499	Nimshi
+5507	Baal
+5605	Henry
+5609	William
+5838	Henry Lee
+6965	Henry II.
+7000	Fuller
+7283	Vandyck
+7785	Alice
+7841	Charles Stewart
+7872	Alice Lee
+8071	Albert
+8079	Albert
+8156	Albert
+8188	Alice
+8196	Albert
+8204	Abney
+8216	Abney
+8236	Abney
+8264	Albert
+8271	Charles
+8273	Cromwell
+8283	Abney
+8348	Henry Lee
+8398	Everard
+8414	Everard
+8432	Everard
+8546	Alice
+8595	Everard
+8605	Alice
+8703	Everard
+8721	Alice Lee
+8750	Everard
+8915	Everard
+8945	Alice
+8988	Everard
+9060	Alice
+9093	Jack Presbyter
+9156	Everard
+9171	Alice
+9194	Everard
+9268	Everard
+9417	Alice
+9422	Henry Lee
+9438	Rood
+9623	Henry Lee
+9787	Will Shakspeare
+9808	Markham Everard
+9822	Alice
+9888	Markham Everard
+9951	Markham Everard
+10077	Alice
+10095	Shakspeare
+10129	Percy
+10164	Shakspeare
+10184	Henry Lee
+10337	Ben Jonson
+10401	Ben
+10435	Henry Lee
+10440	Knight
+10459	Alice
+10497	Saul
+10528	Alice
+10556	Henry
+10620	Alice
+10648	Henry
+10739	Alice
+10902	Alice
+10907	Henry
+11054	Henry
+11211	Henry
+11280	Alice
+11307	Desborough
+11344	Harrison
+11379	Bletson
+11390	Harrison
+11449	Noll
+11455	Adad
+11474	Bletson
+11681	Nick
+11702	Henry Lee
+11999	Henry
+12098	Charles Stewart
+12214	Alice
+12267	Henry
+12318	Henry
+12428	Asahel
+12433	Abner
+12454	Giah
+12552	Henry Lee
+12574	Alice
+12583	Joceline Joliffe
+12647	Henry
+12725	Bevis
+12792	Bevis
+12797	Henry
+12882	Henry
+12901	Alice
+12904	Bevis
+13034	Joceline
+13060	Alice
+13110	Joceline Joliffe
+13136	Joliffe
+13179	Alice
+13183	Joceline
+13192	Rosamond
+13229	Joceline
+13239	Alice
+13352	Robin
+13433	Joliffe
+13470	Alice
+13508	Alice
+13535	Alice
+13596	Joseph Tomkins
+13615	Joe
+13661	Joseph
+13823	Damme
+13836	JONES
+13838	Joseph Tomkins
+13841	Joliffe
+13871	Alice
+13921	Bevis
+14008	Joseph Tomkins
+14023	Joceline
+14479	Joe
+14508	Jerkins
+14522	Joceline
+14958	Alice
+14964	Joan
+14995	Henry
+15275	Green Jerkin
+15324	Joceline
+15383	Phil Hazeldine
+15397	Burford
+15601	Joceline
+15618	Henry
+15626	Rosamond
+15806	Joceline
+15859	Joceline
+15950	Longsword
+16316	Joceline
+16479	Martinmas
+16481	Whitsuntide
+16555	Joceline
+16804	Fair Rosamond
+16941	Henry
+16959	Rochecliffe
+16974	Rosamond
+17093	Rosamond
+17207	Rochecliffe
+17235	Norman of
+17237	Henry
+17252	Elizabeth
+17271	Henry of
+17273	Fair Rosamond
+17282	Henry Lee
+17361	Nehemiah Holdenough
+17392	Norman
+17725	Joceline
+18412	Stephen
+18456	Tudor
+18547	Joceline
+18603	Nebuchadnezzar
+18656	Joceline
+18763	Charles Stewart
+18827	King
+18913	Charles Stewart
+18923	James
+18929	Elizabeth
+18939	Henry
+18971	Joceline
+18975	Henry Lee
+19400	Holbein
+19548	Lee Victor
+19927	Joceline
+19994	Joceline
+20028	Joceline Joliffe
+20066	Phoebe
+20169	Joliffe
+20194	Phoebe
+20224	Phoebe
+20271	Phoebe
+20297	Alice
+20382	Phoebe
+20395	Phoebe
+20433	Phoebe
+20456	Joceline
+20460	Phoebe
+20482	Joceline
+20507	Phoebe
+20522	Joceline
+20552	Joceline
+20554	Phoebe
+20567	Cupid
+20808	Bannatyne
+20812	Hemmings
+20837	William Shakspeare
+20870	Joceline
+20909	James
+21100	Shakspeare
+21198	Tophet
+21234	William Waller
+21248	Rupert
+21395	Phoebe
+21475	Joceline
+21585	Phoebe
+21619	Joliffe
+21643	Phoebe
+21747	Phoebe
+21824	Phoebe
+21836	Joceline
+21931	-- Hie
+21936	Phoebe
+21940	Phoebe
+21950	Joceline
+21981	Shakspeare
+22004	Joliffe
+22021	Phoebe Mayflower
+22041	Bevis
+22071	Phoebe
+22114	Joceline
+22126	Phoebe
+22239	Joliffe
+22519	Yon
+22665	Henry Lee
+22671	Alice
+22685	Joceline Joliffe
+22805	Alice
+22952	Bevis
+22956	Joceline
+22973	Alice
+23000	Joceline
+23007	Alice
+23012	Henry
+23137	Alice
+23193	Bevis
+23216	Alice
+23239	Richard II
+23243	Henry of
+23245	Bolingbroke
+23272	Henry
+23283	Richard
+23306	Bevis
+23385	Alice
+23463	Phoebe Mayflower
+23506	Bevis
+23518	Henry
+23532	Phoebe
+23646	Henry Lee
+23655	Charles
+23705	Joceline
+23792	Joliffe
+23878	Joliffe
+23892	Henry
+24050	Markham Everard
+24080	Henry
+24185	Alice
+24259	Markham Everard
+24382	Markham Everard
+24488	Alice
+24503	Alice
+24546	Everard
+24727	Everard
+24778	Hamlet
+24836	Henry Lee
+24898	Henry
+24916	Mark
+24947	Everard
+25038	Mark
+25122	Mark
+25337	Alice
+25408	Henry
+25637	Jack of
+25639	Leyden
+25660	Markham
+25690	Henry
+25748	Henry
+25753	Everard
+25916	Henry Lee
+25940	Henry
+25944	Everard
+25991	Alice
+26012	Henry
+26138	Alice
+26177	Henry Lee
+26231	Everard
+26235	Alice
+26350	Regan
+26428	Alice
+26432	Everard
+26447	Henry
+26594	Henry
+26827	Henry
+26947	Alice
+26983	Henry Lee
+27054	Alice
+27105	Joceline
+27154	Phoebe Mayflower
+27194	Henry
+27206	Master Everard
+27231	Phoebe
+27244	Alice
+27252	Mark Everard
+27308	Goody Jellycot
+27374	Joceline
+27579	Mark
+27589	Alice
+27622	Marion
+27675	Rochecliffe
+27738	Noll
+27794	Alice
+27840	Phoebe
+27894	Dame Jellycot
+27919	Alice
+27932	Henry Lee
+28020	Charles
+28070	Phoebe
+28075	Dame Jellycot
+28094	Alice
+28137	Alice
+28144	Goody Jellycot
+28159	Phoebe
+28246	Saul
+28264	Markham Everard
+28390	Everard
+28500	Markham Everard
+28749	Oliver
+28763	Everard
+28808	Markham
+28868	Roger Wildrake
+28877	Everard
+28893	Lincoln
+28901	Markham
+28904	Wildgoose
+28949	Mark
+28973	Everard
+29029	Wildrake
+29070	Markham
+29083	Chloe
+29092	Wildrake
+29103	Everard
+29113	Wildrake
+29176	Henry Lee
+29293	Toledo
+29318	Andrew Ferrara
+29350	Wildrake
+29354	Everard
+29487	Wildrake
+29491	Markham
+29533	Orestes
+29549	David
+29551	Jonathan
+29589	Markham
+29691	Wildrake
+29779	Rupert
+29784	Wilmot
+29814	Wildrake
+29889	Everard
+29954	Mark
+30136	Everard
+30176	Noll
+30223	Everard
+30248	Wildrake
+30289	Dan
+30315	Thornhaugh
+30327	Wildrake
+30383	Everard
+30409	-- Zoons
+30412	Mark Everard
+30533	Everard
+30632	Wildrake
+30669	Everard
+30687	Markham Everard
+30766	Mark
+30830	Markham Everard
+30882	Wildrake
+30898	Everard
+30907	Wildrake
+30962	Everard
+30974	Victor Lee
+30985	Wildrake
+31030	Mark
+31098	Mark Everard
+31139	Chloe
+31188	Alice
+31220	Wildrake
+31294	Everard
+31390	Everard
+31395	Alice
+31461	Everard
+31551	Desborough
+31560	Everard
+31564	Joceline Joliffe
+31572	Desborough
+31623	Wildrake
+31696	Mark
+31875	Wildrake
+31917	Tom
+31962	Noll
+31973	Oliver
+31987	Noll
+31996	Waller
+32008	Oliver
+32067	Wildrake
+32126	Everard
+32144	Wildrake
+32266	Everard
+32285	Joceline
+32369	Wildrake
+32372	Everard
+32407	Desborough
+32424	Everard
+32492	George
+32546	Everard
+32612	Desborough
+32626	Desborough
+32661	Everard
+32736	Cromwell
+32793	Everard
+32928	Cromwell
+32946	Tomkins
+32959	Everard
+32970	Joceline
+32997	Victor Lee
+33026	Everard
+33080	Henry Lee
+33222	Alice
+33315	Henry Lee
+33335	Everard
+33367	Joceline
+33436	Henry Lee
+33455	Alice Lee
+33476	Everard
+33502	Everard
+33517	Alice
+33595	Alice
+33608	Joceline
+33675	Everard
+33922	Wildrake
+33976	Wildrake
+34007	Wildrake
+34078	Everard
+34103	Tomkins
+34155	Markham Everard
+34217	Wildrake
+34324	Mark
+34744	Markham Everard
+34883	HERBERT
+34886	Everard
+34936	Everard
+34951	Cromwell
+35046	Markham Everard
+35060	Cromwell
+35139	Oliver
+35242	Cromwell
+35283	Oliver
+35448	Cromwell
+35578	Everard
+35589	Cromwell
+35636	Oliver
+35709	Everard
+35736	Henry Lee
+35828	Everard
+35885	Cromwell
+35904	Everard
+35934	Cromwell
+36065	Cromwell
+36147	Everard
+36237	Cromwell
+36253	Henry Lee
+36556	Oliver
+36560	Charles
+36624	Wildrake
+36665	Everard
+36677	Everard
+36893	Markham
+37224	Markham Everard
+37343	Cromwell
+37407	Cromwell
+37469	Everard
+37531	Oliver Cromwell
+37689	Cromwell
+37767	Markham Everard
+37777	Cromwell
+37965	Everard
+37987	Wildrake
+38038	Everard
+38171	Mark
+38232	Wildrake
+38261	Wildrake
+38294	Markham
+38315	Wildrake
+38338	Noll
+38358	Roger Wildrake
+38455	Everard
+38514	Wildrake
+38666	Everard
+38692	Wildrake
+38795	Mark
+38904	Cromwell
+38952	Mark
+39012	Everard
+39130	Noll
+39248	Wildrake
+39391	Wildrake
+39452	Henry Lee
+39477	Cromwell
+39555	Markham
+39573	Everard
+39591	Oliver
+39631	Mark
+39635	Wildrake
+39655	Roger
+39773	Everard
+39835	Mark
+39842	Wildrake
+39872	Fletcher
+39892	Mills
+39900	Mark
+39943	Wildrake
+39947	Everard
+40201	Everard
+40221	George
+40282	Wildrake
+40352	Cromwell
+40409	Wildrake
+40458	Wildrake
+40603	Wildrake
+40622	Bess
+40679	Wildrake
+40842	Wildrake
+40882	Wildrake
+40973	Everard
+41035	George
+41137	Wildrake
+41159	Wildrake
+41244	Oliver
+41327	Wildrake
+41448	Wildrake
+41670	Wildrake
+41777	Ephraim
+41781	Ephraim Cobb
+41942	Wildrake
+41978	Oliver Cromwell
+42119	Cromwell
+42255	Cromwell
+42612	Cromwell
+42690	Wildrake
+42783	Wildrake
+42806	Cromwell
+42878	Wildrake
+42987	Wildrake
+42996	Markham Everard
+43011	Cromwell
+43095	Wildrake
+43146	Cromwell
+43207	Cromwell
+43386	Wildrake
+43401	Pearson
+43405	Cromwell
+43427	Pearson
+43446	Gordon
+43458	Overton
+43521	Pearson
+43645	Cromwell
+43668	Pearson
+43691	Pearson
+43702	Everard
+43819	Markham Everard
+43985	-- Nay
+44067	Markham Everard
+44172	Markham Everard
+44248	Henry Lee
+44423	Desborough
+44542	Roger Wildrake
+44867	Wildrake
+44884	Everard
+45011	Noll
+45080	Wildrake
+45092	Cromwell
+45111	Everard
+45126	Wildrake
+45178	Everard
+45211	Cromwell
+45218	Wildrake
+45255	Oliver
+45313	Haman
+45375	Everard
+45567	Haman
+46017	Esau
+46033	Esau
+46045	Wildrake
+46276	Henry Lee
+46312	Wildrake
+46326	Everard
+46351	Cromwell
+46433	Wildrake
+46472	Cromwell
+46487	Lee
+46492	Albert
+46540	Albert Lee
+46545	Wildrake
+46599	Markham Everard
+46622	Henry Lee
+46635	Wildrake
+46661	Charles Stewart
+46692	Albert Lee
+46790	Wildrake
+46822	Goring
+46934	Wildrake
+46996	Wildrake
+47055	Cromwell
+47086	Wildrake
+47174	Albert
+47190	Wildrake
+47279	Harrison
+47383	Wildrake
+47399	Cromwell
+47656	Charles Stewart
+47735	Cromwell
+47867	Wildrake
+47954	Charles Stewart
+47970	Lee
+48380	Desborough
+48402	Wildrake
+48577	Stewart
+48585	Lee
+48613	Markham Everard
+48776	Pearson
+48801	Wildrake
+48888	Charles the
+48890	Second
+48979	Wildrake
+49053	Cromwell
+49086	Wildrake
+49107	Cromwell
+49214	Wildrake
+49228	Cromwell
+49290	Wildrake
+49325	Antonio Vandyck
+49426	-- Lay
+49635	Pearson
+49704	Cromwell
+49910	Wildrake
+49949	Wildrake
+49972	Cromwell
+50197	Wildrake
+50320	Cromwell
+50343	Pearson
+50358	Wildrake
+50409	Pearson
+50411	Wildrake
+50421	Wildrake
+50507	Stewart
+50534	Charles Stewart
+50807	-- Wildrake
+50893	Wildrake
+50979	Everard
+50983	Wildrake
+51050	Everard
+51077	Everard
+51129	Wildrake
+51156	Everard
+51167	Mark
+51171	Wildrake
+51218	Mark Everard
+51255	Everard
+51495	Wildrake
+51549	Cromwell
+51617	Wildrake
+51670	Wildrake
+51733	Noll
+51817	Everard
+51823	Cromwell
+51880	Wildrake
+51891	Everard
+51967	Everard
+51998	Wildrake
+52086	Everard
+52119	Wildrake
+52207	Everard
+52245	Wildrake
+52334	Everard
+52538	Wildrake
+52550	Cromwell
+52899	Everard
+52930	Roger Wildrake
+53004	Everard
+53059	Wildrake
+53112	Everard
+53124	Master Holdenough
+53254	Everard
+53361	Tanquam Deus
+53376	Master Holdenough
+53394	Markham Everard
+53609	Everard
+53721	Master Edwards
+53758	Hannibal
+53801	Eli
+53963	Holdenough
+53990	Nehemiah Holdenough
+54132	Holdenough
+54242	Holdenough
+54252	Everard
+54260	Master Holdenough
+54379	Everard
+54432	Master Holdenough
+54592	Holdenough
+54680	Harrison
+54749	Holdenough
+54990	Holdenough
+55012	Cromwell
+55060	Everard
+55094	Wildrake
+55432	Holdenough
+55632	Holdenough
+55839	Harrison
+55850	Bletson
+55883	Bletson
+56104	Alderman Dutton
+56107	-- Alderman
+56109	Devil
+56112	Mayor
+56301	Everard
+56567	Master Holdenough
+56656	Master Holdenough
+56720	Bletson
+56745	Chase
+56865	Wildrake
+56921	Everard
+56998	Joshua Bletson
+57008	Littlefaith
+57105	Bletson
+57132	Harrison
+57187	Harrison
+57603	St. Anthony
+57970	Everard
+58002	Everard
+58039	Rosamond
+58085	Rosamond
+58297	Everard
+58327	Master Holdenough
+58401	Rosamond
+58533	Wildrake
+58569	Wildrake
+58630	Rosamond
+58719	Wildrake
+58757	Wildrake
+58896	Everard
+58908	Cromwell
+58954	Victor Lee
+58983	Wildrake
+58987	Everard
+59078	Rosamond
+59099	Queen Eleanor
+59102	Victor Lee
+59150	Wildrake
+59485	Nicholas
+59505	Everard
+59708	Wildrake
+59724	St. George
+59813	Everard
+59859	Everard
+60037	Lion
+60069	Everard
+60252	Everard
+60259	Desborough
+60261	Harrison
+60264	Bletson
+60356	Everard
+60363	Desborough
+60437	Bletson
+60454	Everard
+60478	Desborough
+60712	Desborough
+60761	Harrison
+60793	Cromwell
+60832	Harrison
+60865	Desborough
+61121	Harrison
+61266	Harrison
+61339	Everard
+61362	Cromwell
+61434	Bletson
+61608	Bletson
+61653	Prince Rupert
+61688	Bletson
+61758	Bletson
+61771	Harrington
+62017	Cromwell
+62099	Desborough
+62111	Cromwell
+62113	Harrison
+62122	Bletson
+62139	Bletson
+62208	Bletson
+62272	Harrington
+62276	Cromwell
+62348	Bletson
+62437	Bletson
+62701	Joshua Bletson
+62708	Littlefaith
+62745	Bletson
+62824	Bletson
+62942	Harrington
+62956	Bletson
+63078	Bletson
+63340	Bletson
+63387	Harrison
+63443	Everard
+63505	Harrison
+63519	Desborough
+63771	FLETCHER
+63774	Bletson
+63782	Everard
+63824	Harrison
+63855	Bletson
+63857	Everard
+63963	Everard
+63968	Desborough
+63971	Bletson
+64062	Everard
+64066	Harrison
+64111	Everard
+64143	Wildrake
+64301	Everard
+64352	Everard
+64395	Desborough
+64405	Noll
+64412	Cromwell
+64444	Bletson
+64561	Bletson
+64664	Holdenough
+64708	Bletson
+64768	Wildrake
+64818	Fore George
+64836	Desborough
+64856	Harrison
+64859	Bibbet
+64899	Everard
+64988	Bibbet
+65022	Gibbet
+65031	Gibeon
+65057	Gibbet
+65076	Everard
+65168	Desborough
+65173	George
+65184	Bletson
+65194	Wildrake
+65268	Bletson
+65465	Everard
+65722	Bletson
+65795	Bletson
+65841	Bletson
+65941	Master Holdenough
+65994	David
+66009	Harrison
+66156	Colonel Everard
+66176	Bletson
+66219	Desborough
+66271	Everard
+66365	Desborough
+66416	-- Desborough
+66506	Bletson
+66543	Rainsborough
+66568	Harrison
+66678	Desborough
+66777	Bletson
+66848	Desborough
+66948	Desborough
+66974	Everard
+67040	Desborough
+67079	Everard
+67231	Everard
+67252	Henry VIII.
+67420	Everard
+67545	Everard
+67746	Everard
+67790	Markham Everard
+67918	Everard
+67968	Markham Everard
+68029	Everard
+68054	Markham Everard
+68100	Everard
+68111	Alice Lee
+68166	Alice Lee
+68223	Everard
+68297	Henry
+68305	Alice
+68349	Markham
+68492	Alice
+68548	Bletson
+68557	Harrison
+68587	Everard
+68772	Everard
+69016	Everard
+69166	Alice
+69285	Alice Lee
+69308	Everard
+69401	Everard
+69468	Markham Everard
+69649	Alice
+69776	Everard
+69810	Everard
+69812	Mark Everard
+69857	Everard
+69881	Wildrake
+69919	Bletson
+69931	Harrison
+69968	Everard
+70023	Wildrake
+70050	Wildrake
+70131	Markham
+70148	Everard
+70210	Wildrake
+70248	Everard
+70310	Mark
+70346	Roger Wildrake
+70414	Everard
+70491	Everard
+70526	Everard
+70570	Everard
+70616	HENRY VIII
+70620	Everard
+70698	Everard
+70750	Joliffe
+70757	Markham Everard
+71228	Alice Lee
+71275	Everard
+71346	Alice
+71361	Henry Lee
+71523	Wildrake
+71528	Everard
+71540	Henry Lee
+71577	Bevis
+71596	Everard
+71603	Wildrake
+71611	Joceline
+71618	Joan
+71645	Joan
+71681	Joceline
+71685	Bevis
+71692	Joan
+71741	Everard
+71814	Henry Lee
+71935	Alice Lee
+72028	Everard
+72090	Everard
+72188	Everard
+72267	Everard
+72275	Alice
+72344	Everard
+72539	Alice
+72672	Everard
+72712	Charles
+72803	Wildrake
+72878	Everard
+72896	Henry Lee
+72902	Alice
+72971	Henry
+72980	Everard
+73035	Everard
+73169	Everard
+73200	Henry
+73345	Everard
+73429	Henry
+73543	Harry Lee
+73614	Everard
+73734	Kinsman
+73845	Abraham
+73858	Loyal Lee
+73950	Alice
+73954	Everard
+73996	Joan
+74036	Everard
+74039	Alice
+74082	Alice
+74128	Everard
+74179	Everard
+74234	Everard
+74251	Markham
+74275	Alice
+74402	Markham Everard
+74425	Alice
+74433	Everard
+74445	Markham Everard
+74466	Everard
+74488	Everard
+74494	Cromwell
+74609	Alice
+74738	Markham
+74779	Cromwell
+74985	Everard
+75054	Markham
+75085	Wildrake
+75207	Everard
+75211	Joceline
+75297	Alice
+75356	Cromwell
+75407	Alice
+75494	Wildrake
+75522	Mark
+75594	Everard
+75669	Wildrake
+75682	Alice Lee
+75700	Mark
+75750	Tom
+75777	Everard
+75797	Lee
+75813	Everard
+75840	Noll
+75850	Wildrake
+75925	Chloe
+75974	Everard
+76041	Gadzo
+76091	Majesty
+76114	Alice
+76119	Everard
+76156	Alice
+76185	Everard
+76202	Cromwell
+76271	Wildrake
+76302	Everard
+76319	Roger Wildrake
+76345	Wildrake
+76348	Markham Everard
+76363	Colchester
+76436	Everard
+76482	Cromwell
+76488	Man
+76515	Wildrake
+76535	Charles
+76537	-- Moon
+76585	Henry Lee
+76609	Wildrake
+76646	Wildrake
+76720	Everard
+76723	Charles
+76768	Markham Everard
+76785	Wildrake
+76789	Everard
+76820	Man
+76824	Cromwell
+76957	Wildrake
+77066	Everard
+77073	Wildrake
+77125	Grayless
+77139	Bunce
+77180	Everard
+77230	Wildrake
+77337	Everard
+77431	Everard
+77461	Lucifer
+77528	Wildrake
+77646	Joseph Tomkins
+77668	Harrison
+77680	Everard
+77703	Everard
+77739	Everard
+77874	Harrison
+77935	Prince Rupert
+78019	Everard
+78045	Harrison
+78122	Everard
+78255	Everard
+78399	Everard
+78482	Bletson
+78621	Bibbet
+78711	Harrison
+78759	Everard
+78796	Joe
+79006	Harrison
+79022	Harrison
+79160	Wildrake
+79252	Everard
+79282	Devil
+79472	Everard
+79667	Wildrake
+79673	Everard
+79714	Dick Robison
+79770	Charles
+79813	Everard
+79892	Harrison
+79905	Everard
+80099	Harrison
+80207	Wildrake
+80228	Harrison
+80235	Dick
+80245	Everard
+80634	Everard
+80674	Roger Wildrake
+80717	Dick
+80765	Wildrake
+80787	Harrison
+80877	Everard
+80898	Everard
+80921	Harrison
+80947	Wildrake
+80962	Markham
+80999	Everard
+81025	Wildrake
+81099	Everard
+81121	George
+81148	Harrison
+81279	Everard
+81283	Harrison
+81383	Everard
+81438	Everard
+81452	Wildrake
+81463	Everard
+81492	Harrison
+81543	Desborough
+81565	Everard
+81648	Jezer
+81683	Everard
+81694	Everard
+81698	Harrison
+81806	Everard
+81894	Purchas
+81915	Harrison
+81969	Everard
+81983	Harrison
+82076	Harrison
+82099	-- Tomkins
+82108	Everard
+82136	Harrison
+82144	Everard
+82164	Everard
+82232	Master Everard
+82237	Harrison
+82330	Oliver
+82565	Harrison
+82569	Everard
+82694	Everard
+82817	Everard
+82848	Harrison
+82873	Everard
+82954	Everard
+83007	Everard
+83012	Desborough
+83065	Wildrake
+83097	Everard
+83148	Desborough
+83186	Harrison
+83276	Everard
+83341	Zedekiah
+83343	Jonathan
+83358	Nicodemus
+83383	Everard
+83470	Everard
+83520	Everard
+83531	Bletson
+83544	Desborough
+83601	Harrison
+83629	Harrison
+83639	Everard
+83659	Desborough
+83701	Everard
+83728	Desborough
+83732	Harrison
+83758	Everard
+83794	Harrison
+83832	Bletson
+83866	Bletson
+83870	Everard
+83894	Desborough
+83934	Everard
+83946	Victor Lee
+84048	Desborough
+84125	Everard
+84134	Bletson
+84197	Everard
+84281	Wildrake
+84342	Everard
+84373	Victor Lee
+84391	Wildrake
+84510	Mark
+84583	Harrison
+84593	Bletson
+84627	Harrison
+84630	Bletson
+84656	Everard
+84776	Wildrake
+84813	Everard
+84869	Wildrake
+84895	Joe
+85007	Everard
+85319	Harrison
+85351	Harrison
+85551	Everard
+85652	Wildrake
+85673	Markham Everard
+85692	Markham Everard
+85755	Victor Lee
+85905	Harrison
+86093	Victor Lee
+86201	-- Tush
+86368	Everard
+86552	Everard
+86608	Wildrake
+86701	Roger Wildrake
+86709	Everard
+86765	Alice Lee
+86820	Everard
+86874	Everard
+87104	Everard
+87301	Colonel Everard
+87345	Victor Lee
+87401	Everard
+87450	Everard
+87530	Everard
+87583	Everard
+87730	Henry Lee
+87812	Victor Lee
+88056	Roger Wildrake
+88061	Everard
+88073	Roger Wildrake
+88085	Roger Bacon
+88190	Wildrake
+88255	Everard
+88272	Wildrake
+88298	Everard
+88305	Wildrake
+88334	Mother Redcap
+88379	Everard
+88447	Everard
+88454	Wildrake
+88467	Everard
+88511	Wildrake
+88550	Everard
+88560	Henry Lee
+88652	Harrison
+88657	Bletson
+88684	Everard
+88700	Wildrake
+88724	Everard
+88789	Lee
+88828	Wildrake
+88902	Henry Lee
+88913	Everard
+89038	Wildrake
+89327	Everard
+89404	Victor Lee
+89446	Markham Everard
+89710	Victor Lee
+89943	Victor Lee
+89991	Wildrake
+90108	James
+90186	Everard
+90197	Wildrake
+90221	Wildrake
+90232	Mark
+90318	Joceline
+90328	Henry Lee
+90395	Wildrake
+90466	Wildrake
+90506	Henry
+90508	Alice
+90565	Wildrake
+90578	Henry
+90580	Alice Lee
+90606	Henry
+90608	Joceline
+90681	Wildrake
+90789	Everard
+90858	Lunford
+90860	Goring
+90979	Roger
+91057	Everard
+91169	Everard
+91184	Mark
+91192	Wildrake
+91222	Holdenough
+91582	Harrison
+91598	Everard
+91682	Harrison
+91692	Master Tomkins
+91726	Everard
+91733	Harrison
+91763	Bletson
+91789	Everard
+91840	Noll
+92016	Bletson
+92122	Everard
+92161	Bletson
+92182	Chaucer
+92214	Desborough
+92231	Hearne
+92241	Bletson
+92257	Everard
+92297	Desborough
+92356	Everard
+92360	Bletson
+92374	Desborough
+92377	Geoffrey
+92450	Everard
+92473	Chaucer
+92500	Bletson
+92511	Lucretius
+92515	Lucretius
+92536	Everard
+92545	Lucretius
+92560	Lucretius
+92582	Bletson
+92609	Lucretius
+92625	Bletson
+92655	Gibeon
+92667	Juvenal
+92678	Judaei
+92723	Everard
+92730	Bletson
+92768	Bletson
+92911	Everard
+92938	Everard
+92958	Master Bletson
+93066	Desborough
+93142	Bletson
+93255	Bletson
+93270	Desborough
+93353	Bletson
+93494	Desborough
+93553	Harrison
+93557	Everard
+93580	Desborough
+93607	Desborough
+93620	Noll
+93647	Oliver
+93658	Cromwell
+93688	Noll Cromwell
+93817	Noll
+93833	Bletson
+94000	Colonel Desborough
+94014	Everard
+94036	Everard
+94043	Desborough
+94108	Bletson
+94218	Harrison
+94241	Everard
+94293	Everard
+94590	Everard
+94690	Harrison
+94703	Markham Everard
+94712	Cromwell
+94818	Cromwell
+94875	Cromwell
+94965	Cromwell
+94973	Selah
+94985	Desborough
+95014	Bletson
+95043	Everard
+95062	Harrison
+95100	Everard
+95263	Everard
+95276	Cromwell
+95293	Wildrake
+95335	Harrison
+95338	Desborough
+95341	Master Bletson
+95348	Littlefaith
+95426	Desborough
+95470	Harrison
+95622	Bletson
+95689	Oliver
+95836	Desborough
+95861	Bletson
+95897	Harrison
+95963	Everard
+96260	Everard
+96269	Master Holdenough
+96332	Everard
+96456	Everard
+96508	Holdenough
+96530	Master Everard
+96544	Everard
+96585	Everard
+96864	Arians
+96977	Everard
+97225	Purefoy
+97498	Harrison
+97727	Harrison
+97783	Harrison
+97819	Everard
+97958	Baal
+97977	Baal
+98336	Master Everard
+98371	Everard
+98431	Holdenough
+98550	Everard
+98555	Everard
+98589	Everard
+98654	Baal
+98944	David
+98946	Jonathan
+98952	Michael Hudson
+98962	Charles I.
+98980	Rochecliffe
+99010	Charles I.
+99015	John Ashburnham
+99111	Peck
+99113	Desiderata Curiosa
+99129	Kenneth
+99168	Wood
+99179	Hudson
+99304	Hudson
+99401	Peck
+99428	Egborough
+99433	Spinks
+99444	Walker
+99480	Egborough
+99493	Walker
+99558	Everard
+99668	Everard
+99686	Master Holdenough
+99892	Everard
+99922	Joseph Albany
+99953	Holdenough
+99983	Everard
+100065	Everard
+100069	Holdenough
+100189	Bletson
+100260	Everard
+100433	Gath
+100518	Everard
+100571	Everard
+100585	Elias
+100809	Everard
+101075	Joseph Albany
+101128	Athenodorus
+101402	Joseph Albany
+101407	Holdenough
+101586	Everard
+101685	Davie Leslie
+101920	Demas
+102008	Henry Lee
+102053	Markham Everard
+102132	Henry Lee
+102297	Everard
+102301	Holdenough
+102492	Everard
+102600	Everard
+102794	Joseph
+102802	Ephraim
+102832	Baal
+102846	Baal
+102865	Everard
+102952	Everard
+103197	Everard
+103348	Joceline
+103403	Holdenough
+103439	Markham
+103449	Adam
+103484	Everard
+103591	Everard
+103792	Everard
+103866	Holdenough
+104085	Nehemiah Holdenough
+104187	Everard
+104344	Roger Wildrake
+104391	Henry Lee
+104463	Everard
+104668	Holdenough
+104782	Wildrake
+104831	Henry Lee
+104859	Joceline Joliffe
+104863	Phoebe
+104868	Joan
+104887	Henry Lee
+105000	Davie Leslie
+105023	Joceline
+105069	Will Shakspeare
+105085	Lees
+105134	Joliffe
+105210	Joan
+105369	Rosamond
+105374	Alice
+105416	Henry
+105425	Joceline
+105513	Joceline
+105686	Henry
+105736	Hamlet
+105883	Henry
+106131	Henry
+106216	Henry
+106261	Joceline
+106442	Henry Lee
+106487	Joliffe
+106541	Joceline
+106547	Joceline
+106575	Joceline
+106589	Joceline
+106603	Saunders Gardner
+106635	Henry
+106690	Joceline
+106787	Alice
+106842	Rosamond
+106860	Markham
+106956	Everard
+107060	Alice
+107118	Alice Lee
+107273	Rosamond
+107277	Alice Lee
+107407	Lady of
+107409	Lee
+107530	Alice
+107653	Alice
+107703	Alice Lee
+107847	Alice
+107898	Joceline
+107961	Alice
+108025	Alice
+108101	Alice
+108231	Alice
+108267	Alice
+108306	Alice
+108415	Bevis
+108626	Alice Lee
+108641	Bevis
+108663	Henry Lee
+108706	Lees
+108752	Alice Lee
+108991	Alice
+109056	Alice
+109112	Alice
+109210	Alice
+109403	Alice
+109424	-- Joceline
+109444	Alice Lee
+109462	Bevis
+109489	Joliffe
+109504	Joceline
+109536	Alice
+109583	Rosamond
+109606	Joceline
+109634	Alice
+109747	Alice
+109786	Joceline
+109806	Alice
+109850	Alice
+109952	Joceline
+109958	Alice
+110040	Joceline
+110103	Joceline
+110129	Mistress Alice
+110167	Alice
+110191	Alice Lee
+110223	Joceline
+110227	Rosamond
+110261	Joceline
+110356	Henry
+110405	Mark Everard
+110425	Alice
+110450	Henry Lee
+110568	Michael
+110582	Phoebe
+110593	Henry
+110629	Charles
+110677	Noll
+110752	Joceline
+110823	Michael
+110854	-- Quoit
+110861	Joceline
+110867	Galloway
+110937	Joceline
+110956	Joceline
+111010	Joceline
+111082	Michael
+111140	Michael
+111172	Alice
+111178	Joan
+111238	Alice
+111272	Alice
+111276	Joceline
+111426	Joceline
+111545	Joceline
+111631	Bevis
+111810	Joceline
+111868	Wildrake
+112032	Alice
+112075	Alice
+112126	Alice
+112208	Rosamond
+112258	Cavaliero Wildrake
+112302	Bevis
+112335	-- ``
+112337	Alice
+112372	Alice
+112448	Bevis
+112465	Lee
+112490	Henry
+112508	Joceline
+112519	-- Bevis
+112529	Bevis
+112549	Henry
+112552	Michael
+112566	Alice
+112569	Joceline
+112578	Bevis
+112618	Alice
+112644	Bevis
+112653	Joceline
+112763	Joceline
+112826	Albert Lee
+112905	Albert
+112947	Joceline
+113014	Henry
+113058	Alice
+113130	Albert
+113213	Alice
+113258	Henry
+113277	Albert
+113295	Alice
+113323	Alice
+113328	Alice
+113477	Albert Lee
+113643	Albert Lee
+113666	Joceline
+113676	Alice
+113721	Albert
+113790	Alice
+113858	Albert
+113877	Henry
+113925	Henry
+114113	Joceline
+114339	Albert
+114402	Bevis
+114420	Henry
+114440	Albert
+114457	Henry
+114595	Alice
+114619	Henry
+114694	Alice
+114756	Albert
+114814	Jacob
+114890	Henry
+114923	Albert
+114976	Cromwell
+115048	Albert
+115078	God
+115114	Albert
+115222	Henry
+115239	Charles
+115311	Henry Lee
+115363	Victor Lee
+115373	Albert
+115394	Albert
+115446	Rochecliffe
+115469	Joceline
+115480	Albert
+115537	Phoebe
+115617	Albert
+115628	Henry
+115731	Henry
+115754	Lee
+115845	Albert
+115863	Albert
+115974	Albert
+116044	Joceline
+116116	Henry
+116161	Albert --
+116163	`` Kerneguy
+116169	Louis Kerneguy
+116176	Killstewers
+116186	Killstewers
+116249	Rochecliffe
+116278	Louis Kerneguy
+116289	Joceline
+116291	Phoebe
+116482	Rochecliffe
+116540	Albert
+116553	Henry Lee
+116673	Alice
+116705	Rochecliffe
+116879	Henry
+117096	Henry
+117234	Kernigo
+117315	Albert
+117331	Henry
+117595	Joceline
+117612	Henry Lee
+117621	Charles
+117711	Albert
+117783	Joceline
+117807	Joceline
+117828	Joceline
+117836	Albert Lee
+117840	Alice
+117889	Joceline Joliffe
+118197	Cromwell
+118289	Joliffe
+118318	Roger Wildrake
+118332	Everard
+118584	Wildrake
+118663	Everard
+118685	Victor Lee
+118778	Henry Lee
+118822	Henry Lee
+118906	Markham Everard
+118913	Everard
+118939	Henry
+118978	Henry
+119176	Wildrake
+119247	Albert
+119249	Alice
+119328	Wildrake
+119364	Henry Lee
+119384	Henry Lee
+119420	Roger Wildrake
+119425	Lincoln
+119444	Lunsford
+119451	Goring
+119515	Wildrake
+119524	Henry
+119554	Albert
+119605	Albert
+119611	Rochecliffe
+119689	Wildrake
+119693	Albert
+119772	Everard
+119775	Everard
+119823	Wildrake
+119869	Lee
+119899	Wildrake
+120012	Henry
+120112	Lunford
+120148	Henry
+120152	Wildrake
+120163	Lunsford
+120177	Henry
+120294	Wildrake
+120343	Gad
+120519	Wildrake
+120580	Gad
+120599	Prince Rupert
+120611	Gad
+120745	Gad
+121017	Henry
+121031	Lacy
+121125	Alice Lee
+121171	Wildrake
+121230	Zooks
+121323	Albert
+121343	Henry
+121382	Louis Kerneguy
+121391	Killstewers
+121425	Wildrake
+121436	Louis Girnigo
+121443	Kilsteer
+121475	Andrew Ferraras
+121545	Wildrake
+121665	Albert Lee
+121700	Wildrake
+121844	Albert
+121883	Wildrake
+121922	Wildrake
+122029	Albert
+122049	Albert
+122080	Henry
+122085	Rochecliffe
+122163	Wildrake
+122211	Henry
+122270	Alleyn
+122272	Hemmings
+122351	Rochecliffe
+122414	Charles
+122460	Charles
+122498	Dukes
+122501	Earls
+122514	Charles
+122539	Henry
+122544	Wildrake
+122646	Henry Lee
+122659	Henry
+122670	Lunsford
+122696	Noll
+122713	Joceline
+122717	Albert
+122741	Young Lee
+122785	Alice
+122935	Ben Jonson
+122947	Albert
+122987	Louis
+123006	Joceline
+123022	Rochecliffe
+123050	Richard
+123070	Albert
+123077	Joceline
+123217	Albert
+123231	Joceline
+123307	Joliffe
+123322	Albert Lee
+123429	Albert
+123521	Albert
+123547	Albert
+123678	Albert
+123707	Louis Kerneguy
+123821	Norman
+123826	Rosamond Clifford
+123863	Albert
+123883	Lee
+123936	Albert
+123974	Henry
+124031	Albert
+124071	Albert
+124143	Albert
+124201	Earl
+124226	Henri Quatre
+124246	Rosamond
+124249	La Belle
+124251	Gabrielle
+124327	Charles
+124357	Badenoch
+124459	Albert Lee
+124556	Gad
+124620	Louis Kerneguy
+124706	Albert
+124795	-- Oddsfish
+124845	John Gillespie
+124888	Oxon Knight
+124930	Norton
+124968	Albert
+125053	Charles
+125196	Alice
+125235	Albert Lee
+125248	Albert
+125274	Charles
+125375	Albert
+125452	Albert
+125472	Albert
+125536	Markham Everard
+125589	Albert
+125637	Alice
+125743	Edward
+125747	Edward the
+125749	Fourth
+125761	Cromwell
+125818	Alice
+125856	Albert
+125918	Lee
+125925	Charles
+125935	Albert
+125998	Albert Lee
+126004	Charles
+126034	Lee
+126071	Charles Stewart
+126104	Alice Lee
+126130	Albert
+126205	Henry
+126226	Albert
+126246	Colonel Lee
+126292	Prince
+126347	Alice Lee
+126387	Albert
+126411	Joceline Joliffe
+126450	Louis Kerneguy
+126532	Rochecliffe
+126550	Albert
+126664	Rochecliffe
+126668	Albert
+126781	Charles
+126793	Henry Lee
+126849	Charles
+126853	Rochecliffe
+126861	Lee
+127020	Cromwell
+127030	Everard
+127063	Henry
+127073	Alice
+127104	Albert
+127124	Rochecliffe
+127129	Lee
+127136	Henry
+127225	Charles
+127253	-- Everard
+127297	Albert
+127307	Markham
+127338	Louis Kerneguy
+127421	Charles
+127430	Albert
+127502	Everard
+127580	Charles
+127622	Rochecliffe
+127644	Albert Lee
+127719	Lees
+127722	Albert Lee
+127740	Charles
+127812	Nicholas Threlkeld
+127865	WORDSWORTH
+127869	Prince
+127916	Rochecliffe
+127995	Lee
+128040	Rochecliffe
+128114	Albert
+128172	Deane
+128234	Lee
+128305	Albert
+128313	Rochecliffe
+128326	Joliffe
+128476	Albert Lee
+128508	Charles
+128631	Joceline Joliffe
+128660	Rochecliffe
+128670	Bevis
+128789	Albert
+128805	Rochecliffe
+128875	Rochecliffe
+129065	Albert
+129114	Bevis
+129159	Albert Lee
+129185	Joceline
+129239	Bevis
+129268	Albert
+129351	Albert
+129513	John Owen
+129534	Challoner
+129550	Albert
+129621	Albert
+129894	Lee
+129901	Rochecliffe
+130050	Albert
+130209	Joceline Joliffe
+130304	Joceline
+130311	Albert
+130378	Markham Everard
+130397	Rochecliffe
+130433	Albert
+130442	Markham
+130512	Albert
+130566	Albert
+130570	Rochecliffe
+130573	Roger Wildrake
+130621	Albert
+130817	Albert Lee
+130922	Rochecliffe
+131060	Albert
+131108	Rochecliffe
+131191	Albert
+131267	Louis Kerneguy
+131287	Albert
+131344	Victor Lee
+131389	Albert Lee
+131446	Rochecliffe
+131453	Joceline
+131501	Albert
+131582	Henry Lee
+131637	Albert Lee
+131692	Joceline
+131765	Scot
+131801	Albert
+131866	Victor Lee
+131871	Joliffe
+132021	Louis Kerneguy
+132207	Joceline
+132491	Albert Lee
+132566	Marquis
+132583	Alice
+132612	Desdemona
+132675	Alice
+132779	Henry Lee
+132783	Alice
+132795	Albert
+132834	Phoebe
+132896	Rosamond
+132898	Louis Kerneguy
+132943	Albert
+133076	Albert
+133108	Oddsfish
+133149	Albert
+133201	Albert
+133323	Louis
+133330	Bevis
+133414	Albert
+133455	Holland
+133509	Louis
+133518	Albert Lee
+133569	Henry
+133586	Louis
+133602	Henry
+133671	Louis
+133757	Master Kerneguy
+133808	Louis
+133859	Albert Lee
+133874	Charles
+133883	Albert
+133894	Alice
+133916	Albert
+134020	Albert
+134041	Prince
+134108	Alice
+134152	Alice
+134216	Alice
+134263	Alice
+134337	Alice
+134358	Vandyck
+134373	Victor Lee
+134377	Alice
+134472	Alexander
+134526	Henry
+134670	Charles
+134682	Alice
+134797	Albert Lee
+134839	Alice
+134862	Alice
+135009	Henry
+135070	Alice
+135089	Henry
+135104	Kerneguy
+135119	Charles
+135214	Alice Lee
+135308	Henrietta Maria
+135382	Alice
+135455	Albert
+135474	Alice
+135496	Albert
+135509	Louis
+135518	Kerneguy
+135540	Kerneguy
+135561	Albert
+135569	Lee
+135618	Lee
+135725	Albert
+135748	Louis Kerneguy
+135798	Charles
+135813	Henry
+135879	Kerneguy
+135888	Alice Lee
+135918	Alice
+136052	Kerneguy
+136108	Alice Lee
+136154	Alice
+136224	Henry Lee
+136234	Alice
+136266	Kerneguy
+136289	Alice
+136381	King
+136403	Charles
+136427	Alice
+136461	Alice
+136476	Kerneguy
+136512	Kerneguy
+136552	Will
+136633	Kerneguy
+136656	Henry Lee
+136698	Henry
+136707	Shakspeare
+136716	Richard II
+136727	John of
+136729	Gaunt
+136775	Henry Lee
+136807	Henry
+136929	Alice Lee
+136959	Henry
+137167	Louis Kerneguy
+137209	Vincent Saviolo
+137300	Norman
+137315	Rosamond Clifford
+137325	Alice Lee
+137444	Alice
+137449	Alice
+137629	Will Shakspeare
+137666	Richard
+137803	Bruce
+137884	Charles
+137970	Wilmot
+137972	Sedley
+138503	Alice Lee
+138586	Albert Lee
+138619	Charles
+138627	Joseph
+138681	Charles
+138752	Henry IV.
+138958	Charles
+139180	Victor Lee
+139188	Alice
+139223	Alice
+139253	Prince
+139301	Alice
+139396	Hidalgo of
+139398	the North
+139436	Alice
+139467	Albert Lee
+139474	Louis Kerneguy
+139488	Rochecliffe
+139724	Everard
+139736	Cromwell
+139788	Rector
+139886	Cromwell
+139931	Joseph Tomkins
+139981	Louis Kerneguy
+140081	Charles
+140214	Charles
+140243	Alice
+140285	Charles
+140350	Charles
+140368	Henry Lee
+140406	Charles
+140426	Alice
+140456	Alice
+140515	Charles
+140532	Alice
+140580	Everard
+140697	Everard
+140709	Alice
+140759	Kerneguy
+140799	Alice Lee
+140862	Albert
+140883	Charles
+140885	Rochecliffe
+140895	Everard
+141002	Alice
+141071	Alice
+141095	Louis Kerneguy
+141104	Bevis
+141133	Charles
+141152	Bevis
+141164	Alice
+141188	Prince
+141193	Bevis
+141237	Pym
+141259	Alice
+141265	Bevis
+141305	Louis
+141321	Bevis
+141370	Louis Kerneguy
+141393	Bevis
+141415	Alice
+141460	Alice
+141479	Louis Kerneguy
+141564	Bevis
+141577	Louis Kerneguy
+141586	Phoebe Mayflower
+141654	Alice
+141705	Phoebe
+141733	Everard
+141751	Markham
+141802	Girnigy
+141864	Joceline
+141963	Phoebe
+141976	Rustica Fidele
+142022	Rochecliffe
+142076	Phoebe
+142097	Cavaliero Wildrake
+142105	Phoebe
+142121	Cavaliero Wildrake
+142154	Markham Everard
+142170	Phoebe
+142272	Prince
+142304	Alice Lee
+142312	Rochecliffe
+142405	Alice
+142411	Victor Lee
+142494	Alice
+142547	Alice
+142611	Alice
+142648	Alice
+142662	Louis Kerneguy
+142704	Alice
+143262	Louis Kerneguy
+143338	Charles
+143432	Joceline Joliffe
+143449	Joceline Joliffe
+143461	Kerneguy
+143539	Joceline
+143559	Joceline
+143567	Kerneguy
+143630	Kerneguy
+143853	Charles
+143930	Charles
+144351	Markham Everard
+144523	Everard
+144617	Alice Lee
+144702	Everard
+144710	Charles
+144769	Everard
+144914	Prince
+145008	Wilmot
+145012	Everard
+145033	Earl
+145142	Wilmot
+145173	Alice
+145234	Wilmot
+145263	Everard
+145299	Wilmot
+145399	Wilmot
+145432	Charles
+145572	Everard
+145624	Wilmot
+145752	Everard
+145789	Lee
+145854	Alice Lee
+146010	Charles
+146051	Everard
+146226	Henry Lee
+146505	Henry
+146568	Everard
+146593	Charles
+146664	Henry Lee
+146726	Nephew Markham
+146775	Markham
+146800	Kerneguy
+146804	Alice
+146838	Henry
+146908	Kerneguy
+146949	Everard
+146984	Henry
+147033	Henry
+147066	Circe
+147122	Will
+147159	-- Tush
+147300	-- Nephew
+147331	Markham
+147384	Markham Everard
+147586	Everard
+147622	Alice Lee
+147734	Louis Kerneguy
+147744	Everard
+147818	Everard
+147882	Henry Lee
+148370	Pixie
+148440	Mike Drayton
+148519	Everard
+148549	Henry
+148562	Markham
+148611	Will
+148652	Scot
+148682	Everard
+148725	James
+148749	Harry
+148763	Harry
+148828	Everard
+148880	Donne
+148882	Cowley
+148884	Waller
+148924	William D'Avenant
+148929	Louis Kerneguy
+148949	Henry --
+148951	`` Will
+148953	D'Avenant
+148969	Marquis
+148972	Hull
+149009	Scot
+149027	D'Avenant
+149054	Will Shakspeare
+149081	Will Shakspeare
+149099	Will
+149144	Everard
+149190	Prince
+149312	-- Will
+149314	D'Avenant
+149500	Everard
+149611	Everard
+149648	Henry
+149818	Everard
+150056	Everard
+150084	Everard
+150152	Everard
+150181	Kinsman
+150184	Nephew Markham
+150209	Alice
+150254	Phoebe
+150289	Everard
+150327	Alice
+150351	Everard
+150366	Henry
+150452	Everard
+150585	Everard
+150589	Drummond
+150595	Stirling
+150686	Henry
+150795	Markham
+150804	Henry
+150839	Everard
+150965	Henry Lee
+151025	Everard
+151057	Markham
+151140	Everard
+151177	Everard
+151244	Everard
+151404	Henry
+151445	Henry
+151461	Dame Potiphar
+151529	Everard
+151546	John Milton
+151551	John Milton
+151557	Henry
+151564	John Milton
+151635	Oliver Cromwell
+151643	John Milton
+151648	Charles
+151686	Markham Everard
+151765	Milton
+151774	Everard
+151783	Henry
+151799	Shakspeare
+151814	Milton
+151826	Henry
+151874	Phoebe
+151886	Phoebe
+151896	Everard
+151966	Everard
+152111	Kerneguy
+152123	Phoebe
+152137	Everard
+152153	Scotsman
+152246	Everard
+152311	Louis Kerneguy
+152342	Everard
+152410	Everard
+152488	Everard
+152586	Phoebe
+152603	Markham
+152629	Phoebe
+152673	John Milton
+152684	Samson Agonistes
+152778	Phoebe
+152781	Kerneguy
+152783	Everard
+152836	Alice
+152866	Victor Lee
+152872	Kerneguy
+152883	Everard
+152898	Markham
+152902	Alice
+152908	Everard
+152963	Everard
+153025	Alice
+153073	Alice
+153190	Alice
+153211	Everard
+153243	Wilmot
+153324	Everard
+153336	Henry Lee
+153404	Ranger
+153409	Bevis
+153429	Prince
+153435	Alice
+153459	Bevis
+153505	Alice
+153587	Alice
+153723	Louis Kerneguy
+153742	Kerneguy
+154055	Alice
+154076	Louis
+154143	Louis
+154183	Alice
+154196	Louis
+154232	Alice
+154296	Alice
+154423	Kerneguy
+154473	Alice
+154521	Lindor
+154577	Henry Lee
+154591	Louis Kerneguy
+154644	Alice
+154688	Louis Kerneguy
+154691	-- Alice
+154767	Alice
+154815	Alice
+154834	Charles Stewart
+154858	Alice Lee
+154881	Alice
+154895	Louis
+154903	Alice
+154956	Charles
+154963	Alice
+155069	Alice
+155096	Alice
+155127	Lee
+155170	Alice Lee
+155174	Louis Kerneguy
+155200	Alice
+155243	Alice
+155325	Charles
+155390	Alice
+155464	Charles
+155499	Alice
+155522	Alice
+155747	Henry
+155770	Rosamond
+155799	Eleanor
+155823	Esther
+155828	Vashti
+155939	Rosamond
+155948	Alice
+156026	Alice
+156030	Charles
+156136	Alice Lee
+156151	Charles Stewart
+156176	Alice
+156185	Charles king
+156213	Alice
+156393	Alice
+156406	Prince
+156568	Charles
+156605	Alice
+156815	Alice
+156832	Alice
+156908	Charles
+156953	Alice
+156963	Louis Kerneguy
+157083	Lee
+157245	Alice
+157272	Cromwell
+157287	Lambert
+157297	Oliver
+157322	Lees
+157338	Cromwell
+157355	Fauconberg
+157364	Alice
+157401	Charles
+157428	Charles Stewart
+157530	Alice
+157549	Alice
+157611	Prince
+157749	Markham Everard
+157827	Alice
+157829	Alice
+157866	Wilmot
+157868	Villiers
+158104	Benedict
+158117	Claudio
+158133	Charles
+158148	Wildrake
+158252	Henry Lee
+158268	Charles
+158292	Albert Lee
+158316	Wildrake
+158340	Charles
+158411	Louis Girnigo
+158421	Albert Lee
+158439	Charles
+158536	Wildrake
+158545	Markham Everard
+158626	Charles
+158798	Markham Everard
+158879	Louis Girnigo
+158950	Charles
+158989	Wildrake
+159091	Wildrake
+159231	Charles
+159267	Wildrake
+159308	Henry
+159311	Albert Lee
+159387	Charles
+159444	Markham Everard
+159509	Everard
+159683	Wildrake
+159761	Charles
+159814	Wildrake
+159913	Lunsford
+159915	Goring
+160083	Charles
+160244	Wildrake
+160302	Charles
+160322	Wildrake
+160398	Wildrake
+160474	Alice
+160580	Charles
+160596	Hercules
+160771	Nicholas
+160773	Hyde
+160784	Marquis
+160906	Louis Kerneguy
+160927	Charles
+161135	Wilmot
+161196	Hyde
+161199	Nicholas
+161276	Everard
+161366	Rochecliffe
+161372	Alice
+161448	Alice
+161460	Alice
+161518	Alice
+161524	Louis Kerneguy
+161561	Alice
+161578	Alice
+161589	Alice
+161627	Alice
+161665	Alice
+161720	Markham Everard
+161763	Alice
+161784	Everard
+161802	Rochecliffe
+161869	Rochecliffe
+161879	Alice
+161926	Alice
+161967	Cromwell
+161983	Hammond
+162009	Markham
+162039	Louis Kerneguy
+162051	Charles
+162063	Henry
+162103	Alice
+162121	Alice
+162156	Louis Kerneguy
+162229	Alice
+162282	Alice
+162337	Alice
+162390	Rochecliffe
+162446	Alice
+162604	Alice Lee
+162627	Alice
+162688	Alice
+162703	Alice
+162756	Alice
+162868	Alice
+162914	Alice Lee
+163151	Rochecliffe
+163170	Alice
+163195	Charles
+163315	Alice Lee
+163348	Rochecliffe
+163388	Alice
+163480	Rochecliffe
+163531	Rochecliffe
+163535	Alice
+163651	Alice
+163772	Alice
+163842	Alice
+163943	Alice
+164126	Henry Lee
+164136	Alice
+164139	Rochecliffe
+164182	Louis Kerneguy
+164262	JOHN HOME
+164451	Rochecliffe
+164478	Alice
+164687	Roger Wildrake
+164788	Jove
+164793	Everard
+164876	Alice
+164943	Wildrake
+164947	Louis Kerneguy
+164952	Wildrake
+164987	Kerneguy
+165075	Roger
+165198	Louis Kerneguy
+165206	Wildrake
+165444	Wildrake
+165510	Jove
+165612	Wildrake
+165718	Louis Kerneguy
+165730	Wildrake
+165853	Rochecliffe
+165869	Wildrake
+165913	Rochecliffe
+166084	Wildrake
+166135	-- For
+166137	Wildrake
+166155	Alice
+166289	Gad
+166313	Rochecliffe
+166502	Francalanza
+166516	Everard
+166520	Wildrake
+166607	Charles
+166630	Rochecliffe
+166645	Wildrake
+166660	Everard
+166674	Rochecliffe
+166766	Charles
+166837	Kerneguy
+166853	Charles
+166864	Everard
+166877	Everard
+166897	Charles
+167019	Rochecliffe
+167095	Everard
+167418	Rochecliffe
+167437	Everard
+167449	Wildrake
+167491	Everard
+167496	Carolus
+167524	Everard
+167537	Charles
+167540	Rochecliffe
+167578	Rochecliffe
+167588	Alice Lee
+167684	Alice
+167718	Alice
+167859	Charles
+167891	Everard
+167922	Everard
+167956	Everard
+167984	Alice
+168038	Wilmot
+168079	Alice
+168168	Alice
+168172	Charles
+168225	Everard
+168268	Everard
+168441	Markham Everard
+168446	Alice
+168552	Markham Everard
+168581	Alice
+168744	Charles
+168807	-- Alice
+168823	Alice
+168878	Rochecliffe
+168887	Roger Wildrake
+168939	Prince
+169063	Markham Everard
+169073	Alice
+169106	Everard
+169158	Everard
+169234	Everard
+169238	CHARLES STEWART
+169242	Everard
+169273	Wilmot
+169303	Charles
+169361	Wilmot
+169392	Alice
+169452	Rochecliffe
+169518	Everard
+169635	Everard
+169664	Wildrake
+169728	Mark Everard
+169816	Everard
+170151	Alice
+170153	Everard
+170173	Alice
+170197	Rochecliffe
+170209	Everard
+170309	Everard
+170351	Markham
+170372	Roger Wildrake
+170419	Hodge Wildrake
+170451	Wildrake
+170459	Charles
+170559	Wildrake
+170587	Rochecliffe
+170679	Wildrake
+170758	Charles
+170810	Alice
+170892	Everard
+170977	Charles
+171008	Everard
+171085	Charles
+171145	Charles
+171213	Everard
+171253	Everard
+171259	Prince
+171368	Everard
+171394	Charles
+171444	Wildrake
+171466	Everard
+171504	Alice
+171519	Charles
+171667	Rochecliffe
+171869	Alice
+171910	Rochecliffe
+171913	Alice
+171968	Rochecliffe
+171990	Alice
+172023	Charles
+172066	Alice
+172086	Everard
+172127	Alice
+172201	Alice
+172216	Majesty
+172259	Louis Kerneguy
+172264	Alice
+172287	Louis
+172319	Rochecliffe
+172333	Alice
+172374	Alice
+172521	Alice Lee
+172526	Horace
+172613	Alice
+172708	Charles
+172799	Wilmot
+172802	Villiers
+172908	Albert Lee
+172945	Rochecliffe
+172956	Ruffian
+173084	Everard
+173228	Bletson
+173310	Harrison
+173319	Mary
+173370	Clarendon
+173430	Trusty Tomkins
+173594	Henry
+173623	Rochecliffe
+173675	Joceline
+173727	Rochecliffe
+173875	Phoebe Mayflower
+173888	Dame Jellicot
+174061	Joceline
+174351	Rochecliffe
+174478	Louis Kerneguy
+174481	Joseph Tomkins
+174494	Joe
+174559	Joceline
+174580	Kerneguy
+174619	Joceline
+174649	Joseph Tomkins
+174698	Joceline
+174785	Rochecliffe
+174832	Joceline
+174871	Joceline Joliffe
+174921	Nehemiah Holdenough
+175033	Joseph Tomkins
+175070	Jeremiah
+175112	Master Edwards
+175139	Desborough
+175228	Laban
+175269	Joe Tomkins
+175302	Nehemiah Holdenough
+175312	Phoebe Mayflower
+175364	Joceline Joliffe
+175409	Venus
+175427	Aristotle
+175446	Phoebe Mayflower
+175454	Joceline Joliffe
+175471	Joseph Tomkins
+175591	Joceline Joliffe
+175674	Joceline
+175711	Phoebe
+175763	Phoebe
+175858	Phoebe
+175875	Rosamond
+175977	Joceline
+176053	Phoebe Mayflower
+176219	Joceline
+176348	Abraham
+176358	Rebecca
+176363	Bethuel
+176368	Milcah
+176478	Phoebe
+176508	Rebecca
+176569	Rebecca
+176576	Phoebe
+176609	Rebecca
+176663	Rosamond
+176678	Phoebe
+176735	Henry
+176800	David
+176827	Phoebe
+176993	Phoebe
+177071	Harrison
+177141	Philip Hazeldine
+177171	Rochecliffe
+177215	Harrison
+177242	Phoebe
+177259	Phoebe
+177337	Phoebe
+177442	Phoebe
+177586	Phoebe
+177629	Phoebe
+177762	Adam
+177910	Phoebe
+178015	Phoebe
+178098	Phoebe
+178265	Phoebe
+178406	Joceline Joliffe
+178430	Phoebe
+178709	Phoebe
+178730	Joceline
+178769	Philip Hazeldine
+178803	Joceline
+178811	Phoebe
+178970	Joceline
+179062	Phoebe
+179146	Phil
+179161	Rochecliffe
+179243	Phoebe
+179290	Bevis
+179330	Rochecliffe
+179440	Robinson
+179447	Harrison
+179520	Rochecliffe
+179547	Phoebe
+179587	Dame Jellicot
+179601	Alice
+179632	Joceline
+179699	Rochecliffe
+179741	Hazeldine
+179786	Rochecliffe
+179847	Phoebe
+179963	Cassio
+180002	Everard
+180008	Roger Wildrake
+180013	Nehemiah Holdenough
+180064	Holdenough
+180120	Alice Lee
+180125	Wildrake
+180240	Wildrake
+180298	Everard
+180302	Wildrake
+180332	Wildrake
+180531	Markham Everard
+180546	Cromwell
+180548	Everard
+180610	Everard
+180632	Markham
+180719	Wildrake
+180812	Oliver
+180852	Markham Everard
+180875	Everard
+180926	Everard
+181050	Howbeit
+181082	Nehemiah Holdenough
+181123	Cromwell
+181165	Holdenough
+181233	Cromwell
+181397	Holdenough
+181724	Cromwell
+181754	Pearson
+181768	Pearson
+181800	Cromwell
+181852	Everard
+181885	Charles
+181917	Lee
+181994	Oliver
+182043	Everard
+182048	Wildrake
+182057	Everard
+182109	Everard
+182148	Wildrake
+182159	Cromwell
+182244	Wildrake
+182328	Alice Lee
+182338	Joceline Joliffe
+182381	Wildrake
+182422	Wildrake
+182464	Cromwell
+182480	Cromwell
+182581	Pearson
+182589	Holdenough
+182652	Cromwell
+182978	Master Holdenough
+182996	Mass-John
+183000	Wildrake
+183024	Holdenough
+183064	Cromwell
+183139	Markham Everard
+183142	Markham Everard
+183153	Everard
+183207	Mark
+183209	Mark
+183239	Mark Everard
+183269	Markham Everard
+183360	Mark
+183422	Everard
+183431	Markham
+183435	Cromwell
+183526	Everard
+183538	Wildrake
+183598	Cromwell
+183655	Wildrake
+183696	Wildrake
+183714	Oliver
+183722	Roger Wildrake
+183727	Lincoln
+183759	Everard
+183765	Wildrake
+183786	Wildrake
+183849	Oliver
+183900	Wildrake
+183907	Everard
+183970	Cromwell
+184011	Wildrake
+184056	Oliver
+184084	Pearson
+184121	Wildrake
+184150	Cromwell
+184193	Master Oliver
+184240	Cromwell
+184320	Everard
+184322	Holdenough
+184405	Wildrake
+184412	Cromwell
+184430	Everard
+184442	Pearson
+184487	Pearson
+184516	Wildrake
+184548	Oliver
+184552	Wildrake
+184578	Pearson
+184583	Everard
+184587	Wildrake
+184617	Cromwell
+184624	Everard
+184673	Oliver
+184728	Oliver
+184759	Wildrake
+184847	Charles
+184882	Master Cromwell
+184918	Cromwell
+184945	Wildrake
+184965	Cromwell
+185159	Pearson
+185186	Holdenough
+185241	Cromwell
+185284	Cromwell
+185287	Markham Everard
+185304	Holdenough
+185317	Wildrake
+185337	Cromwell
+185377	Holdenough
+185455	Everard
+185466	Cromwell
+185493	Cromwell
+185561	Humgudgeon
+185605	Pearson
+185637	Cromwell
+185753	Pearson
+185797	Rochecliffe
+185856	Everard
+185980	Everard
+186018	Cromwell
+186030	Jezebel
+186068	Everard
+186113	Cromwell
+186146	Everard
+186215	Cromwell
+186255	Pearson
+186435	Everard
+186450	Pearson
+186460	Everard
+186465	Pearson
+186509	William
+186572	HENRY MACKENZIE
+186595	Henry Lee
+186638	Rochecliffe
+186726	Rochecliffe
+186780	Henry
+186973	Alice
+186978	Rochecliffe
+187051	Alice
+187261	Alice
+187264	Patrick Carey
+187277	Pat Carey
+187285	Falkland
+187296	Falkland
+187325	Charles
+187346	Alice
+187452	Charles
+187469	Alice
+187528	Charles
+187560	Henry
+187596	Louis
+187626	Bevis
+187733	Albert Lee
+187775	Prince
+187917	Albert
+187954	Rochecliffe
+187986	Alice
+188010	Joceline
+188051	Joceline
+188076	Henry
+188080	Joceline
+188120	Alice
+188156	Phoebe
+188229	Prince
+188245	Henry
+188279	Louis
+188367	Albert
+188375	Kerneguy
+188413	Charles
+188420	Albert
+188447	Rochecliffe
+188487	Henry Lee
+188501	Charles
+188532	Lee
+188551	Henry
+188595	Alice
+188617	Albert
+188643	Albert
+188669	Rochecliffe
+188684	Joceline
+188771	Albert
+188813	Joceline
+188828	Joceline
+188895	Rochecliffe
+188930	Joceline
+188981	Bevis
+189013	Albert
+189015	Charles
+189027	Albert
+189087	Bevis
+189140	Lee
+189161	Bevis
+189254	Joceline
+189285	Joceline
+189342	Joceline
+189460	Joseph Tomkins
+189493	Bevis
+189521	Joceline
+189544	Joliffe
+189557	Rochecliffe
+189612	Joceline
+189633	Lee
+189683	Phoebe
+189685	Joceline
+189705	Rosamond
+189714	Joceline
+189741	Joceline
+189803	Lee
+189875	Albert
+189891	Rochecliffe
+190032	Rochecliffe
+190050	Joceline
+190126	Rochecliffe
+190198	Philip
+190222	Philip Hazeldine
+190326	Phil Hazeldine
+190397	Phil
+190473	Phil
+190573	Rochecliffe
+190623	Phoebe
+190737	Phoebe
+190979	Joceline
+191019	Bevis
+191087	Bevis
+191141	Joceline
+191152	Bevis
+191171	Bevis
+191195	Joceline
+191267	Joceline
+191541	Victor Lee
+191574	Albert
+191660	Albert
+191678	Albert
+191700	Everard
+191707	Spittal
+191715	Everard
+191725	Lee
+191738	Roger Wildrake
+191765	Lee
+191817	Albert
+191872	Wildrake
+191937	Alice
+192062	Albert
+192131	Albert
+192170	Alice
+192192	Albert
+192205	Rochecliffe
+192244	Alice
+192268	Everard
+192292	Alice
+192352	Albert
+192361	Spitfire
+192394	Bill Spitfire
+192409	Albert
+192483	Albert Lee
+192514	Alice
+192613	Louis
+192656	Albert
+192722	Louis Kerneguy
+192739	Alice
+192775	Alice
+192803	Albert
+192839	Alice
+192854	Master Kerneguy
+192904	Albert
+192912	Louis
+192917	Kerneguy
+192923	Master Lee
+192939	Charles
+193035	Rochecliffe
+193046	Louis
+193077	Henry
+193132	Charles Stewart
+193173	Louis Kerneguy
+193241	Albert
+193383	Charles
+193443	Alice
+193445	Albert
+193470	Albert
+193502	Alice
+193520	Rochecliffe
+193538	Albert
+193564	Rochecliffe
+193622	Thomas Acland
+193632	Colonel Lee
+193679	Albert
+193754	Alice
+193794	Henry
+193829	Lee
+193904	Phoebe
+193957	Alice
+193998	Henley
+194002	Thomas Acland
+194006	Knolles
+194016	Albert
+194056	Joceline
+194141	Will
+194157	Joceline
+194164	Martin
+194241	Albert
+194247	Martin
+194320	Henry
+194374	Albert
+194472	-- Alice
+194524	Albert
+194554	Alice
+194591	Charles
+194624	Jeroboam
+194678	Henry
+194780	Martin
+194788	Albert
+194812	Will
+194848	Albert
+194910	Henry
+195026	Henry
+195030	Albert
+195038	Alice
+195044	Joceline
+195057	Charles
+195084	Alice
+195168	Henry
+195172	Alice
+195189	Alice
+195232	Henry
+195267	Albert
+195272	Henry
+195285	Charles
+195301	Lee
+195311	Henry
+195338	Pixie
+195376	Alice
+195384	Henry
+195400	Phoebe
+195404	Jellicot
+195421	Henry
+195460	Dame Jellicot
+195573	Alice
+195705	Lee
+195717	Albert
+195743	Charles
+195750	Lee
+195770	Albert
+195782	Albert Lee
+195896	Henry
+195925	Alice
+195992	Alice
+196010	Charles
+196191	Albert Lee
+196214	Charles
+196220	Henry Lee
+196260	Charles Stewart
+196273	Henry Lee
+196349	Albert
+196352	Alice
+196393	Henry
+196446	Charles
+196457	Alice
+196630	Alice
+196718	Albert
+196798	Albert
+196864	Kerneguy
+196872	Albert
+196930	Albert
+196949	Kerneguy
+197080	Absalom
+197082	Absalom
+197121	-- Albert
+197149	Albert
+197157	Louis Kerneguy
+197276	Albert
+197493	Lee
+197517	Victor Lee
+197570	Henry
+197590	Rochecliffe
+197775	HENRY VI
+197786	Henry
+197852	Cromwell
+197894	Charles
+197994	Charles Stewart
+198063	Cromwell
+198199	Pearson
+198244	Cromwell
+198330	Oliver
+198391	Cromwell
+198540	Cromwell
+198638	Cromwell
+198652	Everard
+198675	Everard
+198790	Pearson
+198832	Gideon
+198849	Phurah
+198909	Everard
+198914	Cromwell
+199030	Cromwell
+199032	Pearson
+199130	Cromwell
+199347	Wildrake
+199401	Cromwell
+199522	Cromwell
+199623	Holdenough
+199626	Everard
+199651	Rosamond
+199805	Cromwell
+199882	Corporal Humgudgeon
+199915	Cromwell
+199979	-- Pearson
+200105	Pearson
+200211	Cromwell
+200432	Rochecliffe
+200450	Joceline
+200485	Diggon
+200510	Rochecliffe
+200718	Joceline
+200780	Cromwell
+200874	Rochecliffe
+200900	Cromwell
+200982	Joseph Tomkins
+200991	Cromwell
+201078	Grace-be-here Humgudgeon
+201129	Cromwell
+201149	Anthony Rochecliffe
+201205	Rochecliffe
+201250	Cromwell
+201420	Henry Lee
+201459	Oliver
+201505	Joceline
+201739	Joceline
+201776	Louis Kerneguy
+201844	Cromwell
+201878	Joceline
+202108	Pearson
+202136	Cromwell
+202226	Jehosaphat
+202228	Pearson
+202232	Cromwell
+202289	Pearson
+202304	Cromwell
+202346	Pearson
+202369	Oliver
+202420	Pearson
+202470	Cromwell
+202480	Pearson
+202496	Gilbert Pearson
+202514	Pearson
+202547	Cromwell
+202623	Cromwell
+202750	Cromwell
+202805	Pearson
+202831	Cromwell
+202891	Pearson
+203077	Achan
+203209	Gilbert Pearson
+203394	Pearson
+203464	Humgudgeon
+203499	Cromwell
+203531	Pearson
+203570	Lambert
+203586	Lambert
+203590	Lambert
+203594	Cromwell
+203604	Pearson
+203645	Cromwell
+203669	Lambert
+203695	Lambert
+203709	Pearson
+203751	Gilbert Pearson
+203756	Cromwell
+203800	Pearson
+203919	Humgudgeon
+204003	Cromwell
+204025	Pearson
+204093	Cromwell
+204114	Henry Lee
+204226	Cromwell
+204259	Henry
+204339	Phoebe
+204388	Phoebe
+204449	Phoebe
+204478	Dame Jellicot
+204618	Henry
+204724	Phoebe
+204739	Henry
+204805	Phoebe
+204815	Alice
+204834	Phoebe
+204918	Henry
+204922	Boutirlin
+205003	Phoebe
+205157	Phoebe
+205183	Dame Jellicot
+205293	Phoebe
+205356	Phoebe
+205452	Bevis
+205470	Phoebe
+205509	Cromwell
+205525	Henry Lee
+205527	of Ditchley
+205574	Oliver
+205639	Henry
+205691	Cromwell
+205724	Pearson
+205726	Gilbert Pearson
+205858	Victor Lee
+205905	Henry
+206033	Henry
+206092	Henry Lee
+206171	Joceline Joliffe
+206252	Everard
+206284	Louis Garnegey
+206289	Cromwell
+206339	Louis Kerneguy
+206351	Henry
+206369	Cromwell
+206403	Cromwell
+206464	Will Shakspeare
+206496	Cromwell
+206546	Phoebe
+206554	Louis Kerneguy
+206614	Cromwell
+206656	Phoebe
+206717	Cromwell
+206728	Phoebe
+206751	Humgudgeon
+206819	Phoebe
+206840	Louis
+206862	Humgudgeon
+206882	Phoebe
+207017	Cromwell
+207042	Kerneguy
+207119	Henry Lee
+207181	Cromwell
+207300	Henry
+207326	Cromwell
+207419	CAMPBELL
+207422	Gertrude
+207557	Phoebe
+207613	Pearson
+207626	Cromwell
+207642	Pearson
+207699	Pearson
+207709	Cromwell
+207783	Pearson
+207857	Pearson
+207899	Henry Lee
+207981	Cromwell
+207984	Phoebe
+208014	Mark Everard
+208040	Phoebe
+208088	Pearson
+208092	Cromwell
+208144	Phoebe
+208170	Henry
+208194	Phoebe
+208248	Everard
+208288	Cromwell
+208314	Pearson
+208396	Rochecliffe
+208492	ROSAMOND
+208535	Henry II.
+208545	Rosamond Clifford
+208557	Eleanor
+208560	Rochecliffe
+208618	Norman
+208701	Oliver
+208715	Joseph Tomkins
+208723	Rochecliffe
+208885	Cromwell
+208961	Desborough
+208984	Desborough
+208989	Harrison
+209002	Pearson
+209158	Humgudgeon
+209239	Rochecliffe
+209346	Cromwell
+209356	Pearson
+209400	Joseph
+209460	Rochecliffe
+209497	Pearson
+209562	Pearson
+209566	Cromwell
+209666	Cromwell
+209743	Pearson
+209826	Cromwell
+209892	Rosamond
+209925	Norman
+209949	Pearson
+209954	Pearson
+209994	Pearson
+210001	Cromwell
+210034	Pearson
+210273	Gilbert Pearson
+210318	Pearson
+210322	Cromwell
+210369	Oliver
+210479	Westminster
+210517	Pearson
+210653	Pearson
+210700	Cromwell
+210780	Cromwell
+210823	Pearson
+210837	Cromwell
+210881	Cromwell
+210894	Pearson
+210897	Lee
+210940	Albert
+210968	Cromwell
+211025	Pearson
+211047	Pearson
+211116	Eutychus
+211140	Cromwell
+211222	Zerubbabel Robins
+211260	Robins
+211365	Pearson
+211461	Gilbert Pearson
+211476	Pearson
+211536	Cromwell
+211550	Gilbert
+211599	Pearson
+211636	Cromwell
+211678	Pearson
+211714	Gilbert
+211720	Cromwell
+211750	Pearson
+211791	Cromwell
+211880	Rosamond
+211987	Cromwell
+212097	Humgudgeon
+212285	Pearson
+212451	Albert Lee
+212632	Pearson
+212856	Pearson
+212860	Cromwell
+212878	Siloe
+212888	Pearson
+212913	Cromwell
+212922	Pearson
+212966	Rosamond
+213043	Cromwell
+213076	Albert Lee
+213311	Albert
+213473	Ehud
+213485	Robins
+213532	Cromwell
+213642	Albert Lee
+213675	Cromwell
+213690	Charles
+213709	Albert
+213803	Albert
+213810	Victor Lee
+213834	Lee
+213873	I. Oliver
+213875	Cromwell
+213886	Zerubbabel Robins
+213913	Albert
+214007	Albert
+214050	Cromwell
+214234	Charles Stewart
+214245	Albert
+214269	Rochecliffe
+214303	Cromwell
+214349	Cromwell
+214432	Albert Lee
+214442	Charles
+214454	Cromwell
+214463	Charles
+214477	-- Pearson
+214510	Pearson
+214515	Cromwell
+214542	Cromwell
+214549	Lee
+214602	Albert
+214660	Charles Stewart
+214704	Cromwell
+214741	Lee
+214758	Cromwell
+214783	Albert
+214798	Zimri
+214833	Cromwell
+214859	Pearson
+214915	Cromwell
+214945	Cromwell
+215010	Lee
+215015	Sisera
+215073	Pearson
+215118	Cromwell
+215155	Pearson
+215256	Cromwell
+215269	Pearson
+215301	Cromwell
+215379	Pearson
+215389	Pearson
+215439	Strickalthrow
+215441	Robins
+215447	Albert
+215455	Pearson
+215479	Cromwell
+215490	Robins
+215497	Pearson
+215517	Pearson
+215585	Oliver
+215592	David
+215596	Jesse
+215622	Saul
+215639	Pearson
+215719	Zerubbabel
+215790	Pearson
+215902	Zerubbabel
+215906	Strickalthrow
+215999	Makedah
+216008	Joshua
+216058	Gilbert Pearson
+216123	Pearson
+216133	Oliver
+216188	JOANNA BAILLIE
+216200	Joceline
+216219	Everard
+216226	Nehemiah Holdenough
+216230	Cromwell
+216244	Prince
+216280	Pearson
+216305	Everard
+216308	Nehemiah Holdenough
+216316	Rochecliffe
+216319	Henry Lee
+216323	Joceline
+216332	Wildrake
+216420	-- Save
+216422	ye
+216512	Noll
+216541	Wildrake
+216548	Everard
+216568	Wildrake
+216579	Jack
+216587	Noll
+216651	Nehemiah Holdenough
+216677	Wildrake
+216696	Henry
+216769	Rochecliffe
+216811	Henry
+216821	Wildrake
+216875	Wildrake
+216890	Henry
+217015	Ramsay
+217036	Wildrake
+217107	Wildrake
+217136	Bobadil
+217411	Rochecliffe
+217460	Henry
+217469	Albert
+217480	Cromwell
+217509	Samson
+217525	Albert
+217528	Everard
+217566	Nehemiah Holdenough
+217665	Rochecliffe
+217747	Everard
+217780	Cromwell
+217800	Rochecliffe
+217809	Everard
+217849	Holdenough
+217869	Rochecliffe
+217888	Joseph Albany
+217948	Holdenough
+217990	Joseph Albany
+217997	Joseph Albany
+217999	Rochecliffe
+218038	Holdenough
+218056	Rochecliffe
+218077	Nehemiah
+218130	Holdenough
+218171	Purefoy
+218224	Rochecliffe
+218241	Huffcap
+218252	Holdenough
+218328	Nehemiah
+218341	Baxter
+218379	Nehemiah
+218383	Rochecliffe
+218402	Baxter
+218643	Roger Wildrake
+218688	Holdenough
+218707	Rochecliffe
+218737	Wildrake
+218772	Henry
+218775	Everard
+218846	Pearson
+218872	Henry Lee
+218888	Everard
+218913	Pearson
+219146	CHARLES BAWDIN
+219171	Pearson
+219203	Victor Lee
+219215	Zerubbabel Robins
+219227	Oliver
+219244	Pearson
+219398	Pearson
+219405	Noll
+219529	Cromwell
+219641	Cromwell
+219643	Pearson
+219677	Robins
+219685	Gilbert Pearson
+219720	Cromwell
+219770	Cromwell
+219776	Pearson
+219783	Mark Everard
+219862	Pearson
+219890	Pearson
+219908	Cromwell
+220027	Henry Lee
+220040	Pearson
+220089	Pearson
+220215	Henry Lee
+220247	Pearson
+220300	Pearson
+220304	Cromwell
+220363	Rochecliffe
+220390	Zerubbabel
+220401	Albert Lee
+220552	Joliffe
+220561	Pearson
+220573	Joseph Tomkins
+220590	Cromwell
+220654	Joceline
+220687	Pearson
+220738	Pearson
+220789	Oliver
+220802	Wildrake
+220875	Noll
+220916	Pearson
+220963	Pearson
+220986	Henry Lee
+221016	Pearson
+221020	Cromwell
+221085	Zerubbabel
+221142	Humgudgeon
+221178	Cromwell
+221244	Pearson
+221288	Albert Lee
+221307	Charles
+221373	Rochecliffe
+221387	Nehemiah Holdenough
+221425	Rochecliffe
+221498	Holdenough
+221524	Rochecliffe
+221595	George
+221627	Everard
+221685	Cromwell
+221705	Everard
+221745	Alice
+221768	Everard
+221790	Everard
+221821	Alice
+221865	Alice
+221922	Alice
+221938	Everard
+222027	Henry
+222109	Alice Lee
+222117	Markham Everard
+222283	C. R.
+222285	'' Long
+222291	Henry
+222323	Alice
+222363	Louis Kerneguy
+222370	Charles
+222416	Alice
+222449	Henry Lee
+222464	Aylmer
+222537	Alice
+222590	Alice
+222605	Everard
+222690	Alice
+222714	Everard
+222753	Henry
+222788	Lee
+222795	Everard
+222830	Henry Lee
+222835	Everard
+222893	Rochecliffe
+222898	Joceline
+222924	Everard
+223054	Mark
+223101	Mark
+223131	Everard
+223158	Joceline
+223169	Bevis
+223176	Louis Kerneguy
+223189	Mark
+223233	Everard
+223241	Bevis
+223301	DON SEBASTIAN
+223366	Alice
+223368	Markham Everard
+223393	Joceline
+223395	Phoebe
+223419	Shakspeare
+223441	Markham
+223463	Cromwell
+223488	Cromwell
+223499	Everard
+223575	Charles
+223599	Oliver
+223626	Wildrake
+223630	Everard
+223682	Alice
+223821	Everard
+223848	Henry
+223888	Oliver
+223915	Henry
+223952	Rochecliffe
+223964	Louis Kerneguy
+224135	Cavaliero Wildrake
+224232	Cromwell
+224248	Everard
+224267	Everard
+224322	Middleton
+224393	Charles
+224453	Wilmot
+224633	Charles
+224697	Gad
+224783	Mark Everard
+224938	Roger Wildrake
+224943	Lincoln
+225011	Charles
+225064	Buckingham
+225094	Chancellor
+225108	Wildrake
+225162	Wildrake
+225205	Wildrake
+225337	Dukes
+225435	Blackheath
+225649	Charles
+225725	Everard
+225738	Joceline Joliffe
+225848	Alice
+225852	Wildrake
+225988	Henry
+226028	Bevis
+226177	Charles
+226243	Alice
+226257	Bevis
+226292	Charles
+226384	Alice
+226462	Everard
+226480	Wildrake
+226486	Joceline
+226513	Joceline
+226559	Phoebe
+226567	Charles
+226639	Charles
+226684	King
+226724	Charles
+226732	Louis Kerneguy
+226770	Alice
+226779	Henry Lee
+226915	Alice
+226952	Henry
+227071	Bevis
+227091	Henry Lee
+227107	Bevis
+227132	Maida
+227152	Edwin Landseer
+227212	Walter Scott
+227216	Landseer
+227236	Adam

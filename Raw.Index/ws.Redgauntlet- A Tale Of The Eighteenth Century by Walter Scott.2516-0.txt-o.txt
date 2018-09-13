@@ -1,0 +1,3368 @@
+77	Charles Edward
+330	Charles Edward
+404	Stuart
+800	Charles Edward
+913	Scottishman
+989	Robert Walpole
+1057	Archibald Cameron
+1064	Donald Cameron
+1091	Loch Katrine
+1167	Johnson
+1178	Cameron
+1243	George II
+1283	Cameron
+1311	George II
+1325	Donald Cameron
+1345	Archibald Cameron
+1455	Vourich
+1459	Chevalier
+1497	Charles
+1504	Cameron
+1552	George II
+1581	Cameron
+1604	Cameron
+1639	Charles Edward
+1676	Cameron
+1712	Chevalier
+1736	King
+1757	Primrose
+1789	Chevalier
+1915	King
+1998	King
+2007	Prince Charles
+2032	King
+2042	Charles Edward
+2056	Walkinshaw
+2202	Walkinshaw
+2228	M'Namara
+2335	M'Namara
+2343	M'Namara
+2432	M'Namara
+2463	Walkinshaw
+2497	M'Namara
+2607	Charles Edward
+2745	Charles
+2832	Charles
+2917	King
+3003	King
+3114	Charles II
+3214	King
+3309	Charles Edward
+3382	Chevalier
+3482	DARSIE LATIMER
+3655	Alan
+3748	Alan Fairford
+3759	Darsie Latimer
+3921	Samuel Griffiths
+3925	Ironmonger Lane
+4234	Alan Fairford
+4305	Alan Fairford
+4340	Alan
+4395	Alan
+4821	Alan
+4903	Alan
+5055	Minos
+5084	Alan
+5199	Alan
+5312	PESSIMI EXEMPLI
+5360	Stewart
+5365	John Nisbett
+5368	Dirleton
+5385	James Stewart
+5518	Thomas Hope
+5580	SOLITO
+5639	Alan
+5768	Samuel Griffiths
+5821	Erskine
+5825	Wallace
+5841	Alan
+6265	Mathieson
+6271	Adams
+6658	Roan Robin
+6700	Sam
+6714	Sam
+6786	Roan Robin
+6824	John Barleycorn
+6835	Sam
+6876	Fairford
+6898	Sam
+6931	Sam
+7057	David
+7059	Jonathan
+7062	Orestes
+7067	Damon
+7259	Alan
+7549	Darsie
+7700	James
+7890	James
+7921	Darsie
+7926	James Wilkinson
+7929	Said James
+7982	James
+7991	Wilkinson
+8253	Darsie Latimer
+8267	Darsie Latimer
+8293	Darsie Latimer
+8339	Latimer
+8425	Darsie
+8509	Luckie Simpson
+8516	Luckie Jamieson
+8595	Alan
+8607	Darsie Latimer
+8721	Darsie
+8775	Darsie
+8786	Alan
+8797	Wilkinson
+8831	Darsie
+8865	Alan
+8879	Darsie
+8991	Darsie
+8998	TOM JONES
+9361	Darsie Latimer
+9506	Darsie
+9575	VOET
+9605	Darsie Latimer
+9667	Latimer
+9968	Darsie
+10000	Luckenbooths
+10667	JURIS
+10694	Darsie
+10972	Griffiths
+10993	Alexander
+11141	Darsie
+11321	Alan Fairford
+11463	Valentine
+11662	Darsie
+11710	A. F.
+11712	LETTER III
+11714	DARSIE LATIMER
+11740	Lovelace
+11886	Alan
+12262	Alan
+12420	Alan
+12521	Laird
+12523	Glengallacher
+12695	Glengallacher
+12735	George
+12864	Alan
+12885	Rob Roy
+12887	Macgregor
+12891	Alan Mhor
+12893	Cameron
+12911	Rob Roy
+12920	Alan Cameron
+13192	Alan
+13215	Griffiths
+13295	Alan
+13651	Katterfelto
+13735	Alan
+13878	Bruce
+14030	Elcho
+14058	Chevalier
+14336	Sam
+14433	Rosamond
+14436	Barbara Allan
+14789	Alan
+14984	SHEPHERD
+15188	Alan
+15656	Bowness
+16078	Scott
+16516	Bush
+16536	Bush
+16682	Erskine
+16979	Alan
+17209	Ariosto
+17501	Alan
+19336	Highlandmen
+19604	Marius
+19864	Cristal Nixon
+19948	Mabel Moffat
+20008	Mabel
+20115	Mabel
+20241	Alan Fairford
+20352	Mabel
+20661	Mabel
+20664	Cristal
+21124	Bush
+21925	Daniel
+22140	Alan
+22604	DARSIE LATIMER
+22615	Darsie
+22713	Wert
+22781	Claude Lorraine
+22996	Solway
+23132	Darsie
+23204	Laird
+23206	Bucklivat
+23269	Darsie
+23290	Solway
+23360	Darsie
+23462	Darsie
+23506	Lear
+23621	Wert
+23627	Darsie
+23821	Dolly MacIzzard
+24200	Crossbite
+24240	Crossbite
+24326	Crossbite
+24520	Crossbite
+24544	Fairford
+24625	Herries
+24627	Birrenswork
+24715	Fairford
+24757	Paterson
+24817	Herries
+24950	Herries
+25019	Fairford
+25210	Alan
+25272	Herries
+25286	Herries
+25303	Robin the
+25305	Philosopher
+25307	Anno Domini
+25329	Birrenswork
+25361	Herbert Herries
+25372	Preston
+25429	MISERICORDIA
+25436	Pope
+25469	Hannah
+25471	Cook Epps
+25475	James Wilkinson
+25523	James
+25557	Alan
+25578	Herries
+25592	Darsie
+25773	Kirk
+25844	George
+26100	Alan
+26113	Birrenswork
+26152	Latimer
+26341	Alan
+26350	Crossbite
+26423	Herries
+26473	Darsie Latimer
+26624	Latimer
+26646	DARSIE LATIMER
+26927	Cristal Nixon
+26970	Cristal
+27331	Bush
+27463	Bush
+27594	Alan
+27754	-- Yon
+28241	Joshua
+28293	Joshua
+28438	Joshua Geddes
+28611	Joshua
+28822	Geddes
+28904	Joshua
+29036	Joshua
+29105	Shepherd
+29107	Bush
+29154	Joshua
+29209	Bush
+29248	Bush
+29914	Joshua
+29966	Bush
+30037	Joshua
+30138	Joshua Geddes
+30189	Joshua
+30362	Bush
+30468	Joshua
+31022	Joshua
+31083	Benjie
+31166	Bush
+31179	Sam
+31439	Benjie
+31461	Joshua
+31472	Benjie
+31526	Solomon
+31564	Benjie
+31606	Benjie
+31789	Alan
+31855	Benjie
+31924	Benjie
+31955	Solomon
+31972	Joshua
+32035	Joshua
+32053	Solomon
+32121	Benjie
+32134	Joshua
+32176	Benjie
+32234	Benjie
+32242	Joshua Geddes
+32299	Solomon
+32301	Benjie
+32311	Benjie
+32340	Solomon
+32407	Solomon
+32416	Solomon
+32439	Benjie gee-hupping
+32455	Solomon
+32496	Joshua
+32520	Benjie
+32525	Solomon
+32540	Solomon
+32641	Benjie
+32665	Solomon
+32667	Benjie
+32695	Benjie
+32700	Solomon
+32703	Solomon
+32705	Benjie
+32757	Solomon
+32817	Solomon
+32869	Joshua
+33056	Latimer
+33214	Joshua
+33219	Benjie
+33221	Solomon
+33519	Joshua Geddes
+33608	Joshua
+33686	Joshua
+33740	Hannah
+33762	Auld Reekie
+33769	Hannah
+34023	Joshua Geddes
+34199	Jack Fawkes
+34230	Joshua Gleddes
+34279	Latimer
+34322	Geddes
+34332	Jack
+34334	Pike
+34337	Luce
+34495	Philip Geddes
+34532	George Fox
+34597	Solomon
+34639	Joshua
+34652	Solomon
+34683	Benjie
+34719	Benjie
+34745	Joshua
+34797	Joshua
+34808	Solomon
+34828	Bauldie
+34849	Geddes
+34878	Alan
+34930	Joshua
+34953	Solomon
+34984	Joshua
+35009	Joshua
+35041	Solomon
+35076	Jehoiachim
+35100	Philip
+35105	George Fox
+35144	Joshua
+35207	Philip Geddes
+35315	Geddes
+35329	Rachel
+35491	Alan
+35501	Rachel Geddes
+35563	Joshua
+35587	Alan
+35610	Darsie Latimer
+35687	Geddes
+35733	Joshua
+35744	Sancho
+35748	Tirteafuera
+35780	Latimer
+35787	Alan
+35931	Rachel
+35986	Joshua
+35990	Rachel
+36048	Joshua
+36056	Rachel
+36123	Latimer
+36187	Alan
+36231	Bush
+36247	Joshua
+36270	Gregson
+36287	Rachel
+36342	Solomon
+36354	Joshua Geddes
+36393	Alan
+36500	Rachel
+36761	Alan
+36918	Millar
+36955	Joshua
+37124	Alan
+37139	Dodsley
+37148	Brown
+37154	Horace Walpole
+37301	Alan
+37312	Geddes
+37659	Joshua
+37782	Laird
+37822	Solway
+37851	Rachel
+38106	Geddes
+38147	Laird
+38191	Joshua
+38389	Geddes
+38424	Latimer
+38533	Rachel
+38573	Joshua
+38682	Joshua
+38920	Joshua
+39130	Joshua
+39220	Geddes
+39415	Joshua Geddes
+39471	Laird
+39499	Rachel Geddes
+39552	Geddes
+39644	Joshua
+39656	John Scot
+39658	of Amwell
+39779	Sam
+39952	Herries
+39993	Alan Fairford
+40044	Darsie Latimer
+40108	Herries
+40123	Alan
+40310	Darsie
+40384	James Wilkinson
+40433	James
+40453	James
+40472	James
+40490	Maister Alan
+40516	Peggy
+40530	Lady Bedrooket
+40571	James
+40600	James
+40614	Peg Baxter
+40621	James
+40666	James
+40706	James
+40757	James
+40809	James
+40988	Darsie
+41054	James Wilkinson
+41121	James
+41166	Alan
+41248	James Wilkinson
+41302	James
+41404	Darsie
+41599	Alan Fairford
+41607	Alexander
+41614	Alan Fairford
+42227	Alan
+42718	Murtough O'Hara
+43040	Reason
+43084	Darsie
+43169	Darsie Latimer
+43179	A. Fairford
+43247	Alan
+43330	Darsie Latimer
+43569	Fairford
+43592	Alan Fairford
+43634	Alan Fairford
+43806	Griffiths
+43818	Laird
+43863	John Fielding
+43914	Darsie
+43979	Joshua
+44135	Don Quixote
+44202	Amadis
+44225	Sancho Panza
+44267	Eppie
+44286	Cassandra
+44294	Darsie
+44374	Herries
+44663	Hannah
+44697	Birrenswork
+44832	MR. DARSIE
+44834	LATIMER
+44923	Samuel Griffiths
+45001	Herries
+45034	Birrenswork
+45054	Ralph Latimer
+45110	Herries
+45185	Kirk
+45400	Darsie
+45470	Herries
+45472	Birrenswork
+45535	Alan
+45558	Pest
+45658	Darsie
+45686	Peter Fairford
+45734	Alan
+45855	Alan
+45977	-- Alan
+46001	-- Ross
+46003	House
+46025	DARSIE LATIMER
+46034	Alan
+46075	Alan
+46402	Herries
+46489	Griffiths
+46595	Solway
+46602	Joshua
+46646	Joshua
+46766	Lady of
+46768	the Mantle
+46799	James Wilkinson
+46941	Phalaris
+47040	Alan
+47094	Joshua
+47097	Huguenot
+47233	Rachel
+47241	Joshua
+47294	Shepherd
+47296	Bush
+47309	Benjie
+47353	Joshua
+47618	Firth
+47639	John Bunyan
+47765	Thom o
+47767	' Lyne
+47802	Cowley
+47940	Charles II
+48141	Jack
+48156	Tom
+48164	Jem
+48220	Thom o
+48222	' Lyne
+48307	Thom
+48310	Lyne
+48378	Benjie
+48469	Benjie
+48947	Benjie
+49041	Benjie
+49064	Solomon
+49115	Willie Steenson
+49139	Willie
+49264	Galashiels
+49349	Willie
+49398	Oswald
+49417	Willie
+49469	Willie
+49539	Willie
+49621	Willie
+49626	Maggie
+49639	Robin
+49716	Robin
+49724	Willie
+49739	Maggie
+49775	Robin
+49839	Crowdero
+49897	Willie
+49960	Benjie
+49997	Willie
+50126	Willie
+50147	Willie
+50222	Benjie
+50308	Bush
+50319	Geddes
+50448	Maggie
+50478	Willie
+50553	Ye
+50611	Willie
+50662	Willie
+51025	Rory Dall
+51053	Lucky Gregson
+51077	Robin
+51099	Maggie
+51232	Willie
+51276	Bush
+51320	Maggie
+51391	Maggie
+51485	Samuel
+51518	Benjie
+51549	Willie
+51596	Willie
+51603	Meg
+51666	Blind Jack
+51668	of Knaresborough
+51705	Benjie
+51757	Maggie
+51806	Bush
+51822	Darsie Latimer
+51831	Willie
+52148	Willie
+52172	Willie
+52178	Corelli
+52248	Willie
+52369	Willie
+52431	Maggie
+52446	Maggie
+52520	Joshua Geddes
+52578	Willie
+52592	Willie
+52656	Corelli
+52742	Ye ken
+53068	WILLIE
+53078	Robert Redgauntlet
+53149	Charles the
+53151	Second
+53162	Laird
+53164	Redgauntlet
+53253	Redgauntlet
+53275	Tam Dalyell
+53279	Glen
+53296	Redgauntlet
+53373	Robert
+53534	Redgauntlet
+53543	Primrose Knowe
+53637	Steenie Steenson
+53681	Jockie Lattin
+53778	Robert
+53804	Steenie
+53840	Auld Dougal
+53842	MacCallum
+53851	Robert
+53886	Dougal
+53913	Dougal
+53959	Robert Redgauntlet
+53995	Robert
+54023	William III
+54289	Martinmas
+54356	Laurie Lapraik
+54363	Laurie
+54495	Robert
+54527	Dougal
+54545	Dougal
+54550	Steenie
+54643	Robert
+54648	Weir
+54726	Dougal MacCallum
+54743	Robert
+54795	Weir
+54820	Robert
+54996	Primrose Knowe
+55010	Robert
+55029	Ye maun
+55031	ken
+55081	Robert
+55144	Steenie
+55165	Dougal
+55203	Robert
+55216	Dougal
+55357	Dougal
+55396	Weir
+55483	Dougal
+55505	John
+55519	John
+55529	John
+55609	Dougal MacCallum
+55648	Dougal
+55714	Dougal
+55735	Hutcheon
+55754	Dougal
+55767	Hutcheon
+55799	Robert
+55827	Dougal
+55837	Dougal
+55858	Robert Redgauntlet
+55895	MacCallum
+55906	Robert
+55924	Hutcheon
+55927	Hutcheon
+55940	Dougal
+55968	Hutcheon
+55987	Dougal
+55995	Davie Lindsay
+56030	Robert
+56054	Hutcheon
+56136	Dougal
+56199	John
+56276	John
+56359	Alan
+56470	John
+56504	Steenie
+56572	Steenie
+56585	Steenie
+56631	Stephen
+56636	John
+56650	Stephen Stevenson
+56654	Steenson
+56675	STEPHEN
+56683	John
+56694	JOHN
+56697	Ye
+56706	Stephen
+56714	STEPHEN
+56745	Robert
+56785	John
+56811	Stephen
+56826	STEPHEN
+56832	John
+56841	Dougal MacCallum
+56868	Stephen
+56873	John
+56939	STEPHEN
+57002	JOHN
+57014	Steenie
+57033	STEPHEN
+57045	John
+57080	JOHN
+57089	Stephen
+57165	John Redgauntlet
+57185	Steenie
+57236	Stephen
+57254	Stephen
+57277	Stephen
+57540	Stephen
+57612	John
+57707	Robert
+57731	Laurie Lapraik
+57783	Laurie
+57821	Robert Redgauntlet
+57844	Laurie
+57858	Lapraik
+57916	Pitmurkie
+57997	Steenie
+58015	Tibbie
+58072	Robert Redgauntlet
+58342	Gude
+58371	Steenie
+58389	Steenie Steenson
+58858	Robert
+58908	John
+58921	Robert
+58948	Dougal MacCallum
+58969	Piper Steenie
+58979	Robert
+59022	Dougal Driveower
+59047	Dougal
+59200	Middleton
+59213	Dalyell
+59227	Earlshall
+59230	Cameron
+59239	Bonshaw
+59245	Cargill
+59558	Robert Redgauntlet
+59705	Robert
+59750	John
+59772	Steenie
+59780	Robert
+59790	Luckie
+59870	Beelzebub
+59878	Robert
+59882	Steenie
+59893	MacCallum
+59905	Donald
+59928	Steenie
+59989	Steenie
+60027	Earl of
+60029	Douglas
+60045	MacLellan
+60062	Pitscottie
+60072	Steenie mair
+60141	Robert
+60201	Steenie
+60248	Robert
+60369	Steenie
+60413	Robert
+60446	Steenie
+60567	Robert
+60580	Robert
+60611	John
+60704	Steenie
+60722	John
+60759	Steenie
+60790	John
+60832	John
+60922	Steenie
+60978	Hutcheon
+61015	Aweel
+61017	Hutcheon
+61079	John
+61146	John
+61192	Hutcheon
+61217	John
+61273	John
+61332	Steenie
+61337	John
+61421	Weir
+61450	Steenie
+61537	Robert
+61567	John
+61578	Steenie
+61614	Steenie
+61683	John
+61738	John
+62001	John
+62054	Dougal
+62134	John
+62326	Willie
+62336	John
+62426	Redwald Redgauntlet
+62434	John
+62442	Robert
+62595	Tam Luter
+62602	Gude Lord
+62620	Till Towsie
+62626	Auld Lightfoot
+62647	Morrice
+62653	Christ
+62655	Kirk
+62662	KING
+62717	Malvolio
+62783	Barmecide
+63204	Willie
+63301	Simon
+63494	Willie
+63511	Willie
+63638	Willie
+63697	Wullie
+63759	Gil Hobson
+63768	Ye
+63803	Gil Hobson
+63806	Gil
+63812	Willie
+63830	Joshua Geddes
+63863	Willie
+63891	Willie
+64024	Willie
+64053	Willie
+64162	Willie
+64254	Nickie Murray
+64384	Dame Martin
+64389	Willie
+64457	Willie
+64490	Madge of
+64492	Middlebie
+64503	Willie
+64572	Mabel
+64574	Cristal Nixon
+64601	Alan
+64781	Willie
+65192	Deil
+65577	Willie
+65664	Alan
+65706	Willie
+65964	Aldeborontiphoscophornio
+65972	Rigdum-Funnidos
+65983	Jack Oliver
+66210	Alan
+66229	Mabel
+66462	Darsie Latimer
+66467	Darsie Latimer
+66511	Latimer
+66568	Willie
+66635	Latimer
+66886	Latimer
+67674	Mabel
+67724	Willie
+67763	Dame Martin
+67853	Dame Martin
+68075	Dame Martin
+68197	Gil Blas
+68217	Dame Martin
+68261	Dame Martin
+68290	Dame Martin
+68329	Dame Martin
+68400	Martin
+68412	Dame Martin
+68522	Aye
+68550	Lilias
+68619	Dame Martin
+68654	Willie
+68776	Willie
+68842	Sam
+68878	Willie
+68997	Sam
+69063	Bush
+69119	Willie
+69135	Willie
+69305	Alan
+69362	Alan Fairford
+69623	DARSIE LATIMER
+69657	Darsie
+69701	Peggy
+69750	Eve
+69933	Darsie
+70127	Alan
+70266	Ye
+70271	Alan
+70309	Lazarus
+70529	Alan
+70588	Alan
+70693	Alan
+70712	Lazarus
+70786	Alan
+70895	Alan
+70991	Alan
+71067	Peter Peebles
+71078	Peter Peebles
+71198	Alan
+71239	Alan
+71242	Peter
+71252	Dumtoustie
+71263	Dumtoustie
+71289	Bladderskate
+71345	Peter Drudgeit
+71374	Dumtoustie
+71384	Peter Peebles
+71414	Alan
+71448	Peter
+71484	Peter
+71534	Alan
+71577	Peter
+71613	Peter
+71668	Peter Peebles
+71700	Alan
+71720	Darsie
+71749	Dumtoustie
+71809	James Wilkinson
+71826	James
+71869	PEEBLES
+71998	Alan
+72066	Alan
+72176	Alan
+72281	Wilkinson
+72284	Peter Peebles
+72294	Darsie
+72395	Peter
+72675	Darsie
+72742	Peter
+72757	Alan
+72783	Dumtoustie
+72799	Peter
+72822	Bladderskate
+72840	Daniel Dumtoustie
+72944	Peebles
+72972	Alan
+72996	Peter
+73036	Peter
+73110	Peter
+73176	Peebles
+73228	Peter Peebles
+73308	James Wilkinson
+73348	Peter
+73474	Peter Peebles
+73477	Paul Plainstanes
+73616	Peebles
+73652	Peebles
+73672	Peebles
+73677	Peeble
+73717	Peebles
+73729	Wildgoose
+73732	Peebles
+73794	Peebles
+73890	Peebles
+73899	JURIS
+74002	Peter
+74039	Peter
+74060	Peebles
+74099	Peter
+74146	Fairford
+74162	Alan Fairford
+74249	Peebles
+74333	Alan Fairford
+74374	JURIS
+74451	Fairford
+74461	Fairford
+74478	Charles
+74574	Regiam
+74728	Pest
+74734	Daddie Fairford
+74834	Peebles
+74911	Macer
+74960	James Wilkinson
+74976	Peter Peebles
+75022	Alan
+75132	Alan
+75180	Darsie
+75215	Peter Peebles
+75252	Peter
+75535	Mont Blanc
+75636	Alan Fairford
+75726	Saunders Fairford
+75794	Giles
+75864	Warren
+75933	George
+76007	Chevalier
+76179	Fairford
+76262	Alan
+76307	Fairford
+76339	Alan
+76405	Alan Fairford
+76509	Darsie Latimer
+76533	Fairford
+76600	Fairford
+76624	Darsie
+76675	Fairford
+76685	Alan
+76717	Darsie
+76728	Fairford
+76766	Alan Fairford
+76781	Darsie Latimer
+76835	Alan Fairford
+76958	Fairford
+77002	Peter Drudgeit
+77014	Alan
+77048	Will Sampson
+77063	Alan
+77148	Peter Drudgeit
+77153	Peter
+77194	Alan
+77200	Peter Peebles
+77210	Dumtoustie
+77225	Drudgeit
+77368	Fairford
+77421	Alpheus preceding
+77423	Hercules
+77432	Peter Peebles
+77468	Peter
+77541	Alan Fairford
+77594	Peter Peebles
+77630	Alan
+77663	Peter Peebles
+77750	Fairford
+77975	Alan
+78013	Peter Peebles
+78183	Alan Fairford
+78206	Peter
+78246	Alan
+78313	Alan
+78357	Alan
+78418	Alan
+78490	Saunders Fairford
+78498	Peter
+78565	Alan
+78598	Peter Drudgeit
+78635	Saunders
+78654	Saunders
+78662	Peter
+78675	Peter Peebles
+78693	John
+78776	Eneugh
+78781	Peter Drudgeit
+78817	Peter Peebles
+78966	Peters
+78991	Peebles
+79018	John
+79054	Alan Fairford
+79195	Alan
+79241	Darsie
+79268	Peter Peebles
+79278	-- Maister
+79280	Da-a-niel Dumtoustie
+79284	Dumtoustie
+79308	Maister Alan
+79310	Fairford
+79333	Peter
+79417	Peter
+79439	Alan
+79501	Bladderskate
+79515	Alan
+79578	Bladderskate
+79598	Alan
+79656	Dumtoustie
+79882	Peter Peebles
+79907	Alan
+79989	Alan
+80462	Alan
+80470	Peter
+80566	Alan
+80624	Alan
+80650	Benjamin
+80671	Peebles
+80758	Fairford
+80829	Tough
+80899	Alan
+81047	Alan
+81140	Peter Peebles
+81266	Fairford
+81351	Alan
+81422	Kaimes
+81497	Saunders Fairford
+81527	Bladderskate
+81600	Alan Fairford
+81665	Alan
+81736	Alexander Fairford
+81858	Alan
+81907	Alexander Fairford
+81917	Provost Crosbie
+81945	Darsie Latimer
+82046	Pest
+82080	Pest
+82164	Latimer
+82302	Latimer
+82328	WILLIAM CROSBIE
+82334	Fairford
+82441	Fairford
+82540	Peter Peebles
+82543	Plainstanes
+82589	Latimer
+82681	Darsie Latimer
+82850	Peter Peebles
+83067	Fairford
+83081	James Wilkinson
+83094	Maister Alan
+83117	Saunders Fairford
+83203	Fairford
+83685	ALAN FAIRFORD
+83731	Darsie
+83783	Alan
+83948	Darsie
+83968	Darsie
+83982	Alan
+84008	Alan
+84124	George
+84240	James
+84251	James Wilkinson
+84264	Alan
+84303	James
+84337	James
+84348	James
+84353	Bladderskate
+84362	Alan
+84382	Saunders
+84415	James
+84477	James
+84489	Alan
+84504	Saunders
+84575	Fairford
+84587	Alan
+84602	James
+84616	Fairford
+84621	Dean
+84797	Fairford
+84837	Saunders Fairford
+84873	Alan
+84899	Alan
+84928	Fairford
+84969	Alan
+85002	Fairford
+85018	Alan
+85037	James
+85155	James V
+85289	Darsie Latimer
+85301	Alan
+85312	Peter Peebles
+85341	Alan
+85382	Tough
+85393	Alan
+85478	Peebles
+85519	Alan
+85570	John
+85577	Peter Drudgeit
+85595	Saunders Fairford
+85661	Saunders
+85716	Alan
+85740	Tough
+85781	Fairford
+85800	Crosbie
+86223	Alexander Fairford
+86730	Alan Fairford
+86832	Samuel Owen
+86851	Bush
+86856	Gregson
+86894	Alan
+87080	Benjamin
+87087	Coltherd
+87095	Bush
+87162	Solway
+87269	Geddes
+87374	Bush
+87672	Shepherd
+87674	Bush
+87743	Miss Geddes
+87808	Geddes
+87882	Geddes
+87898	Rachel
+87955	Joshua
+87981	Adam
+88001	Rachel
+88006	Geddes
+88243	Geddes
+88300	Rachel
+88382	Geddes
+88494	Joshua Geddes
+88505	Rachel
+88615	Geddes
+88800	Joshua
+88896	Geddes
+88907	Davies
+88931	Master Geddes
+88966	John Davies
+88972	Geddes
+89006	John Davies
+89012	Geddes
+89117	John Davies
+89122	Geddes
+89149	John
+89184	John Davies
+89189	Joshua Geddes
+89216	Master Geddes
+89271	Phil
+89288	John Davies
+89327	Phil
+89401	Geddes
+89466	John Davies
+89513	John Davies
+89613	John Davies
+89627	Phil
+89651	Davies
+89689	John
+89728	Joshua
+89734	John Davies
+89772	Phil
+89895	Rachel
+89951	John Davies
+89956	Joshua Geddes
+90059	John Davies
+90085	Geddes
+90120	Latimer
+90171	Latimer
+90216	Latimer
+90320	Latimer
+90350	Geddes
+90535	Geddes
+90605	Solway
+90698	John Davies
+90752	Geddes
+90842	Geddes
+90890	John Davies
+90953	Alan
+91025	DARSIE LATIMER
+91039	Geddes
+91167	Geddes
+91326	Willie
+91427	John Davies
+91438	Ailsa Craig
+91509	Geddes
+91539	John Davies
+92114	Willie
+92402	Epps Ainslie
+93235	Geddes
+93811	Laird
+93898	Alan
+94227	Allonby Tom
+94932	Solway
+95245	Cristal Nixon
+95405	Cristal
+95572	Cristal Nixon
+95666	Mary
+95668	Kirk
+95672	Cristal Nixon
+95961	Alan Fairford
+96205	DARSIE LATIMER
+96798	Joan
+97029	Dorcas
+97310	Alan
+97450	Dorcas
+97704	Dorcas
+97976	Dorcas
+97996	Dorcas
+98095	Dorcas
+98142	John
+98148	Noa
+98155	Jan
+98172	Kitty Rutlege
+98247	Jan
+98261	Noa
+98303	Appleby Fair
+98344	Carlisle
+98505	Carloisle
+98517	Eckie
+98564	Dorcas
+98571	Cristal Nixon
+98603	Dorcas
+98686	Squire
+98693	Dorcas
+98715	Dorcas
+98727	Raff Miller
+98753	Dorcas
+98765	Dorcas
+98776	Anan
+98781	Dorcas
+98809	Dorcas
+98826	Noa
+98960	Dorcas
+98982	Cristal Nixon
+99047	Dorcas
+99721	Alan
+99800	Darsie Latimer
+99992	LATIMER
+100424	Cristal Nixon
+100899	Alan
+101091	Darsie Latimer
+101105	Darsie Latimer
+101176	Darsie Latimer
+101194	-- Nick
+101202	Nick
+101494	Darsie
+101519	Latimer
+101571	Latimer
+101739	Squire Foxley
+101743	Foxley Hall
+101758	Nicholas
+101860	Foxley
+101899	Justice Foxley
+102212	Solway Firth
+102437	Alan
+102532	Foxley
+102559	Nicholas
+102686	Matthew Foxley
+102754	Baron of
+102756	Graystock
+103104	Darsie
+103111	Darsie Latimer
+103125	Darsie
+103128	Latimer
+103714	-- aye
+103755	Nicholas
+103779	Nicholas
+103823	Justice Foxley
+103845	Dorcas
+103982	Alan
+103989	Peter Peebles
+103994	LATIMER
+104153	Foxley
+104225	Alan
+104389	Alan
+104508	Peter
+104538	Gude
+104613	Peebles
+104640	Peter
+104753	Cristal Nixon
+104823	Peter Peebles
+104852	Peter
+104864	Foxley
+104988	Nick
+104995	Foxley
+105009	Peter
+105200	Alan
+105330	Peter Peebles
+105422	Nick
+105474	Solway
+105496	Nicholas
+105546	Peter Peebles
+105888	Peter Peebles
+105918	Peter Peebles
+105986	Peter Peebles
+106004	Haud
+106028	Alan Fairford
+106035	Haud
+106072	Alan awa
+106116	Peebles
+106161	Darsie Latimer
+106180	Peter
+106204	NIHIL NOVIT
+106225	Foxley
+106266	Peter
+106307	Peter
+106364	Nick
+106422	Peter
+106491	Peebles
+106586	Peter
+106626	Herries
+106680	Herries
+106706	Peter Peebles
+106747	Peebles
+106802	Herries
+106835	Peebles
+106845	Herries
+106905	Redgimlet
+106969	Redgimlet
+107041	Herries
+107084	Peter Peebles
+107194	Peter Peebles
+107208	Foxley
+107214	Herries
+107285	Herries
+107298	Peter Peebles
+107507	Herries
+107547	Herries
+107687	Herries
+107702	Foxley
+107707	Derwentwater
+107723	Foxley
+107787	Herries
+107842	Nicholas Faggot
+107873	Justice Foxley
+107917	Attorney
+107948	Herries
+107972	Herries
+108047	Foxley
+108108	Herries
+108127	Faggot
+108145	Nicholas
+108172	Herries
+108213	Faggot
+108298	Herries
+108331	Peter Peebles
+108346	Nicholas Faggot
+108360	Herries
+108366	Cristal Nixon
+108400	Peter
+108411	Herries
+108899	Faggot
+108914	Foxley
+108924	Herries
+108976	Herries
+108992	Foxley
+109007	Herries
+109105	Herries
+109171	Nicholas Faggot
+109198	George
+109294	Justice
+109318	Nicholas
+109473	Cristal Nixon
+109479	Herries
+109503	Cristal
+109541	Foxley
+109555	Herries
+109570	King George
+109616	Herries
+109661	Justice Foxley
+109745	Justice
+109840	Herries
+109890	Cristal Nixon
+109908	Herries
+109913	Foxley
+109982	Foxley
+110005	Herries
+110110	Byrom
+110122	-- God
+110149	King
+110193	Faggot
+110210	Herries
+110396	Cristal Nixon
+110440	VIII LATIMER
+110491	Herries
+110618	Chevalier
+110632	Clifton
+110665	Stuart
+110745	Herries
+110847	Foxley
+110998	Herries
+111331	Herries
+111595	Herries
+111930	Bruce
+111932	Baliol
+111954	Bruce
+111976	Edward Baliol
+112021	Bruce
+112069	Edward Baliol
+112085	Annan
+112104	Douglas
+112106	Randolph
+112110	Earl of
+112112	Moray
+112116	Simon Fraser
+112127	Baliol
+112173	Norman
+112236	Redgauntlet
+112257	Redgauntlet
+112329	Alberick Redgauntlet
+112469	Alberick Redgauntlet
+112508	Alberick
+112515	Douglas
+112594	Edward Baliol
+112657	Redgauntlet
+112679	Redgauntlet
+112694	Baliol
+112733	Edward
+112816	Baliol
+112888	Redgauntlet
+112917	Dundrennan
+112925	Douglas
+112965	Redgauntlet
+113009	Douglas
+113077	Redgauntlet
+113083	Douglas
+113126	Douglas
+113158	Alberick Redgauntlet
+113215	Alberick
+113401	Alberick
+113448	David Bruce
+113452	Philippa
+113502	Alberick Redgauntlet
+113518	Herries
+113553	Herries
+113623	Edward
+113671	David Bruce
+113685	Chevalier Charles
+113687	Edward
+113925	Herries
+114045	Herries
+114210	William
+114386	Richard
+114480	King William
+114514	John Friend
+115065	Alan
+115351	Herries
+115407	Cristal Nixon
+115462	Fairford
+115816	Fairford
+115844	Ralph Latimer
+115864	Latimer
+116033	Herries
+116140	Solway
+116186	Herries
+116190	Joshua
+116292	Justice Foxley
+116631	Herries
+116759	Cristal Nixon
+117062	Samuel Griffiths
+117292	Herries
+117319	Alan Fairford
+117411	Alexander Fairford
+117457	LATIMER
+117712	Fairford
+117884	Cristal Nixon
+117981	Joshua Geddes
+118190	Richard Coeur
+118192	de Lion
+118198	Blondel
+118422	Neil Gow
+118428	Nathaniel
+118513	Nixon
+118542	Jan
+118544	Dorcas
+118579	Babel
+118636	Willie
+118754	Dorcas
+118774	Willie
+118926	Dorcas
+119114	Willie
+119211	Johnnie
+119276	Johnnie
+119407	Willie
+119598	Cristal Nixon
+119605	Willie
+119727	Alan
+120262	Quixote
+120369	Herries
+120465	Darsie Latimer
+120479	Alan Fairford
+120519	Alan Fairford
+120616	Alan
+120621	Darsie
+120644	Latimer
+120676	Darsie
+120735	Latimer
+120741	Alan
+120860	Provost Crosbie
+120869	Darsie
+120966	Provost Crosbie
+120972	Alan Fairford
+121003	Darsie Latimer
+121023	Darsie Latimer
+121047	Alan
+121150	Crosbie
+121187	Alan
+121253	Crosbie
+121341	Crosbie
+121349	Fairford
+121500	Alan Fairford
+121552	Alan Fairford
+121592	Crosbie
+121647	Crosbie
+121701	Fairford
+121792	Fairford
+121840	Geddes
+121857	Fairford
+121930	Master Alan
+121958	Alan
+122099	Crosbie
+122140	Herries
+122186	Darsie Latimer
+122234	Herries
+122266	Herries
+122271	Herries
+122288	Birrenswork
+122293	Birrenswork
+122298	Crosbie
+122307	Alan
+122318	Laird
+122320	Redgauntlet
+122389	Redgauntlet
+122564	Alan
+122586	Redgauntlet
+122595	Alan Fairford
+122643	Herries
+122700	Redgauntlet
+122709	Darsie Latimer
+122752	Burleigh
+122779	Latimer
+122830	Fairford
+122863	Redgauntlet
+122909	Ailsay
+123004	Herries
+123007	Redgauntlet
+123179	Alan
+123207	Redgauntlet
+123307	Crosbie
+123350	Redgauntlet
+123379	Alan Fairford
+123383	Redgauntlet
+123544	Redgauntlet
+123553	Crosbie
+123561	Alan Fairford
+123627	Pate Maxwell
+123635	Pate-in-Peril
+123722	Charlie Stuart
+123726	Wade
+123746	James
+123786	Alan
+123881	Fairford
+123957	Alan
+123977	Crosbie
+123993	Maxwell
+124034	Redgauntlet
+124085	Pate-in-Peril
+124093	Alan
+124189	Bailie Laurie
+124209	Fairford
+124261	Laird
+124375	Alan
+124384	Brokenburn
+124549	Darsie Latimer
+124589	Darsie
+124621	Redgauntlet
+124624	Darsie
+124685	Latimer
+124698	Griffiths
+124720	Provost Crosbie
+124756	Alan Fairford
+124763	Rachel Geddes
+124807	Joshua
+124815	Geddes
+124844	Rachel
+124895	Geddes
+124900	Darsie Latimer
+124915	Provost Crosbie
+124936	Geddes
+124953	Rachel
+124991	Joshua
+125044	Joshua
+125162	Joshua
+125173	Rachel
+125232	Solomon
+125271	Darsie Latimer
+125337	Darsie Latimer
+125451	Solway
+125522	Geddes
+125575	Darsie Latimer
+125589	Geddes
+125639	Latimer
+125651	Samuel Griffiths
+125754	Darsie
+125837	Herries
+125920	Alan Fairford
+125932	Redgauntlet
+125969	Provost Crosbie
+126010	Alan Fairford
+126032	Provost Crosbie
+126071	Fairford
+126179	Maxwell
+126191	Auld Reekie
+126347	Mareschal
+126351	Winton
+126516	Crosbie
+126531	Crosbie
+126596	Maxwell
+126688	Redgauntlet
+126744	Crosbie
+126782	George
+126858	Crosbie
+126907	Maxwell
+126951	Peter MacAlpin
+126977	Peter MacAlpin
+127050	Charlie
+127083	Summertrees
+127117	Charlie
+127160	Charlie
+127179	Charlie
+127183	Crosbie
+127296	Peter MacAlpin
+127346	Cassandra
+127611	Alan Fairford
+127717	Provost Crosbie
+127904	Fairford
+128024	Summertrees
+128137	Crosbie
+128209	Harry Redgauntlet
+128437	Maxwell
+128455	Maxwell
+128480	Summertrees
+128671	Crosbie
+128701	Alan Fairford
+128770	Skye
+128773	Bush
+128782	-- Weel
+128881	Harry Redgauntlet
+129096	Snell
+129136	Summertrees
+129201	Harry Redgauntlet
+129215	Harry
+129218	Crosbie
+129282	Edward
+129294	Summertrees
+129298	Harry
+129339	Harry Redgauntlet
+129402	Harry
+129551	Harry
+129578	Alan Fairford
+129622	Harry
+129683	Moffat
+129726	Ye ken
+129733	Marquis
+129874	Alan
+129957	Harry Gauntlet
+130019	Chalmer
+130024	Auld Reekie
+130455	Pate-in-Peril
+130533	Carlisle
+130559	Laird
+130600	MacEwen
+130602	MacMillan
+130790	Alan Fairford
+130797	Harry
+130801	Summertrees
+130839	Neil Maclean
+130874	Harry
+131047	Alan
+131057	Summertrees
+131171	Redgauntlet
+131185	Henry Redgauntlet
+131201	Arthur
+131211	Redgauntlet
+131225	Henry Redgauntlet
+131240	Alan Fairford
+131268	Summertrees
+131271	Edward Hugh
+131273	Redgauntlet
+131325	Henry
+131356	Henry
+131430	Henry
+131490	Crosbie
+131529	Laird
+131542	Crosbie
+131621	Crosbie
+131737	Alan Fairford
+131805	Willie
+131817	Darsie Latimer
+131827	Henry
+131945	Maxwell
+132005	Alan
+132062	Provost Crosbie
+132105	Maxwell
+132148	Geddes
+132222	Alan
+132241	Geddes
+132286	Summertrees
+132331	Fairford
+132360	Maxwell
+132406	Alan
+132475	Maxwell
+132572	Alan
+132578	Maxwell
+132594	Redgauntlet
+132620	Darsie Latimer
+132703	Maxwell
+132725	Henry Redgauntlet
+132753	Redgauntlet
+132760	Herries
+132762	Birrenswork
+132766	Alan
+132776	Redgauntlet
+132780	Maxwell
+132815	Fairford
+132917	Redgauntlet
+133016	Redgauntlet
+133037	Darsie Latimer
+133109	Maxwell
+133167	Summertrees
+133295	Maxwell
+133409	Fairford
+133437	Darsie Latimer
+133451	Summertrees
+133511	Maxwell
+133556	Summertrees
+133581	Redgauntlet
+133611	Redgauntlet
+133672	Summertrees
+133860	Redgauntlet
+133895	Maxwell
+133932	Latimer
+133947	Maxwell
+133993	Alan Fairford
+134077	Alan
+134087	Redgauntlet
+134134	Maxwell
+134161	Fairford
+134193	Redgauntlet
+134242	Carlisle
+134297	Redgauntlet
+134402	Maxwell
+134457	Fairford
+134548	Fairford
+134607	Alan
+134748	Fairford
+134772	Adam
+134839	Laird
+134920	Alan
+135048	Alan Fairford
+135055	Darsie Latimer
+135076	Alan
+135101	Alan
+135110	Summertrees
+135125	Redgauntlet
+135148	Alan
+135267	Fairford
+135282	Alan
+135359	Alan
+135415	Pate
+135441	Crosbie
+135474	Alan
+135513	Fairford
+135523	Maxwell
+135576	Laird
+135586	Alan Fairford
+135649	Maxwell
+135678	Maxwell
+135723	Summertrees
+135781	Maxwell
+135863	Fairford
+135906	Redgauntlet
+136026	Alan
+136083	Maxwell
+136162	Alan Fairford
+136239	Herries
+136303	Provost
+136343	Redgauntlet
+136380	Tom Trumbull
+136384	Annan
+136387	Tam Turnpenny
+136404	Redgauntlet
+136426	Turnpenny
+136481	Aberdeen Almanacks
+136562	Crosbie
+136634	Summertrees
+136657	Alan
+136727	Crosbie
+136767	Crosbie
+136809	Fairford
+136869	Alan
+136924	Fairford
+136938	Summertrees
+136945	Alan
+136980	Alan Fairford
+136990	Laird
+137026	Alan
+137074	Crosbie
+137090	George
+137110	Tom Trumbull
+137114	Turnpenny
+137131	Alan
+137182	Silvertongue
+137191	Alan Fairford
+137200	Pate-in-Peril
+137213	Annan
+137280	Crosbie
+137283	Laird
+137289	Alan
+137338	Macbeth
+137369	Alan
+137381	Shakespeare
+137536	Darsie Latimer
+137610	Maxwell
+137615	Tom Trumbull
+137715	Trumbull
+137816	Trumbull
+137916	Quin
+137957	Trumbull
+137966	Covenanter
+138056	Alan Fairford
+138124	Maxwell
+138154	Trumbull
+138158	Thomas Trumbull
+138208	Maxwell
+138238	Trumbull
+138290	Alan
+138303	Annan
+138312	Trumbull
+138379	Thomas Trumbull
+138400	Alan Fairford
+138405	Laird
+138407	Redgauntlet
+138422	Trumbull
+138470	Alan
+138476	Redgauntlet
+138486	Herries
+138510	Trumbull
+138560	Alan
+138570	Redgauntlet
+138717	Aberdeen Almanacks
+138733	Thomas Trumbull
+138820	Malachi
+138847	Malachi
+138925	Malachi
+138936	Trumbull
+139210	Trumbull
+139228	Maxwell
+139233	Laird
+139235	Redgauntlet
+139245	Maxwell
+139602	Trumbull
+139682	Trumbull
+139771	Trumbull
+139796	Swanston
+139832	JENNY
+139922	Laird
+140026	Alan Fairford
+140107	Trumbull
+140233	Job Rutledge
+140242	Trumbull
+140340	Trumbull
+140367	Trumbull
+140413	Laird
+140429	Nanty Ewart
+140481	Nanty
+140556	Nanty
+140571	Cristie Nixon
+140698	Maxwell
+140721	Trumbull
+140746	Nanty Ewart
+140795	Trumbull
+140883	Master Trumbull
+140947	Turnpenny
+141136	Peter Peebles
+141196	Alan
+141243	Job Rutledge
+141282	Alan
+141317	Alan
+141510	Alan Fairford
+141534	Job Rutledge
+141741	Trumbull
+141967	Trumbull
+142036	Ophir
+142068	Trumbull
+142088	Nanty
+142092	Antony -RRB-
+142094	Ewart
+142102	Alan Fairford
+142118	Trumbull
+142164	Trumbull
+142168	Alan
+142222	Trumbull
+142294	Thomas Trumbull
+142394	Trumbull
+142464	Alan
+142542	Rutledge
+142555	Trumbull
+142750	Trumbull
+142800	Trumbull
+142841	Robin Hastie
+142867	Robie
+142915	Robin Hastie
+142943	Trumbull
+143050	Thomas Trumbull
+143082	Robin
+143088	Nanty Ewart
+143128	Robin
+143162	Thomas Trumbull
+143298	Robin
+143303	Trumbull
+143312	Robin
+143333	Robin
+143366	Robin
+143373	Nanty Ewart
+143394	Robin
+143408	Nanty Ewart
+143414	Pentland Firth
+143428	Robin Hastie
+143483	Antony
+143485	Nanty Ewart
+143584	Trumbull
+143607	Ewart
+143666	Laird
+143713	Shakespeare
+143758	Alan Fairford
+143763	Trumbull
+143769	Alan Fairford
+143781	Alan Fairford
+143829	Trumbull
+143900	Alan Fairford
+144079	Alan
+144133	Alan
+144178	Thomas Trumbull
+144186	Nanty
+144244	Ewart
+144299	Ewart
+144388	Trumbull
+144413	Alan Fairford
+144502	Annan
+144510	Trumbull
+144662	Alan
+144672	Fairford
+144779	Ewart
+144826	Nanty Ewart
+144884	Alan Fairford
+144947	Trumbull
+145033	Nanty
+145196	Alan Fairford
+145475	Solway Firth
+145535	Criffel
+145555	Glaramara
+145678	Thomas Trumbull
+145703	Alan
+145868	Alan
+145921	Nanty Ewart
+145982	Solway
+146014	Nanty
+146042	Alan
+146091	NIHIL PENSI
+146109	Henry Steuart
+146111	of Allanton
+146239	Crispus
+146306	Solway
+146332	Alan
+146523	-- Ibidem
+146546	Fairford
+146587	Ewart
+146604	Turnpenny
+146630	Sallust
+146878	Ewart
+147082	Nanty Ewart
+147203	JENNY
+147205	Alan
+147219	Nanty Ewart
+147261	Alan Fairford
+147361	Skiddaw
+147417	Nanty Ewart
+147474	Nanty
+147532	Ewart
+147729	Alan
+147825	JENNY
+147838	Ewart
+147855	Criffel
+147857	Solway Moss
+147943	Willy Foster
+147950	Siller
+147964	Canny Willy
+147966	Foster
+148028	Ewart
+148072	Fairford
+148179	Virgil
+148241	Cantrips of
+148243	Kittlebasket
+148319	Daniel
+148405	-- Gad
+148440	Jess Cantrips
+148614	Kirk
+148658	Kittlebasket
+148683	Othello
+148726	Jack Radaway
+148806	Adam
+148823	Ichabod
+148895	Leith
+148982	Jack
+149083	JENNY
+149217	Jack Hadaway
+149294	Jack Hadaway
+149376	Cantrips
+149445	Lady Kittlebasket
+149464	Daniel
+149547	Gad
+149579	Jess
+149592	Jess
+149619	Jess Cantrips
+149625	Lady Kittlebasket
+149686	Jess
+149787	Jack
+149821	Jack
+149837	Auld Reekie
+149875	Jess
+150040	Leith
+150247	David
+150440	Ewart
+150475	Nanty
+150519	Avery
+150575	-- Pah
+150651	JENNY
+150677	Annan
+150827	Nanty Ewart
+150954	Firth
+150967	Nanty Ewart
+151014	Nanty
+151041	Solway
+151067	Bowness
+151114	Master Ewart
+151188	Ewart
+151311	Nanty Ewart
+151369	JENNY
+151385	Ewart
+151424	Jove
+151428	Nanty Ewart
+151457	Summertrees
+151501	JENNY
+151572	Nanty
+151632	Alan Fairford
+151667	Ewart
+151763	Jack Hadaway
+151826	Jack
+151949	Jack
+151968	Nanty Ewart
+151976	Ewart
+152021	Nanty
+152199	Nanty
+152269	Nanty Ewart
+152585	Fairbairn
+152642	Fairport
+152711	John Roberts
+152728	Fairweather
+152741	Turnpenny
+152993	Kirkbride
+153211	Alan Fairford
+153394	Nanty Ewart
+153540	Ewart
+153543	Alan
+153595	Nanty Ewart
+153659	Crackenthorp
+153683	Crackenthorp
+153710	Nanty
+153735	Fairbird
+153806	Crackenthorp
+153931	Gad
+153963	Gad
+153997	Crackenthorp
+154030	Turnpenny
+154047	Crackenthorp
+154067	JENNY
+154109	Crackenthorp
+154165	Nanty Ewart
+154330	Crackenthorp
+154334	Ewart
+154384	Nanty
+154470	Crackenthorp
+154497	Nanty
+154537	Crackenthorp
+154594	Crackenthorp
+154686	Nanty Ewart
+154729	Crackenthorp
+154788	JENNY
+154902	Nanty
+154977	Father Crackenthorp
+154984	Nanty Ewart
+154998	Nanty
+155038	Jephson
+155112	Nanty
+155129	Crackenthorp
+155189	Ewart
+155206	Jephson
+155226	Ewart
+155351	Jack Lowther
+155452	-- Blinkinsop
+155571	Jem Collier
+155658	Crackenthorp
+155688	Nanty
+155702	Alan Fairford
+155810	Alan
+155974	Alan Fairford
+155980	Jephson
+156052	Collier
+156085	Jephson
+156087	Nanty
+156112	Sam Skelton
+156120	Lowther
+156132	Nanty
+156164	Sam
+156199	Collier
+156221	Goodman Grist
+156223	the Miller
+156262	Nanty
+156265	Sam Skelton
+156279	Jephson
+156460	Skelton
+156524	Nanty
+156610	Dick Gardener
+156615	Skelton
+156662	Sam Skelton
+156687	Sam Skelton
+156725	Nanty
+156813	Bowness
+156822	Skelton
+156825	Jack Lowther
+156830	Jephson
+156834	Will Lamplugh
+156847	Dick Gardener
+156875	Wigton
+156920	Skelton
+156943	Nanty
+156964	Nanty Ewart
+156970	JENNY
+157042	Dick Gardener
+157100	Dick Gardener
+157110	Jephson
+157112	Skelton
+157138	Jephson
+157142	Dan Cooke
+157177	Dick Gardener
+157184	Arthuret
+157198	Nanty Ewart
+157307	Madam Arthuret
+157312	Nanty
+157323	Holy Virgin
+157360	Ewart
+157384	JENNY
+157420	Nanty
+157466	Nanty
+157553	Laird
+157558	Laird
+157569	Solway
+157587	Mary
+157614	Richard Gardener
+157634	Selby
+157711	Fairford
+157726	Alan
+157763	Dick
+157773	Nanty
+157791	Fairford
+157796	Madam Arthuret
+157905	Miss Seraphina
+157966	Richard
+158056	Richard Gardener
+158077	Winifred
+158087	Dick
+158126	NOBIS
+158253	Arthuret
+158272	Richard
+158396	Arthuret
+158406	Angelica
+158426	Seraphina
+158454	Angelica
+158479	LEO VORANS
+158511	Seraphina
+158583	Angelica
+158601	Dick Gardener
+158661	Richard
+158676	Ambrose
+158756	Alan Fairford
+158795	Ambrose
+158869	Darsie Latimer
+158892	Nanty Ewart
+158899	Solway
+158903	JENNY
+158918	Ambrose
+159024	Aesculapius
+159059	Alan
+159295	Ambrose
+159390	Ambrose
+159453	Alan
+159515	Alan
+159543	Ambrose
+159644	Redgauntlet
+159648	Laird
+159673	Angelica
+159679	Miss Arthuret
+159707	Jesu Maria
+159721	Seraphina
+159748	Angelica
+159799	Fairford
+159834	Angelica
+159845	Seraphina
+159996	Sister Seraphina
+160014	Buonaventure
+160036	Seraphina
+160120	Seraphina
+160129	Fairford
+160156	Angelica
+160159	Holy Virgin
+160170	Fairford
+160175	Buonaventure
+160214	Seraphina
+160230	Fairford
+160425	Buonaventure
+160466	Buonaventure
+161231	Alan
+161272	Alan
+161287	Father Buonaventure
+161313	Fairford
+161382	Father Buonaventure
+161452	Alan
+161537	Alan
+161637	Alan
+161795	Maxwell
+161800	Redgauntlet
+161821	Alan Fairford
+161892	Father Buonaventure
+161974	Buonaventure
+161993	Darsie Latimer
+162082	Alan
+162178	Maxwell
+162203	Alan
+162221	Trumbull
+162223	Nanty Ewart
+162403	Nanty Ewart
+162470	Buonaventure
+162518	Alan Fairford
+162616	Maxwell
+162619	Redgauntlet
+162638	Alan
+162874	Redgauntlet
+162891	Father Buonaventure
+162906	Redgauntlet
+162910	Maxwell
+162967	Provost Crosbie
+163149	Jenny
+163173	Jenny
+163333	Alan Fairford
+163356	Maxwell
+163808	Alan Fairford
+163868	Maxwell
+164072	Redgauntlet
+164097	Maxwell
+164523	Alan
+164700	Redgauntlet
+164760	Darsie Latimer
+164786	Alan
+164829	Ambrose
+164843	Alan
+164935	Ambrose
+165043	Alan
+165072	Darsie Latimer
+165091	Redgauntlet
+165213	Uriah
+165410	Alan
+165523	Alan
+165663	Redgauntlet
+165769	Maxwell
+165789	Alan
+165816	Ere Alan
+165977	Vashti
+165981	Esther
+165994	Buonaventure
+166153	Alan Fairford
+166394	Father Buonaventure
+166652	Maxwell
+166907	Alan
+166924	Ambrose
+167047	Ambrose
+167102	Ambrose
+167165	Buonaventure
+167181	Alan
+167216	Buonaventure
+167272	Dick Gardener
+167317	Richard
+167358	Dick Gardener
+167396	Dick
+167469	Richard
+167480	Crackenthorp
+167566	Darsie Latimer
+167583	Laird
+167629	Darsie
+167631	Cristal Nixon
+167966	Darsie
+168064	Darsie Latimer
+168242	Darsie Latimer
+168295	Cristal Nixon
+168317	Cicely
+168334	Latimer
+168368	Jan
+168394	Cristal Nixon
+168437	Darsie
+168523	Green Mantle
+168560	Darsie
+168579	Cristal Nixon
+168739	Cristal Nixon
+168774	Redgauntlet
+168791	Darsie
+168815	Darsie
+168861	Darsie
+168871	Latimer
+168885	Lilias
+168913	Dearest Darsie
+168933	Darsie
+168945	Redgauntlet
+168991	Darsie Latimer
+169015	Darsie
+169114	Lilias
+169130	Darsie
+169224	Redgauntlet
+169258	Cristal Nixon
+169295	Latimer
+169358	Darsie
+169392	Lilias
+169418	Redgauntlet
+169446	Latimer
+169466	Redgauntlet
+169497	Lilias
+169507	Darsie
+169581	Darsie
+169685	Darsie
+169728	Lilias
+169795	Redgauntlet
+169818	Darsie
+169842	Caesar
+169900	Redgauntlet
+169908	Cristal Nixon
+169950	Gilbert Gregson
+169970	Redgauntlet
+170055	Redgauntlet
+170090	Redgauntlet
+170137	Darsie
+170157	Redgauntlet
+170189	Cristal Nixon
+170233	Cristal Nixon
+170271	Redgauntlet
+170294	Cristal
+170369	Nixon
+170379	Lilias
+170432	Redgauntlet
+170443	Latimer
+170504	Cristal Nixon
+170547	Darsie
+170570	Nixon
+171338	Darsie
+171425	Miss Lilias
+171494	Darsie
+171530	Darsie
+171764	Darsie
+171853	Darsie
+171874	Mother Eve
+171918	Redgauntlet
+171947	Darsie
+172011	Darsie
+172177	Lilias
+172249	Darsie
+172286	Darsie
+172334	Lilias
+172361	Darsie
+172386	Henry Darsie
+172388	Redgauntlet
+172404	Darsie
+172478	Darsie
+172493	Lilias
+172568	Darsie
+172585	Brokenburn
+172605	Lilias
+172707	Lilias
+172747	Lilias
+172904	Darsie
+172916	Alberick Redgauntlet
+172929	Lilias
+173060	Lady Redgauntlet
+173365	Darsie
+173423	Henry
+173469	Hugh
+173505	Darsie
+173512	Lilias
+173617	Hugh Redgauntlet
+173674	Darsie Redgauntlet
+173750	Lady Redgauntlet
+173930	Alberick
+173950	Darsie
+174047	Lilias
+174206	Darsie
+174242	Lilias
+174291	Samuel Griffiths
+174395	Darsie
+174440	Redgauntlet
+174470	Redgauntlet
+174657	Darsie
+174673	Lilias
+174784	Darsie
+174893	Arthur
+174907	Darsie
+174943	Stuart
+175064	Lilias
+175292	Giles
+175305	Darsie
+175351	Lilias
+175427	Darsie
+175718	Rachel Rougedragon
+175785	Redgauntlet
+176043	Cannon
+176223	Cristal Nixon
+176231	Darsie
+176239	Lilias
+176256	Darsie
+176285	Nixon
+176396	Nixon
+176535	Nixon
+176596	Nixon
+177173	Lilias
+177397	Errol
+178070	Darsie
+178089	Lilias
+178324	Darsie
+178342	Lilias
+178515	Darsie
+178535	Lilias
+178710	Darsie
+178736	Lilias
+179029	Darsie
+179123	Lilias
+179237	Lilias
+179320	Stuart
+179343	Lilias
+179431	Darsie
+179451	Lilias
+179477	Lilias
+179571	Brokenburn
+179604	Nixon
+179648	Fairford
+179699	Darsie
+179761	Bush
+179782	Benjie
+179786	Darsie
+179818	Cristal Nixon
+179823	Lilias
+179827	Cristal Nixon
+179845	Darsie
+179944	Nixon
+180018	Darsie
+180110	Lilias
+180114	Darsie
+180269	Nixon
+180295	Darsie
+180318	Lilias
+180360	Cristal Nixon
+180434	Miss Lilias
+180469	Lilias
+180523	Darsie
+180531	Arthur Darsie
+180533	Redgauntlet
+180720	Darsie
+180807	Darsie
+180914	Cristal Nixon
+180939	Darsie
+180967	Lilias
+181053	Darsie
+181076	Cristal
+181111	Hugh Redgauntlet
+181139	Nixon
+181142	Darsie
+181191	Nixon
+181217	Scarborough
+181262	Nixon
+181320	Nixon
+181382	Darsie
+181404	Nixon
+181462	Darsie
+181473	Nixon
+181523	Nixon
+181585	Darsie
+181637	Darsie
+181658	Nixon
+181693	Bailey
+181712	Michel
+181787	Nixon
+181791	Darsie
+181890	Nixon
+182005	Blind Willie
+182153	Hugh Redgauntlet
+182166	Cristal Nixon
+182192	Crackenthorp
+182196	Redgauntlet
+182239	Cristal
+182301	Cristal
+182315	Redgauntlet
+182338	Arthur Redgauntlet
+182374	Darsie
+182398	Redgauntlet
+182501	Darsie
+182515	Redgauntlet
+182592	Darsie
+182788	Darsie
+182817	Redgauntlet
+182858	Darsie
+182882	Edward I
+182921	Bruce
+182966	Edward
+183008	Bruce
+183035	Darsie
+183066	Hugh Redgauntlet
+183140	Darsie
+183186	Redgauntlet
+183355	Darsie
+183470	Darsie
+183821	Darsie
+183947	Darsie
+184000	Redgauntlet
+184024	Arthur
+184064	Arthur
+184238	Charles
+184250	Darsie
+184372	Darsie
+184424	Redgauntlet
+184529	Darsie
+184579	Arthur
+184633	Darsie
+184688	Darsie
+184710	Arthur Darsie
+184712	Redgauntlet
+184749	Hugh Redgauntlet
+184761	Darsie
+184807	Redgauntlet
+184906	Darsie
+185011	Charles
+185126	Hugh Redgauntlet
+185164	Arthur
+185223	Arthur
+185427	Alberick
+185518	Darsie
+185616	Redgauntlet
+185636	Darsie
+185757	Crackenthorp
+185845	Crackenthorp
+186007	Redgauntlet
+186090	Redgauntlet
+186130	Darsie
+186137	Cristal Nixon
+186214	Darsie
+186260	Darsie
+186282	Redgauntlet
+186353	Darsie
+186375	Alan Fairford
+186457	Redgauntlet
+186469	Alan
+186490	Redgauntlet
+186503	Cristal Nixon
+186528	Alan Fairford
+186550	Alan
+186574	Herries
+186576	Birrenswork
+186588	Redgauntlet
+186602	Cristal
+186606	Darsie
+186649	Crackenthorp
+186657	Darsie
+186741	Nixon
+186743	Crackenthorp
+186797	Tom Turnpenny
+186824	Nixon
+186827	Darsie
+186878	Willie
+186913	Darsie
+187007	Wilkie
+187016	Willie
+187103	Darsie
+187201	Charlie Stuart
+187267	Cristal Nixon
+187307	Lilias Redgauntlet
+187313	Nixon
+187325	Crackenthorp
+187364	Crackenthorp
+187377	Nixon
+187443	Tom Turnpenny
+187456	Dick Gardener
+187472	Nixon
+187515	Crackenthorp
+187525	Nixon
+187529	Crackenthorp
+187649	Nixon
+187665	Crackenthorp
+187720	Joe Crackenthorp
+187759	Nixon
+187771	Nixon
+187804	Redgauntlet
+187807	Nixon
+187874	Lilias
+187933	Lilias
+188067	Lilias
+188166	Darsie
+188216	Alan Fairford
+188251	Lilias
+188265	Darsie
+188296	Willie
+188330	Darsie
+188337	Alan Fairford
+188355	Darsie
+188502	Joe Crackenthorp
+188620	Redgauntlet
+188710	Joshua Geddes
+188734	Darsie Latimer
+188850	Latimer
+188907	Solomon
+188940	Crackenthorp
+189009	Jonathan
+189028	Joshua Geddes
+189044	Crackenthorp
+189113	Joshua
+189141	Geddes
+189283	Crackenthorp
+189314	Crackenthorp
+189325	Sawney
+189411	Crackenthorp
+189589	Joshua Geddes
+189647	Wilt
+189710	Geddes
+189722	Peter Peebles
+189786	Geddes
+189881	Peter
+189992	Geddes
+190129	Geddes
+190191	Peter
+190225	Peter Peebles
+190283	Crackenthorp
+190323	Peter
+190431	Peter
+190460	Joshua
+190566	Broadbrim
+190656	Peter
+190734	Alan Fairford
+190757	Peter
+190772	JENNY
+190788	Peter
+190832	Peter
+190858	Ewart
+190922	Alan Fairford
+191012	Alan Fairford
+191017	Nanty
+191069	Peter
+191104	Darsie Latimer
+191109	Darsie Latimer
+191115	Geddes
+191125	Darsie Latimer
+191142	Peter
+191260	Alan Fairford
+191304	Firth
+191330	Ewart
+191334	Joshua Geddes
+191361	Darsie Latimer
+191375	Peter
+191412	Peter Peebles
+191563	Broadbrim
+191567	Nanty Ewart
+191649	Geddes
+191706	Nanty
+191721	Peter
+191776	Peter
+191866	Peebles
+191957	Poor Peter
+192002	Joshua
+192034	Nanty
+192088	Peter Peebles
+192126	Peter Peebles
+192131	Nanty Ewart
+192159	Peter Peebles
+192230	Peter Peebles
+192238	Peter Peebles
+192276	Joshua
+192282	Peebles
+192286	Nanty
+192312	Peter
+192349	Burgess
+192367	Ewart
+192406	Plainstanes
+192443	Nanty
+192463	Peter
+192524	Lucky Littleworth
+192546	Cantrips
+192548	Kittlebasket
+192552	Nanty
+192577	Peter
+192697	Peter
+192700	Joshua
+192748	Nanty
+192777	Peter the
+192779	Cruel
+192855	Peter
+192921	Nanty
+193035	Peter
+193138	Nanty
+193181	Joshua
+193204	Nanty
+193235	Peter Peebles
+193270	Nanty
+193288	Joshua
+193315	Peter
+193333	Peter Peebles
+193361	Dick Gardener
+193374	Crackenthorp
+193387	Father Buonaventure
+193401	Redgauntlet
+193413	Darsie
+193424	Ambrose
+193530	Crackenthorp
+193590	Alan Fairford
+193620	Redgauntlet
+193631	Herries
+193682	Darsie
+193703	Darsie
+193728	Nixon
+193731	Redgauntlet
+193899	Maxwell
+193940	Redgauntlet
+194005	Tom Turnpenny
+194039	Maxwell
+194065	Redgauntlet
+194104	Alan
+194135	Redgauntlet
+194207	Redgauntlet
+194298	Buonaventure
+194306	Redgauntlet
+194325	Buonaventure
+194329	Alan
+194373	Redgauntlet
+194379	Alan
+194504	Buonaventure
+194509	Buonaventure
+194513	Redgauntlet
+194619	Cristal Nixon
+194677	Peter Peebles
+194682	Nanty Ewart
+194729	Peter
+194758	Nanty Ewart
+194792	Redgauntlet
+194922	Peter Peebles
+194952	Herries
+194955	Herries
+195000	Harry Redgimlet
+195071	Redgauntlet
+195107	Peter Peebles
+195125	Alan Fairford
+195141	Foxley
+195145	Maister Nicholas
+195147	Faggot
+195163	Redgauntlet
+195185	Cristal Nixon
+195189	Peter
+195281	Alan Fairford
+195350	Foxley
+195419	George
+195483	Peter
+195490	Redgauntlet
+195509	Nicholas Faggot
+195543	Redgauntlet
+195562	Peter Peebles
+195596	Peebles
+195604	Fairford
+195608	Redgauntlet
+195634	Buonaventure
+195657	Darsie Latimer
+195737	Alan
+195775	Redgauntlet
+195903	Redgauntlet
+195980	Redgauntlet
+196063	Redgauntlet
+196201	Fairford
+196205	Redgauntlet
+196288	Alan Fairford
+196348	Redgauntlet
+196376	Alan Fairford
+196389	Maxwell
+196427	Nixon
+196462	Redgauntlet
+196524	Jonathan
+196528	Redgauntlet
+196682	Nanty Ewart
+196727	Nanty Ewart
+196749	Crackenthorp
+196788	Ewart
+196886	Nanty Ewart
+196931	Nanty
+197026	Joshua Geddes
+197031	Redgauntlet
+197129	Joshua
+197186	Joshua
+197188	Joshua
+197192	Redgauntlet
+197277	Peter Peebles
+197283	Cristal Nixon
+197360	Peter
+197428	Adam
+197508	Redgauntlet
+197572	Geddes
+197576	Redgauntlet
+197641	Darsie Latimer
+197703	Geddes
+197751	Joshua
+197810	Solomon
+197844	Redgauntlet
+197902	Benjie
+198016	Redgauntlet
+198028	Benjie
+198095	Benjie
+198120	Maister Cristal
+198122	Nixon
+198135	Redgauntlet
+198140	Nixon
+198165	Nixon
+198236	Redgauntlet
+198248	Cristal
+198263	Redgauntlet
+198298	Nixon
+198351	Redgauntlet
+198393	Darsie
+198434	Alan Fairford
+198496	Darsie
+198549	Arthur
+198556	Redgauntlet
+198618	Darsie
+198651	Redgauntlet
+198664	Alan Fairford
+198707	Darsie
+198723	Redgauntlet
+198731	Lilias
+198741	Arthur
+198749	Darsie
+198794	Redgauntlet
+198855	Alan Fairford
+198873	Redgauntlet
+198880	Alan
+198936	Darsie
+198961	Darsie Latimer
+199159	Redgauntlet
+199251	Lilias
+199282	Darsie
+199372	Darsie
+199451	Redgauntlet
+199483	Darsie
+199553	Redgauntlet
+199637	Richard
+199701	Grumball
+199718	-- Pengwinion
+199722	Cornish
+199781	MacKellar
+199785	Maxwell
+199800	Pate
+199909	Redgauntlet
+200079	Richard Glendale
+200090	Redgauntlet
+200187	Grumball
+200209	Redgauntlet
+200323	Meredith
+200336	Carlisle
+200374	Redgauntlet
+200456	Redgauntlet
+200464	Richard Glendale
+200489	Redgauntlet
+200520	MacKellar
+200559	Redgauntlet
+200607	Arthur Darsie
+200609	Redgauntlet
+200620	Darsie
+200676	Redgauntlet
+200707	Grumball
+200770	Locke
+200903	Meredith
+200912	Richard Glendale
+200949	Charles Edward
+201043	Redgauntlet
+201110	Charles Edward
+201123	Charles Edward
+201130	Charles Edward
+201137	-- Charles
+201139	Edward
+201264	Redgauntlet
+201379	Charles
+201415	Meredith
+201424	Redgauntlet
+201439	Summertrees
+201480	Redgauntlet
+201489	Grumball
+201556	Redgauntlet
+201640	Richard Glendale
+201732	Redgauntlet
+201786	Richard
+201798	Redgauntlet
+201861	Redgauntlet
+201940	Grumball
+201953	Maxwell
+202000	Maxwell
+202004	Redgauntlet
+202016	Maxwell
+202052	Redgauntlet
+202296	MacKellar
+202403	Redgauntlet
+202453	Grumball
+202536	CAUTE TAMEN
+202562	Redgauntlet
+202565	Richard Glendale
+202623	Redgauntlet
+202689	Robert Walpole
+202743	Richard Glendale
+202761	Redgauntlet
+202806	Charles
+202843	Richard
+202854	Redgauntlet
+202994	Redgauntlet
+203100	Redgauntlet
+203159	Redgauntlet
+203255	Redgauntlet
+203271	Richard
+203376	Redgauntlet
+203429	Redgauntlet
+203482	Redgauntlet
+203499	Redgauntlet
+203541	Richard
+203577	Redgauntlet
+203611	Arthur
+203628	Redgauntlet
+203674	Darsie
+203727	Redgauntlet
+203761	Richard Glendale
+203764	Darsie
+203766	Redgauntlet
+204003	Redgauntlet
+204018	Arthur Darsie
+204020	Redgauntlet
+204058	Richard Glendale
+204064	Charles Edward
+204109	Richard
+204125	Charles Edward
+204203	Richard Glendale
+204253	Richard
+204335	Charles Stuart
+204429	Richard Glendale
+204451	Charles Edward
+204459	Richard
+204602	Redgauntlet
+204636	Richard
+204646	Redgauntlet
+204677	Redgauntlet
+204763	Richard
+204783	Charles
+204837	Redgauntlet
+204849	Richard
+204921	Richard
+205100	Richard Glendale
+205282	Richard
+205286	Charles Edward
+205308	Redgauntlet
+205347	Redgauntlet
+205417	Richard
+205495	Charles Edward
+205637	Redgauntlet
+205647	Richard
+205733	Richard
+205855	Darsie
+205883	Richard
+205904	Richard Glendale
+206177	St. James
+206230	Richard
+206293	Richard
+206332	Charles Edward
+206385	Redgauntlet
+206433	Richard Glendale
+206471	XXIII
+206475	Redgauntlet
+206505	Darsie
+206517	Nixon
+206543	Nixon
+206571	Ewart
+206581	Nanty Ewart
+206594	Nixon
+206607	Redgauntlet
+206625	Nixon
+206643	Redgauntlet
+206676	Nixon
+206686	Darsie
+206698	Redgauntlet
+206715	Nixon
+206718	Ewart
+206729	Redgauntlet
+206731	Nixon
+206754	Nixon
+206763	Ewart
+206831	Ewart
+206849	Nixon
+206853	Redgauntlet
+206881	Ewart
+206889	Nixon
+207051	Nixon
+207061	Ewart
+207091	Nixon
+207107	Redgauntlet
+207136	Ewart
+207144	Nixon
+207167	Ewart
+207189	George
+207200	Nixon
+207224	Turnpenny
+207229	King George
+207252	Nixon
+207268	Ewart
+207311	Nixon
+207371	Nixon
+207396	Ewart
+207445	Nanty Ewart
+207478	Nanty
+207489	Nixon
+207510	Ewart
+207593	Nanty
+207698	Nixon
+207708	Nanty
+207774	Nixon
+207816	Nixon
+207828	Ewart
+207856	Nanty
+207880	Nanty
+207951	Cristal Nixon
+207975	Ewart
+208096	Nixon
+208121	Nanty
+208148	Nixon
+208159	Charles
+208185	Richard Glendale
+208211	Redgauntlet
+208347	Redgauntlet
+208406	Charles
+208493	Redgauntlet
+208535	Redgauntlet
+208570	Joe Crackenthorp
+208594	Joe
+208609	Redgauntlet
+208643	Redgauntlet
+208658	Cristal Nixon
+208755	Nixon
+208817	Redgauntlet
+208859	Darsie
+208867	Geddes
+208869	-- Uncle
+208886	Redgauntlet
+208937	Darsie
+209055	Joe Crackenthorp
+209106	Lilias
+209147	Joe
+209275	Redgauntlet
+209398	Leddy
+209404	Peter
+209482	Geddes
+209501	Peter
+209568	Peter
+209631	Joshua
+209715	Peter
+209792	Peter
+209822	Ye
+209829	Peter
+209896	Peter Peebles
+210020	Peter
+210234	Joshua
+210299	Peter
+210347	Alan Fairford
+210362	Redgauntlet
+210409	Peter Peebles
+210428	Peter
+210460	Alan
+210473	Lilias
+210539	Lilias Redgauntlet
+210551	Fairford
+210628	Darsie Latimer
+210678	Lilias
+210688	Alan
+210715	Darsie
+210757	Darsie
+210791	Lilias
+210858	Darsie Latimer
+210897	Herries
+210899	Birrenswork
+210970	Lilias
+211053	Lilias
+211183	Latimer
+211272	Darsie Latimer
+211471	Lilias Redgauntlet
+211507	Darsie
+211523	Alan Fairford
+211658	Lilias
+211693	Darsie
+211930	Lilias
+211965	Darsie
+212024	Lilias Redgauntlet
+212059	Peter Peebles
+212150	Alan Fairford
+212191	Peter
+212225	Peter
+212273	Pest
+212334	Peter Peebles
+212406	Peter
+212457	Nixon
+212464	Benjie
+212480	Peter Peebles
+212571	Peebles
+212622	Benjie
+212647	Peter
+212707	Peter
+212717	Lilias Redgauntlet
+212738	Nixon
+212772	Benjie
+212782	Peebles
+212797	Peter
+212829	Maister Nixon
+212836	Alan Fairford
+212891	Lilias
+212939	Darsie
+212969	Buonaventure
+212972	Lilias
+213044	Nanty Ewart
+213048	Nixon
+213071	Alan Fairford
+213076	Lilias
+213119	Chevalier
+213133	Redgauntlet
+213146	Richard Glendale
+213166	Charles
+213262	Redgauntlet
+213299	Lilias
+213326	Nixon
+213357	Richard Glendale
+213381	Maxwell
+213389	Colin Campbell
+213450	MacKellar
+213461	Carlisle
+213547	Richard Glendale
+213569	Redgauntlet
+213656	Richard
+213688	Redgauntlet
+213742	Redgauntlet
+213784	Charles
+213822	Charles
+213872	Darsie
+214033	Richard Glendale
+214049	Pate-in-Peril
+214062	Ingoldsby
+214102	Redgauntlet
+214149	Redgauntlet
+214376	Charles
+214404	Campbell
+214408	Redgauntlet
+214667	Richard Glendale
+214957	Redgauntlet
+215072	Redgauntlet
+215095	Campbell
+215148	Richard Glendale
+215169	Richard
+215186	Redgauntlet
+215215	Ingoldsby
+215223	Redgauntlet
+215289	Redgauntlet
+215410	Redgauntlet
+215707	Redgauntlet
+215721	Redgauntlet
+215792	Campbell
+215831	Darsie
+215855	Alan Fairford
+215912	Cristal Nixon
+215927	Redgauntlet
+215933	Campbell
+215947	Redgauntlet
+216056	Bowness
+216104	Charles
+216111	Redgauntlet
+216195	Redgauntlet
+216407	Redgauntlet
+216429	-- Nephew
+216439	Campbell
+216701	Lilias
+216857	Charles Edward
+216878	Redgauntlet
+216890	Campbell
+216933	Chevalier
+217001	Campbell
+217027	Campbell
+217052	DRYASDUST
+217108	Redgauntlet
+217136	Arthur Darsie
+217138	Redgauntlet
+217183	Scot
+217269	Lilias Redgauntlet
+217272	Redgauntlet
+217286	Alan Fairford
+217294	Clinkdollar
+217367	Peter Peebles
+217381	Caddie Fraser
+217396	George
+217485	Oldbuck
+217525	Blind Willie
+217527	Stevenson
+217533	Willie
+217546	Arthur Redgauntlet
+217613	Willie
+217622	Robin
+217690	Redgauntlet
+217761	Campbell
+218083	Stuart
+218499	John Howie
+218502	Lochgoin
+218757	Robert Grierson
+218963	Cameron
+219617	Donald
+219764	PETER PEEBLES
+219774	Peter Peebles
+219820	Peter Peebles
+219857	-- JOHN
+220092	James Graham
+220231	James Graham
+220386	Lady Grange
+220395	Kilda
+220419	Merrilees
+220516	Merrilees
+220526	Elizabeth Canning
+220567	Trumbull
+220669	Richard Mendham
+220794	Dick Mendham
+220855	Richard Mendham
+220971	George III
+220980	Dymock
+221087	George
+221149	Redgauntlet
+221154	George III
+221290	George III
+221336	George Ill
+221350	-- COLLIER
+221353	SALTER
+221576	H. Carey
+221608	Amadis
+221610	Gaul
+221616	ANES
+221620	ANNO DOMINI
+221705	AULD REEKIE
+221837	Justinian
+221839	BENEDICTE
+221865	BILLIE
+221998	BROWN
+222016	Alexander the
+222018	Great
+222161	Catilina
+222198	Bellerophon
+222287	HOPPER
+222301	CLEEK
+222394	Aufidius
+222423	CRAIG
+222463	CROWDER
+222575	DELATE
+222614	DING
+222700	Don Quixote
+222906	GALLOWAY
+222933	GAUGER
+223010	GROSSART
+223014	GRUE
+223086	HANK
+223266	Redgauntlet
+223364	JACK
+223464	LEAL
+223486	Shenstone
+223516	LEE WAY
+223553	LEX AQUARUM
+223562	LIMMER
+223571	LING
+223641	LOVELACE
+223647	CLARISSA HARLOWE
+223669	MACER
+223708	MARIUS
+223720	Sulla
+223722	MEAR
+223738	Belshazzar
+223740	Daniel
+223757	MERK
+223791	Philip Millar
+223836	Prince Charles
+223838	Stuart
+223858	SOLITO
+223930	NIHIL NOVIT
+224033	DAMON
+224248	PHALARIS
+224262	Phalaris
+224548	H. Carey
+224559	RUDAS
+224584	Winifred
+224641	Farquhar
+224708	CAUTE TAMEN
+224842	Virgil
+224872	SOUTER
+224895	SPEER
+225024	MERCURIO
+225131	DON QUIXOTE
+225137	Sancho Panza
+225156	TOOM
+225253	VADE
+225365	Jan Voet
+225404	WARK

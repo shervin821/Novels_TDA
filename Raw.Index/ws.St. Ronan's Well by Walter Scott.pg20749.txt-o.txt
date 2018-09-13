@@ -1,0 +1,4177 @@
+4	Ronan
+22	Louisa Stuart
+26	Scott
+52	Meg Dods
+74	Clara
+124	Ronan
+135	Lady Louisa
+158	Scott
+168	Waverley
+184	Ronan
+188	Sydney Smith
+247	Lady Binks
+262	Blower
+270	Lady Penelope
+298	Clara
+308	Clara
+327	Clara
+334	Walter
+383	Sydney Smith
+404	Scott
+430	Austen
+469	George Sand
+473	Walter
+548	Scott
+587	Mary
+593	Loch Leven
+611	Ronan
+627	Clara Mowbray
+653	Meg Dods
+672	Clara Mowbray
+695	Clara
+699	Lockhart
+702	Scott
+829	Charpentier
+840	Lockhart
+892	Soapy Sponge
+897	Surtees
+915	Walter
+942	Ronan
+992	Mowbray
+998	Tyrrel
+1022	Ossian
+1043	Ronan
+1085	Scott
+1119	Ronan
+1146	Clara
+1148	Tyrrel
+1178	Diana Vernon
+1194	Clara
+1253	Clara
+1256	Ophelia
+1270	Sydney Smith
+1290	Scott
+1306	Ronan
+1311	Scott
+1318	James Ballantyne
+1324	Clara
+1344	Lockhart
+1354	Walter
+1376	James Ballantyne
+1408	Mowbray
+1455	Scott
+1486	James
+1588	Lockhart
+1610	Clara
+1620	Tyrrel
+1626	Hannah Irwin
+1655	Hannah Irwin
+1690	Clara
+1707	Tyrrel
+1709	Clara
+1779	James Ballantyne
+1789	Scott
+1806	Ronan
+1814	Lockhart
+1823	Scott
+1826	Lockhart
+1838	Scott
+1852	Quentin Durward
+1888	Helen MacGregor
+1937	Hame
+1943	Scott
+1971	Scott
+2012	Lockhart
+2020	Ronan
+2101	Tyrrel
+2126	Dryburgh
+2186	Lockhart
+2247	Clara
+2256	Ronan
+2271	Meg Dods
+2301	Meg
+2319	Blower
+2321	Meg
+2324	Shakspearean
+2367	Knockdunder
+2382	Hector
+2401	Lady Binks
+2423	Wordsworth
+2432	Penelope
+2501	Hood
+2507	Thackeray
+2531	Laird
+2546	William
+2553	Scott
+2593	Scott
+2626	Cadell
+2645	Scott
+2659	Scott
+2724	Nigel
+2739	Scott
+2767	Mowbray
+2769	St. Ronan
+2790	Alexander Boswell
+2817	Gourgaud
+2819	Napoleon
+2848	Walter
+2880	Scott
+2884	Meg Dods
+2944	ANDREW LANG
+2955	RONAN
+3139	Evelina
+3158	Edgeworth
+3162	Charlotte Smith
+3915	Drawcansir
+4037	Scot
+4251	Ronan
+4478	Ronan
+4573	Ronan
+4652	RONAN
+4680	SKELTON
+4710	Sultan Mahmoud
+4796	David M'Pherson
+5419	Ronan
+6338	St. Ronan
+6465	Saxon
+6570	St. Ronan
+6596	Douglas
+6642	Douglas
+6670	St. Ronan
+6708	James II.
+6754	Reginald Mowbray
+6762	Dunbar
+6777	Cromwell
+6820	Reginald
+6825	Allan Ramsay
+6829	William Worthy
+6941	Laird
+7017	Laird
+7089	St. Ronan
+7094	Laird Lawrence
+7175	Ronan
+7205	Mowbray
+7304	Mowbray
+7413	Meg Dods
+7480	Meg
+7508	Bess
+7543	Meg
+7576	Erasmus
+7602	Meg
+7630	Meg
+7668	Meg Dods
+7713	Laird
+7739	Meg
+7843	Hall
+7848	Meg
+7902	Meg
+7977	Meg
+8106	Ronan
+8157	Meg
+8226	Meg
+8424	Ronan
+8429	Meg Dods
+8477	Meg
+8498	Tony Lumpkin
+8629	Ronan
+8652	Meg
+8771	Meg Dods
+8838	Meg
+9036	Meg
+9182	Dick Tinto
+9198	Dick
+9262	Meg Dods
+9266	Meg Dorts
+9296	Killnakelty Hunt
+9345	Meg
+9359	Meg
+9447	Ronan
+9463	Meg
+9660	Ronan
+9668	Meg
+9724	Meg
+9735	Meg
+9758	Meg
+9845	Meg
+9869	Meg
+9972	Meg
+10055	Margaret Dods
+10061	Ronan
+10071	Meg
+10196	Ronan
+10238	Meg
+10311	Ronan
+10373	Meg Dods
+10425	Elizabeth
+10476	Meg Dods
+10550	Meg Dods
+10597	Giant Pope
+10686	Erasmus
+10745	Meg Dods
+10757	Jenny Dods
+10776	Jenny
+11020	Meg Dods
+11140	Meg Dods
+11369	Meg
+11551	Meg
+11568	Ronan
+11604	Ronan
+11633	Meg
+11697	Eppie
+11783	Margaret Dods
+11806	Meg
+11851	Dods
+11879	Meg
+11928	Dods
+12040	Meg
+12060	John Hislop
+12153	Meg
+12215	Ronan
+12231	-- Auld
+12241	Meg
+12432	Margaret
+12442	Meg
+12676	Meg
+12813	-- Ye
+12815	ken
+12842	Meg
+12860	Frank Tyrrel
+12869	Meg
+12886	Francie Tirl
+12908	Francie
+12928	Meg
+12958	Meg
+13008	Maister Tirl
+13017	Francie
+13085	Maister Francie
+13231	Tyrrel
+13263	Dods
+13363	Meg
+13433	Meg
+13502	Tyrrel
+13514	Eppie
+13540	Tyrrel
+13578	Meg
+13604	Tyrrel
+13656	Meg
+13673	Meg
+13709	Meg
+13722	Maister Tirl
+13791	Meg
+13889	Tyrrel
+13923	Tyrrel
+14053	Ronan
+14066	Ronan
+14134	Tyrrel
+14185	Maister Francie
+14230	Dods
+14234	Tyrrel
+14262	Meg
+14285	Maister Tirl
+14302	Tyrrel
+14332	Meg
+14462	Tyrrel
+14586	Meg
+14677	Meg
+14683	Tyrrel
+14694	Dods
+14785	Valentine Bulmer
+14796	Maister Francie
+14917	Valentine
+14929	Valentine Bulmer
+14932	Maister Francie
+14936	Tyrrel
+14958	Meg
+15012	Ohon
+15037	Maister Francie
+15062	Maister Francie
+15075	Tyrrel
+15111	Meg
+15174	Ronan
+15195	Dods
+15219	Meg
+15261	Meg Dods
+15271	Tyrrel
+15301	Meg
+15327	Maister Francie
+15427	Sandie Lawson
+15486	Maister Francie
+15500	Luckie Buchan
+15562	Maister Francie
+15574	Simon Chatterly
+15618	Tam Simson
+15638	Chatterly
+15642	Tyrrel
+15782	Maister Francie
+15801	Maister Francie
+15881	Dods
+15993	Leddy Penelope
+15995	Penfeather
+16100	Rob Burns
+16103	Allan Ramsay
+16185	Maister Francie
+16224	Leddy Penelope
+16317	Leddy Penelope
+16319	Penfeather
+16455	Ronan
+16497	Laird
+16500	Ronan
+16509	Tyrrel
+16524	Maister Francie
+16529	Laird
+16532	Ronan
+16559	Meg Dods
+16594	Maister Francie
+16601	Maister Bindloose
+16654	Tyrrel
+16682	Meg
+16705	Laird
+16780	Jock Ashler
+16826	Laird
+16874	Mowbray
+16879	Tyrrel
+16915	Meg
+16924	Bindloose
+16943	John Mowbray
+16955	Ronan
+16957	Kirk
+16973	Tyrrel
+16989	Laird
+16999	Meg
+17027	Tyrrel
+17047	Meg
+17055	Clara
+17062	Laird
+17098	Clara
+17221	Dods
+17232	Clara
+17279	Maister Francie
+17518	Tyrrel
+17557	Maister Francie
+17573	Jack
+17577	Jill
+17705	Rachel Bonnyrigg
+17710	Leddy Loupengirth
+17815	Clara
+17822	Mowbray
+17834	Tyrrel
+17916	Maister Francie
+17946	Tyrrel
+18008	Tyrrel
+18163	Joanna Southcote
+18188	Escrouelles
+18243	St. Ronan
+18248	Francis Tyrrel
+18294	Meg
+18320	Meg
+18333	Maister Tirl
+18338	John Hislop
+18486	Meg
+18602	Meg
+18607	Peebles
+18618	Maister Francie
+18647	Tyrrel
+18652	Meg
+18685	Meg
+18724	-- Couldna
+18754	Maister Francie
+18768	Dick Tinto
+18832	Dick
+18859	Tyrrel
+18933	Meg
+18939	Nelly Trotter
+18969	Meg
+18974	Nelly
+19005	Luckie Dods
+19093	Nelly
+19155	Dick Tinto
+19249	Nelly Trotter
+19313	Meg
+19357	Maister Tirl
+19376	Bidmore gie
+19398	Bidmore
+19500	Meg
+19511	Nelly
+19574	Nelly
+19612	Nelly
+19632	Nelly
+19681	Nelly
+19786	Nash
+19955	Penelope Penfeather
+19989	Mowbray
+20008	Meg
+20014	Squire
+20183	Scottishman
+20189	Mowbray
+20259	Rachel Bonnyrigg
+20301	Squire of
+20303	St. Ronan
+20365	Lady Penelope
+20721	Penelope
+20828	Fortunio
+20857	Quentin Quackleben
+20988	Redgill
+21010	Moncrieff
+21018	Hunter
+21026	Kitchiner
+21191	Winterblossom
+21231	John Falstaff
+21325	Winterblossom
+21372	Garrick
+21374	Foote
+21376	Bonnel Thornton
+21381	Kelly
+21475	Winterblossom
+21569	Winterblossom
+21618	Law
+21753	Dame Dods
+21766	Quackleben
+21787	Mungo MacTurk
+21962	MacTurk
+22094	Simon Chatterly
+22109	Cam
+22140	Dame Dods
+22217	Winterblossom
+22302	Michael Meredith
+22402	Meredith
+22497	Meredith
+22501	Winterblossom
+22510	Lady Penelope
+22516	Quackleben
+22786	Ganymedes
+22805	Ganymedes
+22822	Winterblossom
+22886	Dinah
+22911	Toby
+22934	Penelope
+22942	Toby
+22969	Penelope
+22981	Dinah
+23016	Toby
+23034	Dinah
+23038	Dinah
+23043	Dinah
+23055	Dinah
+23138	Dinah
+23216	Dartineuf
+23238	-- Dinah
+23249	Dartineuf
+23274	Garrick
+23300	Dinah
+23320	Nelly Trotter
+23357	Margaret Dods
+23400	Dinah
+23405	Winterblossom
+23689	Maria
+23770	Maria
+23876	Lady Penelope
+23903	Squire Mowbray
+23961	Mowbray
+23975	Maria
+23991	Digges
+24180	Clara
+24187	Mowbray
+24243	Clara
+24251	Penelope
+24267	Mowbray
+24293	Dinah
+24304	Dinah
+24314	Meg Dods
+24336	Dinah
+24340	Lady Penelope
+24364	Dinah
+24413	Ascanius
+24598	Mowbray
+24739	Mowbray
+24788	Bing
+24890	Squire
+24923	John Mowbray
+24984	Mowbray
+25063	Winterblossom
+25155	Winterblossom
+25175	Penelope Penfeather
+25191	Winterblossom
+25280	MacTurk
+25285	Simon Chatterly
+25377	MacTurk
+25454	Johnnie Mowbray
+25556	Chatterly
+25618	St. Ronan
+25876	Winterblossom
+25915	Meg
+25949	Winterblossom
+25971	Dinah
+26008	Meg
+26082	Meg
+26115	Meg
+26145	Nelly Trotter
+26172	Luckie Dods
+26199	Toby
+26219	Toby
+26223	Nelly
+26268	Nelly
+26294	Winterblossom
+26308	Nelly
+26336	Winterblossom
+26414	Penelope
+26474	Chatterly
+26541	Johnson
+26547	Pope
+26574	St. Ronan
+26585	Swain
+26744	Winterblossom
+26795	Francis Tyrrel
+26836	Ascanius
+26935	Winterblossom
+26945	Penelope Penfeather
+26951	Lady Binks
+26957	Mowbray
+26960	St. Ronan
+27123	Winterblossom
+27201	Rannletree
+27223	Winterblossom
+27321	Winterblossom
+27359	Winterblossom
+27391	Penelope
+27505	Penelope
+27629	Trotting Nelly
+27755	Jack Moobray
+27846	Moobray
+27957	Francis Tyrrel
+28055	Penelope
+28061	Winterblossom
+28130	Lycoris
+28145	Tyrrel
+28159	Gramachree Molly
+28192	Tyrrel
+28277	Tyrrel
+28461	Mowbray
+28474	John Pirner
+28493	Tyrrel
+28574	Mowbray
+28651	Tyrrel
+28782	Tyrrel
+28806	Nelly
+28815	Meg Dods
+28897	Tyrrel
+28962	Winterblossom
+29171	Bingo
+29199	Tyrrel
+29219	Squire
+29268	Winterblossom
+29302	Meiklewham
+29339	Meg Dorts
+29354	Quackleben
+29455	Winterblossom
+29807	Tyrrel
+29812	Toby
+30007	Tyrrel
+30029	Winterblossom
+30125	Penelope
+30134	Chatterly
+30162	Iris
+30221	Penelope
+30278	Tyrrel
+30355	Lady Penelope
+30364	Tyrrel
+30425	Winterblossom
+30494	Weir
+30541	Tyrrel
+30567	Dods
+30646	Penelope
+30696	Tyrrel
+30712	Law
+30726	Bingo
+30732	Squire
+30766	Mowbray
+30825	Bingie
+30937	Jack
+30966	Bingie
+30973	Mowbray
+31001	Bingie
+31047	Jack
+31107	Mowbray
+31229	Tyrrel
+31307	Tyrrel
+31315	Tyrrel
+31354	Tyrrel
+31386	Tyrrel
+31457	Tyrrel
+31485	Tyrrel
+31532	Tyrrel
+31540	Mowbray
+31550	Jack
+31571	Tyrrel
+31581	Mowbray
+31659	Jack
+31700	Tyrrel
+31924	Lady Penelope
+31927	Tyrrel
+31993	Lady Penelope
+32004	Winterblossom
+32018	Lady Binks
+32053	Blower
+32088	Penelope
+32103	Tyrrel
+32215	Penelope Penfeather
+32362	Penelope
+32378	Quackleben
+32463	Penelope
+32587	Penelope
+32702	Penelope
+32755	Tyrrel
+32764	Bonnyrigg
+32818	St. Ronan
+32948	Bingo
+33134	Hymen
+33228	Toby
+33237	Andrew Ferrara
+33286	MacTurk
+33289	Mowbray
+33387	Lady Binks
+33636	Penelope Penfeather
+33687	Penelope
+33732	Penelope
+33791	Lady Binks
+33962	Lady Binks
+33972	Bonnyrigg
+34077	Frank Tyrrel
+34246	Penelope Penfeather
+34269	Tyrrel
+34355	Tyrrel
+34560	Tyrrel
+34581	Lady Penelope
+34586	Tyrrel
+34595	-- Nay
+34620	Tyrrel
+34736	Clara Mowbray
+34749	Parker
+34752	Dark Ladye
+34844	Clara Mowbray
+34874	Tyrrel
+34903	Lady Penelope
+34936	Clara
+34991	Mat Lewis
+35052	Brooke
+35091	Tyrrel
+35157	Clara Mowbray
+35183	Tyrrel
+35199	Clara
+35343	Tyrrel
+35403	Lady Binks
+35440	Lady Penelope
+35449	Tyrrel
+35454	Euphrosyne
+35516	Lady Penelope
+35519	Tyrrel
+35541	Tyrrel
+35594	Tyrrel
+35653	Tyrrel
+35706	Tyrrel
+35753	Winterblossom
+35765	Tyrrel
+35811	Tyrrel
+35868	Winterblossom
+35883	Tyrrel
+35905	Tyrrel
+36004	Tyrrel
+36038	Tyrrel
+36062	Chatterly
+36067	Edgeit
+36085	Quackleben
+36117	Lady Penelope
+36143	Meiklewham
+36185	Meiklewham
+36206	Tyrrel
+36349	Tyrrel
+36397	Penelope
+36470	Penelope
+36526	COWPER
+36619	Penelope
+36658	Francis Tyrrel
+36669	Lady Penelope
+36778	Penelope
+36816	Tyrrel
+36920	Winterblossom
+36947	Winterblossom
+37000	Lady Pen
+37039	Lady Penelope
+37061	Tyrrel
+37135	Lady Penelope
+37208	Lady Penelope
+37282	Penelope
+37301	Penelope
+37378	Lady Penelope
+37508	Tyrrel
+37541	Penelope
+37552	Balaam
+37617	Rachel
+37699	Maria
+37709	Lady Penelope
+37715	Digges
+37807	Robert Burns
+37825	Lady Penelope
+37849	Jones
+37895	Blower
+38000	Winterblossom
+38077	Quackleben
+38129	Penelope
+38142	Blower
+38250	Quackleben
+38300	Blower
+38353	Blower
+38386	Quackleben
+38463	Blower
+38474	Macgregor
+38577	Blower
+38602	John Blower
+38624	Blower
+38680	Blower
+38712	Blower
+38743	Keekerben
+38793	John Blower
+38876	Jones
+38899	Blower
+38904	Quackleben
+38966	Blower
+38996	Quackleben
+39099	Blower
+39145	Winterblossom
+39171	Winterblossom
+39176	Quackleben
+39228	Winterblossom
+39311	Cocklehen
+39316	Blower
+39319	John Blower
+39390	Winterblossom
+39416	Chatterly
+39491	John Blower
+39554	Chitterling
+39590	Chatterly
+39632	John Blower
+39645	Peggy
+39660	Kittleben
+39689	Peggy Bryce
+39880	Leyden
+39931	Kickalpin
+39947	John Blower
+40006	Kittlepin
+40010	Quackleben
+40150	Penelope
+40263	Winterblossom
+40302	Peggy Bryce
+40310	John Blower
+40312	of North
+40314	Leith
+40342	Lady Penelope
+40380	Chatterly
+40394	Winterblossom
+40435	Lady Penelope
+40443	Lady Binks
+40493	Penelope
+40546	Lady Penelope
+40582	Rachel Bonnyrigg
+40597	Lady Binks
+40639	Winterblossom
+40737	Bess
+40808	Lady Binks
+40825	Mowbray
+41033	Lady Penelope
+41079	Lady Penelope
+41092	Clara
+41109	Jones
+41174	Mowbray
+41216	Clara
+41234	Penelope
+41252	Lady Penelope
+41258	Mowbray
+41306	Jones
+41319	Jones
+41325	Lady Penelope
+41411	Mowbray
+41461	Leddy Penelope
+41516	Blower
+41532	Clara Mowbray
+41778	Blower
+41795	Lady Penelope
+41851	Leith
+41897	Quackleben
+41910	Penelope
+41919	Earl of
+41921	Featherhead
+41955	Lady Penelope
+42200	Blower
+42311	Blower
+42366	Lady Penelope
+42369	Clara Mowbray
+42411	Clara
+42437	Clara
+42587	Ophelia
+42644	Mowbray
+42693	Lady Penelope
+42724	Clara
+42764	Springblossom
+42836	John
+42853	Lady Penelope
+42868	Clara
+42905	Nick
+42914	Mowbray
+42918	Lady Binks
+42956	Mowbray
+42983	Mowbray
+43004	Lady Penelope
+43021	Polito
+43049	Lady Penelope
+43208	Lady Penelope
+43249	Clara
+43271	Chesterfield
+43372	Winterblossom
+43382	Robert Rymar
+43391	Thomas
+43407	Keelavine
+43417	Chatterly
+43428	Quackleben
+43478	Lady Penelope
+43503	Quackleben
+43549	Clementina
+43561	St. Ronan
+43566	Ophelia
+43650	Lady Penelope
+43674	Lady Binks
+43683	Highmore
+43712	Lady Penelope
+43796	Lady Binks
+43870	Penelope
+43891	Lady Pen
+43929	-- Joliffe
+43964	Gregory
+43975	Cullen
+43984	Gregory
+44315	Mowbray
+44346	Tyrrel
+44363	Laird
+44365	St. Ronan
+44421	Tyrrel
+44498	Tyrrel
+44516	Tyrrel
+44584	Tyrrel
+44651	Tyrrel
+44802	Tyrrel
+44913	Tyrrel
+45012	Sir Bingo
+45136	Tirl
+45204	Luckie Dods
+45221	Tirl
+45270	MacTurk
+45301	Law
+45464	Meiklewham
+45497	Law
+45526	St. Ronan
+45546	Tirl
+45583	Mick
+45646	St. Ronan
+45749	-- Sae
+45759	St. Ronan
+45788	Mowbray
+45924	Mowbray
+45950	Tyrrel
+45962	Tyrrel
+45991	Ronan
+46027	St. Ronan
+46036	Law
+46201	Tyrrel
+46212	Dods
+46240	Mowbray
+46321	Mick
+46326	Meiklewham
+46332	Tyrrel
+46388	St. Ronan
+46427	Mick
+46449	Meiklewham
+46544	Bingo
+46631	Tyrrel
+46681	Tyrrel
+46727	Bingie
+46731	Mowbray
+46790	Tyrrel
+46983	Tyrrel
+47041	Siddons
+47080	Tyrrel
+47211	Mowbray
+47295	Tyrrel
+47310	Mowbray
+47328	Mowbray
+47505	Mowbray
+47550	Tyrrel
+47625	Tyrrel
+47704	Tyrrel
+47737	Mowbray
+47743	St. Ronan
+47801	Clara
+47820	Tyrrel
+47875	Mowbray
+47961	St. Ronan
+47986	St. Ronan
+47994	Ponty
+48126	Mowbray
+48221	Winterblossom
+48259	Tyrrel
+48471	MacTurk
+48542	Binco
+48694	Law
+48750	Meiklewham
+48820	Meiklewham
+48842	Meiklewham
+48869	George
+48877	Meiklewham
+48912	Binco
+49072	MacTurk
+49088	Clara
+49092	Lady Penelope
+49096	Mowbray
+49103	Mowbray
+49125	Clara
+49129	Mowbray
+49160	Lady Penelope
+49194	Mowbray
+49200	Lady Penelope
+49205	Mowbray
+49213	Clara
+49262	Lady Penelope
+49266	Clara
+49280	Mowbray
+49335	-- Clara
+49358	Mowbray
+49362	Lady Binks
+49394	Mowbray
+49416	Mowbray
+49442	Lady Binks
+49480	John Mowbray
+49518	Lady Penelope
+49535	Chatterly
+49538	Penelope
+49577	Tyrrel
+49593	Tyrrel
+49599	Mowbray
+49648	Lady Binks
+49653	Chevalier
+49690	Winterblossom
+49694	Mowbray
+49712	Mowbray
+49740	Bingo
+49750	Mowbray
+49756	Lady Penelope
+49816	Clara
+49846	Lady Penelope
+49860	Clara
+49886	Betty Foy
+49901	Digges
+49905	Mowbray
+49933	Blower
+49972	Mowbray
+50077	Lady Penelope
+50080	-- ``
+50082	Clara
+50097	Mowbray
+50159	Lady Penelope
+50240	Tyrrel
+50600	Mowbray
+50640	Tyrrel
+50695	Tyrrel
+50732	Mowbray
+50779	Tyrrel
+50810	Clara
+50880	Francis Tyrrel
+50920	Francis Tyrrel
+50942	Clara Mowbray
+50957	Clara
+50971	Tyrrel
+50991	Mowbray
+51050	Clara
+51129	Tyrrel
+51150	Clara
+51164	Tyrrel
+51253	John
+51318	Clara
+51372	Tyrrel
+51429	Tyrrel
+51440	John
+51475	Tyrrel
+51536	Tyrrel
+51613	Tyrrel
+51635	Tyrrel
+51639	Clara
+51664	Poor Clara
+51698	Tyrrel
+51750	Tyrrel
+51904	Tyrrel
+51964	Tyrrel
+52077	Clara
+52108	Tyrrel
+52124	Clara
+52148	Tyrrel
+52243	Tyrrel
+52341	Tyrrel
+52475	Tyrrel
+52508	Tyrrel
+52551	John
+52565	Tyrrel
+52675	Tyrrel
+52699	Tyrrel
+52782	Tyrrel
+52847	Tyrrel
+53063	Mowbray
+53139	Tyrrel
+53205	Tyrrel
+53222	Mowbray
+53260	Tyrrel
+53281	Tyrrel
+53325	Clara
+53371	Clara
+53375	Tyrrel
+53451	Tyrrel
+53461	Clara
+53502	Tyrrel
+53518	Mowbray
+53580	Mowbray
+53620	Mowbray
+53627	Tyrrel
+53653	Clara
+53707	Tyrrel
+53727	Dods
+53802	Dods
+54041	Maister Tirl
+54139	My Jo
+54152	Dods
+54156	Tyrrel
+54234	Dods
+54280	Dods
+54290	Luckie Dods
+54462	-- Hegh
+54665	Mowbray
+54749	Mowbray
+54809	Mowbray
+54816	Meiklewham
+54841	Clara
+54885	John Mowbray
+54977	Mowbray
+55066	John Mowbray
+55071	St. Ronan
+55107	Shaws-Castle
+55232	Mowbray
+55920	Mowbray
+55954	Laird
+56068	Mowbray
+56091	Penelope Penfeather
+56230	Mowbray
+56274	Meiklewham
+56327	John Mowbray
+56397	Mowbray
+56452	Mowbray
+56558	Mick
+56633	Mowbray
+56768	Mowbray
+56804	Ronan
+56840	Meiklewham
+56876	Laird
+57025	Wisebehind
+57067	Ronan
+57090	John Mowbray
+57151	Meiklewham
+57156	Laird
+57171	Mowbray
+57192	Ronan
+57227	Ye ken
+57229	yoursell
+57233	Clara
+57275	Bonis
+57294	Mowbray
+57313	Mowbray
+57317	Meiklewham
+57351	Ronan
+57388	Clara
+57420	St. Ronan
+57479	Maister
+57521	Mowbray
+57554	Meiklewham
+57579	Laird
+57660	Meiklewham
+57738	Mowbray
+57760	Mick
+57878	Mowbray
+57940	Earl of
+57942	Etherington
+57983	Mowbray
+57987	Meiklewham
+58089	Mick
+58093	Mowbray
+58195	Mowbray
+58205	Jack Wolverine
+58211	Etherington
+58223	Wolverine
+58231	Johnnie Groat
+58250	Mick
+58289	Mowbray
+58316	Mick
+58340	Meiklewham
+58392	Mowbray
+58479	Mick
+58518	Mick
+58558	Meiklewham
+58578	Mowbray
+58668	Meiklewham
+58738	Mick
+58747	Mowbray
+58788	Clara
+58802	Meiklewham
+58833	Mowbray
+58847	Clara
+58880	Clara
+58895	Master Meiklewham
+58914	Ronan
+58919	Meiklewham
+58981	St. Ronan
+58990	Saunders Meiklewham
+59018	Ronan
+59149	Mowbray
+59161	Ronan
+59192	Ronan
+59244	Etherington
+59260	Mowbray
+59270	Meiklewham
+59314	Ronan
+59326	Meiklewham
+59470	Clara
+59509	Ronan
+59513	Mick
+59528	Clara
+59683	Meiklewham
+59785	Mick
+59791	Mowbray
+59827	Clara
+59873	Mick
+59896	Tam Turnpenny
+59906	Clara
+59930	Tam Turnpenny
+60007	Mowbray
+60041	Clara
+60079	Meiklewham
+60105	Clara
+60197	Mowbray
+60213	Mick
+60220	Clara
+60264	Clara
+60285	Meiklewham
+60358	Mick
+60373	Mowbray
+60462	Clara
+60521	William
+60525	Ellen
+60530	Ellen
+60534	William
+60576	Mowbray
+60739	Clara
+60798	John
+60948	Mowbray
+60972	Mowbray
+60991	John
+61070	Mowbray
+61100	Caraboo
+61149	Clara
+61176	Clara
+61217	Clara
+61269	Clara
+61357	Clara
+61395	John
+61426	Clara
+61474	John
+61539	Mowbray
+61643	Mowbray
+61664	-- Clara
+61788	Fortune
+61803	John
+61807	Clara
+61894	Clara
+61927	Clara
+61956	Mowbray
+61992	John
+62074	Lady Penelope
+62162	Clara
+62166	John
+62244	Jack
+62347	Saunders Meiklewham
+62364	John
+62368	Clara
+62488	Clara
+62519	Mowbray
+62722	Mowbray
+62728	Clara
+62822	Mowbray
+62940	Clara
+63068	Gad
+63084	John
+63203	Clara
+63207	Mowbray
+63284	Clara
+63330	Clara
+63351	Clara
+63484	Jack Mowbray
+63502	Clara
+63586	Clara
+63652	Mowbray
+63690	Clara
+63772	Clara
+63786	Machiavel
+63798	John Mowbray
+63927	Bogle
+64001	Tyrrel
+64116	MacTurk
+64222	MacTurk
+64297	MacTurk
+64319	Winterblossom
+64374	Mowbray
+64551	Earl of
+64553	Etherington
+64682	Shaws-Castle
+64697	Mowbray
+64799	Etherington
+64894	MacTurk
+65045	Tyrrel
+65205	Bingo
+65272	Jenny Sutton
+65308	MacTurk
+65331	Meg Dods
+65374	Meg
+65409	Tyrrel
+65465	Luckie Dods
+65493	Luckie Dods
+65506	Nane
+65561	MacTurk
+65582	Meg
+65606	Hector MacTurk
+65628	Meg
+65647	MacTurk
+65689	Maister Tirl
+65741	Meg
+65797	MacTurk
+65878	Meg
+65910	MacTurk
+65964	Maister Tirl
+66018	George
+66052	Meg
+66170	Tyrrel
+66185	Meg
+66242	Tyrrel
+66356	Tyrrel
+66410	Tyrrel
+66476	Tyrrel
+66551	Tyrrel
+66615	Tyrrel
+66667	Dods
+66682	MacTurk
+66728	Tyrrel
+66766	MacTurk
+66790	Tyrrel
+66902	Tyrrel
+67005	Tyrrel
+67095	Dods
+67105	MacTurk
+67109	Tyrrel
+67202	Tyrrel
+67284	Tyrrel
+67535	Tyrrel
+67613	MacTurk
+67692	Tyrrel
+67815	Tyrrel
+67934	Blower
+68077	Meg Dods
+68102	Tyrrel
+68174	MacTurk
+68436	Evans
+68464	Caius
+68499	Bingo Binks
+68545	Belcher
+68592	MacTurk
+68712	Bingo
+68765	Tyrrel
+68799	Winterblossom
+68804	MacTurk
+68839	Winterblossom
+68873	Hector MacTurk
+68931	Tyrrel
+69030	Winterblossom
+69166	Winterblossom
+69302	MacTurk
+69421	Winterblossom
+69434	MacTurk
+69448	Tyrrel
+69482	Winterblossom
+69601	Winterblossom
+69674	Winterblossom
+69688	Quackleben
+69932	Quackleben
+69941	MacTurk
+70079	MacTurk
+70099	Tyrrel
+70195	MacTurk
+70242	Blower
+70376	MacTurk
+70647	Jenny Sutton
+70716	Jenny Sutton
+70723	Winterblossom
+70811	Bingo
+70832	Winterblossom
+71000	Winterblossom
+71015	MacTurk
+71078	Tyrrel
+71148	Tyrrel
+71249	Hector MacTurk
+71274	Lady Killbracklin
+71309	Winterblossom
+71336	Tyrrel
+71399	Winterblossom
+71411	Winterblossom
+71426	Tyrrel
+71444	MacTurk
+71515	Winterblossom
+71615	Gad
+71625	Mowbray
+71636	Gad
+71649	Gad
+71806	Tyrrel
+71916	Winterblossom
+72170	Bob Acres
+72229	Winterblossom
+72283	Tyrrel
+72397	Winterblossom
+72555	St. Ronan
+72562	Quentin Quackleben
+72569	Penelope Penfeather
+72599	Winterblossom
+72969	Hector MacTurk
+73016	Bingo
+73152	Francis Tyrrel
+73175	Hector MacTurk
+73183	Tyrrel
+73210	Tyrrel
+73218	Bingo Binks
+73277	Francis Tyrrel
+73322	Francis Tyrrel
+73365	HECTOR MACTURK
+73368	PHILIP WINTERBLOSSOM
+73383	Quentin Quackleben
+73464	MacTurk
+73468	Winterblossom
+73490	Francis Tyrrel
+73526	Quentin Quackleben
+73633	MacTurk
+73794	Tyrrel
+73886	Dame Blower
+73909	Kickherben
+74092	Marchthorn
+74320	Bindloose
+74389	Bindloose
+74770	Bindloose
+74834	Bindloose
+74948	Bindloose
+75014	Dods
+75035	Meg
+75129	Bindloose
+75158	Hannah
+75162	Bindloose
+75212	Hannah
+75297	Dods
+75325	-- Anthony
+75336	Anthony
+75347	Anthony
+75357	Anthony
+75369	Dods
+75375	Anthony
+75397	Dods
+75451	Bindloose
+75535	Dods
+75563	Dods
+75586	Dods
+75596	Meg Dods
+75607	Bindloose
+75619	Bindloose
+75654	Dods
+75774	Bindloose
+75793	Dods
+75856	Hannah
+75865	Meg
+75871	Hannah
+76045	Bindloose
+76160	Dods
+76180	Bindloose
+76242	Bindloose
+76335	Bindloose
+76377	Ronan
+76446	Dods
+76457	Bindloose
+76570	Dods
+76607	Dods
+76618	Bindloose
+76656	Robert Ringhorse
+76747	John Pirner
+76805	Bindloose
+76837	Bindloose
+76841	Meg
+76861	-- Ye
+76863	maun ken
+76875	Francis Tirl
+76888	Bindloose
+76909	Dods
+76981	Dods
+77018	Bindloose
+77023	Dods
+77126	Dods
+77220	Bindloose
+77225	Tirl
+77260	Dods
+77312	Bindloose
+77388	Meg Dods
+77430	Dods
+77497	Bindloose
+77509	Meg
+77533	Dods
+77598	Bindloose
+77612	Dods
+77707	Meg
+77750	Bindloose
+77938	Bindloose
+77990	Meg Dods
+78015	Bindloose
+78047	Bindloose
+78065	Tyrrel
+78078	Meg
+78131	MacTurk
+78177	Meg
+78243	Dods
+78259	Dods
+78283	Bindloose
+78287	Meg
+78403	Bindloose
+78453	Dods
+78471	Bindloose
+78479	Bindloose
+78481	-- Isna
+78611	Bindloose
+78635	Meg
+78650	Bindloose
+78724	Anthony
+78778	Pirner
+78843	Dods
+78854	MacTurk
+78904	Dods
+78957	Bindloose
+78996	Bindloose
+79014	Tam Turnpenny
+79061	Bindloose
+79087	Tam Turnpenny
+79117	Bindloose
+79172	Dods
+79204	Meg
+79275	Dods
+79337	Meg
+79408	Dods
+79462	Meg
+79525	MacTurk
+79544	John Bindloose
+79645	Bindloose
+79738	John
+79754	Bindloose
+79801	Dods
+79855	Bindloose
+79867	Dods
+79928	Bindloose
+79957	Luckie Dods
+79990	Meg
+80084	Bindloose
+80161	Bruce
+80207	Bindloose
+80265	Peregrine Touchwood
+80296	Bindloose
+80389	Bindloose
+80440	Dods
+80477	Touchwood
+80719	Dods
+80827	Touchwood
+80858	Dods
+81110	Touchwood
+81222	Touchwood
+81358	Bindloose
+81384	Touchwood
+81484	Tom Paine
+81487	Voltaire
+81502	Dods
+81617	Regan
+81684	Touchwood
+81780	Giles
+81904	Touchwood
+81908	Bindloose
+81949	Martinmas
+82050	Touchwood
+82242	Dame Dods
+82249	Bindloose
+82265	Spaw
+82335	Dame Dods
+82403	Bindloose
+82466	Touchwood
+82480	Fong Qua
+82531	Bindloose
+82556	Ash
+82671	Dame Dods
+82844	Spaw
+82877	St. Ronan
+82904	Ronan
+82923	Touchwood
+83002	Meg Dods
+83025	Laird
+83074	Bindloose
+83086	Mowbray
+83217	John Mowbray
+83273	Touchwood
+83292	Mowbray
+83307	Dame Margaret
+83309	Dods
+83353	Dods
+83474	Dods
+83534	-- Maister
+83536	Touchwood
+83616	Meg
+83713	Spaw
+83728	Spaw
+83842	Dods
+83847	Bindloose
+83884	Dods
+83925	Touchwood
+83944	Tirl
+83993	Tyrrel
+83995	William Rufus
+84162	Don Quixote
+84170	Samson Carrasco
+84220	Tyrrel
+84224	Bindloose
+84229	Dods
+84259	Dods
+84314	Meg
+84341	Bindloose
+84389	Dods
+84455	Dods
+84540	Bindloose
+84618	Touchwood
+84646	St. Ronan
+84659	Touchwood
+84761	Dods
+84792	Bindloose
+84945	Dods
+85002	Ronan
+85053	Ronan
+85108	Bindloose
+85124	Meg
+85147	RONAN
+85206	Touchwood
+85242	Anthony
+85335	Queen Mab
+85391	Platoff
+85434	GOLDSMITH
+85442	Dods
+85449	Tyrrel
+85457	MacTurk
+85549	Bindloose
+85567	Meg
+85591	Tyrrel
+85613	Touchwood
+85661	Meg
+85767	Bedreddin Hassan
+85803	Dods
+85924	Dods
+85934	Tyrrel
+85958	Dods
+85972	Touchwood
+86095	Burgess
+86123	Dods
+86195	Dods
+86296	Dods
+86419	Touchwood
+86437	Dame Dods
+86463	John Sinclair
+86503	Touchwood
+86545	Lady Penelope
+86608	Dods
+86656	Dods
+86683	Meg
+86744	Dame Dods
+86800	Touchwood
+86928	Meg
+87099	Maister Touchwood
+87151	Dods
+87169	Bonzes
+87215	Meg
+87393	Dods
+87564	Cockburn
+87588	Meg
+87622	Beck
+87656	Meg
+87755	Meg
+87802	Meg
+87841	St. Ronan
+87868	Josiah Cargill
+87965	Donald Cargill
+87988	Charles II.
+88037	Josiah
+88342	Bidmore
+88365	Augustus Bidmore
+88512	Bidmore
+88616	Bidmore
+88637	Josiah Cargill
+88654	Bidmore
+88657	Cargill
+88815	Augusta Bidmore
+89007	Cadenus
+89040	Vanessa
+89080	Josiah Cargill
+89289	Bidmore
+89301	Cargill
+89342	Bidmore
+89523	Bidmore
+89535	Cargill
+89584	Cargill
+89665	Bidmore
+89737	Mowbray
+89770	Cargill
+89959	Ronan
+89971	Josiah Cargill
+90061	Josiah
+90108	Cargill
+90151	Josiah Cargill
+90267	Josiah
+90277	Beltenebros
+90385	Josiah
+90616	Cargill
+90681	Bidmore
+90892	Cargill
+91000	Dods
+91120	Cargill
+91158	Cargill
+91246	Meiklewham
+91306	Cockburn
+91337	-- Mago-Pico
+91632	Touchwood
+91709	Touchwood
+92103	Touchwood
+92138	Touchwood
+92233	Cargill
+92466	Cargill
+92529	Lavender
+92538	Cargill
+92598	Cargill
+92706	Cargill
+92757	Touchwood
+92792	John d'Acre
+92817	Cargill
+92902	Jeffrey Winesauf
+92966	Touchwood
+93007	Cargill
+93045	Boney
+93066	Djezzar Pacha
+93097	Djezzar
+93126	Gad
+93178	Cargill
+93250	Cargill
+93270	Touchwood
+93282	Turk
+93284	Arab
+93423	Touchwood
+93456	Dods
+93500	Cargill
+93547	Touchwood
+93578	Touchwood
+93628	Dods
+93697	Dods
+93799	Touchwood
+93819	Cargill
+93946	Cargill
+94022	-- Eppie
+94025	Eppie
+94051	Eppie
+94091	Eppie
+94121	Cargill
+94169	Touchwood
+94227	Cargill
+94424	Touchstone
+94453	Touchstone
+94486	Touchwood
+94581	Touchwood
+94586	Boswell
+94592	Johnson
+94598	Strahan
+94600	John Wilkes
+94725	Johnson
+94739	Cargill
+94859	Touchwood
+94926	Raymund
+94929	Giles
+94981	St. Ronan
+95108	Touchwood
+95138	Parnell
+95202	Saladin
+95214	Hyder Ali
+95218	Eyre Coote
+95281	Touchwood
+95290	Dods
+95306	Cargill
+95335	Mowbray
+95461	Hadgi
+95489	Salam Alicum
+95535	Mother Dods
+95555	Mowbray
+95566	Maister Touchwood
+95619	Richard
+95644	Cargill
+95678	Thomas Mowbray
+95705	Roger Bigot
+95806	Mowbray
+95808	St. Ronan
+95875	Cargill
+95926	Touchwood
+95939	Touchwood
+96120	Bismillah
+96123	Hadgi
+96153	Touchwood
+96193	Cargill
+96198	Dods
+96213	Mowbray
+96265	Cargill
+96334	Cargill
+96336	-- Gude
+96368	Touchwood
+96409	Cargill
+96418	Cargill
+96422	Dame Dods
+96442	Touchwood
+96503	Mowbray
+96505	St Ronan
+96575	Cargill
+96594	Dame Dods
+96629	Cargill
+96654	Cargill
+96663	Mother Dods
+96684	Cargill
+96777	Santon
+96899	Basset
+97005	Earl of
+97007	Etherington
+97013	St. Ronan
+97135	Etherington
+97140	Meiklewham
+97143	Quackleben
+97162	Simon Chatterly
+97189	Meiklewham
+97322	Quackleben
+97431	Alpheus
+97613	Mowbray
+97647	Lady Penelope
+97661	Lady Binks
+97809	Mowbray
+97819	MacTurk
+97824	Winterblossom
+97923	Meiklewham
+97992	Mowbray
+98024	Etherington
+98090	Mowbray
+98163	Tom
+98166	Tom
+98209	Mowbray
+98319	Mowbray
+98329	Meiklewham
+98333	Mowbray
+98373	Mick
+98391	Mick
+98464	Mick
+98487	Pacha
+98490	Scanderbeg
+98496	Byron
+98501	Meiklewham
+98567	Suliote
+98573	Mowbray
+98642	Piquet
+98663	Mowbray
+98706	Mowbray
+98736	Mowbray
+98751	Meiklewham
+98795	Mowbray
+98810	Etherington
+98843	Mowbray
+98897	Touchwood
+98961	Mowbray
+99028	Laird
+99030	St. Ronan
+99035	Meiklewham
+99101	Mowbray
+99139	Mick
+99157	Clara
+99180	Mick
+99189	Lady Penelope
+99238	Clara
+99255	Lady Pen
+99282	Clara
+99329	Will Allan
+99370	Mick
+99381	Clara
+99416	Lady Binks
+99452	Meiklewham
+99493	Ronan
+99510	Clara
+99536	Ye ken
+99538	yoursell
+99590	Mowbray
+99670	Mick
+99784	Mowbray
+99872	Mick
+99909	Abigail
+99917	Meiklewham
+99958	Mowbray
+99987	Etherington
+100024	Etherington
+100073	Etherington
+100111	Mowbray
+100236	Mowbray
+100367	Mowbray
+100392	Etherington
+100441	Etherington
+100456	Mowbray
+100484	Etherington
+100524	Mowbray
+100585	Mowbray
+100690	Mowbray
+100771	Mowbray
+100850	Etherington
+100869	Mowbray
+100916	Mowbray
+100988	Etherington
+101063	Mowbray
+101110	-- Mowbray
+101119	Mowbray
+101163	Etherington
+101215	Mowbray
+101228	Clara Mowbray
+101313	Mowbray
+101325	Meiklewham
+101485	Hodge
+101513	Bever
+101530	Mowbray
+101550	Etherington
+101570	Jove
+101603	Penelope
+101613	Mowbray
+101638	Etherington
+101870	Scrogie
+101892	Marchmont
+101909	-- Scrogie
+101949	Mowbray
+101977	Mowbray
+102021	Mowbray
+102040	Scrogie Mowbray
+102051	Reginald
+102058	Ronald -RRB-
+102060	S. Mowbray
+102083	Mowbray
+102095	Scrogie
+102126	Mowbray
+102177	Mowbray
+102198	Reginald S.
+102200	Mowbray
+102206	Scrogie
+102238	Scrogie
+102296	Mowbray
+102352	S. Mowbray
+102362	Scrogie
+102390	Scrogie
+102417	Etherington
+102446	Mowbray
+102529	Mowbray
+102540	St. Ronan
+102571	Mowbray
+102583	Etherington
+102624	Mowbray
+102636	Mowbray
+102698	Etherington
+102712	Mowbray
+102887	Mowbray
+102892	Etherington
+103092	Mowbray
+103117	Mowbray
+103149	Hodge Trampclod
+103189	Mowbray
+103296	Mowbray
+103380	Mowbray
+103438	Etherington
+103470	Mowbray
+103496	Mowbray
+103580	Mowbray
+103610	Mowbray
+103650	Mowbray
+103691	Mowbray
+103707	Mowbray
+103759	Mowbray
+103857	Mowbray
+103923	Clara
+103931	Mowbray
+103969	Mowbray
+103991	Clara
+104033	Etherington
+104070	Mowbray
+104100	Mowbray
+104145	Clara
+104171	Clara Mowbray
+104268	Mowbray
+104309	Laird
+104311	St. Ronan
+104415	Mowbray
+104477	Earl
+104525	Etherington
+104711	Clara
+104777	Mowbray
+104856	Mowbray
+104901	Meiklewham
+104971	Earl
+105109	Richard III
+105113	Mowbray
+105160	Jekyl
+105231	Napoleon
+105263	St. James
+105400	Harry Jekyl
+105521	Francis
+105605	Ronan
+105611	Harry
+106107	Francis
+106127	Francis Tyrrel
+106341	Francis
+106418	Harry
+106469	Monsieur le
+106471	Frere
+106672	Harry
+106846	Scot
+106873	Mowbray
+106893	Leith
+106931	Harry
+107267	Harry Jekyl
+107358	Mowbray
+107365	Scot
+107396	Mowbray
+107448	Harry
+107584	Harry
+107618	Harry
+107639	Earl
+108059	-- DARK
+108061	LADYE
+108076	Coleridge
+108154	Fox
+108207	Pyet
+108217	Dunbar
+108248	Arbuthnot
+108255	Haliburton
+108264	Mago-Pico
+108530	Mago-Pico
+108554	David M'Pherson
+108580	Jenny Dods
+108587	Scott
+108590	Erskine
+108635	Kirk
+108638	Culdees
+108680	Cele De
+108723	St. Margaret
+108822	Edward
+108851	Meg Dods
+108899	Jason
+108928	Basil Hall
+108933	Lockhart
+108938	Scott
+109146	Donald Cargill
+109159	Howie
+109163	Cargill
+109177	ANDREW LANG
+109210	Abee
+109242	Andrew Ferrara
+109252	Assoilzie
+109275	Auld
+109311	Bairn
+109316	Baith
+109320	Ballant
+109334	Bawbee
+109402	Bigg
+109415	Bink
+109444	Bodle
+109451	Bogle
+109456	Bombazine
+109494	Braw
+109500	Bruick
+109535	Canna
+109548	Canty
+109563	Cappie
+109570	Carle
+109575	Carline
+109580	Carvy
+109595	Chucky
+109600	Claithes
+109604	Claver
+109613	Cleck
+109619	Cleeket
+109677	Courie
+109725	Craig
+109744	Cuitle
+109764	Daft
+109804	Deleerit
+109815	Dinna
+109824	Donnart
+109828	Dookit
+109832	Douce
+109843	Doun
+109847	Dowcot
+109857	Drappie
+109869	Drogs
+109883	Een
+109903	Faut
+109940	Feuar
+109969	Flesher
+110023	Fu
+110037	Gaen
+110045	Gane
+110057	Gar
+110071	Gaun
+110075	Geisen
+110080	Gie
+110130	Gree
+110135	Grosert
+110140	Gude
+110144	Gudes
+110176	Haud
+110197	Haugh
+110238	Hempie
+110248	Holm
+110278	Hottle
+110295	Howff
+110301	Howk
+110313	Huzzie
+110333	Jaugs
+110358	Ken
+110363	Ken
+110372	Kittle
+110385	Knap
+110403	Kouscousou
+110412	Laird
+110434	Lang
+110438	Lave
+110443	Lawing
+110456	Lee
+110488	Linkit
+110502	Lippen
+110507	Loon
+110519	Loup
+110533	Mair
+110554	Maunna
+110559	Mawkin
+110564	Mazareen
+110573	Meith
+110578	Mell
+110607	Muir
+110635	Murgeons
+110642	Mutch
+110649	Mutchkin
+110667	Naig
+110727	Parritch
+110731	Pat
+110735	Pawky
+110745	Plack
+110778	Pownie
+110783	Prieve
+110805	Raff
+110826	Redd
+110841	Reekie
+110854	Rouleau
+110891	Sall
+110895	Sasine
+110918	Scart
+110961	Shouther
+110976	Siller
+110993	Sloan
+111026	Sorn
+111062	Speer
+111075	Streekit
+111114	Tailzie
+111121	Tane
+111144	Taupie
+111185	Toom
+111210	Twal
+111234	Wadna
+111289	Wheen
+111366	RONAN
+111395	WORDSWORTH
+111398	RONAN
+111467	Penelope Penfeather
+111475	Mowbray
+111524	Mowbray
+111712	Lady Penelope
+111789	Petruchio
+111948	Penelope
+112273	Mowbray
+112434	Miller
+112484	Penelope
+112506	Shakspeare
+112586	Lady Penelope
+112598	Shakspeare
+112676	Mowbray
+112734	Mowbray
+112737	Penelope
+112750	Helena
+112771	Earl of
+112773	Etherington
+112778	Lysander
+112855	MacTurk
+112891	Childe Harold
+112945	Arnout
+112971	Demetrius
+112973	Lysander
+112982	Winterblossom
+112995	Lady Penelope
+113069	Digges
+113157	Digges
+113185	St. Ronan
+113190	Quackleben
+113272	Blower
+113284	Thisbe
+113301	John Blower
+113325	Siddons
+113394	John Blower
+113412	Penelope Penfitter
+113434	Cacklehen
+113491	Tibbie
+113501	Margaret
+113507	Margaret
+113523	Blower
+113569	Dinna
+113577	Kittlepin
+113587	M'Durk
+113685	Kittlehen
+113723	Sowerbrowst
+113793	Blower
+113872	Blower
+113908	Blower
+113920	Kickherben
+114039	Kickinben
+114046	Blower
+114103	Blower
+114123	O'Keefe
+114219	Quackleben
+114657	Meg Dods
+114709	Meg
+114810	Shroff
+114877	Touchwood
+114905	Cargill
+114936	Cargill
+114981	Johnie Tirlsneck
+115022	Clara Mowbray
+115201	Shaws-Castle
+115267	James VI
+115322	Mowbray
+115481	Mowbray
+116088	Gow
+116197	Touchwood
+116229	Neil
+116281	Helena
+116355	Penelope
+116433	Mowbray
+116537	Penelope
+116560	Garrick
+116582	Lysander
+116597	Demetrius
+116604	Helena
+116658	Helena
+116673	Mowbray
+116923	Penelope
+116929	Blower
+116973	John Blower
+116986	Cacklehen
+117031	Blower
+117040	Penelope
+117106	Mowbray
+117171	Touchwood
+117183	Blower
+117303	Yon
+117347	Blower
+117456	Tozie
+117529	Touchwood
+117576	Blower
+117628	Ali
+117642	Cargill
+117664	Cargill
+117689	Clara Mowbray
+117796	Mowbray
+117835	Cargill
+117907	Nathaniel
+118011	Oberon
+118033	Digges
+118300	Marias
+118305	Mary
+118376	Earl
+118523	Etherington
+118699	Mowbray
+118768	Joshua
+118790	Ronan
+118792	Robin Goodfellow
+118810	Meg Dods
+118843	Mowbray
+118869	Clara
+118914	Mowbray
+118928	Clara
+119020	Clara
+119080	Mowbray
+119135	-- Mowbray
+119165	Mowbray
+119267	Mowbray
+119294	Mowbray
+119328	Mowbray
+119783	William Stewart
+119785	Rose
+119832	Byron
+119910	Childe Harold
+119965	Touchwood
+119973	Cargill
+120025	Persic
+120062	Helena
+120250	MacTurk
+120424	Bingo Binks
+120529	Touchwood
+120549	-- Harkye
+120888	Touchwood
+120950	Cargill
+121008	Mowbray
+121011	Mowbray
+121028	Mowbray
+121165	Cargill
+121465	Mowbray
+121687	Cargill
+121952	Queen of
+121954	the Amazons
+122078	Cargill
+122154	Cargill
+122173	Etherington
+122232	Etherington
+122444	Etherington
+122447	Cargill
+122510	Cargill
+122553	Etherington
+122658	Valentine Bulmer
+122688	Valentine Bulmer
+122695	-- Valentine
+122701	Etherington
+122710	Valentine
+122766	Josiah Cargill
+122771	St. Ronan
+122857	Cargill
+123038	Cargill
+123409	Johnie Tirlsneck
+123432	Johnie
+123452	Johnie
+123569	Cargill
+123751	Cargill
+123816	Lord of
+123818	the Manor
+123823	Penelope
+123830	Ulysses
+123839	Etherington
+123851	Mowbray
+123931	Etherington
+123954	Etherington
+123961	Cargill
+124062	Etherington
+124125	Cargill
+124191	Etherington
+124194	Valentine Bulmer
+124273	Cargill
+124325	Penelope Penfeather
+124352	Mowbray
+124357	Cargill
+124402	Cargill
+124474	Lady Penelope
+124508	Cargill
+124521	Lady Penelope
+124647	Cargill
+124717	Mowbray
+124796	Cargill
+124803	Penelope
+124842	Cargill
+124847	Goldsmith
+124880	Dryden
+125046	Dryden
+125052	Cargill
+125067	Cargill
+125104	Cargill
+125116	Dryden
+125132	Leyden
+125147	Cargill
+125185	Cargill
+125217	Cargill
+125331	Cargill
+125348	Anne Heggie
+125404	Cargill
+125469	Cargill
+125475	Penelope
+125545	Cargill
+125601	Cargill
+125661	Etherington
+125665	Cargill
+125714	Mowbray
+125725	Mowbray
+125731	Mowbray
+125741	Cargill
+125771	Mowbray
+125775	Lady Penelope
+125833	Clara Mowbray
+125845	Cargill
+125860	Mowbray
+125913	Cargill
+125923	Penelope
+125976	Clara
+126001	Cargill
+126040	Mowbray
+126065	Lady Penelope
+126127	Mowbray
+126137	Cargill
+126178	Penelope
+126183	Cargill
+126191	Cargill
+126255	Cargill
+126326	Cargill
+126365	Cargill
+126415	Mowbray
+126492	Mowbray
+126499	Lady Penelope
+126519	Lady Binks
+126528	Etherington
+126581	Lady Penelope
+126604	Mowbray
+126705	Clara
+126723	Clara
+126735	Penelope
+126754	Clara
+126808	Clara
+126862	John
+126866	Clara
+126908	Clara
+126917	Mowbray
+126964	John
+127029	Clara
+127040	Mowbray
+127061	John
+127103	Mowbray
+127130	Clara
+127211	Mowbray
+127237	Clara
+127288	Clara
+127350	Lady Penelope
+127359	Mowbray
+127411	Clara
+127462	John
+127471	Clara
+127511	Mowbray
+127544	Clara
+127581	Penelope
+127693	Mowbray
+127735	John
+127800	John
+127819	Lady Pen
+127907	Mowbray
+127938	Penelope
+127963	Lady Pen
+128040	Clara
+128059	Lady Penelope
+128101	Clara
+128106	Mowbray
+128180	Mowbray
+128199	Mowbray
+128235	Chatterly
+128243	Mowbray
+128285	Blower
+128293	Mowbray
+128303	Blower
+128314	Johnson
+128376	Clara Moubrie
+128490	Blower
+128494	Mowbray
+128529	Penelope
+128555	Mowbray
+128639	Lady Penelope
+128668	Mowbray
+128701	Penelope
+128802	Laird
+128804	St. Ronan
+128816	Clara
+128856	Penelope
+128860	Mowbray
+128933	Earl
+128957	Winterblossom
+129004	Queen of
+129006	the Amazons
+129049	Mowbray
+129064	Etherington
+129071	Winterblossom
+129108	-- Lady
+129110	Penelope
+129128	Lady Binks
+129193	Chatterly
+129217	Etherington
+129227	Mowbray
+129311	Etherington
+129325	Penelope
+129400	Penelope
+129684	Mowbray
+129730	Blower
+129762	Quackleben
+129818	Mowbray
+129826	Bacchus
+129951	Mowbray
+129970	Mowbray
+130030	Ronan
+130140	Laird
+130142	St. Ronan
+130227	Etherington
+130235	Mowbray
+130305	Lady Binks
+130315	Mowbray
+130330	Mowbray
+130343	Gingham
+130373	Mowbray
+130401	Etherington
+130412	Dear Mowbray
+130637	Mowbray
+130676	St. Ronan
+130726	Mick
+130818	Mowbray
+130911	Mowbray
+130925	John
+130929	Clara
+130971	Mowbray
+131030	Clara
+131093	Clara
+131137	Lady Binks
+131161	Mowbray
+131239	Clara
+131283	Mowbray
+131300	Clara
+131314	Clara
+131369	Etherington
+131391	Clara
+131403	Fidalgo
+131416	Mowbray
+131461	Clara
+131471	Mowbray
+131489	Clara
+131542	Lady Binks
+131563	Clara
+131567	Mowbray
+131571	Etherington
+131665	Clara
+131723	Clara
+131860	Clara
+131864	Mowbray
+131910	John
+131914	Clara
+131970	Mowbray
+132001	Mick
+132008	Bindloose
+132039	Bindloose
+132051	Mowbray
+132173	Clara
+132193	-- Say
+132243	Mowbray
+132287	Clara Mowbray
+132292	Etherington
+132320	Clara
+132348	Mowbray
+132372	Mowbray
+132463	Mowbray
+132505	Etherington
+132528	Clara
+132592	Clarissa Harlowe
+132595	Harriet Byron
+132621	Etherington
+132677	Clara
+132688	Etherington
+132772	Mowbray
+132813	Clara
+132950	Mowbray
+133058	Mowbray
+133142	Mowbray
+133146	Clara
+133190	Mowbray
+133259	Clara
+133422	Mowbray
+133502	Mowbray
+133603	Clara
+133655	Etherington
+133722	Etherington
+133740	Mowbray
+133791	Clara
+133895	Clara
+133907	Etherington
+133911	Mowbray
+133955	Lady Binks
+133998	Clara
+134078	Clara
+134114	Clara Mowbray
+134186	Clara
+134231	Clara
+134235	Mowbray
+134271	Clara
+134328	Clara
+134377	Mowbray
+134405	Mowbray
+134439	Clara
+134511	Mowbray
+134534	Lady Pen
+134634	Clara Mowbray
+134834	John
+134919	Mowbray
+134993	Mowbray
+135126	Lear
+135132	Mowbray
+135152	Clara Mowbray
+135261	Etherington
+135284	Mowbray
+135394	Mowbray
+135445	Mowbray
+135550	Mowbray
+135565	Mowbray
+135706	Mowbray
+135740	Etherington
+135763	Mowbray
+135816	Clara
+135856	Etherington
+135866	Mowbray
+135929	Etherington
+136133	Clara Mowbray
+136173	Clara Mowbray
+136258	Clara
+136318	Francis Tyrrel
+136393	Mowbray
+136505	Clara
+136573	-- Clara
+136575	Mowbray
+136592	Clara
+136661	Etherington
+136893	Clara Mowbray
+137007	Clara
+137047	Clara
+137111	-- Francis
+137179	Clara
+137340	Etherington
+137472	Mowbray
+137558	Etherington
+137560	Mowbray
+137590	Earl of
+137592	Etherington
+137610	Mowbray
+137625	Etherington
+137645	Clara
+137649	Mowbray
+137713	Mowbray
+137736	Mowbray
+137741	Clara
+137757	Mowbray
+137846	Mowbray
+137896	Mowbray
+137941	Jack
+137945	Etherington
+138051	Mowbray
+138173	Mowbray
+138204	Mowbray
+138290	Mowbray
+138317	Earl of
+138319	Etherington
+138391	Mowbray
+138452	Etherington
+138668	Frank
+138697	Mowbray
+138710	Tyrrel
+138717	Francis
+138737	Francis Tyrrel
+138742	Mowbray
+138787	Mowbray
+138860	Mowbray
+138916	Mowbray
+138921	Etherington
+138994	Tyrrel
+139048	Mowbray
+139101	Etherington
+139262	Mowbray
+139320	Etherington
+139427	Mowbray
+139488	Etherington
+139502	Mowbray
+139521	Mowbray
+139604	Jack Raw
+139611	Jack Mowbray
+139619	Etherington
+139655	Jekyl
+139672	Harry
+140027	Harry
+140100	Harry Jekyl
+140119	Etherington
+140204	Harry
+140230	Harry Jekyl
+140247	Harry
+140377	-- Francis
+140525	Etherington
+140566	Marie de
+140568	Martigny
+140596	Francis Tyrrel
+140612	Francis Martigny
+140694	Ann Bulmer
+140706	Francis Valentine
+140708	Bulmer Tyrrel
+140774	Francis Tyrrel
+140816	Francis Valentine
+140818	Bulmer Tyrrel
+140825	Oakendale
+140933	Marie de
+140935	Martigny
+140940	Francis Tyrrel
+140945	Earl
+141090	Bulmer
+141138	Francis Tyrrel
+141150	Oakendale
+141153	Cecil
+141333	Marie de
+141335	Martigny
+141343	Francis
+141443	Oakendale
+141455	Valentine Bulmer
+141460	Francis Tyrrel
+141715	Francis
+141805	Francis
+141890	Francis
+142017	Francis
+142331	Francis
+142412	Francis
+142501	Clara Mowbray
+142516	St. Ronan
+142659	Mowbray
+142720	Francis
+142740	Mowbray
+142796	Harry Jekyl
+142841	Mowbray
+142851	Francis
+142889	Clara
+142960	Harry
+143037	Harry
+143050	Francis
+143223	Mowbray
+143385	Francis
+143470	Frank
+143590	Francis
+143602	Clara
+143612	Mowbray
+143678	Francis
+143723	Clara
+143743	Francis
+143750	Mowbray
+143774	Clara
+143932	Clara Mowbray
+144073	Earl
+144135	Clara
+144230	Mowbray
+144243	Frank
+144286	Ronan
+144581	St. Ronan
+144630	Mowbray
+144699	S. Mowbray
+144738	Etherington
+144755	Mowbray
+144780	Francis
+144987	Clara Mowbray
+145035	Oakendale
+145126	Harry
+145173	Mowbray
+145210	Clara
+145304	Clara
+145318	Francis
+145353	Clara
+145388	Francis
+145398	Clara
+145513	Clara
+145713	Francis
+145760	Tyrrel
+145925	Clara Mowbray
+145975	Clara
+146085	Clara
+146098	Solmes
+146105	Francis
+146132	Mowbray
+146208	Harry
+146261	Monsieur Martigny
+146291	Francis Martigny
+146383	Monsieur Francis
+146547	Harry
+146721	Harry
+146734	Tattersal
+146772	Harry
+146834	Etherington
+146995	Harry
+147043	Harry
+147109	Monsieur Martigny
+147182	-- Harry
+147367	Tyrrel
+147459	Scrogie Mowbray
+147599	Etherington
+147612	Harry Jekyl
+147988	-- Harry
+148064	Monsieur Martigny
+148188	Ronan
+148232	Clara Mowbray
+148259	Clara
+148348	Scrog Mowbray
+148368	Mowbray
+148370	St. Ronan
+148473	Mowbray
+148548	Monsieur Martigny
+148820	Mowbray
+148859	Clara Mowbray
+149122	Clara
+149246	ETHERINGTON
+149298	Nitre
+149324	Etherington
+149398	Etherington
+149459	Harry Jekyl
+149471	Etherington
+149498	Etherington
+149643	-- You
+149805	-- Etherington
+149814	Mowbray
+149831	Tyrrel
+149933	Etherington
+149988	Etherington
+150057	Clara Mowbray
+150122	Etherington
+150342	Clara Mowbray
+150390	Mowbray
+150560	Etherington
+151141	Clara Mowbray
+151267	HENRY JEKYL
+151297	Henry Jekyl
+151653	Harry
+151736	ETHERINGTON
+151904	Clara
+152088	Harry
+152196	Francis
+152224	Harry
+152310	Dods
+152539	Cargill
+152570	Dods
+152616	Cargill
+152652	Brownie
+152773	Touchwood
+152870	Touchwood
+152943	Touchwood
+152978	Touchwood
+153286	Turnpenny
+153290	Bindloose
+153301	Touchwood
+153499	Touchwood
+153579	Touchwood
+153807	Grizzy
+153813	Touchwood
+153947	Saunders Jaup
+154008	Touchwood
+154011	Saunders Jaup
+154085	Scylla
+154169	Saunders Jaup
+154202	Saunders
+154696	Saunders Jaup
+154794	Swift
+154875	Cadi
+154946	-- Eppie
+154948	Anderson
+154960	Dods
+154991	Eppie Anderson
+155001	Beenie Chambermaid
+155034	Beenie
+155062	Eppie Anderson
+155102	Touchwood
+155270	Saunders Jaup
+155338	Dods
+155437	-- Haud
+155443	John Ostler
+155477	John Ostler
+155535	Dods
+155595	Dods
+155617	Dods
+155723	Dods
+155853	Dods
+155880	Dods
+155895	Francis Tirl
+155902	Francis Tyrrel
+155980	Tyrrel
+155992	Dods
+156033	Tyrrel
+156093	Dame Dods
+156108	Francis
+156154	Maister Frank
+156277	Maister Francie
+156286	Mother Dods
+156394	Godsake
+156500	Touchwood
+156553	Touchwood
+156596	Tyrrel
+156644	Touchwood
+156757	Turk
+156782	Dods
+156797	Dods
+156850	Tyrrel
+156866	Touchwood
+156874	Dods
+156895	Maister Francis
+156897	Tirl
+156936	Dods
+157013	Tyrrel
+157038	Dods
+157074	Maister Tirl
+157111	Maister Bindloose
+157159	Maister Francie
+157204	Dods
+157289	Dods
+157300	Maister Tirl
+157391	Maister Francie
+157407	Tyrrel
+157458	Dods
+157618	Dame Dods
+157659	Tyrrel
+157667	Tam Lowrie
+157786	Tyrrel
+157819	Touchwood
+157851	Dods
+157933	Valentine Bulmer
+157976	Touchwood
+158027	Tyrrel
+158038	-- Gad
+158065	Gad
+158105	Cogia Hassein
+158167	Ullah Kerim
+158182	Dods
+158185	Tyrrel
+158192	-- Ullah
+158194	Kerim
+158209	-- Ullah
+158211	Kerim
+158255	Dods
+158291	Dame Dods
+158344	Maister Touchwood
+158395	-- Maister
+158397	Tirl
+158572	Tyrrel
+158591	Touchwood
+158595	Tyrrel
+158765	Tyrrel
+158838	Touchwood
+158847	Tyrrel
+158866	Tyrrel
+158884	Tyrrel
+158926	Tyrrel
+159097	Tyrrel
+159116	Peregrine Touchwood
+159253	-- Turk
+159256	Christian
+159319	Tyrrel
+159330	Dods
+159362	Tyrrel
+159424	Frank Tyrrel
+159491	Touchwood
+159545	Henry IV
+159570	Touchwood
+159686	Dods
+159787	Tyrrel
+159832	Jekyl
+159858	Martigny
+159864	Francis Tyrrel
+159871	Tyrrel
+159906	Tyrrel
+159940	Tyrrel
+159972	Jekyl
+159984	Etherington
+159987	Tyrrel
+160012	Earl of
+160014	Etherington
+160033	Jekyl
+160073	Jekyl
+160093	Etherington
+160163	Tyrrel
+160218	Jekyl
+160246	Tyrrel
+160251	Jekyl
+160308	Jekyl
+160312	Tyrrel
+160355	Jekyl
+160382	Tyrrel
+160433	Jekyl
+160507	Jekyl
+160555	Tyrrel
+160623	Tyrrel
+160627	Jekyl
+160708	Etherington
+160781	Jekyl
+160817	Tyrrel
+160834	Jekyl
+160870	Jekyl
+160907	Tyrrel
+161104	Jekyl
+161108	Tyrrel
+161218	Jekyl
+161269	Jekyl
+161299	Tyrrel
+161393	Jekyl
+161412	Tyrrel
+161444	Jekyl
+161448	Tyrrel
+161517	Etherington
+161548	Tyrrel
+161632	Etherington
+161635	Tyrrel
+161649	Jekyl
+161692	Jekyl
+161709	Zadock Kemp
+161721	Marie de
+161723	Bellroche
+161739	John Earl
+161741	of Etherington
+161764	Etherington
+161785	Tyrrel
+161834	Jekyl
+161873	Tyrrel
+161898	Jekyl
+161907	Mowbray
+161921	Tyrrel
+162188	Jekyl
+162194	Etherington
+162239	Tyrrel
+162318	Jekyl
+162339	Tyrrel
+162351	Mowbray
+162368	Tyrrel
+162466	Etherington
+162473	Jekyl
+162481	Mowbray
+162549	Tyrrel
+162556	Clara Mowbray
+162574	Jekyl
+162592	Tyrrel
+162629	Clara Mowbray
+162683	Tyrrel
+162716	Tyrrel
+162732	Francis Tyrrel
+162737	Clara Mowbray
+162792	Mowbray
+162909	Tyrrel
+162933	Jekyl
+163057	Tyrrel
+163128	Mowbray
+163138	Hannah Irwin
+163150	Jekyl
+163170	Hannah Irwin
+163274	Valentine Bulmer
+163298	Hannah Irwin
+163338	Jekyl
+163376	Tyrrel
+163460	Clara Mowbray
+163502	Jekyl
+163554	Mowbray
+163565	Tyrrel
+163590	Etherington
+163606	Tyrrel
+163616	Jekyl
+163664	Etherington
+163706	Mowbray
+163746	Jekyl
+163750	Tyrrel
+163785	Clara Mowbray
+163897	Clara Mowbray
+164107	Mowbray
+164109	St. Ronan
+164167	Jekyl
+164191	Mowbray
+164228	Tyrrel
+164248	Mowbray
+164299	Mowbray
+164305	Jekyl
+164383	Tyrrel
+164422	Etherington
+164450	Mowbray
+164634	Tyrrel
+164642	Jekyl
+164667	Jekyl
+164693	Mowbray
+164939	Jekyl
+164967	Tyrrel
+165050	Jekyl
+165074	Etherington
+165087	Tyrrel
+165209	Jekyl
+165243	Valentine Bulmer
+165273	Etherington
+165333	Clara Mowbray
+165406	Tyrrel
+165566	Clara Mowbray
+165698	Jekyl
+165732	Jekyl
+165806	Earl of
+165808	Etherington
+165837	Tyrrel
+165921	Jekyl
+165944	Tyrrel
+165957	Jekyl
+166022	Jekyl
+166033	Tyrrel
+166086	Bulmer
+166159	Levant
+166177	Jekyl
+166215	Tyrrel
+166280	Jekyl
+166384	Etherington
+166438	Tyrrel
+166453	Jekyl
+166468	Jekyl
+166528	Jekyl
+166544	Tyrrel
+166576	Jekyl
+166586	Jekyl
+166601	Tyrrel
+166641	Clara Mowbray
+166803	Tyrrel
+166945	Tyrrel
+167119	Jekyl
+167408	Jekyl
+167450	Etherington
+167464	Tyrrel
+167532	Etherington
+167537	Jekyl
+167611	Etherington
+167754	Jekyl
+167781	Touchwood
+167827	Jekyl
+167928	Touchwood
+168121	Pat Murtough
+168173	Jekyl
+168305	Jekyl
+168331	Touchstone
+168480	Barclay
+168501	Jekyl
+168704	Jekyl
+168724	Jackson
+168785	Cargill
+168928	Elfi Bey
+168951	Aristotle
+168953	Elfi
+168993	Jekyl
+169030	Marquis
+169091	Etherington
+169106	Jekyl
+169174	Francis Tyrrel
+169215	Bingo Binks
+169263	Jekyl
+169294	Jekyl
+169375	Jekyl
+169407	Jekyl
+169430	Jekyl
+169560	Jekyl
+169568	Jekyl
+169625	Jekyl
+169681	Jekyl
+169996	Jekyl
+170067	Jekyl
+170093	Tyrrel
+170135	Jekyl
+170238	Burgess
+170264	Jekyl
+170362	Hamlet
+170450	Jekyl
+170513	Jekyl
+170609	Scrogie Mowbray
+170619	Mowbray
+170627	Scrogie
+170642	Etherington
+170675	Mowbray
+170792	Jekyl
+170841	Jack Frenchman
+170855	Dods
+170903	Dods
+170908	Ben Vandewash
+170981	Jekyl
+171025	Jekyl
+171105	Jekyl
+171226	Pentapolin
+171323	Jekyl
+171460	Naboab
+171471	Jekyl
+171477	Touchwood
+171647	Etherington
+171741	Richard III
+171749	Jekyl
+171754	Etherington
+171778	Jekyl
+171895	Jekyl
+171967	Etherington
+171980	Jekyl
+172011	Tyrrel
+172054	Etherington
+172074	Hal
+172089	Jekyl
+172173	Jekyl
+172245	Etherington
+172307	Tyrrel
+172322	Tyrrel
+172335	Jekyl
+172355	Mowbray
+172429	Etherington
+172496	Jekyl
+172506	Jove
+172544	Jekyl
+172581	Mowbray
+172644	Etherington
+172658	Jekyl
+172695	Etherington
+172719	Jekyl
+172741	Etherington
+172796	Jekyl
+172799	Tyrrel
+172844	Etherington
+172908	Jekyl
+173022	Jekyl
+173060	Etherington
+173105	Jekyl
+173184	Jekyl
+173201	Tyrrel
+173237	Jekyl
+173309	Jekyl
+173401	Hal
+173506	Etherington
+173526	Etherington
+173741	Trueman
+173755	Francis Tyrrel
+173777	Monsieur Martigny
+173836	Solmes
+173905	Solmes
+173964	Etherington
+174054	Etherington
+174282	Lady Penelope
+174335	Etherington
+174391	Pott
+174398	Statius
+174441	Pott
+174451	Lady Penelope
+174500	Pott
+174537	Pott
+174554	Chatterly
+174567	Chatterly
+174575	Lady Penelope
+174625	Etherington
+174628	Penelope
+174647	Touchwood
+174681	Penelope
+174688	-- Polly
+174690	Peachum
+174764	Etherington
+174793	Pott
+174832	Pott
+174891	Pott
+174918	Pott
+175018	Pott
+175045	Bindloose
+175055	Luckie Dods
+175078	Pott
+175085	Dods
+175093	Bindloose
+175134	Pott
+175248	Pott
+175299	Luckie Dods
+175319	Ronan
+175348	Etherington
+175359	Pott
+175432	Lady Penelope
+175472	Digges
+175502	Tyrrel
+175517	Etherington
+175580	Lady Penelope
+175634	Lady Pen
+175647	Chatterly
+175665	Lady Penelope
+175706	Lady Penelope
+175737	Digges
+175763	Digges
+175837	Lady Penelope
+175853	Tyrrel
+175856	Etherington
+175956	Tyrrel
+176005	MacTurk
+176079	Tyrrel
+176245	MacTurk
+176308	Jekyl
+176487	Dougal
+176543	Flanigan
+176572	Tyrrel
+176674	Etherington
+176700	Tyrrel
+176735	Tyrrel de
+176737	Martigny
+176785	Bulmer
+176789	Tyrrel
+176833	Tyrrel
+176871	Jekyl
+176881	Tyrrel
+176924	Etherington
+176960	Tyrrel
+176976	Jekyl
+177071	Etherington
+177142	Winterblossom
+177154	Jekyl
+177159	Micklehen
+177225	Tyrrel
+177286	Jekyl
+177294	Jekyl
+177351	Betty Martin
+177405	Lady Binks
+177463	Etherington
+177487	Jekyl
+177600	Mowbray
+177664	Mowbray
+177668	Jekyl
+177673	Tyrrel
+177763	Jekyl
+177790	Etherington
+177923	Jekyl
+177969	Jekyl
+178017	Jekyl
+178068	Mowbray
+178134	Canova
+178158	Jekyl
+178284	Jekyl
+178432	Hal
+178517	Etherington
+178533	Jekyl
+178542	Hal
+178655	Jekyl
+178781	Jeannette
+178787	Tristram Shandy
+178870	Jekyl
+178923	Hal
+178961	Jekyl
+178973	-- Clara
+178976	Nettlewood
+179059	Hal
+179173	Jekyl
+179228	Hal
+179292	Rob
+179358	Etherington
+179360	Tyrrel
+179577	Etherington
+179584	Mowbray
+179586	Tyrrel
+179621	Earl
+179623	Jekyl
+179646	Aultoun
+179693	Etherington
+179716	Ferdinand Mendez
+179718	Pinto
+179763	Jekyl
+179770	Touchwood
+179801	Etherington
+179939	Jekyl
+180123	Etherington
+180158	Aultoun
+180186	Francis Tyrrel
+180241	Pott
+180255	Penelope Penfeather
+180269	Digges
+180276	Mowbray
+180281	Mowbray
+180299	Mowbray
+180302	Pott
+180342	Mowbray
+180379	Lady Penelope
+180410	Pott
+180457	Etherington
+180556	Lady Penelope
+180631	Penelope
+180720	Etherington
+180729	Mowbray
+180731	St. Ronan
+180764	Lady Penelope
+180787	Mowbray
+180810	Etherington
+180841	Lady Penelope
+180884	Etherington
+180912	Penelope
+181010	Etherington
+181073	Penelope
+181200	Solmes
+181213	Lady Penelope
+181261	Pott
+181281	Etherington
+181525	Etherington
+181531	Lady Penelope
+181662	Digges
+181770	Lady Penelope
+181812	Winterblossom
+181883	Etherington
+181949	Lady Binks
+181973	Etherington
+182006	Lady Penelope
+182015	Quackleben
+182133	Etherington
+182189	Lady Penelope
+182209	Etherington
+182234	Anne Heggie
+182372	Shakspeare
+182432	Mowbray
+182456	Mowbray
+182513	St. Ronan
+182559	Ronan
+182576	Etherington
+182582	Lady Penelope
+182626	Lady Penelope
+182679	Penelope
+182739	Etherington
+182800	Lady Penelope
+182921	Lady Penelope
+183057	Etherington
+183188	Lady Penelope
+183210	Digges
+183263	Lady Penelope
+183278	Etherington
+183411	Etherington
+183427	Mowbray
+183429	St. Ronan
+183439	John Mowbray
+183442	St. Ronan
+183459	Mowbray
+183461	St. Ronan
+183468	Etherington
+183492	Mowbray
+183531	Penelope Penfeather
+183557	Etherington
+183619	Lady Penelope
+183628	Etherington
+183854	Penelope
+183899	Etherington
+184003	Etherington
+184238	Clara
+184304	Clara
+184360	Etherington
+184371	Lady Penelope
+184499	Lady Penelope
+184721	Penelope
+184738	Etherington
+184910	Penelope
+184931	Etherington
+185051	Etherington
+185053	Lady Penelope
+185115	Lady Penelope
+185158	Lady Penelope
+185192	Catherine
+185201	Catherine
+185216	Clara
+185280	Blower
+185318	Etherington
+185394	Lady Penelope
+185458	Etherington
+185529	Mowbray
+185676	Clara
+185687	Clara Mowbray
+185703	St. Ronan
+185722	Etherington
+185754	Lady Penelope
+185775	Mowbray
+185828	Penelope
+185833	Etherington
+185865	Mowbray
+185908	Lady Penelope
+185981	Clara
+186015	Cargill
+186041	Etherington
+186096	Cargill
+186164	Dido
+186196	Mowbray
+186240	Cargill
+186279	Penelope
+186354	Lady Penelope
+186428	Etherington
+186473	St. Ronan
+186490	Mowbray
+186567	Mowbray
+186653	Rymour
+186669	Mowbray
+186686	Etherington
+186728	Etherington
+186786	Clara
+186923	Penelope
+186941	Mowbray
+186967	Etherington
+187014	Etherington
+187153	Etherington
+187189	Penelope
+187201	Congreve
+187243	Stephen
+187251	Etherington
+187311	Solmes
+187361	Etherington
+187429	Etherington
+187499	Bramah
+187606	Etherington
+187784	James
+187811	Etherington
+187963	Etherington
+188071	Francis Tyrrel
+188143	Tyrrel
+188179	Tyrrel
+188242	Etherington
+188436	Clara Mowbray
+188476	Mowbray
+188505	Etherington
+188543	Tyrrel
+188613	Solmes
+188749	Solmes
+188822	Solmes
+188827	Mowbray
+188873	Penelope Penfeather
+188957	-- Solmes
+188968	Irwin
+189049	Etherington
+189091	Biddulph
+189108	Solmes
+189220	Solmes
+189274	Etherington
+189388	Harry Jekyl
+189432	Jekyl
+189459	Etherington
+189489	Hal
+189494	Etherington
+189537	Mowbray
+189539	St. Ronan
+189637	Jekyl
+189725	Etherington
+189759	Mowbray
+189766	Etherington
+189786	Jekyl
+189818	-- Why
+189858	Lady Binks
+189874	Hal
+189920	Ronan
+189933	-- Etherington
+190013	Jekyl
+190015	Mowbray
+190027	Etherington
+190040	Mowbray
+190060	Jekyl
+190064	Mowbray
+190087	Etherington
+190092	Mowbray
+190117	Jekyl
+190171	Jekyl
+190196	Jekyl
+190236	Etherington
+190253	Etherington
+190272	Mowbray
+190304	Jekyl
+190395	Mowbray
+190403	Etherington
+190463	Etherington
+190518	Clara Mowbray
+190532	Mowbray
+190548	Jekyl
+190614	Etherington
+190638	Etherington
+190670	Mowbray
+190684	Mowbray
+190715	Penelope
+190737	Mowbray
+190755	Mowbray
+190781	Mowbray
+190841	Mowbray
+190887	Mowbray
+190926	Mowbray
+190995	Etherington
+191027	Mowbray
+191160	Etherington
+191191	Etherington
+191219	Mowbray
+191281	Etherington
+191367	Etherington
+191457	Mowbray
+191503	Mowbray
+191529	Lady Penelope
+191592	Lady Pen
+191620	Mowbray
+191713	Cowper
+191753	Lady Penelope
+191779	Blower
+191860	Touchwood
+191909	Winterblossom
+191934	Lady Penelope
+191980	Etherington
+192055	MacTurk
+192354	Saul
+192496	Jonathan
+192524	MacTurk
+192617	MacTurk
+192663	Touchwood
+192703	Duncan Macphail
+193106	Etherington
+193108	Mowbray
+193148	Lady Binks
+193182	Penelope Penfeather
+193223	Plutarch
+193324	Etherington
+193343	Earl
+193390	Etherington
+193400	Penelope
+193516	Lady Penelope
+193537	Penelope
+193570	Penelope
+193647	Etherington
+193735	Mowbray
+193737	St. Ronan
+193864	Mowbray
+193884	Lady Penelope
+193909	Touchwood
+193914	Mowbray
+193951	Mowbray
+193988	Winterblossom
+194018	Jones
+194075	Mowbray
+194107	Lady Binks
+194144	Mowbray
+194190	Mowbray
+194219	Penelope
+194227	Etherington
+194283	Jones
+194303	Jones
+194305	Jones
+194309	Lady Penelope
+194330	Jones
+194343	Jones
+194345	Jones
+194369	Etherington
+194389	Jones
+194414	Jones
+194451	Lady Penelope
+194465	Mowbray
+194467	St. Ronan
+194485	Mowbray
+194537	Jones
+194541	Mowbray
+194580	Jones
+194617	Jones
+194621	Mowbray
+194645	Mowbray
+194696	Mowbray
+194730	Jones
+194748	Mowbray
+194783	Mowbray
+194802	Jones
+194823	Lady Penelope
+194841	Clara Mowbray
+194898	Mowbray
+194955	Mowbray
+195007	Jones
+195033	Touchwood
+195046	Mowbray
+195080	Lady Penelope
+195105	Jones
+195124	Mowbray
+195138	Mowbray
+195223	Mowbray
+195269	Mowbray
+195319	Mowbray
+195389	Mowbray
+195415	Mowbray
+195442	Etherington
+195455	Touchwood
+195469	Mowbray
+195486	Mowbray
+195507	Mowbray
+195524	Etherington
+195554	Touchwood
+195564	Etherington
+195598	Mowbray
+195672	Mowbray
+195690	Touchwood
+195764	Mowbray
+195797	Mowbray
+195806	Mowbray
+195822	Mowbray
+195899	Mowbray
+195986	Mowbray
+196046	Ronan
+196216	Ronan
+196329	HORACE
+196337	Mowbray
+196533	Mowbray
+196568	Mowbray
+196824	Patrick
+196834	Mowbray
+196878	Clara
+197001	Mowbray
+197059	Mowbray
+197100	John
+197108	Clara
+197161	Clara
+197187	Robert Burns
+197202	Mowbray
+197234	Burns
+197238	Clara
+197283	Mowbray
+197449	Clara
+197455	John
+197659	Clara
+197706	John
+197741	Clara
+197779	Miss Mowbray
+197894	John
+197993	John
+198028	Mowbray
+198109	Etherington
+198147	Clara
+198223	Mowbray
+198263	Clara
+198287	Clara
+198336	Clara Mowbray
+198401	-- Clara
+198528	Clara
+198800	Mowbray
+199046	Clara
+199291	Clara
+199518	Clara
+199654	Etherington
+199663	Clara
+199766	Clara
+199950	Clara
+200070	Clara
+200127	Mowbray
+200186	Clara
+200284	Clara
+200411	Clara
+200500	Clara
+200616	Mowbray
+200627	Clara
+200719	Clara
+200723	Mowbray
+200745	Ben Nevis
+200825	Shaws-Castle
+200832	Mowbray
+200880	Etherington
+200954	Patrick
+200973	Mowbray
+201017	Etherington
+201036	Peregrine Touchwood
+201085	Mowbray
+201104	Etherington
+201146	Touchwood
+201176	Gad
+201179	Mowbray
+201187	Gothard
+201270	Mowbray
+201409	Mowbray
+201479	Touchwood
+201491	Mowbray
+201532	Touchwood
+201622	Mowbray
+201656	Shaws-Castle
+201660	Mowbray
+201771	Mowbray
+201821	Scrogie
+201863	Mowbray
+201870	Norman
+201901	Mowbray
+201904	Reginald Scrogie
+201906	Mowbray
+201939	S. Mowbray
+201967	Mowbray
+202019	Mowbray
+202054	Mowbray
+202102	Etherington
+202106	Mowbray
+202126	Scrogie Mowbray
+202193	Mowbray
+202303	Touchwood
+202307	Mowbray
+202317	Scrogie
+202377	Mowbray
+202399	P. Touchwood
+202402	Paul
+202408	Peter
+202439	Peregrine Pickle
+202528	Mowbray
+202536	Scrogie
+202562	P. S.
+202564	Touchwood
+202587	Scrogie
+202594	Mowbray
+202662	Mowbray
+202684	Touchwood
+202806	Touchwood Scrogie
+202860	Mowbray
+202898	Touchwood
+202956	Mowbray
+203025	Mowbray
+203103	Mowbray
+203105	St. Ronan
+203273	Francis Tyrrel
+203283	Etherington
+203287	Mowbray
+203313	Etherington
+203338	Touchwood
+203396	Earl
+203438	Mowbray
+203475	Mowbray
+203511	Etherington
+203696	Mowbray
+203757	Etherington
+203801	Mowbray
+203914	Mowbray
+203963	Mowbray
+204138	Mowbray
+204172	Etherington
+204297	Mowbray
+204375	Touchwood
+204379	Mowbray
+204389	Etherington
+204495	P. S.
+204497	Touchwood
+204512	Mowbray
+204514	St. Ronan
+204570	Mowbray
+204584	Mowbray
+204674	Penelope Penfeather
+204723	Nettlewood
+204855	Mowbray
+204894	Mowbrays
+204931	Touchwood
+204935	Mowbray
+205180	Etherington
+205192	Mowbray
+205235	Cargill
+205256	Clara
+205261	Francis
+205285	Mowbray
+205425	Etherington
+205462	Francis Tyrrel
+205494	Mowbray
+205617	Penelope
+205631	Mowbray
+205736	Touchwood
+205842	Mowbray
+205935	Mowbray
+205964	Clara
+205966	Tyrrel
+206024	Mowbray
+206080	Jekyl
+206089	Mowbray
+206264	Mowbray
+206302	Touchwood
+206317	Solmes
+206359	Earl of
+206361	Etherington
+206411	Solmes
+206536	Tyrrel
+206588	Mowbray
+206622	Scrogie
+206658	Jekyl
+206682	Tyrrel
+206693	Gad
+206719	Mowbray
+206868	Mowbray
+206878	Scrogie
+206892	Jekyl
+206923	Solmes
+206926	Solmes
+206934	Mowbray
+207123	Touchwood
+207190	John Bull
+207236	Mowbray
+207353	Tyrrel
+207399	Mowbray
+207467	Mowbray
+207515	Mowbray
+207645	Francis Tyrrel
+207666	Mowbray
+207727	Scrogie Touchwood
+207759	Mowbray
+207851	Mowbray
+207858	Patrick
+208018	Patrick
+208059	Mowbray
+208073	Touchwood
+208090	Patrick
+208096	Mally
+208165	Mowbray
+208193	Patrick
+208236	Patrick
+208275	Patrick
+208279	Mowbray
+208287	Touchwood
+208414	Mowbray
+208435	Etherington
+208473	Patrick
+208571	Patrick
+208590	Lear
+208599	Mowbray
+208684	Clara
+208789	Mowbray
+208858	Etherington
+208876	Etherington
+208926	Clara
+208948	Don
+209024	-- Gad
+209107	Clara
+209177	Clara
+209219	Clara
+209246	Laird
+209248	St. Ronan
+209313	Mowbray
+209342	Mowbray
+209354	Martha
+209396	Martha
+209449	Clara
+209464	Mowbray
+209496	Clara
+209499	Clara
+209599	Mowbray
+209665	Clara
+209745	Mowbray
+209818	-- Clara
+209822	Clara
+209852	Mowbray
+209900	Mowbray
+210046	Clara
+210048	Clara
+210052	Mowbray
+210082	Mowbray
+210117	Mowbray
+210161	Mowbray
+210177	Clara
+210252	Mowbray
+210316	Mowbray
+210345	Mowbray
+210372	Mowbray
+210430	Clara
+210453	Mowbray
+210494	Mowbray
+210514	St. Ronan
+210540	Clara
+210544	Mowbray
+210579	Clara
+210582	Ronan
+210619	Joseph
+210644	Mowbray
+210665	Clara
+210728	Clara
+210757	Mowbray
+210867	Mowbray
+210937	Patrick
+210966	Ronan
+211033	Clara
+211187	Martha
+211212	Patrick
+211240	Mowbray
+211262	Clattering Brig
+211435	Clara
+211463	Mowbray
+211525	Mowbray
+211530	Clara
+211774	Mowbray
+211878	St. Ronan
+211882	Mowbray
+211972	Mowbray
+212064	Mowbray
+212135	Shaws-Castle
+212252	Clara Mowbray
+212409	Touchwood
+212421	Etherington
+212427	Mowbray
+212509	Clara
+212610	Clara
+212665	Hannah Irwin
+212873	Cargill
+212913	Etherington
+212950	Clara Mowbray
+212990	Hannah Irwin
+213022	Solmes
+213058	Solmes
+213151	Earl of
+213153	Etherington
+213190	Solmes
+213201	Hannah Irwin
+213227	Cargill
+213311	Touchwood
+213348	Mowbray
+213412	Mowbray
+213493	Mowbray
+213525	Cargill
+213879	Cargill
+213922	Touchwood
+213961	Quackleben
+213977	Dods
+214091	Luckie Dods
+214111	Touchwood
+214188	Tyrrel
+214199	Touchwood
+214204	Dame Dods
+214217	Cargill
+214320	Cargill
+214404	St. Ronan
+214434	Josiah Cargill
+214453	Cargill
+214469	Hannah Irwin
+214488	Clara Mowbray
+214529	Cargill
+214602	Cargill
+214638	Cargill
+214694	Cargill
+214890	Hannah Irwin
+214906	Cargill
+214997	Francis Tyrrel
+215007	Valentine Bulmer
+215110	Cargill
+215170	Francis Tyrrel
+215173	-- Clara
+215296	Solmes
+215474	Clara
+215483	Mowbray
+215511	Clara
+215579	Tyrrel
+215605	Cargill
+215655	Clara Mowbray
+215686	Josiah Cargill
+215781	Clara Mowbray
+215857	Hannah Irwin
+215862	Clara
+215880	-- Betake
+215987	Dods
+216003	Hannah Irwin
+216055	Tyrrel
+216077	Mowbray
+216177	Hannah Irwin
+216206	Tyrrel
+216283	Clara
+216392	Tyrrel
+216404	-- Hannah
+216406	Irwin
+216453	Clara Mowbray
+216458	Tyrrel
+216510	Hannah Irwin
+216596	Tyrrel
+216697	Tyrrel
+216718	Dods
+216764	Tyrrel
+216799	Tyrrel
+216830	Maister Tyrrel
+216843	Tyrrel
+216902	Clara
+216935	Tyrrel
+216947	Mowbray
+216977	Dods
+216994	Clara
+217032	Tyrrel
+217094	Tyrrel
+217102	Clara
+217118	Dods
+217224	Tyrrel
+217257	Mowbray
+217272	Dods
+217298	Tyrrel
+217393	Tyrrel
+217623	Tyrrel
+217747	Tyrrel
+217793	Tyrrel
+217820	Mowbray
+217852	Tyrrel
+217855	Valentine Bulmer
+217860	Earl of
+217862	Etherington
+217879	Tyrrel
+217968	Mowbray
+218052	Etherington
+218054	Jekyl
+218058	MacTurk
+218167	Mowbray
+218181	MacTurk
+218191	Etherington
+218225	Etherington
+218230	Valentine Bulmer
+218235	Mowbray
+218260	Mowbray
+218264	Etherington
+218271	Jekyl
+218274	MacTurk
+218298	Mowbray
+218318	Mowbray
+218334	Etherington
+218361	Mowbray
+218380	-- Jekyl
+218405	Jekyl
+218429	MacTurk
+218449	Mowbray
+218451	St. Ronan
+218511	Jekyl
+218530	Etherington
+218540	Mowbray
+218585	MacTurk
+218661	Jekyl
+218666	Glenlivat
+218691	Etherington
+218693	Mowbray
+218704	Mowbray
+218725	Mowbray
+218758	Jekyl
+218769	MacTurk
+218793	Quackleben
+218840	Mowbray
+218895	Jekyl
+218924	Mowbray
+218959	Clara
+218996	Mowbray
+219047	Quackleben
+219055	Blower
+219062	Chatterly
+219081	MacTurk
+219087	Etherington
+219126	Mowbray
+219143	Mowbray
+219186	Touchwood
+219229	Tyrrel
+219257	Etherington
+219293	Tyrrel
+219352	Mowbray
+219354	St. Ronan
+219398	MacTurk
+219459	Laird
+219461	St. Ronan
+219467	Mowbray
+219582	Meiklewham
+219628	Touchwood
+219646	Mowbray
+219666	Winterblossom
+219759	Mowbray
+219848	Dods
+219877	Mowbray
+219936	Etherington
+219965	Mowbray
+219978	Mowbray
+220044	RONAN
+220060	Meg Dods
+220091	Murdison
+220093	Millar
+220137	Millar
+220172	Yarrow
+220204	Murdison
+220330	Yarrow
+220422	Millar
+220949	Ronan
+221023	Ronan
+221029	Meg Dods
+221072	Cook
+221092	Cook
+221134	FLETCHER
+221138	Margaret Dods
+221169	Dods
+221228	Dods
+221282	Brummel
+221328	Tyrrel
+221350	Stephen
+221356	Ben Jonson
+221387	Scott
+221429	Hunthill
+221450	Plutarch
+221470	Pindar
+221478	Persephone
+221513	Clara
+221525	Clara
+221536	Mowbray
+221553	Ballantyne
+221605	ANDREW LANG
+221623	Scott
+221630	Ronan
+221647	J. M.
+221649	Collyer
+221659	Archibald Constable
+221679	Hannah Irwin
+221684	Josiah Cargill
+221739	Mowbray
+221764	Clara
+221847	Clara
+221897	Clara
+221899	Tyrrel
+221916	Hannah Irwin
+221955	Tyrrel
+222038	Clara
+222126	Solmes
+222183	Ainsell
+222199	Asper
+222243	Bairn
+222248	Baith
+222287	Bauld
+222291	Bawbee
+222301	Begum
+222317	Blawort
+222326	Bodle
+222346	Brank
+222361	Brose
+222372	Browst
+222386	Bruick
+222404	Cadi
+222414	Cantrip
+222427	Carline
+222432	Cheeny
+222436	Clachan
+222441	Claise
+222445	Cleugh
+222451	Corbie
+222497	Dinna
+222513	Douce
+222547	Fand
+222551	Faughta
+222562	Feir
+222572	Feuar
+222633	Galopin
+222644	Gar
+222663	Gard
+222688	Girn
+222697	Glenlivat
+222709	Grue
+222734	Gude
+222769	Hap
+222783	Hinny
+222803	Hoose
+222808	Hough
+222829	Jaud
+222834	Joseph
+222844	Ken
+222857	Limmer
+222863	Maravedi
+222877	Mickle
+222945	Pliskie
+222955	Pococurante
+222966	Poortith
+222970	Pownie
+222979	Raff
+223012	Sall
+223041	Shouther
+223046	Shroff
+223080	Soop
+223116	Speer
+223144	Taupie
+223155	Tinkler
+223168	Tozie
+223253	Wheen
+223275	Wunna
+223280	Yestreen

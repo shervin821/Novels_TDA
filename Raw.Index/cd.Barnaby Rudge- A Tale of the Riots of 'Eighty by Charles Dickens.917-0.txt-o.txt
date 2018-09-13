@@ -1,0 +1,4440 @@
+246	Henry
+259	Queen Elizabeth
+1000	John Willet
+1035	John Willet
+1144	Willet
+1288	John
+1378	John
+1757	Willet
+1781	John
+1811	John
+2045	Tom Cobb
+2056	Phil Parkes
+2166	John Willet
+2456	Tom Cobb
+2459	Parkes
+2477	Parkes
+2490	Tom
+2538	Joe
+2640	Joe
+2663	Warren
+2823	Haredale
+2826	Geoffrey Haredale
+2925	Joe
+3000	Joe
+3032	Haredale
+3129	Joe
+3223	King George
+3264	Joe Willet
+3297	Joe
+3317	Willet
+3334	Joe
+3343	Willet
+3381	John Willet
+3421	Joe
+3525	Haredale
+3605	Joe
+3641	Joe
+3645	Long Parkes
+3656	Tom Cobb
+3691	Joe
+3757	Joe
+3789	Parkes
+3823	John Willet
+3868	Joe
+3881	Parkes
+3891	Phil
+3896	Willet
+3934	Phil
+3944	Natur
+4041	Parkes
+4076	Joe
+4101	John Willet
+4226	John
+4276	John Willet
+4299	John
+4322	Joe
+4473	Majesty King
+4475	George
+4571	Willet
+4590	Willet
+4706	John Willet
+4768	Haredale
+4771	Geoffrey Haredale
+4844	Parkes
+4875	John Willet
+4923	John Willet
+5085	Solomon Daisy
+5099	Solomon Daisy
+5321	Solomon Daisy
+5331	Reuben Haredale
+5335	Geoffrey
+5357	John Willet
+5370	Cobb
+5374	Solomon Daisy
+5435	Solomon
+5443	Reuben Haredale
+5447	Geoffrey
+5461	Warren
+5466	Joe
+5476	Joe
+5605	Solomon
+5653	Haredale
+5657	Solomon
+5722	Warren
+5747	Daisy
+6102	Solomon
+6112	Joe
+6119	Joe
+6779	Reuben Haredale
+6849	Haredale
+6907	Rudge
+7169	Solomon Daisy
+7303	Joe
+7365	John Willet
+7384	Joe
+7517	John Willet
+7626	Joe
+7670	Joe
+8933	Father Time
+9462	Gabriel Varden
+9549	Varden
+9644	Gabriel Varden
+9942	Gabriel
+10175	Gabriel Varden
+10340	Gabriel
+10408	Martha
+10471	Martha
+10524	Gabriel Varden
+10557	Joe
+10771	Gabriel
+10834	Joe
+11086	Solomon Daisy
+11122	Solomon
+11137	Gabriel
+11188	Joe
+11195	Gabriel
+11241	Joe
+11249	Varden
+11305	John Willet
+11412	John Willet
+11420	Joe
+11595	John Willet
+11707	John Willet
+11712	Joe
+11734	Joe
+11770	John Willet
+11787	Joe
+11834	Mr Varden
+11897	Joe
+11901	Gabriel
+11910	Joe
+11938	Joe
+11973	Varden
+11984	Joe
+12044	Joe
+12062	Joe
+12083	Dolly
+12130	Joe
+12197	Gabriel
+12309	Gabriel
+12364	Joe Willet
+12391	Gabriel Varden
+12425	Mrs Varden
+12558	Gabriel Varden
+13043	Gabriel
+13173	Barnaby
+13219	Barnaby
+13223	Varden
+13297	Barnaby
+13317	Varden
+13351	Barnaby
+13390	Barnaby
+13471	Barnaby
+13854	Barnaby
+13902	Barnaby
+13922	Barnaby
+14063	Barnaby
+14142	Barnaby
+14145	Barnaby
+14148	Barnaby
+14252	Barnaby
+14291	Varden
+14311	Barnaby
+14321	Gabriel
+14334	Mrs Varden
+15551	Gabriel
+15748	Dolly
+15750	Dolly
+15887	Simon
+15891	Gabriel
+15935	Sim
+16029	Sim
+16063	Gabriel
+16074	Garland
+16136	Sim
+16282	Sim
+16296	Simon Tappertit
+16593	Tappertit
+16680	Sim Tappertit
+16780	George Barnwell
+16915	Sim Tappertit
+17106	Sim Tappertit
+17327	Gabriel
+17338	Sim
+17423	Chester
+17443	Edward
+17449	Barnaby
+17490	Barnaby
+17580	Mrs Rudge
+17599	Emma
+17647	Emma
+17669	Warren
+17686	Mrs Rudge
+17762	Gabriel
+18033	-- Put
+18035	Toby
+18044	Toby
+18104	Toby
+18131	Sim Tappertit
+18238	Gabriel
+18281	Sim
+18326	Tappertit
+18345	Sim
+18349	Gabriel
+18398	Joe Willet
+18402	John
+18410	Joe
+18476	Dolly
+18504	Tappertit
+18545	Joe
+18589	Dolly
+18681	Mrs Varden
+18770	Mrs Varden
+18811	Dolly
+18822	Gabriel
+18834	Sim
+18946	Joe
+18979	Joe
+19023	Joe
+19066	Tappertit
+19093	Joe
+19134	Tappertit
+19271	Gabriel
+19441	John
+19538	Barnaby
+19956	Tut
+20045	Gabriel
+20054	Chester
+20083	Gabriel
+20123	Barnaby
+20130	Barnaby
+20137	Varden
+20331	Barnaby
+20381	Barnaby
+20406	Varden
+20704	Gabriel
+21400	Gabriel
+21462	Gabriel
+21666	Mary
+21942	Gabriel
+22128	Gabriel
+22334	Gabriel
+22365	John
+22635	Barnaby
+22657	Barnaby
+22680	Barnaby
+22822	Gabriel
+22883	Barnaby
+22971	Barnaby
+23165	Barnaby
+23216	Barnaby
+23222	Varden
+23388	Barnaby
+23392	Varden
+23409	Barnaby
+23499	Edward Chester
+23550	Gabriel
+23697	Varden
+23709	Edward
+23747	Barnaby
+23817	Varden
+23940	Varden
+24041	Mr Varden
+24077	Gabriel
+24115	Barnaby
+24171	Barnaby
+24202	Gabriel
+24220	Barnaby
+24239	Edward
+24284	Barnaby
+24310	Edward
+24535	Edward
+24605	Varden
+24777	Varden
+24861	Barnaby
+24916	Edward
+24976	Barnaby
+24988	Barnaby
+25000	Gabriel
+25114	Barnaby
+25256	Barnaby
+25373	Barnaby
+25453	Varden
+25542	Edward
+25557	Mrs Rudge
+25626	Barnaby
+25644	Varden
+25693	Barnaby
+25809	Mary
+25872	Edward
+26006	Barnaby
+26105	Mrs Varden
+26149	Mrs Varden
+26162	Mrs Varden
+26193	Macbeth
+26459	Mrs Varden
+26518	Miggs
+26565	Miggs
+26610	Sim Tappertit
+26763	Gabriel
+26773	Miggs
+26810	Miggs
+26831	Gabriel
+26866	Miggs
+26985	Barnaby
+26990	Miggs
+27015	Miggs
+27071	Varden
+27093	Miggs
+27151	Mrs Varden
+27181	Miggs
+27277	Mrs Varden
+27313	Martha
+27317	Gabriel
+27319	Mrs Varden
+27365	Martha
+27406	Martha
+27424	Mrs Varden
+27443	Varden
+27488	Miggs
+27550	Mrs Varden
+27572	Dolly
+27604	Gabriel
+27638	Mrs Varden
+27674	Miggs
+27763	Mrs Varden
+27786	Miggs
+27989	Mrs Varden
+28043	Martha
+28202	Martha
+28243	Varden
+28286	Varden
+28288	Miggs
+28300	Miggs
+28306	Miggs
+28361	Varden
+28479	Gabriel
+28590	Sim Tappertit
+28617	Sim
+28767	Barnaby
+28783	Sim Tappertit
+29031	Tappertit
+29092	Tappertit
+29149	Tappertit
+29217	Tappertit
+29784	Stagg
+29881	Tappertit
+29980	Mr Tappertit
+30052	Stagg
+30104	Tappertit
+30164	Stagg
+30242	Tappertit
+30253	Stagg
+30320	Tappertit
+30336	Stagg
+30427	Benjamin
+30473	Stagg
+30593	Tappertit
+30720	Tappertit
+30781	Tappertit
+30878	Tappertit
+31053	Tappertit
+31129	Mark Gilbert
+31138	Thomas Curzon
+31149	Curzon
+31157	Curzon
+31168	Curzon
+31204	Curzon
+31223	Curzon
+31293	Tappert
+31310	Curzon
+31397	Tappertit
+31420	Curzon
+31923	Tappertit
+32089	Mr Tappertit
+32204	Tappertit
+32287	Tappertit
+32377	Tappertit
+32421	Stagg
+32442	Mr Tappertit
+32509	Tappertit
+32655	Tappertit
+32720	Mr Tappertit
+32750	Tappertit
+32807	Joseph Willet
+32813	Joe
+32858	Joseph
+33362	Miggs
+33485	Tappertit
+33646	Miggs
+33722	Miggs
+33850	Tappertit
+33976	Miggs
+34053	Miggs
+34117	Miggs
+34171	Sim
+34329	Miggs
+34350	Miggs
+34477	Miggs
+34517	Dolly
+34576	Miggs
+34587	Tappertit
+34613	Miggs
+34659	Miggs
+34716	Miggs
+34779	Tappertit
+34961	Miss Miggs
+34996	Tappertit
+35027	Miggs
+35052	Miggs
+35132	Tappertit
+35141	Sim
+35158	Miggs
+35199	Mr Tappertit
+35221	Miggs
+35268	Tappertit
+35348	Simmun
+35427	Miggs
+35432	Tappertit
+35452	Miggs
+35502	Simmun
+35539	Tappertit
+35547	Miggs
+35577	Tappertit
+35629	Miggs
+35696	Simmun
+35723	Sim
+35797	Miggs
+35815	Tappertit
+35924	Miss Miggs
+36086	John Willet
+36189	John
+36509	John Willet
+36520	John
+36675	John
+36762	John Willet
+36836	John
+36904	Hugh
+36908	John
+36964	Hugh
+37001	Hugh
+37016	-- Hugh
+37140	John
+37201	John
+37284	John
+37385	John Willet
+37804	John
+37900	John Willet
+37908	John
+37980	Warren
+38010	John
+38088	John
+38118	Joe
+38123	Hugh
+38139	Barnaby
+38180	John
+38254	John
+38276	Barnaby
+38453	Warren
+38500	John
+38559	John
+38688	John
+38694	Mrs Rudge
+38707	Barnaby
+38724	John
+38783	Chester
+38796	John
+38906	Barnaby
+38922	Chester
+38928	Geoffrey Haredale
+38932	Barnaby
+38952	John
+38988	John
+39053	John
+39064	Barnaby
+39112	Haredale
+39136	Haredale
+39163	John
+39183	John
+39218	Barnaby
+39228	Chester
+39269	Willet
+39347	Chester
+39349	Barnaby
+39366	Barnaby
+39405	John Willet
+39599	Barnaby
+39782	Willet
+39819	John
+39843	Chester
+39846	John
+39893	John
+39910	John Willet
+39959	Chester
+39965	Haredale
+40020	John
+40041	Barnaby
+40046	Barnaby
+40091	Barnaby
+40097	John Willet
+40148	Barnaby
+40153	John
+40211	John
+40244	Chester
+40318	John Willet
+40414	Mr Willet
+40437	John
+40476	Barnaby
+40576	Barnaby
+40623	Barnaby
+40634	Hugh
+40667	Hugh
+40735	John Willet
+40785	Barnaby
+40894	Barnaby
+40924	John Willet
+40978	Barnaby
+41025	Willet
+41067	Barnaby
+41125	John
+41146	Chester
+41162	Geoffrey Haredale
+41183	Barnaby
+41318	Solomon Daisy
+41325	John
+41487	Barnaby
+41513	Hugh
+41686	Long Parkes
+41691	Hugh
+41718	Solomon
+41724	Haredale
+41738	John Willet
+41799	John
+41831	John
+41883	Parkes
+41895	Johnny
+41922	Willet
+41993	Barnaby
+42047	John
+42101	Joe
+42139	Parkes
+42148	Johnny
+42159	Willet
+42348	Willet
+42365	Willet
+42369	Solomon Daisy
+42394	Chester
+42415	John
+42442	Solomon
+42456	Haredale
+42471	Willet
+42479	Willet
+42510	John
+42549	Solomon
+42556	Parkes
+42562	Parkes
+42633	Barnaby
+42641	John
+42687	Barnaby
+42768	John
+42779	Solomon
+42829	Willet
+42871	Solomon
+42898	Haredale
+42966	Solomon
+43007	John
+43094	Geoffrey
+43178	John
+43184	Hugh
+43186	Hugh
+43201	John
+43215	Haredale
+43263	Willet
+43301	John
+43346	John
+43408	Willet
+43464	Haredale
+43893	Haredale
+43898	Chester
+44023	Chester
+44059	Haredale
+44109	Haredale
+44180	Haredale
+44294	Chester
+44311	Haredale
+44344	Haredale
+44557	Haredale
+44686	Haredale
+44718	Chester
+44739	Ned
+44765	Ned
+44856	Ned
+44889	Haredale
+45014	Mr Haredale
+45060	Emma Haredale
+45216	Haredale
+45297	Chester
+45372	Haredale
+45377	Emma
+45441	Barnaby
+45548	Haredale
+45568	Chester
+45614	Ned
+45619	Chester
+45804	Haredale
+45813	Ned
+45848	Haredale
+45908	Chester
+45913	Haredale
+45979	Mr Haredale
+46135	Haredale
+46189	Haredale
+46313	Chester
+46404	Chester
+46424	John Willet
+46469	John
+46597	Willet
+46606	Hugh
+46608	Barnaby
+46642	John
+46681	Willet
+46791	John
+46815	Willet
+46820	Chester
+46849	John
+46858	Barnaby
+46860	Hugh
+46894	Barnaby
+46907	Hugh
+46970	John
+47059	Chester
+47094	Barnaby
+47114	Barnaby
+47152	Hugh
+47157	Chester
+47179	Barnaby
+47210	John
+47286	John
+47318	Joseph Willet
+47404	Chester
+47460	Joe
+47628	Joe
+47703	John Willet
+47759	Joe
+47783	John
+47856	John
+47873	Hugh
+47903	Hugh
+47907	John
+47949	Hugh
+48008	John
+48053	Joe
+48079	John
+48134	Mr Willet
+48155	Joe
+48185	Mr Willet
+48232	Joe
+48262	Willet
+48313	Joe
+48345	Willet
+48372	Joe
+48391	Varden
+48410	John
+48431	Joe
+48463	John
+48505	Joe
+48533	John
+48558	Joe
+48653	John
+48707	John
+48829	Joe
+48836	Hugh
+48868	John
+48935	Joe
+49076	Warren
+49126	Joe
+49597	Joe
+49714	John Willet
+49894	John
+49914	Dolly Varden
+49917	Joe
+50020	Joe Willet
+50029	Varden
+50057	Joe
+50076	Joe
+50112	Joe
+50127	Joe
+50151	Joe
+50161	Joe
+50178	Dolly
+50188	Gabriel
+50201	Dolly
+50210	Joe
+50230	Mrs Varden
+50233	Joe
+50243	Joe
+50300	Joe
+50329	Gabriel
+50352	Joe
+50393	Martha
+50401	Mr Willet
+50407	Mrs Varden
+50549	Joe
+50614	Mrs Varden
+50636	Joe
+50658	Dolly
+50670	Joseph
+50685	Joe
+50702	Mrs Varden
+50712	Willet
+50754	Varden
+50772	Mrs Varden
+50797	Martha
+50829	Joe
+50847	Miggs
+50862	Mrs Varden
+50874	Varden
+50898	Miggs
+50911	Miggs
+50921	Varden
+50928	Willet
+51009	Miggs
+51046	Mrs Varden
+51098	Miggs
+51139	Mrs Varden
+51191	Miggs
+51262	Mrs Varden
+51274	Dolly
+51328	Varden
+51339	Joseph
+51399	Gabriel
+51417	Mrs Varden
+51422	Joe
+51471	Dolly
+51486	Dolly
+51548	Joe
+51613	Joe
+51684	Joe
+51724	Miggs
+51920	Miggs
+51946	Dolly
+51998	Gabriel
+52012	Mrs Varden
+52076	Miggs
+52099	Miggs
+52103	Mrs Varden
+52148	Martha
+52172	Joe
+52175	Joe
+52188	Varden
+52245	Joseph
+52281	Willet
+52334	Joe
+52391	Dolly
+52470	Joe
+52548	Joe Willet
+52630	Joe
+52695	Joe
+52721	Edward
+52725	Joe
+52774	Joe
+52787	Edward
+52800	Joe
+52874	Joe
+52903	Warren
+52955	Edward
+52988	Joe
+53027	Joe
+53086	Edward Chester
+53216	Edward
+53249	Joe
+53319	Edward
+53347	Joe
+53380	Joe
+53402	Edward
+53544	Edward
+53552	Haredale
+53636	Haredale
+53652	Haredale
+53814	Edward
+53841	Haredale
+53980	Haredale
+53984	Edward
+54153	Edward
+54190	Edward
+54374	Haredale
+54385	Joe
+54430	John
+54446	Hugh
+54497	Willet
+54501	Edward
+54517	John
+54535	Edward
+54547	Joe
+54557	Joe
+54565	Edward
+54587	John
+54613	Haredale
+54636	Willet
+54680	John
+54708	Edward
+54765	John Willet
+54854	Chester
+55496	Ned
+55504	Chester
+55632	Edward
+55637	Ned
+55693	Edward
+55777	Ned
+55791	Edward
+55975	Gad
+55977	Ned
+56095	Ned
+56125	Haredale
+56130	Edward
+56211	Ned
+56264	Edward
+56465	Edward
+56479	Haredale
+56539	Ned
+56641	Ned
+56973	Edward
+57031	Ned
+57104	Edward
+57307	Ned
+57380	Ned
+57421	Edward
+57450	Ned
+57514	Edward
+57520	Ned
+57599	Ned
+57676	Ned
+57726	Ned
+57804	Edward
+57882	Ned
+58067	Edward
+58075	Ned
+58163	Ned
+58251	Ned
+58343	Ned
+58371	Ned
+58489	Ned
+58689	Ned
+58736	Ned
+58929	Edward
+58944	Emma Haredale
+58967	Ned
+59076	Ned
+59123	Ned
+59219	Ned
+59273	Ned
+59357	Chester
+63883	Barnaby
+63952	Barnaby
+64178	Barnaby
+64279	Barnaby
+64333	Barnaby
+64422	Barnaby
+64446	Grip
+64491	Barnaby
+64507	Grip
+64581	Barnaby
+64651	Barnaby
+64677	Hugh
+64691	Grip
+64748	Barnaby
+64930	Barnaby
+65002	Hugh
+65009	Barnaby
+65017	Maypole Hugh
+65239	Hugh
+65431	Barnaby
+65573	Barnaby
+65644	Barnaby
+65718	Barnaby
+65915	Barnaby
+66072	Barnaby
+66103	Barnaby
+66174	Barnaby
+66214	Polly
+66242	Barnaby
+66269	Polly
+66288	Barnaby
+66345	Polly
+66417	Polly
+66429	Polly
+66492	Polly
+67118	Cornhill
+68188	Miggs
+68250	Stagg
+68255	Tappertit
+68287	Stagg
+68348	Mr Tappertit
+68434	Tappertit
+68615	Stagg
+68897	Stagg
+69300	Dolly Varden
+69405	Dolly
+69487	Edward Chester
+69542	Miggs
+69593	Toby
+69602	Mrs Varden
+69613	Sim Tappertit
+69667	Pagan
+69776	Mrs Varden
+69784	Varden
+69796	Sim
+69805	Tappertit
+69826	Sim
+69834	Tappertit
+69874	Edward
+69879	Mrs Varden
+69906	Dolly
+69926	Varden
+69977	Edward
+69999	Mrs Varden
+70021	Warren
+70030	Edward
+70175	Mrs Varden
+70185	Varden
+70288	Martha
+70304	Mrs Varden
+70336	Gabriel
+70394	Varden
+70450	Martha
+70454	Gabriel
+70498	Varden
+70563	Mrs Varden
+70573	Martha
+70596	Varden
+70633	Varden
+70699	Dolly
+70752	Varden
+70815	Mrs Varden
+70850	Edward
+70875	Dolly
+70910	Barnaby
+70914	Grip
+70933	Gabriel
+70938	Edward
+70973	Mrs Varden
+70996	Dolly
+71003	Dolly
+71042	Martha
+71054	Varden
+71085	John
+71129	Mrs Varden
+71154	Martha
+71163	Martha
+71198	Martha
+71202	Gabriel
+71218	Dolly
+71254	Damme
+71281	Miggs
+71289	Mrs Varden
+71345	Gabriel
+71385	Mrs Varden
+71441	Mrs Varden
+71573	Mrs Varden
+71689	Miggs
+71770	Dolly
+71803	Dolly
+71908	Mrs Varden
+71939	Miggs
+71968	Miggs
+72113	Mrs Varden
+72163	Miggs
+72258	Dolly
+72346	Mrs Varden
+72408	Miggs
+72472	Dolly
+72618	Mr Tappettit
+72751	Dolly
+72784	Mrs Varden
+72820	Dolly
+72875	Dolly
+72883	Mrs Varden
+72949	Dolly
+73017	Dolly
+73026	Mrs Varden
+73061	Dolly
+73169	Varden
+73171	Mrs Varden
+73175	Varden
+73270	Mrs Varden
+73383	John
+73389	Joe
+73434	Joe
+73450	Willet
+73473	Dolly
+73479	Joe
+73504	Joe
+73532	Mrs Varden
+73539	Joe
+73557	John
+73570	Mrs Varden
+73624	Joe
+73626	Dolly
+73637	Varden
+73644	John
+73882	Mrs Varden
+73894	John Willet
+73946	John
+74101	Mrs Varden
+74153	Dolly
+74188	Joe
+74305	Dolly
+74334	Haredale
+74379	Emma
+74508	Dolly
+74554	Emma
+74587	Dolly
+74647	Dolly
+74684	Emma
+74715	Dolly
+74730	Edward
+74733	Dolly
+74777	Emma
+74789	Dolly
+74868	Emma
+74888	Dolly
+74941	Haredale
+75003	Dolly
+75096	Dolly
+75183	Emma
+75196	Dolly
+75203	Dolly
+75251	Dolly
+75312	Emma
+75318	Dolly
+75323	Emma
+75329	Dolly
+75394	Haredale
+75400	Dolly
+75409	Dolly
+75432	Emma
+75496	Joe
+75501	Dolly
+75544	Edward
+75553	Dolly Varden
+75567	Dolly
+75606	Haredale
+75610	Dolly
+75682	Haredale
+75714	Dolly
+75757	Haredale
+75784	Emma
+75825	Haredale
+75849	Dolly
+75866	Dolly
+75899	Edward Chester
+75915	Dolly
+75946	Haredale
+75972	Emma
+75987	Dolly
+76082	Haredale
+76137	Dolly
+76177	Haredale
+76257	Dolly
+76310	Haredale
+76339	Dolly
+76351	Emma
+76368	Haredale
+76393	Dolly
+76500	Dolly
+76767	Dolly
+77023	Dolly
+77047	Hugh of
+77049	the Maypole
+77125	Dolly
+77127	Hugh
+77161	Dolly
+77365	Dolly
+77391	Hugh
+77426	Dolly
+77435	Hugh
+77480	Dolly
+77539	Maypole Hugh
+77669	Sweetlips
+77673	Hugh
+77791	Hugh
+77801	Hugh
+78040	Hugh
+78098	Hugh
+78141	Hugh
+78212	Joe
+78215	Joe
+78283	Dolly
+78291	Joe Willet
+78340	Joe
+78347	Dolly
+78381	Joe
+78478	Dolly
+78519	Joe
+78567	Joe
+78582	Joe
+78635	Dolly
+78689	Joe
+78718	Joe
+78739	Dolly
+78777	Dolly
+78798	Joe
+78842	Joe
+78860	Dolly
+78891	Dolly
+78924	Joe
+79004	Dolly
+79047	Dolly
+79056	Joe
+79074	John
+79082	Willet
+79087	Dolly
+79112	Mrs Varden
+79142	Dolly
+79149	Joe
+79168	John
+79294	Joe
+79322	Joe
+79344	Hugh
+79365	Willet
+79394	Joe
+79400	Hugh
+79403	Dolly
+79423	Hugh
+79456	Joe
+79497	Hugh
+79512	Joe
+79601	Hugh
+79640	Dolly
+79660	Hugh
+79666	Willet
+79698	Dolly
+79713	Hugh
+79755	Dolly
+79807	Hugh
+79820	Dolly
+79864	Joe
+79890	Hugh
+79931	Hugh
+79940	Mrs Varden
+79988	Mrs Varden
+80000	Hugh
+80015	Mrs Varden
+80072	Hugh
+80106	Willet
+80164	Mr Willet
+80269	Mrs Varden
+80292	Willet
+80344	Joe
+80375	Dolly
+80407	Joe
+80508	Mrs Varden
+80622	Dolly
+80682	Mrs Varden
+80773	John
+80871	Joe
+80910	Dolly
+80957	Joe
+80963	Dolly
+80994	Dolly
+81014	Joe
+81049	Paul
+81081	Dolly
+81121	Joe
+81203	Dolly
+81224	Joe
+81243	Joe
+81290	Joe
+81298	Dolly
+81312	Joe
+81325	Dolly
+81399	Joe
+81450	Mrs Varden
+81485	Dolly
+81490	Hugh
+81494	Joe
+81538	Joe
+81571	Hugh
+81608	Joe
+81620	Hugh
+81656	Dolly
+81696	Mrs Varden
+81769	Gabriel
+81787	Joe
+81803	Joe
+81838	Mrs Varden
+81867	Joe
+81877	Dolly
+81924	Joe
+81969	Hugh
+82025	Mrs Varden
+82047	Simmun
+82055	Miggs
+82076	Simmun
+82167	Miggs
+82236	Mrs Varden
+82252	Tappertit
+82264	Martha
+82286	Dolly
+82324	Dolly
+82371	Dolly
+82398	Mrs Varden
+82491	Miggs
+82496	Dolly
+82523	Mrs Varden
+82526	Miggs
+82556	Dolly
+82572	Mrs Varden
+82580	Dolly
+82673	Mrs Varden
+82838	Miggs
+82856	Dolly
+83102	Miggs
+83130	Mrs Varden
+83138	Varden
+83186	Dolly
+83202	Mrs Varden
+83268	Miggs
+83297	Tappertit
+83311	Dolly
+83333	Miggs
+83360	Simmun
+83364	Tappertit
+83379	Miggs
+83486	Tappertit
+83513	Dolly
+83517	Miggs
+83539	Joseph Willet
+83563	Tappertit
+83583	Simmun
+83587	Miggs
+83613	Mr Tappertit
+83665	Huff
+83673	Tappertit
+83687	Jezebel
+83705	Miggs
+83758	Joseph Willet
+83794	Dolly Varden
+83804	Tappertit
+83844	Simmun
+83873	Miggs
+83917	Toby
+83939	Mrs Varden
+84067	Chester
+84268	Ned
+84270	Ned
+84318	Edward
+84333	Chesterfield
+84390	Shakespeare
+84399	Milton
+84406	Bacon
+84427	Chesterfield
+84741	Chester
+85210	Hugh
+85325	Hugh
+85349	Hugh
+85361	Chester
+85462	Chester
+85582	Chester
+85669	Hugh
+85681	Chester
+85747	Chester
+85782	Hugh
+85842	Chester
+85874	Hugh
+85922	Dolly
+85953	Chester
+85974	Hugh
+85997	Varden
+86009	Chester
+86075	Hugh
+86098	Chester
+86174	Hugh
+86300	Hugh
+86342	Chester
+86365	Hugh
+86556	Chester
+86601	Hugh
+86774	Chester
+86820	Hugh
+86873	Chester
+86912	Hugh
+87034	Chester
+87086	Hugh
+87228	Hugh
+87252	Chester
+87280	Hugh
+87305	Chester
+87363	Hugh
+87429	Chester
+87507	Hugh
+87593	Hugh
+87690	Hugh
+87746	Hugh
+87785	Hugh
+87863	Hugh
+87959	Hugh
+88003	Chester
+88061	Hugh
+88121	Hugh
+88135	Hugh
+88236	Hugh
+88309	Hugh
+88401	Chester
+88411	Hugh
+88693	Chester
+88770	Chester
+88865	Chester
+89110	Chester
+89247	Chester
+89280	Tappertit
+89334	Tappertit
+89394	Chester
+89437	Tappertit
+89459	Mr Tappertit
+89471	G. Varden
+89473	Locksmith
+89497	Chester
+89520	Tappertit
+89560	Chester
+89625	Tappertit
+89697	Tappertit
+89722	Chester
+89741	Simon Tappertit
+89798	Tappertit
+89809	Chester
+89845	Mr Tappertit
+89851	Chester
+89926	Chester
+89971	Tappertit
+90021	Chester
+90039	Sim Tappertit
+90109	Tappertit
+90144	Tappertit
+90207	Chester
+90247	Tappertit
+90316	Sim
+90331	Tappertit
+90358	Sim
+90486	Tappertit
+90600	Mrs Varden
+90628	Dolly
+90638	Tappertit
+90677	Tappertit
+90693	Sim
+90822	Joseph Willet
+90876	Tappertit
+90912	Tappertit
+90935	Tappertit
+90938	Miggs
+90943	Miggs
+90968	Barnaby Rudge
+90971	Mrs Rudge
+90982	Joseph Willet
+91013	Joseph Willet
+91034	Mr Tappertit
+91108	Mr Chester
+91297	Barnaby
+91329	Barnaby
+92327	Barnaby
+92391	Warren
+92400	Haredale
+92496	Mr Haredale
+92554	Barnaby
+92570	Barnaby
+92593	Haredale
+92612	Polly
+92629	Mary
+92634	Haredale
+92696	Emma
+92742	Mr Haredale
+92838	Haredale
+93192	Haredale
+93256	Emma
+93337	Emma
+93350	Barnaby
+93397	Haredale
+93424	Haredale
+93613	Barnaby
+93740	Haredale
+93886	Haredale
+94152	Haredale
+94216	Mr Haredale
+94449	Haredale
+94530	Haredale
+94690	Haredale
+94838	Haredale
+94851	Emma
+94914	Haredale
+94978	Barnaby
+94981	Grip
+95156	Barnaby
+95194	Haredale
+95227	Barnaby
+95395	Barnaby
+95401	Reuben Haredale
+95466	Barnaby
+95484	Grip
+95553	Joe
+95559	Hugh
+95579	John
+95602	John
+95688	John
+95789	Hugh
+95802	Barnaby
+95891	Varden
+95896	Haredale
+96075	Varden
+96165	Edward Chester
+96190	Haredale
+96264	Gabriel
+96274	Haredale
+96316	Gabriel
+96496	Mr Haredale
+96541	Haredale
+96651	Barnaby
+96722	Varden
+96727	Haredale
+96790	Gabriel
+96972	Mary
+97008	Varden
+97013	Haredale
+97077	Rudge
+97192	Gabriel
+97227	Martha
+97302	Haredale
+97450	Haredale
+97478	Chester
+97568	Haredale
+97606	Chester
+97644	Haredale
+97672	Mrs Rudge
+97676	Barnaby
+97722	Mr Haredale
+97830	Chester
+97861	Haredale
+97873	Gabriel Varden
+97895	Chester
+97911	Ned
+97925	Varden
+97950	Haredale
+97968	Haredale
+97997	Chester
+98028	Haredale
+98076	Haredale
+98164	Haredale
+98206	Columbus
+98296	Haredale
+98315	Chester
+98318	Gabriel Varden
+98345	Chester
+98455	Mr Haredale
+98494	Chester
+98506	Gabriel
+98548	Varden
+98553	Haredale
+98587	Chester
+99006	Tappertit
+99048	Chester
+99064	Tappertit
+99079	Mayor of
+99081	London
+99154	Tappertit
+99182	Sim
+99244	Mrs Varden
+99252	Chester
+99259	Sim
+99285	Chester
+99298	Sim
+99337	Tappertit
+99348	Chester
+99384	Joseph Willet
+99428	Chester
+99435	Ed
+99443	Sim
+99481	Chester
+99516	Varden
+99535	Miggs
+99583	Chester
+99606	Mrs Varden
+99638	Mrs Varden
+99696	Dolly
+99710	Mrs Varden
+99752	Dolly
+99822	Dolly
+99843	Chester
+99897	Gabriel
+99914	Mrs Varden
+99935	Miggs
+99946	Chester
+99965	Miggs
+100007	Miggs
+100012	Mrs Varden
+100074	Miggs
+100087	Mrs Varden
+100100	Miggs
+100171	Chester
+100247	Ned
+100251	Ned
+100254	Mrs Varden
+100275	Mrs Varden
+100281	Chester
+100358	Dolly
+100386	Ned
+100394	Chester
+100462	Ned
+100503	Mrs Varden
+100594	Mrs Varden
+100783	Chester
+100900	Chester
+100946	Dolly
+100960	Tappertit
+100988	Miggs
+100997	Chester
+101016	Tappertit
+101046	Mrs Varden
+101068	Chester
+101128	Mrs Varden
+101150	Chester
+101172	Mrs Varden
+101197	Chester
+101212	Mrs Varden
+101216	Mrs Varden
+101265	Chester
+101360	Mrs Varden
+101508	Mrs Varden
+101523	Chester
+101533	Chester
+101543	Ned
+101587	Mrs Varden
+101616	Chester
+101700	Mrs Varden
+101743	Chester
+101823	Mrs Varden
+101856	Haredale
+101889	Mrs Varden
+101938	Haredale
+102047	Ned
+102058	Mrs Varden
+102122	Ned
+102164	Ned
+102168	Mrs Varden
+102202	Mrs Varden
+102284	Mrs Varden
+102345	Mrs Varden
+102371	Emma
+102397	Chester
+102505	Mrs Varden
+102538	Ned
+102560	Joseph Willet
+102567	Mrs Varden
+102583	Chester
+102588	Joseph Willet
+102620	Mrs Varden
+102659	Ned
+102711	Mrs Rudge
+102724	Mrs Varden
+102743	Mrs Rudge
+102798	Chester
+102864	Mrs Varden
+102936	Edward
+102954	Mrs Varden
+103047	Chester
+103072	Dolly
+103084	Miggs
+103110	Miggs
+103196	Dolly
+103200	Dolly
+103224	Mrs Varden
+103288	Dolly
+103300	Chester
+103304	Miggs
+103361	Mrs Varden
+103383	Dolly
+103439	Mrs Varden
+103462	Chester
+103884	Hugh
+104079	Chester
+104105	Hugh
+104193	Chester
+104283	Chester
+104349	Hugh
+104430	Chester
+104469	Hugh
+104486	Chester
+104548	Hugh
+104572	Chester
+104591	Hugh
+104631	Joe
+104710	Chester
+104727	Varden
+104755	Chester
+104795	Joe
+104851	Chester
+104854	Dolly
+104881	Hugh
+104902	Chester
+104977	Hugh
+105113	Chester
+105129	Hugh
+105232	Hugh
+105281	Chester
+105402	Hugh
+105495	Hugh
+105611	Hugh
+105624	Hugh
+105639	Chester
+105762	Hugh
+105841	Hugh
+106202	Chester
+106525	John Willet
+106600	Hugh
+106616	John
+106680	Chester
+106686	Hugh
+106727	John
+106755	Hugh
+106797	John
+106831	Willet
+106848	Hugh
+106884	Hugh
+106953	Chester
+106982	Willet
+106992	John
+107039	Maypole Hugh
+107053	Willet
+107102	Chester
+107135	John
+107187	Hugh
+107220	Willet
+107305	John
+107364	Chester
+107387	Willet
+107517	Willet
+107554	Willet
+107636	John
+107740	Chester
+107765	John
+107907	Willet
+108024	Willet
+108085	Willet
+108152	Joe
+108194	Chester
+108209	Willet
+108268	Warren
+108351	Haredale
+108481	Haredale
+108529	Haredale
+108778	Edward
+108927	Edward
+109059	Chester
+109080	Ned
+109118	Chester
+109281	Mrs Varden
+109347	Emma
+109380	Chester
+109406	Haredale
+109461	Haredale
+109578	Chester
+109644	Miss Haredale
+109729	Emma
+109757	Chester
+109917	Chester
+109939	Edward
+110262	Haredale
+110380	Haredale
+110560	Haredale
+110646	Ned
+110795	Ned
+110944	Chester
+110965	Chester
+111046	Emma
+111068	Chester
+111220	Haredale
+111295	Chester
+111318	Haredale
+111539	John Willet
+111543	John
+111559	Joe
+111594	Joe
+111601	John
+111622	John
+111717	John
+111755	Willet
+111841	Joe
+111867	Cobb
+111983	John
+111986	John
+112023	Joe Willet
+112041	John
+112054	Chester
+112077	Joe
+112123	Chester
+112140	John
+112150	Joe
+112168	Dolly Varden
+112186	Chester
+112194	Joe
+112209	John
+112230	John
+112296	Joe
+112342	John
+112366	John
+112419	Joe
+112466	Joe
+112491	Dolly
+112531	Solomon Daisy
+112534	Tom Cobb
+112538	Long Parkes
+112563	Willet
+112598	John
+112645	Solomon Daisy
+112656	Johnny
+112661	Johnny
+112667	Willet
+112669	Brayvo
+112674	John
+112759	Johnny
+112782	John
+112829	Willet
+112879	Cobb
+112901	Joe
+112966	Joe
+112993	Willet
+113012	Joe
+113056	Mr Cobb
+113076	Cobb
+113092	Joe
+113097	Joe
+113134	Cobb
+113178	Joe
+113299	Joe
+113357	Joe
+113671	Joe
+113691	Dolly
+113903	Joe
+113971	Joe
+114118	Dolly
+114374	John
+114389	Willet
+114558	Joe
+114585	Joe
+114642	Mr Willet
+114682	Joe
+114708	Joe
+114784	Joe
+114822	Joe
+114871	Willet
+114930	Joe
+115084	Damme
+115110	Joe
+115223	Joe
+115330	Joe
+115338	Joe
+115389	Joe
+115456	Joe
+115527	Joe
+115623	Joe
+115703	Joe
+115851	Joe
+115899	Joe
+115936	Joe
+116014	Joe
+116077	Joe
+116194	Joe
+116248	Dolly Varden
+116288	Whittington
+116361	Joe
+116519	Mrs Varden
+116528	Miggs
+116600	Dolly
+116663	Joe
+116673	Tom Cobb
+116707	Dolly
+116727	Joe
+116738	Dolly
+116793	Joe
+116809	Dolly
+116850	Joe
+116927	Varden
+116974	Dolly
+117018	Joe
+117035	Dolly
+117074	Willet
+117090	Joe
+117146	Joe
+117172	Dolly
+117331	Dolly
+117369	Joe
+117378	Dolly
+117411	Joe
+117419	Dolly
+117422	Dolly
+117585	Dolly
+117602	Dolly
+117671	Joe
+117710	Dolly
+117722	Joseph
+117728	Miggs
+117740	Joe
+117802	Dolly
+117884	Joe Willet
+117999	Tappertit
+118048	Fortun
+118104	Sim
+118136	Willet
+118180	Joseph Willet
+118237	Joe
+118264	Billet
+118525	Joe
+118682	Joseph Willet
+118724	Joe
+118733	Edward Chester
+118823	Edward
+118830	Chester
+118925	Edward
+118930	Chester
+118965	Edward
+118993	Chester
+119049	Ned
+119168	Edward
+119193	Ned
+119201	Chester
+119304	Ned
+119351	Chester
+119464	Ned
+119506	Chester
+119542	Ned
+119558	Edward
+119591	Ned
+119626	Edward
+119938	Ned
+119999	Edward
+120104	Edward
+120196	Edward
+120294	Edward
+120315	Edward
+120423	Edward
+120541	Edward
+120731	Edward
+120805	Edward
+120880	Chester
+120947	Edward
+121815	Willet
+121901	Cobb
+121904	Phil Parkes
+121996	John Willet
+122000	Parkes
+122004	Cobb
+122130	Willet
+122230	Johnny
+122238	Parkes
+122252	Cobb
+122262	Willet
+122307	Cobb
+122310	Parkes
+122394	Cobb
+122429	Willet
+122439	Joseph
+122520	Willet
+122610	Cobb
+122613	Parkes
+122627	John
+122643	Willet
+122735	Willet
+122782	John
+122809	Messrs Parkes
+122812	Cobb
+122828	Solomon
+122855	Parkes
+122932	John
+122955	Parkes
+122982	John
+123010	Parkes
+123022	John
+123041	Willet
+123078	Willet
+123154	Willet
+123183	Messrs Parkes
+123390	Solomon Daisy
+123513	John Willet
+123569	John
+123635	Willet
+123652	Solomon Daisy
+123820	Johnny
+123824	Solomon
+123835	Parkes
+123839	Tommy Cobb
+123878	Parkes
+123895	Willet
+123942	Solomon Daisy
+124028	Solomon
+124087	Tom Cobb
+124101	Solomon Daisy
+124519	John
+124530	Parkes
+124559	Parkes
+124573	Willet
+124614	Parkes
+124629	John Willet
+124633	Solomon
+124760	Tom Cobb
+124834	John
+124886	John
+125098	John Willet
+125115	Parkes
+125117	Tom Cobb
+125130	Willet
+125144	Willet
+125186	John
+125210	Warren
+125234	Solomon
+125281	Willet
+125380	Parkes
+125410	John
+125438	Solomon Daisy
+125539	Solomon Daisy
+125594	John Willet
+125704	Solomon Daisy
+125722	Phil Parkes
+125737	Willet
+125784	John
+125808	Solomon Daisy
+125838	Haredale
+125871	Solomon
+125907	Haredale
+125920	Warren
+125934	John
+126055	Hugh
+126057	Hugh
+126137	John
+126193	John
+126222	Warren
+126233	Hugh
+126275	Willet
+126351	Hugh
+126363	Willet
+126426	Hugh
+126498	Willet
+126538	Hugh
+126574	John
+126613	Hugh
+126632	John Willet
+126741	Willet
+126755	John
+126763	Reuben
+126804	Hugh
+126845	John
+126889	Hugh
+126893	John
+126956	Willet
+127081	Haredale
+127102	John
+127129	Willet
+127149	Haredale
+127191	Willet
+127209	John
+127266	Hugh
+127300	Haredale
+127314	Hugh
+127351	Haredale
+127396	John
+127416	Hugh
+127423	Willet
+127441	John
+127486	Haredale
+127519	Willet
+127548	Haredale
+127567	Hugh
+127610	Haredale
+127613	John
+127645	Willet
+127704	Haredale
+127734	Solomon
+127755	Willet
+127807	Miss Haredale
+127875	John
+127887	Haredale
+127961	John
+127984	Haredale
+128012	Hugh
+128061	Haredale
+128090	John Willet
+128125	Hugh
+128151	John
+128156	Mr Haredale
+128169	Hugh
+128208	John
+128218	Hugh
+128234	Haredale
+128274	John
+128288	Haredale
+128294	Hugh
+128336	Hugh
+128343	Haredale
+128352	John
+128402	John Willet
+128428	Hugh
+128477	John Willet
+128522	Hugh
+128630	Hugh
+128748	Hugh
+128818	John
+128837	Hugh
+128934	John
+129028	John
+129061	Willet
+129126	John
+129154	John
+129251	John
+129420	John Grueby
+129462	George Gordon
+129573	John Grueby
+129630	John Grueby
+129666	Queen Elizabeth
+129715	Mary
+129759	Mary
+129794	Willet
+129982	Gashford
+130088	George Gordon
+130113	John Grueby
+130160	John Grueby
+130169	Gashford
+130195	John
+130217	John
+130240	Hugh
+130257	Willet
+130281	Gashford
+130285	Hugh
+130344	Hugh
+130353	Hugh
+130430	Hugh
+130455	John Grueby
+130471	Hugh
+130508	Hugh
+130520	John Grueby
+130547	Hugh
+130578	John Grueby
+130647	Hugh
+130715	Hugh
+130775	George
+130795	Hugh
+130816	Willet
+131147	Gashford
+131355	John Willet
+131401	John
+131473	John
+131570	John
+131587	Hugh
+131614	John Grueby
+131723	George
+131757	Gashford
+131861	Gashford
+131866	George
+131941	George
+131973	Gashford
+132023	Gashford
+132160	Pope
+132240	George
+132298	George Gordon
+132422	Gashford
+132488	Gashford
+132504	Gashford
+132637	Gashford
+132769	Gashford
+132804	George
+133092	John Grueby
+133172	John Willet
+133175	John Grueby
+133226	Gashford
+133231	John Grueby
+133260	John
+133272	John
+133309	Bloody Mary
+133314	John
+133338	John
+133367	Queen Besses
+133385	John Grueby
+133434	Gordon
+133548	Bloody Mary
+133630	Gashford
+133690	Mary
+133698	Gashford
+133722	John Grueby
+133767	Gashford
+133810	George
+134074	Gashford
+134079	George
+134109	Gashford
+134201	Gashford
+134242	Gashford
+134343	George
+134385	Gashford
+134495	Dennis
+134505	Dennis
+134563	George
+134570	Dennis
+134579	Gashford
+134650	George
+134723	George
+134730	Gashford
+134736	Simon Tappertit
+134798	George
+134805	Gashford
+134868	George Gordon
+134902	Mrs Varden
+134944	Miggs
+134949	George
+135009	Tappertit
+135011	Mrs Varden
+135016	Mrs Varden
+135056	George
+135116	-- Gashford
+135188	Gashford
+135502	George
+135660	Gashford
+135902	George Gordon
+135951	Gashford
+136158	George Gordon
+136577	George Gordon
+136865	Gashford
+136954	George
+136985	Gashford
+137083	Gashford
+137191	Gashford
+137196	George
+137254	George
+137414	George
+137647	George
+137735	John Grueby
+137748	Willet
+137767	John Willet
+137778	George
+137804	John Willet
+137845	John Grueby
+137853	George Gordon
+137862	Willet
+138196	Geordie
+138516	John Grueby
+138705	John Grueby
+138761	George
+138779	Gordon
+138815	Gashford
+138837	John Grueby
+138853	Gashford
+138863	John
+138903	John Grueby
+138939	Gashford
+139144	Dennis
+139202	Dennis
+139212	Muster Gashford
+139267	Muster Gashford
+139327	Muster Gashford
+139406	Dennis
+139424	Muster Gashford
+139479	Dennis
+139532	Gashford
+139544	Dennis
+139576	Muster Gashford
+139587	George
+139599	Gashford
+139656	Muster Gashford
+139808	Muster Gashford
+139825	Gashford
+139884	Dennis
+139913	Dennis
+139922	Dennis
+139954	Mary Jones
+140078	Muster Gashford
+140145	Muster Gashford
+140240	Muster Gashford
+140315	Muster Gashford
+140476	Muster Gashford
+140540	Gashford
+140606	Dennis
+140659	Muster Gashford
+140787	Dennis
+140821	Gashford
+140843	George
+140951	Muster Gashford
+140966	Gashford
+140989	John Grueby
+140997	John
+141014	John
+141018	Gashford
+141033	John
+141071	Hugh
+141099	Hugh
+141136	Hugh
+141164	John
+141175	Dennis
+141186	Hugh
+141189	Grueby
+141222	Hugh
+141302	Gashford
+141348	Hugh
+141354	Dennis
+141395	Mr Dennis
+141443	Hugh
+141487	Hugh
+141519	Gashford
+141558	Muster Gashford
+141577	Hugh
+141673	Dennis
+141738	Muster Gashford
+141743	Dennis
+141787	Hugh
+141811	Muster Gashford
+141868	Dennis
+141879	Hugh
+141905	Hugh
+141910	Popery
+141930	Dennis
+141942	Muster Gashford
+141966	Muster Gashford
+142007	Dennis
+142048	Muster Gashford
+142100	Muster Gashford
+142105	Dennis
+142179	Muster Gashford
+142242	Dennis
+142282	Dennis
+142334	Hugh
+142339	Gashford
+142367	Dennis
+142421	Dennis
+142428	Hugh
+142481	Hugh
+142531	Hugh
+142607	Hugh
+142799	Hugh
+142879	Hugh
+142939	Hugh
+143130	Hugh
+143187	Dennis
+143207	Hugh
+143285	Hugh
+143378	Dennis
+143388	George Gordon
+143400	Hugh
+143442	Hugh
+143488	Hugh
+143585	Mr Tappertit
+143708	Tappertit
+143747	Mark Gilbert
+143756	Thomas Curzon
+143827	George Gordon
+143844	Mr Tappertit
+143894	Dennis
+143928	Tappertit
+143974	Muster Gashford
+144022	Hugh
+144035	Hugh
+144102	Dennis
+144140	Muster Gashford
+144184	Hugh
+144194	Tappertit
+144275	Hugh
+144305	Sim
+144368	Tappertit
+144387	Hugh
+144434	Mr Tappertit
+144461	Hugh
+144492	Tappertit
+144524	Hugh
+144552	Tappertit
+144592	Hugh
+144603	Tappertit
+144614	G. Varden
+144623	Hugh
+144629	D. Varden
+144692	Tappertit
+144702	Hugh
+144720	Tappertit
+144796	Hugh
+144813	Tappertit
+144820	Hugh
+144832	Tappertit
+144857	Hugh
+144881	Tappertit
+144926	Hugh
+144978	Mr Tappertit
+145030	Hugh
+145063	Tappertit
+145123	Tappertit
+145146	Hugh
+145273	Mr Dennis
+145308	Hugh
+145391	Tappertit
+145504	Tappertit
+145538	Tappertit
+145564	Hugh
+145615	Hugh
+145636	Tappertit
+146022	Hugh
+146121	Tappertit
+146163	Hugh
+146180	Tappertit
+146271	Mr Dennis
+146310	Tappertit
+146342	Hugh
+146416	Dennis
+146429	Muster Gashford
+146471	Mr Dennis
+146534	Hugh
+146588	Tappertit
+146595	Dennis
+146633	Tappertit
+146650	Dennis
+146689	Dennis
+146757	Dennis
+146781	Tappertit
+146880	Tappertit
+146952	Mr Tappertit
+146975	Dennis
+147031	Tappertit
+147088	Dennis
+147231	Mr Tappertit
+147253	Dennis
+147258	Jack
+147308	Tappertit
+147339	Bailey
+147343	Dennis
+147394	Hugh
+147427	Tappertit
+147484	Hugh
+147523	Mr Tappertit
+147555	Hugh
+147602	Tappertit
+147634	Hugh
+147663	Hugh
+147697	Mr Tappertit
+147719	Hugh
+147734	Hugh
+147759	Simon
+147799	Miggs
+147823	Miggs
+147871	Hugh
+147877	Dunstan
+148001	Hugh
+148039	Hugh
+148067	John Chester
+148118	John
+148136	Hugh
+148199	John Chester
+148206	Hugh
+148244	Hugh
+148266	John
+148285	John
+148335	John
+148421	John
+148705	John Chester
+148716	John
+148740	John Chester
+148743	Esquire
+148834	John Chester
+148844	John
+148863	John
+148917	Hugh
+148951	John
+148986	John
+149017	Hugh
+149040	John
+149048	Hugh
+149225	Hugh
+149312	Hugh
+149359	Bruin
+149364	John
+149379	Barnaby Rudge
+149459	Hugh
+149525	John
+149614	Hugh
+149866	Hugh
+149879	Hugh
+149930	John
+149969	Dennis
+149973	Dennis
+149980	John
+150029	John
+150055	Hugh
+150071	John
+150104	Hugh
+150121	John
+150139	George
+150143	Hugh
+150250	Chester
+150284	John
+150330	Haredale
+150353	Hugh
+150461	John
+150494	Hugh
+150517	John
+150603	Saville
+150648	Gordon
+150872	Mr Dennis
+151425	Toby
+151603	Gabriel
+151605	Toby
+151641	Gabriel
+151843	Mrs Varden
+151864	Varden
+151882	Martha
+151916	Varden
+151955	Varden
+151980	Martha
+152044	Mrs Varden
+152068	Varden
+152197	Martha
+152258	Dolly
+152272	Mrs Varden
+152329	Miggs
+152416	Mrs Varden
+152453	Gabriel
+152484	Dolly
+152512	Gabriel
+152592	Dolly
+152597	Dolly
+152747	Dolly Varden
+152971	Dolly Varden
+152983	Dolly Varden
+153033	Dolly
+153222	Warren
+153300	Dolly
+153315	Mr Haredale
+153371	Emma
+153396	Dolly
+153430	Emma
+153496	Solomon
+153515	Haredale
+153532	Dolly
+153604	Dolly
+153703	Dolly
+153721	George Gordon
+153760	Miggs
+153904	Miggs
+153922	George
+153982	Mrs Varden
+153987	Mrs Varden
+154081	Varden
+154125	Dolly
+154197	Miggs
+154233	Miggs
+154276	Miggs
+154338	Mrs Varden
+154414	Miggs
+154418	Mrs Varden
+154445	Miggs
+154668	Varden
+154783	Miggs
+154807	Gabriel
+154986	Miggs
+155016	Varden
+155039	Dolly
+155090	Dolly
+155101	Miss Miggs
+155125	Gabriel
+155168	Mrs Varden
+155173	Dolly
+155201	Varden
+155246	Mrs Varden
+155350	Dolly
+155411	Mrs Varden
+155429	Miggs
+155471	Dolly
+155507	Gabriel
+155515	Joe Willet
+155520	Joe
+155531	Joe
+155549	Dolly
+155576	Joe
+155613	John
+155662	Dolly
+155679	Willet
+155681	Varden
+155706	Miggs
+155719	Martha
+155762	Mrs Varden
+155766	Miggs
+155801	Joe
+155820	Martha
+155823	Mrs Varden
+155830	Miggs
+155842	Martha
+155924	Dolly
+155930	Joe
+155944	Joe
+155974	Gabriel
+155989	Dolly
+156066	Miggs
+156087	Dolly
+156109	Dolly
+156153	Gabriel
+156161	Edward
+156182	Mrs Varden
+156378	Serjeant Varden
+156540	Haredale
+156602	Haredale
+156636	Simon Tappertit
+156648	Haredale
+156685	Gabriel
+156699	Varden
+156704	Haredale
+156793	Barnaby
+156957	Varden
+156965	Mr Haredale
+157071	Gabriel
+157104	Mr Haredale
+157191	Haredale
+157225	Varden
+157286	Mrs Rudge
+157407	Emma
+157496	Edward Chester
+157506	Mrs Rudge
+157550	Hugh
+157620	Haredale
+157656	Gabriel
+157687	Haredale
+157703	Varden
+157724	Haredale
+157806	Gabriel
+157852	Haredale
+157878	Haredale
+157925	Gabriel
+158118	Barnaby
+158217	Haredale
+158259	Gabriel
+158287	Gabriel
+158359	Mrs Varden
+158369	Dolly
+158403	Toby
+158415	Miggs
+158449	Haredale
+158569	Haredale
+158644	Mr Haredale
+159601	Haredale
+159803	Haredale
+159866	Haredale
+159887	Gad
+159934	Haredale
+159982	John
+160035	Haredale
+160061	John
+160087	John
+160156	Haredale
+160192	Gashford
+160196	Haredale
+160289	John Chester
+160327	Haredale
+160331	Gashford
+160391	Haredale
+160433	Gashford
+160460	John
+160483	Haredale
+160534	Omer
+160588	John
+160592	Mr Haredale
+160701	Gashford
+160769	John
+160794	John
+160798	Gashford
+160817	John
+160833	Haredale
+160837	Haredale
+160869	Haredale
+160919	John
+161054	John
+161059	Haredale
+161132	John
+161157	Gashford
+161179	John
+161214	Haredale
+161266	George Gordon
+161308	Haredale
+161350	George
+161561	John
+161565	Haredale
+161569	George
+161625	Gashford
+161633	John
+161656	Haredale
+161659	George
+161664	John Chester
+161700	Gashford
+161705	Haredale
+161710	George Gordon
+161797	George
+161842	Haredale
+161945	Gashford
+161983	John
+162038	George
+162067	Mr Haredale
+162240	John
+162245	Haredale
+162251	Gashford
+162279	John
+162311	John
+162332	Haredale
+162428	John Chester
+162448	John
+162562	Gashford
+162589	Haredale
+162633	George Gordon
+162682	John Chester
+162707	Haredale
+162855	Haredale
+163063	Gashford
+163110	John
+163150	John
+163202	John
+163229	Haredale
+163301	John
+163304	George
+163445	Bloody Mary
+163463	Haredale
+163491	John Grueby
+163495	John
+163562	John
+163573	George
+163722	Gashford
+163913	Martin
+164335	Muster Gashford
+164372	Muster Gashford
+164381	Gashford
+164424	Hugh
+164428	Dennis
+164475	Muster Gashford
+164510	Muster Gashford
+164531	Hugh
+164551	Dennis
+164580	Hugh
+164653	Hugh
+164676	Dennis
+164736	Dennis
+164754	Hugh
+164793	Dennis
+164817	Muster Gashford
+164856	Hugh
+164873	Muster Gashford
+164955	Hugh
+164997	Dennis
+165082	Dennis
+165089	Gashford
+165099	Dennis
+165114	Muster Gashford
+165152	Dennis
+165166	Hugh
+165169	Dennis
+165220	Harry
+165224	Dennis
+165237	Muster Gashford
+165258	Muster Gashford
+165313	Dennis
+165324	Hugh
+165369	Dennis
+165467	Muster Gashford
+165718	Gashford
+165737	Hugh
+165762	Gashford
+165783	Dennis
+165848	Dennis
+165874	Hugh
+165889	Muster Gashford
+165925	Hugh
+166114	Barnaby
+166247	Barnaby
+166579	Barnaby
+166610	Grip
+166682	Barnaby
+167033	Barnaby
+167212	Barnaby
+167259	Barnaby
+167381	Barnaby
+167511	Barnaby
+167622	Barnaby
+167980	Barnaby
+168357	Barnaby
+168435	Barnaby
+168522	Barnaby
+168789	Barnaby
+168842	Barnaby
+169437	Stagg
+170920	Barnaby
+170927	Barnaby
+171028	Barnaby
+171084	Barnaby
+171124	Barnaby
+171158	Barnaby
+171221	-- Nay
+171300	Barnaby
+171597	Barnaby
+171635	Barnaby
+171743	Barnaby
+171848	Stagg
+171866	Barnaby
+171952	Stagg
+172742	Stagg
+173023	Barnaby
+173107	Barnaby
+173196	Barnaby
+173385	Barnaby
+173404	Grip
+173453	Barnaby
+173563	Barnaby
+173805	Barnaby
+174121	Barnaby
+174464	Barnaby
+174498	Polly
+174531	Barnaby
+174662	Barnaby
+174668	Grip
+174749	Barnaby
+174793	Barnaby
+174871	Barnaby
+174893	Barnaby
+175097	John Bull
+175384	Barnaby
+175768	Barnaby
+175822	Grip
+175875	Barnaby
+175928	Barnaby
+176223	Barnaby
+176312	Simon
+176564	John Bull
+176613	Barnaby
+176693	Barnaby
+176785	Barnaby
+176893	Barnaby
+177140	Barnaby
+177217	Barnaby
+177957	George Gordon
+177976	God
+178069	Barnaby
+178110	George
+178154	George
+178215	Barnaby
+178291	Barnaby
+178424	Barnaby
+178527	Barnaby
+178569	St George
+178602	Barnaby
+178641	Barnaby
+178717	Barnaby
+178778	George Gordon
+178796	Gashford
+178801	George
+178804	Barnaby
+178878	Barnaby
+178902	Gashford
+178987	George
+179011	Gashford
+179113	Gashford
+179258	George
+179313	Gashford
+179344	George
+179468	Barnaby
+179514	George
+179537	Barnaby
+179564	George
+179594	Barnaby
+179763	George Gordon
+180026	George
+180191	Gashford
+180247	Gashford
+180270	Barnaby
+180404	George Gordon
+180602	George
+180616	Barnaby
+180646	George
+180710	Barnaby
+180728	Barnaby Rudge
+180744	Barnaby
+180802	Hugh
+180806	Hugh
+180816	Hugh
+180818	Maypole Hugh
+180870	George
+180930	Barnaby Rudge
+180935	Hugh
+180950	Barnaby
+180962	Dennis
+181016	Barnaby
+181028	Barnaby
+181030	Barnaby
+181041	Hugh
+181069	Simon Tappertit
+181096	Hugh
+181147	Simon
+181177	Barnaby
+181360	George Gordon
+181367	Gashford
+181458	Simon Tappertit
+181476	Dennis
+181480	Hugh
+181580	Hugh
+181604	Barnaby
+181707	Hugh
+181744	Barnaby
+181748	Barnaby
+181779	Barnaby
+181814	Barnaby
+181870	Barnaby
+181890	Barnaby
+181905	Hugh
+181930	Barnaby
+181946	Barnaby
+181969	Dennis
+182020	Hugh
+182024	Barnaby
+182096	Dennis
+182126	Hugh
+182146	Dennis
+182188	Dennis
+182234	Barnaby
+182240	Hugh
+182342	Barnaby
+182366	Hugh
+182382	Hugh
+182388	Dennis
+182408	Barnaby
+182417	Hugh
+182498	Barnaby
+182535	Hugh
+182551	Hugh
+182565	Barnaby
+182588	Barnaby
+182613	Dennis
+182687	Dennis
+182703	Barnaby
+182708	Hugh
+182818	Hugh
+182820	Dennis
+182832	Barnaby
+183369	George
+183672	George
+183710	Barnaby
+183712	Hugh
+183715	Dennis
+183802	George
+183813	Gashford
+183903	Hugh
+183921	George
+183948	Gashford
+183999	George
+184237	His Majesty
+184335	George
+184375	Conway
+184497	George
+184523	Gordon
+184694	Gashford
+184696	Hugh
+184703	Hugh
+184816	Barnaby
+184977	Barnaby
+184979	Hugh
+185148	Barnaby
+185150	Hugh
+185160	Barnaby
+185237	Barnaby
+185244	George Gordon
+185399	Barnaby
+185401	Hugh
+185495	Barnaby
+185530	Hugh
+185587	Barnaby
+185652	Hugh
+185778	Hugh
+185811	Barnaby
+185873	Barnaby
+185988	Hugh
+186048	Simon Tappertit
+186052	Dennis
+186064	Barnaby
+186087	Dennis
+186183	Mr Tappertit
+186397	Simon Tappertit
+186459	Hugh
+186461	Barnaby
+186482	Mr Dennis
+186764	Dennis
+186766	Hugh
+186769	Barnaby
+186785	Gashford
+186817	Muster Gashford
+186821	Dennis
+186884	Hugh
+186916	Muster Gashford
+186921	Dennis
+187122	Hugh
+187133	Dennis
+187214	Hugh
+187346	Hugh
+187351	Muster Gashford
+187356	Dennis
+187403	Gashford
+187423	Hugh
+187473	Barnaby
+187540	Hugh
+187548	Dennis
+187550	Barnaby
+187565	Gashford
+187586	Hugh
+187627	Gashford
+187672	Dennis
+187690	Muster Gashford
+187694	Hugh
+187747	Dennis
+187770	Hugh
+187779	Barnaby
+187795	Barnaby
+187816	Gashford
+187912	Lincoln
+187950	Hugh
+187958	Barnaby
+188151	George Gordon
+188273	Gashford
+188314	Holborn
+188518	Barnaby
+188520	Hugh
+188523	Dennis
+188873	Gashford
+189204	Mary
+189218	Gabriel Varden
+189226	Miggs
+189314	Miggs
+189502	Miggs
+189525	Miggs
+189601	Miggs
+189658	Mrs Varden
+189668	Miggs
+190036	Miggs
+190064	Simmuns
+190076	Gabriel
+190090	Gabriel
+190299	Simon
+190351	Tappertit
+190434	Martha
+190530	Tappertit
+190598	Martha
+190635	Mrs Varden
+190642	Simon
+190680	Miggs
+190701	G. Varden
+190706	Simon
+190789	Mrs Varden
+190802	G. Varden
+190976	Varden
+191097	Miggs
+191113	Simon
+191131	Tappertit
+191183	Sim
+191200	Miggs
+191223	Tappertit
+191326	Tappertit
+191357	Mrs Varden
+191459	GEORGE GORDON
+191585	Sim
+191617	G. Varden
+191636	Miggs
+191694	Mr Tappertit
+191714	Miggs
+191733	Miggs
+191772	Simon
+191945	Simon
+191957	Miggs
+192068	Varden
+192072	Simon Tappertit
+192141	Simon
+192189	Miggs
+192191	Mrs Varden
+192203	Varden
+192327	Simon Tappertit
+192450	Sim
+192490	Simon
+192500	Gabriel Varden
+192519	Simon
+192599	Sim
+192674	Mrs Varden
+192679	Miggs
+192688	Mrs Varden
+192695	Miggs
+192772	Mrs Varden
+192875	Mrs Varden
+192909	Varden
+193081	Varden
+193175	Mrs Varden
+193354	Martha
+193471	Varden
+193481	Miggs
+194012	Dennis
+194047	Hugh
+194054	Muster Gashford
+194093	Hugh
+194151	Dennis
+194224	Hugh
+194278	Dennis
+194300	Hugh
+194396	Mr Dennis
+194570	Barnaby
+194685	Hugh
+194789	Hugh
+194807	Barnaby
+194865	Dennis
+194895	Hugh
+194934	Dennis
+194938	Simon Tappertit
+194962	Hugh
+194996	Dennis
+195037	Muster Gashford
+195055	Dennis
+195069	Hugh
+195080	Dennis
+195133	Hugh
+195161	Dennis
+195245	Barnaby
+195257	Hugh
+195342	George
+195409	Dennis
+195433	Hugh
+195549	Tappertit
+195589	Hugh
+195688	Dennis
+195755	Barnaby
+195950	Hugh
+195952	Barnaby
+196324	Gashford
+196355	Hugh
+196374	Gashford
+196390	Hugh
+196418	Gashford
+196478	Hugh
+196514	Barnaby
+197244	Barnaby
+197246	Dennis
+197251	Hugh
+197257	Barnaby
+197277	Dennis
+197300	Dennis
+197329	Dennis
+197333	Gashford
+197350	Dennis
+197361	Muster Gashford
+197421	Dennis
+197452	Muster Gashford
+197486	Gashford
+197503	Dennis
+197539	Muster Gashford
+197560	Muster Gashford
+197588	Dennis
+197616	Dennis
+197646	Barnaby
+197659	Barnaby
+197669	Muster Gashford
+197693	Barnaby
+197770	Hugh
+197825	Hugh
+197851	Hugh
+197882	Barnaby
+197897	Hugh
+197933	Hugh
+198018	Hugh
+198071	Gashford
+198137	Hugh
+198146	Hugh
+198193	Hugh
+198223	Gashford
+198284	Hugh
+198309	Gashford
+198347	Hugh
+198380	Gashford
+198427	Hugh
+198434	Dennis
+198546	Hugh
+198565	Barnaby
+198576	Barnaby
+198580	Hugh
+198623	Dennis
+198642	Barnaby
+198703	Barnaby
+198755	Hugh
+198785	Hugh
+198811	Gashford
+198846	Hugh
+198849	Dennis
+198942	Gashford
+198956	Hugh
+199069	Hugh
+199116	Nick
+199141	Gashford
+199209	Hugh
+199226	Gashford
+199240	Hugh
+199245	Dennis
+199253	Muster Gashford
+199261	Gashford
+199324	Dennis
+199437	Dennis
+199443	Hugh
+199488	Gashford
+199514	Hugh
+199524	Barnaby
+199562	Gashford
+199668	George Gordon
+199836	Chelsea
+200031	Simon Tappertit
+200034	Hugh
+200037	Dennis
+200075	Hugh
+200102	Gashford
+200126	John Chester
+200190	Gashford
+200195	Hugh
+200220	John
+200306	John
+200774	Willet
+200831	Gashford
+200838	John
+200900	Willet
+200905	Solomon Daisy
+200948	Johnny
+200952	Solomon
+200980	Johnny
+200988	Cobb
+200991	Parkes
+201005	Johnny
+201022	Willet
+201090	Willet
+201126	Johnny
+201130	Parkes
+201146	Willet
+201180	King George
+201212	Johnny
+201229	Parkes
+201239	John
+201278	Parkes
+201332	Willet
+201365	Messrs Cobb
+201368	Daisy
+201375	Parkes
+201398	Haredale
+201412	John
+201460	Solomon Daisy
+201537	Willet
+201567	Solomon
+201619	Johnny
+201733	John Willet
+202060	John Willet
+202126	Willet
+202215	John Willet
+202429	Jack
+202437	Willet
+202446	Hugh
+202468	Hugh
+202480	Jack
+202503	Jack
+202506	John
+202530	Hugh
+202548	John
+202561	John
+203008	John
+203016	Hugh
+203052	Tappertit
+203069	John Willet
+203075	Hugh
+203085	John
+203110	Hugh
+203158	Hugh
+203195	John
+203306	Dennis
+203314	Jack
+203318	Hugh
+203349	John Willet
+203389	Jack
+203398	Hugh
+203455	Hugh
+203461	John
+203466	Willet
+203523	Hugh
+203549	Dennis
+203561	Dennis
+203603	Hugh
+203617	Dennis
+203675	Hugh
+203721	Dennis
+203768	Hugh
+203778	Dennis
+203803	Hugh
+203823	Hugh
+203842	John
+203858	Dennis
+203878	Hugh
+203898	John Willet
+203997	Hugh
+204063	Warren
+204067	Dennis
+204106	Hugh
+204178	John Willet
+204205	John Willet
+204431	John
+204563	John
+204734	John
+204766	John
+204838	John
+204845	John
+204866	John
+204900	Willet
+204971	John
+205041	John
+205078	John
+205221	John
+205231	Willet
+205309	Willet
+206104	Warren
+206504	Hugh
+206515	Haredale
+206522	John Willet
+207463	Hugh
+207488	Hugh
+208269	George Saville
+208291	George
+209062	Haredale
+209073	Daisy
+209118	Haredale
+209282	Haredale
+209490	Haredale
+209493	Daisy
+209503	Willet
+209505	Willet
+209514	Willet
+209629	Johnny
+209631	Johnny
+209635	Solomon
+209653	Johnny
+209679	Warren
+209682	Johnny
+209685	Haredale
+209689	Johnny
+209702	Haredale
+209710	Solomon Daisy
+209720	Willet
+209732	Solomon
+209737	John
+209768	Solomon
+209773	John
+209812	Johnny
+209844	Johnny
+209848	Willet
+209900	Johnny
+209918	Johnny
+209928	Willet
+209972	Johnny
+209976	Solomon
+209985	Willet
+210000	John
+210035	Solomon Daisy
+210118	Johnny
+210157	John
+210165	Haredale
+210212	John Willet
+210215	John Willet
+210249	Johnny
+210268	Willet
+210291	Johnny
+210310	Haredale
+210370	Emma
+210379	Willet
+210413	Haredale
+210450	Daisy
+210460	John
+210497	Willet
+210502	Haredale
+210504	Solomon
+210530	John
+210617	Solomon Daisy
+210658	Willet
+210706	Haredale
+210770	Solomon
+210835	Solomon
+210929	Haredale
+211167	Solomon
+211280	Solomon
+211292	Haredale
+211481	Solomon
+211512	Haredale
+211705	Haredale
+211776	Rudge
+211837	Barnaby
+212022	Hugh
+212169	Barnaby
+212223	Barnaby
+212243	Grip
+212296	Hugh
+212312	Barnaby
+212392	Barnaby
+212439	Barnaby
+212632	Grip Grip
+212634	Grip
+212659	Gordon
+212667	Barnaby
+212703	Barnaby
+212775	Barnaby
+212892	George Gordon
+212916	George
+212945	Barnaby
+212973	George
+213061	George
+213101	Barnaby
+213162	Barnaby
+213172	George
+213282	George
+213291	George
+213302	Barnaby
+213321	John
+213324	John Grueby
+213360	John
+213395	George
+213405	John
+213455	John Grueby
+213564	John
+213599	John
+213603	Gashford
+213614	George
+213647	Gashford
+213657	John
+213686	George
+213698	Gashford
+213794	Gashford
+213861	George
+213893	John Grueby
+213966	George
+213969	Barnaby
+214019	John
+214094	Barnaby
+214113	Gordon
+214128	George
+214181	Barnaby
+214197	George
+214250	George
+214298	John
+214317	Barnaby
+214334	Barnaby
+214382	Barnaby
+214591	Barnaby
+214833	Barnaby
+214923	Barnaby
+215004	Barnaby
+215090	Barnaby
+215152	Barnaby
+215217	Barnaby
+215499	Hugh
+216194	Barnaby
+216333	Barnaby
+216721	Barnaby
+216816	Barnaby
+216913	Barnaby
+217019	Hugh
+217093	Damme
+217176	Tom Green
+217372	Damme
+217396	John Fielding
+217420	Mark
+217523	Barnaby
+217658	Barnaby
+217730	Barnaby
+217867	Tom Green
+217965	Damme
+218014	Barnaby
+218038	Grip
+218176	Barnaby
+218272	Barnaby
+218867	Hugh
+218881	Hugh
+219226	Grip
+219267	Hugh
+219287	Warren
+219672	Tappertit
+219674	Dennis
+219694	Hugh
+219731	Simon
+219750	Hugh
+219792	Hugh
+219950	Dennis
+219988	Hugh
+220083	Dennis
+220122	Hugh
+220167	Dennis
+220188	Hugh
+220236	Simon Tappertit
+220332	Simon
+220359	Hugh
+220391	Barnaby
+220410	Barnaby
+220418	Barnaby
+220452	Tappertit
+220498	Hugh
+220516	Tappertit
+220740	Mr Tappertit
+220772	Hugh
+220867	Tappertit
+220916	Hugh
+220988	Dolly
+221053	Emma Haredale
+221145	Dolly
+221151	Dolly
+221167	Dolly
+221207	Haredale
+221218	Dolly
+221252	Dolly
+221459	Dolly
+221472	Joe
+221521	Joe
+221734	Hugh
+221885	Dolly
+221973	Hugh
+221986	Haredale
+222011	Dennis
+222051	Hugh
+222142	Hugh
+222145	Dolly
+222203	Dolly
+222217	Haredale
+222224	Hugh
+222434	Emma Haredale
+222454	Hugh
+222456	Not Dennis
+222472	Mr Dennis
+222545	Emma
+222560	Dennis
+222622	Hugh
+222629	Dolly
+222641	Dennis
+222677	Emma
+222709	Dennis
+222754	Hugh
+222805	Dennis
+222822	Hugh
+223006	Dennis
+223099	Hugh
+223122	Tappertit
+223130	Dolly
+223158	Dolly
+223178	Sim
+223187	Simon Tappertit
+223253	Hugh
+223255	Dennis
+223279	Haredale
+223283	Sim
+223304	Dolly Varden
+223361	Simon
+223456	Dolly V.
+223460	Dolly V.
+223511	S. Tappertit
+223529	Dolly
+223557	Simon
+223565	Dolly
+223618	Hugh
+223642	Simon
+223687	Hugh
+223700	Tappertit
+223759	Haredale
+223788	Simon
+223811	Hugh
+223833	Simon
+223844	Hugh
+223878	Tappertit
+224033	Hugh
+224035	Dennis
+224088	Dennis
+224104	Muster Gashford
+224123	Hugh
+224174	Dennis
+224261	Dennis
+224316	Hugh
+224328	Dennis
+224339	Hugh
+224361	Simon Tappertit
+224378	Hugh
+224382	Sim
+224400	Dennis
+224455	Sim
+224483	Hugh
+224489	Miggs
+224514	Hugh
+224693	Hugh
+224704	Simon Tappertit
+224757	Dennis
+224846	Hugh
+224953	Hugh
+225070	Barnaby
+225131	Hugh
+225137	Barnaby
+225188	Barnaby
+225231	Hugh
+225583	Hugh
+225648	Hugh
+225678	Warren
+225704	Hugh
+225740	Hugh
+225758	Barnaby
+225820	Hugh
+225826	Hugh
+225837	Hugh
+225932	Hugh
+225950	Hugh
+225977	Barnaby
+226040	Hugh
+226096	Hugh
+226140	Hugh
+226247	Hugh
+226386	Hugh
+226388	Dennis
+226477	Hugh
+226541	Barnaby
+226636	Mr Haredale
+226855	Mr Haredale
+227226	Haredale
+227281	Haredale
+227326	Warren
+227427	Catholic
+227758	Mr Haredale
+227804	Haredale
+227895	Haredale
+227994	Haredale
+228676	Haredale
+228825	Mr Haredale
+229016	Haredale
+229107	Haredale
+229128	Mayor
+229203	Haredale
+229305	Langdale
+229316	Holborn Hill
+229331	Haredale
+229353	John Fielding
+229445	John
+229471	Haredale
+229623	Mr Haredale
+229738	Haredale
+230231	Rudge
+230522	Chigwell
+232114	Rudge
+232568	Barnaby
+232617	Barnaby
+233205	Stagg
+233813	Barnaby
+233929	Barnaby
+234052	Grip
+235201	Hugh
+235203	Dennis
+235206	Simon Tappertit
+235234	Holborn
+235277	Hugh
+235396	Hugh
+235527	Hugh
+235552	Hugh
+235703	Hugh
+235771	Miggs
+235797	Simmuns
+235809	Simmun
+235817	Tappertit
+235878	Simmun
+235892	Tappertit
+235903	-- G.
+235905	Varden
+235932	Simmun
+235988	Simmun
+236073	Simmun
+236193	Miggs
+236325	Gabriel
+236333	Hugh
+236335	Dennis
+236345	Simon Tappertit
+236437	Mr Dennis
+236588	Hugh
+236591	Varden
+236677	Dennis
+236893	Dennis
+236988	Gabriel
+237231	Hugh
+237262	Simon Tappertit
+237286	Gabriel
+237309	Varden
+237313	Sim
+237356	Simon
+237489	Simon Tappertit
+237507	Hugh
+237729	Simon Tappertit
+237884	Tappertit
+237928	Tappertit
+237962	Miggs
+237990	Tappertit
+238028	Miggs
+238049	Simon
+238121	Tappertit
+238478	Hugh
+238484	Akerman
+238502	Dennis
+238505	Hugh
+238619	Hugh
+238666	Hugh
+238688	Akerman
+238759	Akerman
+238763	Gabriel
+238767	Akerman
+238807	Gabriel
+238817	Akerman
+238823	Gabriel Varden
+238879	Mr Akerman
+238936	Akerman
+238998	Varden
+239121	Hugh
+239215	Varden
+239225	George
+239275	Gabriel Varden
+239467	Dennis
+239767	Hugh
+239824	Barnaby
+241965	Hugh
+243790	Barnaby
+244253	Mr Dennis
+244310	Dennis
+244329	Dennis
+244562	Dennis
+244686	Dennis
+244715	Dennis
+244991	Dennis
+245105	Bailey
+245124	Dennis
+245756	Hugh
+245770	Dennis
+245810	Dennis
+245825	Hugh
+245884	Hugh
+245935	Hugh
+246015	Hugh
+246194	Hugh
+246218	Hugh
+246968	Mr Haredale
+247357	Haredale
+247519	Haredale
+247951	John Grueby
+248022	Haredale
+248031	John
+248076	George Gordon
+248129	John
+248195	John Grueby
+248218	Haredale
+248450	John
+248639	John Grueby
+248774	Holborn
+248956	Mansfield
+248999	Mansfield
+249021	Lady Mansfield
+249370	Mansfield
+249420	Mansfield
+249523	John Fielding
+249836	Haredale
+249927	Haredale
+250203	Law
+250349	Cornhill
+251201	Holborn
+251213	Mansfield
+251707	Algernon Percy
+252386	Ludgate Hill
+252440	Holborn
+252649	Hugh
+252795	Paul
+253080	Haredale
+253167	Hugh
+253312	Haredale
+253317	Hugh
+253362	Mr Haredale
+253390	Hugh
+253548	Haredale
+253791	Haredale
+254161	Haredale
+254165	Edward Chester
+254179	Joe Willet
+254186	Joe
+254248	Joe
+254337	Joe
+254343	Haredale
+254362	Edward Chester
+254376	Joe
+254384	Edward
+254395	Haredale
+254455	Haredale
+254463	Joe
+254553	Joe
+254637	Edward
+254645	Joe
+254670	Joe
+254694	Haredale
+254715	Haredale
+254775	John Grueby
+254812	John
+254950	Joe
+254954	Haredale
+254958	Edward
+255020	Joe
+255033	Barnaby
+255128	Barnaby
+255161	Hugh
+255235	Barnaby
+255464	Barnaby
+256151	Hugh
+256230	Hugh
+256290	Hugh
+256330	Hugh
+256350	Barnaby
+256372	Hugh
+256388	Barnaby
+256450	Barnaby
+256502	Hugh
+256532	Dennis
+256536	Hugh
+256545	Barnaby
+256651	Barnaby
+256698	Barnaby
+257362	Barnaby
+257419	Hugh
+257477	Barnaby
+257534	Hugh
+257555	Barnaby
+257601	Barnaby
+257622	Barnaby
+257701	Hugh
+257703	Hugh
+257706	Hugh
+257724	Hugh
+257737	Hugh
+257757	Barnaby
+257902	Hugh
+257905	Hugh
+258176	Barnaby
+258219	Hugh
+258230	Barnaby
+258533	Hugh
+258639	Barnaby
+258738	Barnaby
+258896	Barnaby
+258960	Hugh
+259089	Barnaby
+259229	Hugh
+259247	Barnaby
+259282	Hugh
+259320	Stagg
+260122	Hugh
+260124	Barnaby
+260144	Hugh
+260223	Hugh
+260255	Dennis
+260277	Hugh
+260303	Barnaby
+260313	Barnaby
+260509	Mr Dennis
+260548	Hugh
+260565	Dennis
+260658	Hugh
+260717	Dennis
+260721	Hugh
+260808	Hugh
+260827	Mr Dennis
+260859	Ned Dennis
+260890	Hugh
+260934	Dennis
+260999	Hugh
+261013	Barnaby
+261034	Barnaby
+261038	Dennis
+261042	Hugh
+261098	Hugh
+261139	Dennis
+261200	Hugh
+261323	Barnaby
+261718	Dennis
+261738	Dennis
+261798	Dennis
+261841	Dennis
+261874	Damme
+262044	Barnaby
+262063	Hugh
+262108	Hugh
+262112	Barnaby
+262230	Dennis
+262286	Dolly
+262297	Miggs
+262306	Simon Tappertit
+262335	Dennis
+262451	Dennis
+262561	Mr Dennis
+262748	Dennis
+262769	Haredale
+262891	Hugh
+262894	Tappertit
+262917	Dolly
+262920	Haredale
+262931	Miggs
+263011	Dennis
+263046	Miss Miggs
+263160	Dennis
+263192	Miggs
+263305	Dolly
+263427	Miggs
+263445	Dennis
+263476	Miggs
+263487	Simmuns
+263496	Dennis
+263521	Dolly
+263534	Mr Dennis
+263557	Miggs
+263697	Miggs
+263730	Dennis
+263746	Miggs
+263809	Dolly
+263812	Haredale
+263878	Dennis
+263927	Simmuns
+263935	Dennis
+263979	Dennis
+263982	Dolly
+264005	Miggs
+264077	Dennis
+264120	Miggs
+264130	Dennis
+264162	Miggs
+264183	Simmuns
+264198	Dolly
+264223	Simmun
+264258	Simmun
+264391	Dennis
+264420	Mr Dennis
+264480	Miggs
+264506	Dennis
+264527	Muster Gashford
+264531	Miggs
+264542	Haredale
+264569	Hugh
+264572	Tappertit
+264601	Dennis
+264652	Dolly
+264655	Miggs
+264683	Dennis
+264820	Miggs
+264828	Dolly
+264999	Dolly
+265040	Miggs
+265090	Dennis
+265172	Miggs
+265271	Dennis
+265287	Miggs
+265330	Dolly
+265352	Miggs
+265404	Emma Haredale
+265407	Dolly
+265410	Miggs
+265738	Emma
+265752	Dolly
+265777	Hugh
+265780	Tappertit
+265858	Dolly Varden
+265866	Dolly
+265933	Emma Haredale
+266034	Dolly
+266066	Dolly
+266072	Emma
+266104	Dolly
+266263	Miss Miggs
+266381	Emma
+266425	Dolly
+266476	Miggs
+266544	Miggs
+266744	Emma
+266849	Miggs
+266901	Haredale
+266945	Emma
+266994	Miggs
+267110	Emma
+267132	Ally Looyer
+267140	Dolly
+267156	Miggs
+267172	Varden
+267176	Miggs
+267423	Miss Miggs
+267470	Emma Haredale
+267473	Dolly
+267482	Miggs
+267585	Emma
+267587	Dolly
+267794	Emma
+267811	Dolly
+267889	Dolly
+267921	Emma
+267929	Haredale
+267974	Emma
+268021	Emma
+268111	Emma
+268219	Emma
+268240	Dolly
+268532	Emma
+268555	Dolly
+268602	Miss Haredale
+268677	Haredale
+268719	Emma Haredale
+268728	Dolly
+268853	Miss Haredale
+268886	Emma
+268904	Dolly
+268977	Miss Haredale
+269038	Dolly
+269042	Emma
+269092	Dolly
+269113	Emma
+269199	Dolly
+269208	Emma
+269271	Emma Haredale
+269362	Emma
+269372	Dolly
+269495	Edward Chester
+269498	Joseph Willet
+269528	Edward
+269531	Edward
+269535	Joe
+269537	Joe
+269560	Edward
+269570	Joe
+269640	Gashford
+269679	Mr Haredale
+269692	Haredale
+269771	Joe
+269798	Gashford
+269839	Joe
+269866	Black Lion
+269876	Haredale
+269908	Mrs Varden
+269912	Dolly
+269940	Edward Chester
+269943	Joe
+269948	Dolly
+269985	Joe
+270007	Dolly
+270034	Dennis
+270060	Simon Tappertit
+270118	Dolly
+270157	Simon
+270162	Dolly
+270167	Joe
+270181	Dolly
+270196	Emma Haredale
+270212	Joe
+270215	Edward
+270292	Dolly
+270391	Edward Chester
+270394	Joe Willet
+270416	Dolly
+270434	Willet
+270438	John
+270488	Joe
+270505	Dolly
+270603	Dolly
+270648	Mrs Varden
+270683	Willet
+270791	John
+270821	Willet
+270846	Joe
+270942	Willet
+270956	Black Lion
+270992	Willet
+271195	Joe
+271253	Willet
+271406	Joe
+271581	George
+271611	Willet
+271660	Joe
+271684	Willet
+271705	Joe
+271719	Willet
+271775	Willet
+271783	Joe
+271910	Dolly
+271941	Joe
+272014	Dolly
+272034	Dolly
+272045	Varden
+272053	Dolly
+272074	Joe
+272105	Dolly
+272159	Joe
+272209	Dolly
+272356	Joe
+272385	Dolly
+272397	Joe
+272411	Joe
+272475	Tom Cobb
+272532	Joe
+272598	Dolly
+272651	God
+272713	Joe
+272789	Dolly
+272932	Emma
+272934	Dolly
+272943	Joe
+272945	Edward Chester
+273473	Mansfield
+273476	Saville
+273560	Herbert
+273579	George Gordon
+274157	Barnaby
+274341	Barnaby
+274442	Barnaby
+274569	Barnaby
+274666	Barnaby
+274790	Barnaby
+274906	Barnaby
+275063	Barnaby
+275170	Barnaby
+275239	Barnaby
+275318	Barnaby
+275474	Barnaby
+277218	Mayor
+277458	George Gordon
+277639	Dennis
+277694	Gabriel Varden
+277766	Dennis
+277915	Dennis
+278147	Mr Dennis
+278318	Dennis
+278366	Dennis
+278478	Dennis
+278588	Dennis
+278629	Dennis
+278695	Dennis
+278884	Hugh
+278893	Dennis
+278941	Hugh
+279047	Dennis
+279126	Hugh
+279186	Dennis
+279244	Hugh
+279282	Dennis
+279345	Hugh
+279397	Hugh
+279474	Dennis
+279583	Hugh
+279612	Dennis
+279785	Hugh
+279827	Dennis
+279915	Hugh
+280118	Dennis
+280222	Hugh
+280253	Dennis
+280286	Dennis
+280304	Hugh
+280328	Dennis
+280337	Hugh
+280428	Hugh
+280503	Dennis
+280518	Hugh
+280548	Dennis
+280617	Mr Dennis
+280667	John Chester
+280783	St Paul
+280798	John
+280971	Mr Dennis
+281278	Barnaby
+281312	John
+281459	John
+281560	John Chester
+281577	John
+281636	John
+281696	John
+281747	Gabriel Varden
+281754	Varden
+281759	Varden
+281764	John
+281781	Varden
+281787	Varden
+281797	Mr Varden
+281811	Gabriel
+281830	John
+281899	John
+281903	Gabriel
+281980	John
+282032	John
+282036	Gabriel
+282140	Varden
+282185	John
+282189	Gabriel
+282213	John
+282244	John
+282257	Varden
+282307	Varden
+282323	Gabriel
+282395	John
+282423	Varden
+282491	Mr Varden
+282503	John Chester
+282529	John
+282598	John
+282618	John
+282639	Dennis
+282659	John
+282679	Hugh
+282791	Varden
+282796	John
+282849	John Chester
+282902	Gabriel
+282959	John
+282965	Varden
+283106	John
+283130	Gabriel
+283172	Mr Varden
+283178	John
+283205	Gabriel
+283365	Dennis
+283370	John
+283450	Hugh
+283515	John
+283713	John
+283765	John
+283769	Gabriel
+283873	John
+283984	John
+284187	John
+284238	Varden
+284280	John
+284605	John
+284669	Varden
+284699	John
+284702	John
+284788	Hugh
+284802	John
+284924	Chester
+284952	John
+284999	Dennis
+285046	John Chester
+285070	Varden
+285100	John
+285248	Varden
+285253	John
+285334	Varden
+285410	Mr Edward
+285434	John
+285539	Varden
+285545	Varden
+285551	Gabriel
+285575	John
+285790	John Chester
+285843	John Chester
+286086	Haredale
+286190	Mary Rudge
+286208	Barnaby
+286211	Barnaby
+286214	Barnaby
+286263	Barnaby
+286361	Barnaby
+286433	Barnaby
+286515	Barnaby
+286553	Barnaby
+286775	Barnaby
+286888	Dennis
+286890	Hugh
+286896	Hugh
+286915	Dennis
+286965	Hugh
+287019	Dennis
+287112	Barnaby
+287133	Hugh
+287270	Hugh
+287306	Dennis
+287344	Hugh
+287457	Hugh
+287535	Hugh
+287577	Dennis
+287800	Barnaby
+287909	Dennis
+287990	Hugh
+288056	Dennis
+288281	Hugh
+288298	Barnaby
+288370	Barnaby
+288385	Hugh
+290148	Hugh
+290154	Barnaby Rudge
+290713	Hugh
+290804	Hugh
+290964	Hugh
+291020	Dennis
+291063	Barnaby
+291073	Barnaby
+291094	Barnaby
+291107	Hugh
+291145	Hugh
+291413	Hugh
+291441	Barnaby
+291535	Hugh
+291602	Dennis
+291611	Hugh
+291617	Barnaby
+291744	Dennis
+291938	Akerman
+292228	Hugh
+292357	Hugh
+292396	Barnaby
+292564	-- Hugh
+292603	Hugh
+292751	Barnaby
+292778	Hugh
+293002	Hugh
+293004	Barnaby
+293042	Hugh
+293217	Barnaby
+293372	Mansfield
+293855	Barnaby
+293883	Willet
+293905	Mr Willet
+293978	Willet
+294044	Willet
+294190	Willet
+294354	Joe
+294378	Willet
+294391	Joseph
+294407	Willet
+294441	Joe
+294499	Mr Willet
+294532	Joe
+294591	Willet
+294620	Joe
+294691	Willet
+294737	Edward
+294945	Willet
+295069	Dolly Varden
+295083	Joe
+295106	Joe
+295160	Joe
+295170	Joe
+295225	Joe
+295282	Dolly
+295330	Joe
+295440	Joe
+295445	Dear Joe
+295450	Dolly
+295528	Joe
+295561	Dolly
+295653	Joe
+295675	Dolly
+295718	Joe
+295805	Joe
+295833	Dolly
+295898	Joe
+295910	Joe
+295923	Dolly
+295933	Dolly
+295949	Dolly
+295999	Willet
+296233	Joe
+296236	Dolly
+296247	Willet
+296303	Joe
+296308	Joseph
+296313	Willet
+296330	Joe
+296419	Dolly
+296512	Joseph
+296530	John
+296777	Barnaby
+296830	Haredale
+296832	Edward Chester
+296909	Mrs Varden
+296919	Miggs
+296925	Varden
+296940	Haredale
+296955	Edward
+297018	Varden
+297149	Edward
+297176	Haredale
+297215	Edward
+297230	Tut
+297237	Haredale
+297338	Edward
+297481	Edward
+297490	Haredale
+297567	Edward
+297608	Haredale
+297716	Edward
+297733	Mr Haredale
+297839	Emma
+297957	Edward
+298095	Edward
+298180	Emma
+298358	Emma
+298460	Emma
+298473	Haredale
+298557	Edward
+298671	Edward
+298696	Haredale
+298883	Haredale
+298920	Edward
+298955	Haredale
+299378	Barnaby
+299381	Barnaby
+299456	Gabriel
+299460	Haredale
+299462	Edward Chester
+299466	Barnaby
+299500	Haredale
+299560	Barnaby
+299626	Prince of
+299628	Wales
+299729	Barnaby Rudge
+299765	Barnaby
+299772	Mr Haredale
+299794	Gabriel
+299938	Gabriel
+299987	Grip
+300102	George
+300127	Gabriel Varden
+300186	Barnaby
+300309	Edward Chester
+300466	Edward
+300649	Toby
+300663	Mrs Varden
+300803	Joseph Willet
+301038	Dolly
+301042	Dolly
+301056	Joe
+301154	Mrs Varden
+301199	Joe
+301214	Dolly
+301257	Mrs Varden
+301288	Joe
+301304	Dolly
+301307	Dolly
+301335	Joe
+301358	Mrs Varden
+301376	Mrs Varden
+301436	Willet
+301442	Dolly
+301513	Joe
+301526	Mrs Varden
+301544	Dolly
+301558	Mrs Varden
+301675	Joe
+301712	Joe
+301749	Dolly
+301807	Joe
+301874	Dolly
+301888	Joe
+301925	Joe
+301957	Mrs Varden
+302142	Damme
+302277	Miggs
+302295	Warsen
+302323	Dolly
+302327	Dolly
+302329	Joe
+302333	Joe
+302354	Miggs
+302377	Joe
+302382	Dolly
+302477	Miggs
+302557	Miggs
+302567	Miggs
+302623	Miggs
+302657	Mrs Varden
+302664	Miggs
+302813	Dolly
+302816	Mr Joe
+302909	Joe
+302913	Mrs Vardens
+302972	Miggs
+303060	Miggs
+303155	Miggs
+303269	Miggs
+303355	Mrs Varden
+303440	Joe
+303455	Dolly
+303709	Miggs
+303741	Dolly
+303924	Miggs
+304165	Miggs
+304214	Martha
+304258	Toby
+304264	Dolly
+304301	Haredale
+304322	Edward Chester
+305463	Mr Haredale
+305664	Warren
+306246	John Chester
+306359	John
+306416	Haredale
+306424	John
+306455	Haredale
+306708	Haredale
+306764	Haredale
+306845	Haredale
+306861	John
+307207	John
+307396	John
+307403	Haredale
+307643	John
+307781	John
+307819	John
+307988	Haredale
+308029	John
+308163	John
+308310	Haredale
+308485	Haredale
+308499	John
+308586	John
+308689	George Gordon
+309330	John Grueby
+309333	John
+309404	Gashford
+309558	George Gordon
+309655	Simon Tappertit
+309875	Mr Tappertit
+309939	Miggs
+310062	Miggs
+310282	Joe Willet
+310285	Dolly Varden
+310465	Joe
+310586	Joe
+310662	Joe
+310806	Willet
+310821	Joe
+310910	Tom Cobb
+310913	Phil Parkes
+310917	Solomon Daisy
+310960	Willet
+310971	Joe
+311131	Joe
+311256	Joseph
+311261	Willet
+311334	Joe
+311361	Barnaby
+311556	Barnaby
+311600	Hugh
+311630	Edward
+311645	Dolly
+311930	Willet
+311957	Barnaby

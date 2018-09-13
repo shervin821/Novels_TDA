@@ -1,0 +1,374 @@
+624	Wiseman
+1617	Astley
+2730	Helo
+2734	Vite
+2771	l'amour de
+2773	Dieu
+2992	Monsieur le
+2994	Curé
+3043	Monsieur le
+3045	Curé
+3106	Courier
+3133	Courier
+3165	Courier
+3660	Courier
+3783	Courier
+3864	Sacristan
+4015	Curé
+4164	Courier
+4860	Lyons
+4885	Lyons
+5104	Lyons
+5297	Murray
+5456	Sacristan
+5480	Virgin Mary
+5590	Monsieur
+5617	Gabriel
+5682	Chevalier
+5710	Tom Noddy
+5941	Napoleon
+6275	Lyons
+6523	Madonna
+6581	Primrose
+6736	Virgin
+6782	Madonna
+7468	Rienzi
+7586	Goblin
+7899	Goblin
+7913	Goblin
+7962	Goblin
+8025	Goblin
+8197	Goblin
+8202	Monsieur
+8212	Monsieur
+8234	Monsieur
+8250	Monsieur
+8289	Goblin
+8317	Monsieur
+8341	Monsieur
+8394	Goblin
+8648	Goblin
+8696	Courier
+9130	Goblin
+9144	OSTADE
+9493	Pierre de
+9495	Lude
+10750	Marie Antoinette
+10993	Strada Nuova
+11536	Signor Bagnerello
+12433	Antonio
+12520	Robinson Crusoe
+12542	Peter
+12833	John the
+12835	Baptist
+12845	John
+12906	John
+12919	Giovanni Baptista
+12945	Batcheetcha
+13746	Mora
+14401	Tom
+15082	Bizagno
+15591	Strada Nuova
+15595	Strada Balbi
+15758	Vandyke
+16236	Saracen
+16278	Saracen
+17543	MR. PEPYS
+17589	PETRARCH
+17596	BOCCACCIO
+19614	Virgin
+19662	Madonna
+19846	Santissima Madonna
+20104	SIMOND
+20792	Madonna
+20822	Madonna
+20868	Carlo Felice
+21235	Goldoni
+21769	Napoleon
+21778	Napoleon
+21808	Yew
+21827	Hudson
+21847	Napoleon
+21887	Buonaparte
+21903	Yew
+21923	Napoleon
+21931	Yew
+21986	Napoleon
+22021	Napoleon
+22029	Napoleon
+22074	Low
+22081	Low
+22120	Napoleon
+22158	Napoleon
+22172	Low
+22184	Low
+22193	Yas
+22211	Napoleon
+22317	Buonaparte
+22397	Low
+22472	Antommarchi
+22484	Mawworm
+22520	Low
+22543	Low
+23108	Monte Faccio
+24221	Courier
+24299	Courier
+24422	Cappuccíno Friar
+25542	Vetturíno
+26495	Courier
+26592	Jesuit
+27508	Piazza
+27582	Pagan
+27714	Buon
+27909	Courier
+28679	Piazza
+29708	Hercules
+30153	TASSONE
+30350	Cicerone
+30437	Signore
+30483	Signore
+30560	Signore
+30623	Cicerone
+30710	FERRARA
+30726	Cicerone
+30736	Cicerone
+30799	Cicerone
+30826	Black Rod
+30837	Jeremy Diddler
+30923	Gulliver
+31313	GUIDO
+31315	DOMENICHINO
+31318	LUDOVICO CARACCI
+31490	Byron
+31527	Milor Beeron
+31558	Milor Beeron
+31700	Milor Beeron
+31749	Beeron
+31792	Peter
+31821	Courier
+31889	Ferrara
+32137	Ferrara
+32181	Ferrara
+32502	ARIOSTO
+32506	TASSO
+32526	Ferrara
+32746	Parisina
+33202	Courier
+33778	Ferrara
+34879	Piazza
+35758	Hope
+37142	Shakespeare
+37473	Romeo
+37618	Romeo
+37838	Padrona
+37883	Juliet
+37906	Juliet
+38018	Giulietta
+38073	Juliet
+38116	Juliet
+38282	Piazza
+38680	John
+38723	Lady Betsy
+38803	Romeo
+38954	Romeo
+38956	Juliet
+39052	Romeo
+39367	Courier
+39407	Cicerone
+39780	Napoleon
+39893	Signore
+39950	Cicerone
+40024	Sangreal
+40108	Piazza Virgiliana
+40116	Virgil
+40368	Joshua Reynolds
+40592	Giulio Romano
+41467	Primrose
+41580	Pope
+41849	Leonardo da
+41851	Vinci
+42077	Barry
+43395	Napoleon
+43915	Peter
+44121	Rhine
+44752	GRUMIO
+44792	GRUMIO
+44950	Belladonna
+46133	Roc
+46738	Carrara
+46939	Duke
+46966	Louis-Philippe
+47042	Carrara
+47145	Norma
+47193	Carrara
+47357	Harris
+47416	Harris
+47483	Harris
+47992	Andrea del
+47994	Sarto
+48158	Napoleon
+48491	SMOLLETT
+48820	Peter
+48932	Mary
+48947	Peter
+49088	Piazza
+50433	Acquapendente
+51107	Campagna
+51476	Piazza
+51536	Ponte Molle
+51795	Piazza
+52342	Constantine
+52344	Septimus Severus
+52659	Cecilia Metella
+52679	Campagna
+53887	Pope
+54529	Falstaff
+54706	Corso
+56212	Corso
+56671	Ecco Moccoli
+57331	Senza Moccolo
+57334	Senza Moccoli
+57672	Ave Maria
+57863	Campagna
+57869	Cecilia Metella
+57907	Davis
+57923	Davis
+57995	Davis
+58016	Campagna
+58027	Davis
+58103	Cicerone
+58136	Davis
+58186	Davis
+58310	Davis
+58323	Davis
+58365	Ghoule
+58375	Davis
+58390	Davis
+58406	Davis
+58436	Claudius
+58446	Davis
+58504	Piazza
+59190	Signore
+59308	Santa Maria
+59310	della Consolázione
+59398	Signore
+59449	Jupiter Feretrius
+59716	Joseph
+59866	Tom Thumb
+60110	Bambíno
+60594	Madonna
+61100	Sacristan
+61442	Stefano Rotondo
+61631	Duncan
+61635	Lady Macbeth
+62905	Lawrence
+63345	Nero
+63669	John the
+63671	Baptist
+64376	Ave Maria
+64720	Christ
+65731	Waterman
+65740	Perkins
+65793	Monsieur Tonsons
+65799	Francis
+65802	Sebastian
+65886	Titian
+65942	Michael Angelo
+65973	Raphael
+65997	Raphael
+66013	Leo the
+66015	Fourth
+66295	Canova
+66354	Bernini
+66675	Titian
+66678	Rembrandt
+66681	Vandyke
+66685	Guido
+66688	Domenichino
+66691	Carlo Dolci
+66700	Murillo
+66703	Raphael
+66706	Salvator Rosa
+66751	Beatrice di
+66753	Cenci
+66892	Guido
+67213	Campagna
+67262	Horace
+67399	Cicero
+67424	Cato
+67536	Campagna
+67798	Campagna
+68061	Marcus Aurelius
+68066	Paul
+68069	Trajan
+68071	St. Peter
+68239	Trevi
+68586	Caius Cestius
+68611	Shelley
+68636	Keats
+69391	Capella Paolina
+69968	Judas Iscariot
+70138	St. John
+70692	Judas
+70715	Peter
+70746	Judas
+70814	Peter
+70836	Peter
+70865	Judas
+70895	Peter
+70953	Judas
+70982	Peter
+71043	Pope
+72188	Piazza
+72252	Albano
+73244	Girandola
+73478	Popes
+73678	Campagna
+74078	Terracina
+74362	Barbarossa
+74659	Signor
+74877	Mola di
+74879	Gaëta
+74887	Albano
+74895	Horace
+75912	Giles
+76034	Tiberius
+76038	Procida
+76129	Sorrento
+76161	Canute
+76286	Angelo
+76355	Tasso
+77292	Diomede
+78243	Christ
+78263	Vesuvius
+78541	Signior Salvatore
+79073	Pickle
+79899	Pickle
+80282	Pickle
+80626	Salvatore
+80800	Vetturíno
+80835	Policinelli
+80933	Foscari
+81752	Capo Lazzarone
+82372	Capo Lazzarone
+82389	Capo Lazzarone
+82393	Capo Lazzarone
+82435	Capo Lazzarone
+82600	Capo Lazzarone
+83044	Porter
+84128	Castiglione
+84236	Arno
+84372	Piazza
+84586	Signore
+84972	Duke
+85001	Piazza
+85142	Beatrice
+85165	Michael Angelo
+85347	BOCCACCIO
+85478	Michael Angelo
+85481	Canova
+85483	Titian
+85485	Rembrandt
+85487	Raphael
+85760	Gothard
+86004	WILLIAM CLOWES

@@ -1,0 +1,1348 @@
+581	Jo
+709	St. Jo
+1237	George Bemis
+1243	George Bemis
+1265	Allen
+1348	Allen
+1355	George
+1425	Bemis
+1965	Carson
+2867	George
+3856	Sandy
+3878	Sandy
+4299	Allen
+6133	Bemis
+7421	Esau
+7423	Samson
+7881	Nicholson
+8887	Pullman
+8978	Ethiop
+8995	Delmonico
+9122	Krug
+12226	Ben Holliday
+12283	Ben Holliday
+12335	Ben Holliday
+12349	Jack
+12372	Holliday
+12399	Jack
+12491	Jack
+12568	Jack
+12590	Jack
+12662	Jack
+12679	Jack
+12701	Moses
+12716	Jack
+12814	Jack
+12832	Ben Holliday
+13142	Platte
+13368	Bemis
+13458	Hank
+13484	Allen
+13982	George
+14406	Allen
+14892	Allen
+14975	Bemis
+15167	Eckert
+15240	Bascom
+15264	Eckert
+15289	Eckert
+15302	Eckert
+15441	Eckert
+15504	Eckert
+15524	Eckert
+15561	Eckert
+15641	Bascom
+15694	Bascom
+15714	Eckert
+15798	Eckert
+15807	Bascom
+15826	Eckert
+15837	Bascom
+15886	Bascom
+15911	Bascom
+16803	Scott
+16955	Mont Blanc
+17372	Babbitt
+18987	Slade
+19029	SLADE
+19054	Slade
+19074	Slade
+19126	Slade
+19138	Slade
+19153	Slade
+19282	Slade
+19327	Slade
+19386	Slade
+19476	Slade
+19521	Slade
+19607	Slade
+19638	Jules
+19686	Slade
+19746	Slade
+19766	Slade
+19805	Jules
+19820	Jules
+19822	Slade
+19845	Slade
+19852	Jules
+19859	Slade
+19868	Jules
+19904	Jules
+19913	Slade
+19922	Slade
+19927	Jules
+19941	Slade
+19946	Jules
+19988	Jules
+20048	Slade
+20052	Slade
+20069	Slade
+20087	Slade
+20280	Slade
+20476	Slade
+20537	Thos
+20539	J. Dimsdale
+20555	Slade
+20625	Jemmy
+20643	Slade
+20693	Slade
+20705	Slade
+20762	Slade
+20821	Slade
+20835	Slade
+20865	Slade
+20940	Slade
+20978	Slade
+21082	Slade
+21089	Slade
+21204	Slade
+21343	Slade
+21350	Jules
+21411	Slade
+21456	Jules
+21479	Slade
+21502	Jules
+21556	Slade
+21854	Slade
+21933	Slade
+22120	Slade
+22201	Slade
+22252	Henry Plummer
+22262	Thos
+22264	J. Dimsdale
+22273	Dimsdale
+22303	Dimsdale
+22308	Slade
+22427	Dimsdale
+22575	Slade
+22599	Alex. Davis
+22607	Derringer
+22615	J. A.
+22617	Slade
+22867	Slade
+22950	Slade
+23038	Slade
+23110	Slade
+23138	J. M.
+23140	Fox
+23240	Slade
+23302	Slade
+23398	Dorris
+23482	Slade
+23506	Slade
+23527	Slade
+23718	Alexander Davis
+23962	Slade
+24116	Slade
+24134	P. S.
+24136	Pfouts
+24141	Davis
+24167	Wallace
+24193	Slade
+24275	Slade
+24325	Slade
+24422	Russell
+24467	Slade
+24554	Slade
+24602	Slade
+24674	Davis
+25025	Slade
+25053	Slade
+25120	Slade
+25226	Slade
+25983	Bemis
+25990	Allen
+27235	John
+27358	John
+27395	John
+28717	Heber C.
+28719	Kimball
+29108	Bemis
+30075	Heber C.
+30077	Kimball
+30457	Street
+30625	S.
+30936	Gentile
+30942	Brigham Young
+31043	Young
+31207	Young
+31260	Young
+31407	Street
+31696	Burton
+31723	Bill Hickman
+31733	Arnold
+31746	Porter Rockwell
+32036	Gentile
+32147	Young
+32156	Johnson
+32210	Young
+32255	Johnson
+32323	Johnson
+32329	Young
+32370	Johnson
+32377	Young
+32388	Youngs
+32439	Young
+32450	Young
+32475	Young
+32493	Young
+32502	Young
+32509	Young
+32565	Youngs
+32614	Youngs
+32680	Young
+33187	Joseph Smith
+33211	St. Parley
+33213	Pratt
+33380	Haman
+33394	Nephi
+33597	Orson Hyde
+34174	Johnson
+34302	Joseph Smith
+34423	James
+34566	NEPHI
+34580	Nephi
+34714	Jared
+34825	Jesus Christ
+34845	Nephi
+34862	Jared
+35004	Jesus Christ
+35070	Christ
+35092	Christ
+35130	OLIVER COWDERY
+35133	DAVID WHITMER
+35136	MARTIN HARRIS
+35285	Joseph Smith
+35324	Smith
+35371	Smith
+35392	Smith
+35435	WHITMER
+35437	JACOB WHITMER
+35440	PETER WHITMER
+35445	JOHN WHITMER
+35451	JOSEPH SMITH
+35456	HYRUM SMITH
+35459	SAMUEL H.
+35461	SMITH
+35525	Whitmer
+35544	Jacob
+35546	Enos
+35548	Jarom
+35554	Zeniff
+35556	Alma
+35574	Nephi
+35581	Nephi
+35640	Nephi
+35679	Nephi
+35702	Noah
+35798	Nephi
+35853	Nephi
+35879	Nephi
+36117	Noah
+36159	Joseph Smith
+36191	Jacob
+36233	David
+36236	Solomon
+36242	David
+36244	Solomon
+36307	Joseph
+36440	Nephi
+36459	Jesus
+36508	Nephi
+36523	Timothy
+36533	Jonas
+36537	Mathoni
+36540	Mathonihah
+36546	Kumen
+36549	Kumenenhi
+36552	Jeremiah
+36558	Jonas
+36561	Zedekiah
+36564	Isaiah
+36575	Jesus
+36633	Nephi
+36641	Jesus
+36943	Coriantumr
+37054	Coriantumr
+37112	Shiz
+37132	Shiz
+37139	Coriantumr
+37154	Coriantumr
+37292	Coriantumr
+37318	Shiz
+37586	Coriantumr
+37592	Shiz
+37920	Coriantumr
+37943	Shiz
+37961	Coriantumr
+38012	Coriantumr
+38017	Shiz
+38032	Coriantumr
+38070	Shiz
+38223	Milton
+38441	Waite
+38455	Cradlebaugh
+41333	Wood
+41721	Adam
+41861	Mott
+41950	Mott
+42095	Cooper
+42171	Emerson Bennett
+42289	Goshoots
+42534	Nye
+42753	Carson
+42837	Carson Lake
+42980	Horace Greeley
+42992	Carson City
+42999	Hank Monk
+43020	Hank Monk
+43052	Horace
+43074	Hank Monk
+43100	Hank Monk
+43109	Horace
+43166	Gregory Diggings
+43212	Horace Greeley
+43224	Carson City
+43231	Hank Monk
+43252	Hank Monk
+43284	Horace
+43306	Hank Monk
+43332	Hank Monk
+43341	Horace
+43503	Horace Greeley
+43515	Carson City
+43522	Hank Monk
+43543	Hank Monk
+43575	Horace
+43597	Hank Monk
+43623	Hank Monk
+43632	Horace
+43852	Horace Greeley
+43864	Carson City
+43871	Hank Monk
+43893	Hank Monk
+43925	Horace
+43947	Hank Monk
+43973	Hank Monk
+43982	Horace
+44070	Carson
+44276	Horace Greeley
+44362	George Washington
+44569	Babel
+44682	Bayard Taylor
+44691	Richardson
+44698	Jones
+44700	Smith
+44702	Johnson
+44704	Ross Browne
+44868	Hank Monk
+44874	Horace Greeley
+44967	Daniel
+45276	Carson City
+45559	Harris
+45667	Harris
+45719	Harris
+45734	Carson
+46036	Carson
+46352	Bridget O'Flannigan
+46495	Carson
+46663	Carson
+46676	-- M.
+46678	T.
+46904	O'Flannigan
+46933	Bridget
+46950	Carson
+47277	Nye
+47329	O'Flannigan
+47575	Bob
+47941	O'Flannigan
+48350	Josephus
+48434	Johnny K
+48825	Johnny
+48914	Johnny
+49995	XXIII
+50285	Johnny
+51126	Johnny
+51196	Johnny
+51213	Johnny
+51719	Johnny
+51885	Carson
+53033	Curry
+53039	Abe Curry
+53989	Carson
+54112	Carson
+54414	Roop
+54443	Lincoln
+54447	Nye
+54450	Roop
+54710	Carson City
+54858	Carson
+54878	Curry
+54917	Abe Curry
+55082	Curry
+56340	Gould
+56446	Tom
+56477	John Jones
+56490	Mary Ann
+56511	Brewster
+56543	Tommy
+56548	Baldy Johnson
+56645	Johnny Morgan
+56853	Humboldt
+57164	Whitman
+57221	Burch
+57548	Humboldt
+58242	Carson
+58542	Clagett
+58559	Oliphant
+58578	Ballou
+58734	Ballou
+58781	Ballou
+59079	Oliphant
+59092	Ballou
+59621	Ballou
+59774	Carson
+60910	Ballou
+61322	Ballou
+61419	Ballou
+61496	Ballou
+61615	Ballou
+61792	Ballou
+62008	Ballou
+62076	Ballou
+62202	Ballou
+62800	Clagget
+62802	Oliphant
+63029	Maria Jane
+63045	Samson
+63434	Sarah Jane
+63587	Abe
+63986	Carson
+64056	Carson
+64073	Ballou
+64078	Ollendorff
+64561	Carson
+64874	Owens
+64915	Owens
+65378	Johnson
+65430	Johnson
+65458	Johnson
+65583	Arkansas
+65644	Coz
+65672	Said Johnson
+65694	Arkansas
+65790	Arkansas
+65805	Caesar
+65816	Arkansas
+65863	Smith
+65870	Smith
+65929	Arkansas
+65959	Bill
+65961	Tom
+65963	Bob
+65965	Scotty
+65994	Gim
+66038	Gim
+66150	Scotty
+66630	George
+67224	Ollendorff
+67235	Ballou
+67262	Ollendorff
+67308	Carson
+67348	Ollendorff
+67387	Ollendorff
+67397	Ballou
+67428	Carson
+67598	Ollendorff
+67619	Carson
+67688	Ollendorff
+67896	Ballou
+67949	George
+68015	Ollendorff
+68172	Carson
+69029	Ollendorff
+69332	Ballou
+69401	Ballou
+69500	Ballou
+69699	Ollendorff
+69778	Ballou
+69835	Ballou
+69845	Ollendorff
+69868	Ballou
+69870	Ollendorff
+70068	Ballou
+70517	Ballou
+70533	Ballou
+70584	Ollendorff
+71079	Ollendorff
+71095	Ballou
+71239	Carson
+71286	Hyde
+71336	Carson
+71452	Buncombe
+71569	Dick Hyde
+71701	Tom Morgan
+71770	Morgan
+71835	Hyde
+71892	George
+72007	Morgan
+72053	Morgan
+72188	Morgan
+72203	Morgan
+72240	Hyde
+72257	Hal Brayton
+72287	Roop
+72367	Hyde
+72381	Roop
+72386	Roop
+72557	Morgan
+72572	Hyde
+72760	Morgan
+72767	Roop
+72918	Hyde
+73051	Morgan
+73195	Richard Hyde
+73220	Buncombe
+73238	Roop
+73260	Roop
+73296	Roop
+73325	Buncombe
+73342	Hyde
+73367	Hyde
+73447	Esmeralda
+73463	John Nye
+73496	John
+73771	John
+73793	John
+73988	John
+74006	Esmeralda
+74172	Jim Townsend
+74211	Daley
+74214	Townsend
+74228	Daley
+74254	Townsend
+75168	Adam
+76724	W.
+76729	Esmeralda
+76807	Whiteman
+76864	Whiteman
+77287	Whiteman
+77320	W.
+77382	Whiteman
+77441	Higbie
+77444	Whiteman
+77457	Van Dorn
+77473	Whiteman
+77495	Van Dorn
+77508	Higbie
+77522	Whiteman
+77540	Van Dorn
+77635	Whiteman
+77783	Higbie
+78411	Welch
+78423	Whiteman
+78440	Welch
+78472	Welch
+78534	Van Dorn
+78625	Whiteman
+80405	Higbie
+80582	Higbie
+81151	Higbie
+81215	Higbie
+81459	Higbie
+81600	Higbie
+81773	Higbie
+82063	Esmeralda
+82066	Ballou
+82836	Higbie
+83125	Higbie
+83723	Higbie
+83907	Higbie
+84121	Higbie
+84216	Higbie
+84312	Higbie
+84337	Higbie
+84498	George
+84679	Higbie
+84783	Higbie
+85028	Gardiner
+85035	John Nye
+85104	Higbie
+85131	Gardiner
+85139	Nye
+85778	Gardiner
+86283	Higbie
+86331	Higbie
+86456	Higbie
+86493	Higbie
+86674	Whiteman
+86698	Higbie
+86729	Higbie
+86878	Esmeralda
+86908	Esmeralda
+87173	A. D.
+87175	Allen
+87280	Higbie
+87290	Higbie
+87341	Johnson
+87556	Higbie
+87976	Franklin
+88207	Higbie
+88248	Higbie
+88930	Goodman
+89209	Goodman
+89215	Dan
+89815	Goodman
+89825	Dan
+90012	Boggs
+90124	Boggs
+90182	Boggs
+90352	Boggs
+90479	Boggs
+90602	Boggs
+90765	Boggs
+90793	Boggs
+90849	Boggs
+91160	Joy
+93411	Stewart
+93566	Overman
+93631	Overman
+94380	McKean Buchanan
+94538	McKean Buchanan
+94563	Goodman
+95439	Reuel Gridley
+95505	Gridley
+95609	Gridley
+95705	Gridley
+95777	Gridley
+95944	Gridley
+96005	Taylor
+96166	Gridley
+96185	W.
+96280	Gridley
+96337	Gridley
+96593	Gridley
+96757	Gridley
+96809	Gridley
+97146	John Smith
+97223	Smith
+97292	Smith
+97450	Smith
+97471	Smith
+97501	Smith
+97530	Smith
+97636	Curry
+97684	Gould
+97880	Ophir
+98727	Jim
+98746	Jack
+98788	Jack
+98796	Jim
+98824	Jack
+98870	Jim
+98878	Jack
+98954	Jim
+98967	Jack
+99019	George
+99048	Johnny
+99125	Jack
+99207	Jim
+99252	Jack
+99260	Jim
+99308	Jack
+99403	Jack
+99483	Jack
+99503	Jim
+99588	Jack
+99624	Jim
+99749	Jack
+99765	Jack
+99875	Jack
+99879	Jimmy
+99915	George
+100167	Buck Fanshaw
+100550	Briggs
+100572	Scotty
+100641	Scotty
+100688	Scotty
+100736	Buck Fanshaw
+100816	Scotty
+100949	Scotty
+101045	Scotty
+101261	Scotty
+101335	Scotty
+102817	Buck Fanshaw
+103325	Buck Fanshaw
+103330	Scotty Briggs
+103423	Scotty
+103435	Scotty Briggs
+103580	Joseph
+104122	Bill Adams
+104166	Alfred the
+104168	Great
+104440	B. L.
+105063	Mormondom
+105265	Billy
+105349	Sam Brown
+105352	Jack Williams
+105355	Billy Mulligan
+105358	Farmer Pease
+105361	Sugarfoot Mike
+105366	Jake
+105368	El Dorado
+105370	Johnny
+105372	Jack McNabb
+105375	Joe McGee
+105378	Jack Harris
+105382	Pete
+105547	Brown
+105571	Brown
+105611	Brown
+105622	Brown
+105628	Brown
+105988	Brown
+106128	Jack Williams
+106132	Brown
+106171	BIRDSALL
+106182	Brown
+106189	Jack Williams
+106215	Billy Brown
+106241	Perry
+106256	Brown
+106303	Williams
+106317	Brown
+106370	Brown
+106448	Brown
+106471	Foster
+106474	Brown
+106530	Jack Williams
+106549	Charles Hurtzal
+106610	Jack Williams
+106613	Andy Blessington
+106626	Williams
+106671	Hurtzal
+106739	Jack Williams
+106793	Williams
+106816	Williams
+106834	Williams
+106866	Williams
+106935	Reeder
+106952	Reeder
+107046	Jack Williams
+107083	Tom Reeder
+107089	Williams
+107092	George Gumbert
+107109	Williams
+107115	Reeder
+107139	Gumbert
+107142	Williams
+107152	Billy Brown
+107161	Williams
+107165	Reeder
+107176	Williams
+107186	Gumbert
+107192	Reeder
+107213	Reeder
+107252	Gumbert
+107269	Atwill
+107290	Reeder
+107299	Owens
+107338	Reeder
+107370	Gumbert
+107400	Reeder
+107407	Gumbert
+107427	Gumbert
+107439	Gumbert
+107459	Reeder
+107493	Gumbert
+107519	Reeder
+107554	Reeder
+107609	Gumbert
+107622	Reeder
+107656	Gumbert
+107733	Perry
+107736	Birdsall
+107745	Gumbert
+107854	Reeder
+107931	Reeder
+107958	Reeder
+108078	Gumbert
+108230	Joe McGee
+108248	Williams
+108260	McGee
+108299	McGee
+108330	Carson
+108487	McGee
+108505	McGee
+108627	Ned Blakely
+108816	Ned
+108882	Bill Noakes
+108913	Ned
+108937	Ned
+108949	Bill Noakes
+108976	Ned Blakely
+109032	Noakes
+109053	Noakes
+109088	Noakes
+109102	Ned
+109110	Noakes
+109131	Noakes
+109142	Noakes
+109162	Noakes
+109265	Ned
+109432	Noakes
+109471	Noakes
+109495	Ned
+109501	Ned Blakely
+109537	Bill Noakes
+109607	Bill Noakes
+109627	Noakes
+109633	Blakely
+109648	Ned
+109680	Noakes
+109753	Ned
+109786	Ned
+110053	Ned
+110144	Ned
+110404	Ned
+110458	Noakes
+110544	Ned
+110619	Ned
+110650	Ned
+111203	F.
+111506	Duke
+111518	F.
+111787	F.
+112100	Roscicrucian
+112558	Duke
+113031	Duke
+113276	Behring
+113434	Behring
+113459	Horn
+113608	Behring
+113630	Charles Reade
+113659	Jonah
+113824	F.
+113875	Lazarus
+113892	Lazarus
+114233	Dollinger
+114253	Dollinger
+114399	Dollinger
+114418	Dollinger
+114686	Said Dollinger
+114706	Dollinger
+114887	Dollinger
+114911	Dollinger
+114973	Erie
+115041	Byron
+115076	Dol
+115081	Haw
+115092	Luff
+115668	Valentine
+115873	Gold Hill
+115896	Ophir
+116161	Wells
+116563	Gould
+116565	Curry
+116582	Gould
+116584	Curry
+117316	Ophir
+117867	Ophir
+118127	Sutro
+118228	Jim Blaine
+118255	Jim
+118288	Blaine
+118530	Blaine
+118573	Yates
+118575	Bill Yates
+118617	Yates
+118639	Seth Green
+118654	Wilkerson
+118656	Sarah Wilkerson
+118676	Stoddard
+118715	Sile Hawkins
+118745	Sile Hawkins
+118754	Sile Hawkins
+118768	Filkins
+118795	Nixon
+118808	Ferguson
+118822	Jefferson
+118848	Wagner
+118869	Wagner
+119039	Wagner
+119133	Wagner
+119150	Dorcas S'iety
+119161	Higgins
+119239	Jacops
+119244	Jacops
+119349	Robbins
+119368	Jacops
+119404	Robbins
+119416	Robbins
+119420	Jacops
+119442	Robbins
+119470	Jacops
+119481	Robbins
+119495	Robbins
+119589	George
+119592	Jacops
+119655	Hogadorns
+119669	Hogadorn
+119699	Becky Martin
+119706	Dunlap
+119715	Maria
+119935	Lem
+120037	Lem
+120108	Lem
+120143	Hagar
+120145	Uncle Lem
+120151	Hagar
+120166	Watson
+120357	Jim Blaine
+120434	Jim Blaine
+120834	Chinaman
+121523	Burlingame
+122278	John
+122363	Wang
+122467	Sing
+122553	Hong
+122608	Tom
+123093	Carson
+123718	Goodman
+123888	Goodman
+124129	Dickens
+124131	Scott
+124133	Bulwer
+124135	Dumas
+124343	Goodman
+124399	Dan
+124526	Marshall
+124537	Dan
+124621	Dan
+124646	Dan
+124691	Marshall
+124702	Marshall
+124784	Dan
+124879	Dan
+128248	John Phenix
+128274	-- M.
+128276	T. -RSB-
+130089	-- M.T.
+130488	Gould
+130490	Curry
+130661	Dan
+132377	-- G.
+132379	M. Marshall
+132385	Amos H.
+132387	Rose
+132552	Sheba Hurst
+132751	Marshall
+132925	C. H.
+132927	Webb
+132960	Bret Harte
+132997	Ogden
+133984	Blucher
+134524	Pete
+134641	Martin
+134670	Martin
+134838	Blucher
+135111	Blucher
+135158	Martin
+135194	Martin
+135202	Blucher
+135206	Martin
+135209	Blucher
+135272	Blucher
+135277	Pete
+136900	Dick Baker
+137073	Tom Quartz
+137117	Tom
+137236	Jim
+137500	Noth
+137504	Jim
+137529	Tom Quartz
+137538	Dickens
+137650	Tom Quartz
+137802	Tom Quartz
+137829	Tom Quartz
+137899	George
+137910	Tom Quartz
+138335	Baker
+138368	Tom Quartz
+138416	Baker
+139177	Williams
+140916	Williams
+140955	Williams
+141216	Williams
+141527	Williams
+141606	Waite
+141608	Granger
+141617	John Moody
+141698	Williams
+141741	Willis
+141743	Morgan
+141841	Willis
+141843	Morgan
+141878	Waite
+141880	Granger
+141889	John H.
+141891	Morgan
+141893	Winthrop L.
+141895	Willis
+141922	Thompson
+141924	Archibald F.
+141926	Thompson
+141931	Thomas Jefferson
+141961	Mortimer Highie
+142130	Waite
+142142	Granger
+142163	John H.
+142165	Morgan
+142175	Winthrop L.
+142177	Willis
+142359	Willis
+142413	Williams
+142506	Williams
+142531	Williams
+142596	Williams
+143046	Mary Ann
+143446	Brannan
+144174	Coacoanut Grove
+144224	Phillips
+144270	Phillips
+144287	Cook
+144301	Cook
+144305	Phillips
+144478	Luff
+144514	Phillips
+145585	His Majesty
+146075	Napoleon
+146339	Cook
+146430	-- Gayly
+146716	Kamehameha I.
+146767	Kamehameha
+147056	Jarves
+147855	J. Smith
+147873	Smith
+147896	Kanaka
+147918	Smith
+147930	Smith
+147934	Kanaka
+147969	Smith
+147994	Smith
+148021	Kanaka
+148181	L.
+148192	Kanaka
+148248	Kanaka
+148408	Williams
+148563	Kanaka
+149392	Poi
+150443	Cook
+151050	David Kalakaua
+151060	William
+151074	M. Kekuanaoa
+151077	-LSB- Kekuanaoa
+152055	Kanaka
+152786	Kanaka
+153179	Kanaka
+153607	Bishop
+154021	Victoria
+154239	Knonohikis
+154248	Konohikis
+154256	Konohikis
+154273	Hulumanu
+154319	Louis Maigret
+154325	Bishop
+154329	Vicar-Apostolic
+154349	Bishop
+154356	Emma
+154466	Ahahui Kaahumanu
+154565	Van Valkenburgh
+154653	Prince William
+155039	Harris
+155105	Victoria
+155519	Kukailimoku
+155753	Liholiho
+155789	Kukailimoku
+155826	Pua
+155849	Kamehameha
+156005	Kaikioewa
+156022	Liholiho
+156035	Liholiho
+156037	Kaahumanu
+156089	Young
+156096	Hoapili
+156266	Leleiohoku
+156277	Kalaimoku
+156333	Kalaimoku
+156426	-- M.
+156428	T. -RSB-
+156430	Kaahumanu
+156478	Liholiho
+156675	Hewahewa
+156690	Liholiho
+156726	Kau
+156731	Kohala
+156887	Kalaimoka
+156903	Hookio
+156913	Liholiho
+157023	Liholiho
+157129	Keeaumoku
+157131	Kaahumaun
+157155	Kaahumanu
+157196	Kaahumanu
+157681	Billings
+157928	Baalam
+158598	Kanaka
+158691	Hualaiai
+158714	Mauna Loa
+159564	Greeley
+159814	Erickson
+159894	Greeley
+159904	Horace Greeley
+159920	Victoria
+159943	Greeley
+159960	Sadowa
+160139	Beazeley
+160142	Jackson Beazeley
+160233	William
+160306	Greeley
+160633	Greeley
+160932	HEVACE EVEELOJ
+161039	Greeley
+161138	HEVACE EVEELOJ
+161229	HEVACE EVEELOJ
+161313	Greeley
+161436	HEVACE EVEELOJ
+161520	Greeley
+161927	SIMON ERICKSON
+161940	Greely
+162077	HORACE GREELEY
+162104	Beazely
+162153	Erickson
+162530	Cook
+162602	Cook
+162720	Kealakekua Bay
+162865	Lono
+162946	Cook
+163089	Cook
+163317	Cook
+163345	Cook
+163394	Cook
+163519	JAMES COOK
+163536	Cook
+163604	Cook
+163635	Cook
+163869	Obookia
+163933	Obookia
+164039	Obookia
+164083	William Kanui
+164767	Kaikilani Aiii
+164932	Cook
+164944	Cook
+165075	Liholiho
+165106	Kaahumanu
+165146	Liholiho
+165157	Kaahumahu
+165197	Liholiho
+165216	Queen
+165333	King Liholiho
+165411	Cook
+165545	Bekuokalani
+165636	Kalaimoku
+165789	Kanaka
+166067	Kanaka
+167633	Kaahumanu
+167681	Kaahumanu
+168263	Kau
+170138	Pele
+170334	Marlette
+170434	Marlette
+170548	Marlette
+170631	Marlette
+171638	Kanaka
+173007	Cook
+173336	Poe
+173551	Haleakala
+173571	Wilkes
+174184	Jones
+174558	Cap Saltmarsh
+174581	Saltmarsh
+174823	Muckawow
+174974	Margaretta
+175151	Perkins
+175342	John James
+175344	Godfrey
+175383	John James
+175385	Godfrey
+175473	John Godfrey
+175819	Markiss
+175922	Markiss
+177061	Sawyer
+177720	Sawyer
+177872	Sawyer
+178173	Gold Hill
+178288	Mike
+178573	George
+179007	Stonewall
+179024	Mike
+179149	Mike
+179183	Phil Sheridan
+179193	Stonewall Jackson
+179302	Mike
+179359	Mike
+179405	Mike
+180248	Joseph Smith
+180471	Joseph Smith
+180523	Brigham
+180576	Joseph Smith
+180583	Rigdon
+180595	Smith
+180639	Rigdon
+180659	Rigdon
+180667	Rigdon
+181180	prophet Smith
+181259	Joseph Smith
+181263	Joseph
+181284	Andrew Johnson
+181341	Joseph
+181742	Mormondom
+182025	Buchanan
+182027	Pierce
+182042	Harney
+182059	Harney
+182500	C. V.
+182502	Waite
+182537	J. C.
+182539	Haight
+182541	Bishop Higbee
+182544	J. D.
+182546	Lee
+182892	Haight
+182894	Bishop John
+182896	D. Lee
+182905	Cradlebaugh
+183261	Cradlebaugh
+183462	Mormondom
+183514	Harney
+183518	Cradlebaugh
+183565	Cumming
+183615	Cradlebaugh
+183620	C. V.
+183622	Waite
+183728	Cradlebaugh
+183926	Cradlebaugh
+183928	Rodgers
+183940	J. Forney
+183977	R. P.
+183979	Campbell
+184032	Conrad Wiegand
+184059	Conrad Wiegand
+184105	Conrad Wiegand
+184156	Conrad
+184304	Conrad
+184420	Sutro
+185078	JOHN B.
+185080	WINTERS
+185137	John B.
+185139	Winters
+185432	John B.
+185434	Winters
+185517	Sharon
+185673	Zabriskie
+185682	Winters
+185724	Winters
+185757	Winters
+185783	Cummings
+185826	Winters
+185845	Philip Lynch
+185873	John B.
+185875	Winters
+186005	Cummings
+186079	Winters
+186102	Cummings
+186107	Lynch
+186119	Wiegand
+186190	Cummings
+186302	Lynch
+186393	Sheriff Cummings
+186441	Philip Lynch
+186465	Winters
+186470	Lynch
+186497	John B.
+186499	Winters
+186501	Conrad Wiegand
+186519	Lynch
+186582	Lynch
+186590	J. B.
+186592	Winters
+186677	Winters
+186711	Lynch
+186773	Cummings
+186985	Cummings
+187179	Winters
+187683	Winters
+187741	Philip Lynch
+187793	Winters
+187860	Winters
+187956	Winters
+187987	Philip Lynch
+188069	Winters
+188076	Lynch
+188244	Winters
+188778	Winters
+188822	Philip Lynch
+188836	John B.
+188838	Winters
+188890	Winters
+188942	CONRAD WIEGAND
+188965	Lynch
+188969	Winters
+188991	Lynch
+189027	Winters
+189043	Wiegand
+189165	Winters
+189215	Philip Lynch
+189584	Winters
+189845	John B.
+189847	Winters
+190089	Lynch
+190107	Lynch
+190188	Lynch
+190256	Winters
+190557	Sharon
+190559	Winters
+190737	Philip Lynch
+190749	John B.
+190751	Winters
+190774	John B.
+190776	Winters
+190812	Winters
+190897	Winters
+191023	Winters
+191065	W. C.
+191067	Ralston
+191069	William Sharon
+191228	CONRAD WIEGAND
+191351	-- M.
+191353	T. -RSB-

@@ -1,0 +1,532 @@
+5	BARBARA ALEXIEVNA
+363	Barbara
+417	Barbara
+490	Makar Alexievitch
+614	Barbara Alexievna
+867	Barbara
+1041	Barbara
+1044	Barbara
+1142	Barbara
+1166	Barbara Alexievna
+1313	Noah
+1456	Theresa
+1860	Barbara
+2190	MAKAR DIEVUSHKIN
+2265	MAKAR ALEXIEVITCH
+2281	Makar Alexievitch
+2486	Thedora
+2582	Makar Alexievitch
+2632	Makar Alexievitch
+2763	Thedora
+2841	Makar Alexievitch
+2930	Thedora
+3161	Makar Alexievitch
+3192	Theresa
+3326	BARBARA DOBROSELOVA
+3333	BARBARA ALEXIEVNA
+4300	Masha
+4544	Barbara
+4595	Theresa
+4636	Barbara
+4785	Barbara
+4826	Barbara
+4897	Barbara
+4909	Barbara Alexievna
+4917	MAKAR DIEVUSHKIN
+4984	MAKAR
+5259	Makar Alexievitch
+5296	Makar Alexievitch
+5352	BARBARA DOBROSELOVA
+5359	BARBARA ALEXIEVNA
+6336	Phaldoni
+6353	Phaldoni
+6396	Theresa
+6541	Gorshkov
+6752	Gorshkov
+6947	Barbara
+7121	MAKAR DIEVUSHKIN
+7128	MAKAR ALEXIEVITCH
+7137	Sasha
+7354	Anna
+7420	Anna
+7422	Hospodin
+7425	-RSB- Bwikov
+7494	Anna
+7865	Thedora
+8060	MAKAR DIEVUSHKIN
+8215	Theresa
+8287	MAKAR
+8390	Pokrovski
+8396	Anna Thedorovna
+8482	Makar Alexievitch
+9239	Anna Thedorovna
+10319	Lamonde
+10334	Zapolski
+10624	Anna Thedorovna
+10656	Anna
+10664	Anna
+10781	Anna
+10856	Anna
+10905	Anna Thedorovna
+11017	Anna Thedorovna
+11046	Sasha
+11073	Anna
+11079	Pokrovski
+11082	Anna
+11180	Anna
+11253	Anna
+11257	Anna
+11372	Anna
+11408	Christ
+11639	Anna
+11782	Anna
+11836	Pokrovski
+11843	Sasha
+11864	Anna
+11883	Sasha
+11902	Anna
+11941	Sasha
+12049	Sasha
+12260	Sasha
+12518	Pokrovski
+12575	Sasha
+12582	Pokrovski
+12676	Pokrovski
+12817	Sasha
+12926	Pokrovski
+12937	Pokrovski
+12988	Pokrovski
+13044	Pokrovski
+13054	Bwikov
+13086	Bwikov
+13092	Pokrovski
+13115	Anna Thedorovna
+13124	Pokrovski
+13129	Bwikov
+13136	Anna
+13165	Anna
+13177	Pokrovski
+13231	Pokrovski
+13249	Bwikov
+13283	Bwikov
+13290	Anna Thedorovna
+13305	Sasha
+13323	Pokrovski
+13495	Pokrovski
+14434	Pokrovski
+14518	Sasha
+14549	Petinka
+14615	Anna Thedorovna
+14662	Sasha
+14784	Anna Thedorovna
+14794	Pokrovski
+15318	Pokrovski
+15458	Pokrovski
+16233	Pokrovski
+16399	Pokrovski
+16459	Pokrovski
+16594	Pokrovski
+16622	Pokrovski
+16660	Pokrovski
+17508	Pokrovski
+17692	Pokrovski
+17772	Pokrovski
+17919	Pokrovski
+17957	Pushkin
+17972	Pushkin
+18107	Pokrovski
+18237	Anna Thedorovna
+18255	Anna
+18272	Matrena
+18365	Matrena
+18413	Pushkin
+18542	Pokrovski
+18671	Barbara Alexievna
+19187	Matrena
+19312	Barbara Alexievna
+19424	Zachar Petrovitch
+19446	Barbara Alexievna
+19573	Petinka
+19586	Barbara Alexievna
+19854	Barbara Alexievna
+20043	Sasha
+20060	Anna Thedorovna
+20149	Anna Thedorovna
+20164	Pushkin
+20382	Pokrovski
+20412	Sasha
+20424	Pokrovski
+20585	Pokrovski
+20927	Anna Thedorovna
+20961	Pokrovski
+20977	Pokrovski
+21083	Anna Thedorovna
+21118	Pokrovski
+21309	Pokrovski
+21607	Anna Thedorovna
+21769	Anna Thedorovna
+22225	Makar Alexievitch
+22471	Makar Alexievitch
+22579	Thedora
+22609	BARBARA ALEXIEVNA
+22617	BARBARA ALEXIEVNA
+23000	Barbara
+23044	Makar Alexievitch
+23067	Makar Alexievitch
+23078	Makar Alexievitch
+23105	Makar Alexievitch
+23370	Evstafi Ivanovitch
+23868	MAKAR DIEVUSHKIN
+23876	MAKAR
+23924	Thedora
+24091	Makar Alexievitch
+24362	Anna Thedorovna
+24384	Monsieur Bwikov
+24421	Bwikov
+24517	Thedora
+24755	Rataziaev
+24823	Theresa
+24891	MAKAR DIEVUSHKIN
+24899	BARBARA ALEXIEVNA
+24936	Gorshkov
+25267	Barbara
+25269	MAKAR DIEVUSHKIN
+25277	MAKAR
+25442	Barbara
+25453	Rataziaev
+25543	Theresa
+25774	Barbara
+25821	Rataziaev
+25872	Rataziaev
+25880	Barbara
+26080	Rataziaev
+26142	Barbara
+26144	Rataziaev
+26281	Barbara
+26289	Vladimir
+26397	Zinaida
+26400	Zinaida
+26404	Vladimir
+26423	Zinaida
+26429	Smileski
+26468	Vladimir
+26510	Count
+26569	Barbara
+26608	Rataziaev
+26612	Ermak
+26614	Zuleika
+26621	Zuleika
+26641	Ermak
+26645	Zuleika
+26724	Zuleika
+26803	Zuleika
+26892	Ermak
+26904	Ermak
+26912	Zuleika
+26917	Barbara
+26933	Kouchoum
+26982	Ermak
+27025	Ermak
+27034	Zuleika
+27077	Ivan Prokofievitch
+27079	Zheltopuzh
+27091	Prokofi Ivanovitch
+27096	Ivan
+27135	Pelagea Antonovna
+27141	Pelagea Antonovna
+27162	Barbara
+27221	Rataziaev
+27369	Dievushkin
+27375	Dievushkin
+27426	Dievushkin
+27526	Rataziaev
+27622	Rataziaev
+27677	Paul de
+27679	Kock
+27793	Christ
+27807	MAKAR DIEVUSHKIN
+27815	MAKAR
+28041	Makar Alexievitch
+28117	Makar Alexievitch
+28147	Thedora
+28451	Thedora
+28502	Pushkin
+28547	Rataziaev
+28578	Makar Alexievitch
+28653	BARBARA ALEXIEVNA
+28932	Barbara
+29181	Barbara
+29266	Rataziaev
+29350	Barbara
+29427	Rataziaev
+29531	MAKAR DIEVUSHKIN
+29565	MAKAR
+30256	Barbara
+30391	Barbara
+30523	Barbara
+30645	Barbara
+30707	Barbara
+31188	Samson Virin
+31234	Virin
+31286	Dunasha
+31337	Theresa
+31347	Tchinovnik
+31357	Samson Virin
+31365	Gorshkov
+31539	Barbara
+31575	Rataziaev
+31623	Pushkin
+31645	Barbara
+31680	MAKAR DIEVUSHKIN
+31685	MAKAR ALEXIEVITCH
+31976	BARBARA ALEXIEVNA
+32575	BARBARA ALEXIEVNA
+32871	Ivan Prokofievitch
+32999	Barbara
+33479	Barbara
+33677	Barbara
+34013	Barbara
+34041	Barbara
+34062	MAKAR ALEXIEVITCH
+34090	Thedor
+34103	Makar Alexievitch
+34298	Makar Alexievitch
+34344	Makar Alexievitch
+34483	Makar Alexievitch
+34555	Thedora
+34672	Makar Alexievitch
+34877	Makar Alexievitch
+35025	Makar Alexievitch
+35034	BARBARA DOBROSELOVA
+35042	BARBARA ALEXIEVNA
+35339	Evstafi Ivanovitch
+35441	Thedora
+35594	MAKAR DIEVUSHKIN
+35602	BARBARA
+36117	Emelia Ilyitch
+36433	Barbara
+36453	Aksenti Osipovitch
+36461	Peter Petrovitch
+36542	Aksenti Osipovitch
+36545	Peter Petrovitch
+36710	MAKAR DIEVUSHKIN
+36718	MAKAR ALEXIEVITCH
+36880	BARBARA DOBROSELOVA
+36888	BARBARA ALEXIEVNA
+37134	Barbara
+37225	Emelia
+37615	Barbara
+37676	Stepan Karlovitch
+37693	Makar Alexievitch
+37817	Rataziaev
+37945	Rataziaev
+38089	Shakespeare
+38097	Shakespeare
+38110	MAKAR DIEVUSHKIN
+38118	MAKAR ALEXIEVITCH
+38137	Thedora
+38178	Anna Thedorovna
+38326	BARBARA ALEXIEVNA
+38439	Emelia Ivanovitch
+38446	Emelia
+38598	Makar Alexievitch
+38687	Peter Petrovitch
+38719	Barbara
+38747	Peter Petrovitch
+38870	Peter Petrovitch
+38902	Thedosei Ivanovitch
+39017	Peter Petrovitch
+39115	Peter Petrovitch
+39240	Emelia Ivanovitch
+39277	Emelia
+39384	Barbara
+39391	MAKAR DIEVUSHKIN
+39399	MAKAR ALEXIEVITCH
+39510	Thedora
+39731	Thedora
+39884	Anna Thedorovna
+39977	Anna Thedorovna
+40000	Makar Alexievitch
+40060	Thedora
+40175	Makar Alexievitch
+40197	BARBARA ALEXIEVNA
+40457	Barbara
+40460	Barbara
+40683	Barbara
+41285	Barbara
+41405	M. DIEVUSHKIN
+41412	MAKAR ALEXIEVITCH
+41476	Makar Alexievitch
+41492	Thedora
+41573	Makar Alexievitch
+41658	Makar Alexievitch
+41946	BARBARA
+42608	Ermolaev
+42776	Monsieur Markov
+42779	Emelia Ivanovitch
+42836	Markov
+43214	Monsieur Markov
+43258	Emelia Ivanovitch
+43428	Monsieur Markov
+43458	Emelia Ivanovitch
+43519	Emelia
+43529	Markov
+43571	Barbara
+43883	Sniegirev
+44020	M. DIEVUSHKIN
+44085	Barbara Alexievna
+44203	Rataziaev
+44261	Rataziaev
+44305	Lovelace
+44353	Phaldoni
+44573	MAKAR ALEXIEVITCH
+44757	Makar Alexievitch
+44848	Thedora
+45053	Makar Alexievitch
+45142	Makar Alexievitch
+45364	BARBARA ALEXIEVNA,-Yes
+45530	Emelia
+45601	MAKAR DIEVUSHKIN
+45611	BARBARA ALEXIEVNA
+45998	Emelia
+46398	MAKAR DIEVUSHKIN
+46415	Makar Alexievitch
+47401	Iliana
+47466	Frolovna
+47964	Thedora
+48200	BARBARA
+48778	Barbara
+50262	Barbara
+50271	Christ
+51129	Barbara
+51217	Barbara
+51284	Gorshkov
+51551	Makar Alexievitch
+51776	Makar Alexievitch
+51991	Barbara
+52032	Gorshkov
+52076	Gorshkov
+52163	Gorshkov
+52181	Gorshkov
+52238	Gorshkov
+52437	Christ
+52479	MAKAR DIEVUSHKIN
+52487	BARBARA ALEXIEVNA
+52643	Timothei Ivanovitch
+52655	Makar Alexievitch
+52846	Emelia Ivanovitch
+52920	Efim Akimovitch
+52947	Makar Alexievitch
+53103	Dievushkin
+53118	Evstafi Ivanovitch
+53127	Makar Alexievitch
+53372	Dievushkin
+53441	Evstafi Ivanovitch
+53732	Theresa
+53819	Evstafi Ivanovitch
+53878	Evstafi
+54010	Dievushkin
+54649	MAKAR DIEVUSHKIN
+54657	MAKAR ALEXIEVITCH
+54831	Makar Alexievitch
+54906	BARBARA ALEXIEVNA
+54929	Thedora
+55053	Theresa
+55075	Rataziaev
+55249	Barbara
+55344	Emelia Ivanovitch
+55347	Aksenti Michaelovitch
+55604	Markov
+55705	Barbara
+55735	Barbara
+55845	Barbara
+56066	MAKAR DIEVUSHKIN
+56074	MAKAR ALEXIEVITCH
+56103	Monsieur Bwikov
+56177	Anna Thedorovna
+56185	Thedora
+56246	Thedora
+56337	Thedora
+56436	Thedora
+56558	Aksinia
+56577	Nastasia
+56600	Anna Thedorovna
+56654	Thedora
+56716	Bwikov
+56737	Christ
+56745	Makar Alexievitch
+56749	Christ
+56763	BARBARA ALEXIEVNA
+56797	Gorshkov
+57089	Rataziaev
+57095	Gorshkov
+57133	Gorshkov
+57142	Gorshkov
+57159	Rataziaev
+57244	Gorshkov
+57328	Gorshkov
+57548	Gorshkov
+58031	Gorshkov
+58147	MAKAR DIEVUSHKIN
+58155	BARBARA ALEXIEVNA
+58166	Rataziaev
+58300	MAKAR DIEVUSHKIN
+58308	MAKAR ALEXIEVITCH
+58337	Bwikov
+58352	Thedora
+58493	Bwikov
+58570	Barbara Alexievna
+58587	Anna Thedorovna
+59372	Thedora
+59550	Bwikov
+59630	Bwikov
+59673	Makar Alexievitch
+59763	Bwikov
+59800	BARBARA ALEXIEVNA
+59833	Gorshkov
+59838	Bwikov
+59940	Monsieur Bwikov
+59968	Monsieur Bwikov
+60211	Thedora
+60261	Bwikov
+60372	Bwikov
+60396	MAKAR DIEVUSHKIN
+60403	MAKAR ALEXIEVITCH
+60407	Bwikov
+60448	Monsieur Bwikov
+60552	Bwikov
+60666	Bwikov
+60737	Bwikov
+60757	Bwikov
+60946	Makar Alexievitch
+61013	Makar Alexievitch
+61038	Makar Alexievitch
+61108	BARBARA ALEXIEVNA
+61364	Bwikov
+61381	MAKAR DIEVUSHKIN
+61389	MAKAR ALEXIEVITCH
+61421	Monsieur Bwikov
+61551	Bwikov
+61592	BARBARA ALEXIEVNA
+61676	Emelia Ivanovitch
+61740	MAKAR DIEVUSHKIN
+61748	BARBARA ALEXIEVNA
+61758	Thedora
+61783	Bwikov
+61828	Monsieur Bwikov
+62222	Makar Alexievitch
+62284	MAKAR DIEVUSHKIN
+62292	MAKAR ALEXIEVITCH
+62622	Barbara
+62642	Thedora
+62656	Monsieur Bwikov
+62780	Monsieur Bwikov
+62838	Barbara
+62841	BARBARA
+63025	Monsieur Bwikov
+63369	Monsieur Bwikov
+63479	Barbara
+63718	Monsieur Bwikov
+63809	Monsieur Bwikov
+63909	Barbara
+63929	Monsieur Bwikov

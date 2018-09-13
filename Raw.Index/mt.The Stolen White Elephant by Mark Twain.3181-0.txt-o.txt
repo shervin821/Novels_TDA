@@ -1,0 +1,61 @@
+801	Alaric
+862	Hassan Ben
+864	Ali Ben
+866	Selim Abdallah
+868	Mohammed Moisé
+870	Alhammal Jamsetjejeebhoy
+872	Dhuleep Sultan
+874	Ebu Bhudpoor
+1222	Alaric
+1252	Alaric
+1344	Alaric
+1370	Alaric
+1964	Dore Bibles
+2363	Alaric
+2367	Burns
+2370	Burns
+2415	Burns
+2419	Jones
+2421	Davis
+2423	Halsey
+2425	Bates
+2428	Hackett
+2446	Dakin
+2448	Murphy
+2452	Tupper
+2454	Higgins
+2457	Bartholomew
+3239	Duffy
+3244	McFadden
+3305	Duffy
+3307	McFadden
+4074	Darley
+4106	BARKER
+4256	N. Y.
+4342	Darley
+4593	Alaric
+4597	Burns
+4601	Burns
+4790	GLOVER
+4851	O'Shaughnessy
+5126	Barnum
+5190	Barnum
+5220	Barnum
+5250	Barnum
+5281	-- P.
+5283	T. BARNUM
+5366	Burke
+5437	Burke
+5452	Burke
+5479	Burke
+5701	Brown
+5745	Brown
+6127	O'Donohue
+6129	McFlannigan
+7186	Brick Duffy
+7197	Red McFadden
+7219	BRIDGET MAHONEY
+7226	Red McFadden
+7244	MARY O'HOOLIGAN
+7926	Darley
+8051	Hassan

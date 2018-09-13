@@ -1,0 +1,3035 @@
+61	Harlot Throned
+82	Roger
+86	Moll White
+138	Chalmers
+189	Mary
+193	David
+221	Kelso
+277	David
+2076	Mary
+3416	Corrie nan
+3418	Shian
+3790	Simon Glendinning
+3807	Glendonwyne
+3857	Simon
+3900	Simon
+3965	Simon Glendinning
+4029	Queen Mary
+4038	Henry VIII
+4196	Simon Glendinning
+4250	Simon
+4252	Elspeth Brydone
+4363	Roxburgh
+4501	Stawarth Bolton
+4534	Elspeth Brydone
+4717	Elspeth Brydone
+4915	Stawarth Bolton
+5052	Squire Dacre
+5215	Donald McDonald
+5217	of Kinloch-Moidart
+5246	Mary
+5248	Lady Clerk
+5250	of Pennycuik
+5393	George
+5417	George
+5435	Stawarth Bolton
+5515	Stawarth Bolton
+5525	Halbert Glendinning
+5597	Edward
+5718	Stawarth
+5758	Lincoln
+5779	Dame Bolton
+5842	Halbert
+5890	Stawarth
+5936	Edward
+5956	Stawarth Bolton
+6073	Brittson
+6111	-- Dame
+6114	Brittson
+6140	Dame Glendinning
+6286	Bolton
+6367	Stawarth Bolton
+6382	Elspeth Glendinning
+6486	Elspeth
+6548	Brittson
+6596	AULD MAITLAND
+6608	Mary
+6618	Glendearg
+6666	Elspeth Glendinning
+6690	Walter Avenel
+6739	Mary
+6813	Walter Avenel
+6902	Walter Avenel
+7026	Tibb Tacket
+7231	Martin
+7269	Grizzle
+7271	Crumbie
+7313	Martin
+7398	Martin
+7514	Simon Glendinning
+7556	Elspeth Glendinning
+7654	Martin
+7719	-- Dame
+7721	Elspeth
+7770	Martin
+7791	Tibb
+7823	Martin
+7846	Dame Glendinning
+7866	Martin
+7941	Tibb
+7966	Elspeth Glendinning
+8120	Shagram
+8170	Shagram
+8225	Martin
+8416	Gines de
+8418	Passamonte
+8687	Ou
+8729	Ou
+8836	Mary
+8898	Mary Avenel
+8915	Shagram
+8934	Tibb
+8941	Martin
+8956	Martin
+9082	Martin
+9111	Glendearg
+9180	Martin
+9344	Martin
+9359	Shagram
+9372	Shagram
+9418	Martin
+9456	Shagram
+9541	Martin
+9570	Shagram
+9586	Martin
+9601	Martin
+9708	Shagram
+9766	Tibb
+9772	Martin
+9791	Martin
+9819	Martin
+9965	Martin
+10052	Martin
+10078	Dame Elspeth
+10105	Martin
+10173	Elspeth Glendinning
+10268	COLLINS
+10338	Julian Avenel
+10347	Walter
+10458	Walter Avenel
+10475	Julian
+10514	Mary
+10558	Julian
+10579	Elspeth Glendinning
+10635	Julian Avenel
+10667	Walter Avenel
+10670	Simon Glendinning
+10720	Elspeth
+10760	Walter Avenel
+10769	Martin
+10814	Dame Elspeth
+10962	Alice
+11039	Mary of
+11041	Guise
+11052	Julian Avenel
+11147	Alice
+11343	Martin
+11371	Dame Elspeth
+11381	Tibb
+11424	Martin
+11569	Alice
+11688	Alice
+11751	Elspeth
+11877	Christie
+11883	Martin
+11908	Elspeth
+11980	Halbert Glendinning
+12017	Mary
+12073	Christie
+12079	Martin
+12090	Mary
+12111	Dame Elspeth
+12245	Dame Elspeth
+12299	Mary
+12318	Mary
+12357	Mary
+12373	Halbert
+12375	Edward
+12387	Halbert Glendinning
+12409	Edward
+12415	Mary
+12419	Elspeth
+12468	Elspeth
+12489	Christie
+12520	Christie
+12524	Mary
+12564	Tibb
+12656	Elspeth
+12673	Mary
+12712	Tibb
+12726	Elspeth
+12732	Mary
+12820	Elspeth
+12888	Christie
+12931	Dame Elspeth
+12936	Tibb
+13010	Dame Elspeth
+13027	Tibb
+13094	Stawarth Bolton
+13106	Andrew
+13212	Dame Elspeth
+13273	Elspeth Glendinning
+13285	Tibb
+13301	Dame Glendinning
+13313	Tibb
+13360	Tibb
+13403	Dame Glendinning
+13429	Dame Elspeth
+13467	Tibb
+13471	Dame Glendinning
+13584	Tibb
+13630	Tibb
+13720	Nicolas
+13731	Father Clement
+13862	Simon Glendinning
+13928	Nicolas
+13930	Simon
+13955	Simon
+13995	Tibb
+14063	Tibb
+14067	Dame Glendinning
+14113	Robin Hood
+14120	David Lindsay
+14180	Dame Glendinning
+14256	Halbert
+14260	Edward
+14302	Tibb
+14401	Dame Glendinning
+14428	Tibb
+14451	ken Martin
+14470	Elspeth
+14489	Dame Elspeth
+14494	Tibb
+14536	Elspeth
+14571	Tibb
+14610	Saunt Anthony
+14613	Saunt Cuthbert
+14692	Walter Avenel
+14713	Elspeth
+14780	Tibb
+14815	Dame Glendinning
+14839	Saunt Paul
+14961	Simon Glendinning
+15012	Tibb
+15057	Tibb
+15251	Elspeth Glendinning
+15271	Alice
+15332	Elspeth Glendinning
+15364	Martin
+15371	Shagram
+15384	Mary
+15398	Walter Avenel
+15403	Sacristan
+15409	Abbot
+15417	Walter de
+15419	Avenel
+15452	Walter de
+15454	Avenel
+15515	Sacristan
+15555	Walter de
+15557	Avenel
+15594	Elspeth Glendinning
+15737	Philip
+15781	Philip
+15855	Philip
+15869	Julian de
+15871	Avenel
+15951	Abbot Boniface
+16033	Eustace
+16072	Abbot
+16085	Sacristan
+16095	Martin
+16130	Shagram
+16151	Dame Elspeth
+16178	Elspeth
+16331	Elspeth
+16364	Dame Elspeth
+16431	Dame Elspeth
+16450	Elspeth
+16552	Elspeth
+16579	Elspeth
+16737	Philip
+16856	Dame Elspeth
+16974	Alice
+17047	Elspeth
+17131	Dame Elspeth
+17210	Elspeth
+17308	Elspeth
+17322	Peter
+17325	Paul
+17375	Elspeth
+17465	Philip
+17482	Mary
+17505	Abbot
+17514	Sacristan
+17517	Mary
+17592	Sacristan
+17689	Bernard
+17726	Mary
+17771	Martin
+17857	Dame Elspeth
+17942	Philip
+18119	Philip
+18768	Gordon
+19015	John Mercer
+19037	David Kyle
+19042	George Inn
+19068	John Pringle
+19093	Pringle
+19121	Mary
+19290	Philip
+19360	Peter
+19369	Sacristan
+19381	Peter
+19392	Peter
+19409	Philip
+19416	Peter
+19435	Sacristan
+19529	Peter
+19540	Philip
+19565	Peter
+19653	Philip
+19866	Father Philip
+19893	Mary
+20003	Sacristan
+20168	Philip
+20262	Philip
+20366	Sacristan
+20549	Philip
+20591	Kelpy
+21060	Sain
+21550	Mary
+21580	Mother
+21602	Abbot Boniface
+21646	Andrews
+21733	Eustace
+21815	Eustace
+21827	Abbot
+21843	Eustace
+21856	Eustace
+21902	Eustace
+21975	Eustace
+22049	Eustace
+22094	Eustace
+22124	Philip
+22235	Eustace
+22266	Abbot Boniface
+22514	Abbot
+22522	Eustace
+22536	Eustace
+22596	Eustace
+22688	Bennet
+22704	Father Eustace
+22744	Abbot
+22835	Bourdeaux
+22843	Eustace
+22937	Abbot
+23133	Abbot Boniface
+23336	Mary
+23418	Kelso
+23451	Eustace
+23512	Abbot
+23559	Mary
+23588	Father Eustace
+23622	Eustace
+23698	Bridget
+23720	Charles of
+23722	Meigallot
+23833	Mary
+23836	Sacristan
+23928	Eustace
+23950	Mary
+23971	Brother Eustace
+23991	Sub-Prior
+24005	Eustace
+24224	Bennet
+24269	Sancta Maria
+24296	Eustace
+24377	Eustace
+24446	Sacristan
+24537	Eustace
+24544	Philip
+24679	Hob Miller
+24726	Giles Fletcher
+24752	Mary
+24798	Sacristan
+24862	Brother Eustace
+24871	Hob Miller
+24955	Philip
+24959	Eustace
+25004	Sacristan
+25052	Abbot
+25104	Eustace
+25122	Sacristan
+25144	Philip
+25174	Eustace
+25293	Eustace
+25317	Philip
+25345	Abbot
+25442	Miller
+25457	Sacristan
+25500	Sacristan
+25574	Philip
+25619	Eustace
+25764	Eustace
+25809	Philip
+25824	Sacristan
+25904	Sacristan
+25924	Eustace
+26025	Sacristan
+26071	Eustace
+26083	Sacristan
+26153	Mary
+26167	Sacristan
+26205	Eustace
+26270	Philip
+26321	Father Eustace
+26511	Eustace
+26517	Boniface
+26579	Sacristan
+26596	Kelpies
+26635	Philip
+26686	Sacristan
+26849	Abbot
+26903	Sacristan
+26945	Philip
+27047	Eustace
+27057	Sacristan
+27099	Eustace
+27206	Sub-Prior
+27258	Peter
+27314	Father Eustace
+27375	Eustace
+27674	Eustace
+27741	Eustace
+27928	Eustace
+27996	Philip
+28094	Dame Glendinning
+28118	Martin
+28125	Jasper
+28139	Sub-Prior
+28203	Eustace
+28229	Dame Alice
+28284	Philip
+28299	Dame of
+28301	Glendearg
+28307	Philip
+28329	Philip
+28363	Dame Glendinning
+28469	Dame Glendinning
+28506	Philip
+28548	Dame Glendinning
+28574	Philip
+28582	Martin
+28616	Waldave
+28725	Halbert
+28728	Edward
+28742	Halbert
+28759	Cuthbert
+28771	Mary Avenel
+28812	Martin
+28880	Halbert
+28924	Eustace
+29058	Elspeth
+29092	Philip
+29150	Dame Glendinning
+29188	Martin
+29193	Tibb
+29390	Dame Glendinning
+29428	Kate Happer
+29450	Kate
+29477	Father Eustace
+29625	Dame Glendinning
+29791	Dame Glendinning
+29902	Elspeth
+30025	Dame Glendinning
+30337	Elspeth
+30434	Walter Avenel
+30804	Eustace
+30848	Dame Glendinning
+31033	Eustace
+31078	Dame of
+31080	Glendearg
+31254	Elspeth
+31315	Glendinning
+31564	Sub-Prior
+31654	Elspeth
+31815	Simon Glendinning
+31879	Begrutten
+31943	Dame Glendinning
+32005	Philip
+32009	Sacristan
+32036	Simon
+32129	John Up-on-land
+32290	John Upland
+32360	John Up-on-land
+32363	Christie of
+32365	the Clinthill
+32496	Dame Glendinning
+32559	Dame Glendinning
+32719	Dame Glendinning
+32749	Christie of
+32751	the Clinthill
+32783	Laird
+32810	Mary
+32852	Walter
+32869	Abbot
+33034	Mary
+33111	Priest
+33186	James
+33231	Dame Glendinning
+33240	Tibb Tacket
+33243	Martin
+33250	-- Christie
+33316	Christie
+33351	Norman Leslie
+33368	Norman
+33549	Christie
+33552	Clinthill
+33606	Walter
+33709	Halbert
+33765	Christie
+33782	Simon
+33809	Christie
+33916	Christie
+34018	Dame Elspeth
+34102	Christie of
+34104	the Clinthill
+34142	Julian
+34250	Edward
+34255	Dame Elspeth
+34272	Mary
+34288	Tibb
+34310	Glendinning
+34347	Mary
+34354	Mary
+34430	Halbert
+34441	Christie
+34467	Edward
+34518	Mary
+34589	Edward
+34610	George
+34615	Halbert
+34622	Michael
+34639	Halbert
+34646	John
+34682	Mary
+34700	Mary Magdalen
+34724	Mary
+34761	Mary
+34825	Mary
+34853	Mary
+34876	Mary
+35007	Edward
+35013	Mary
+35065	Christie
+35074	Edward
+35097	Sub-Prior
+35492	Aberbrothwick
+35498	Angus
+35827	Philip the
+35829	Sacristan
+35961	Sain
+36405	Cornelius Agrippa
+36678	Sub-Prior
+36970	Peter
+37004	Eustace
+37106	Father Eustace
+37176	Peter Bridge-Ward
+37286	Peter
+37366	Eustace
+37400	Philip
+37562	Holy Kirk
+37592	-- Avow
+37769	Eustace
+37850	Mary
+37903	Eustace
+38073	Father Eustace
+38116	Abbot
+38198	Henry Jenkins
+38295	Decker
+38324	Christie of
+38326	the Clinthill
+38527	Father Eustace
+38543	Christie
+38579	Christie
+38621	Giles
+38635	Laird
+38660	Wiseheart
+38706	Sacristan
+38709	Abbot
+38807	Mary
+39390	Mary
+39404	Father Eustace
+39466	James
+39473	Jedwood
+39577	Father Eustace
+39598	Christie of
+39600	the Clinthill
+39630	Abbot
+39659	Sacristan
+39742	Julian
+39760	Sacristan
+39786	Father Eustace
+39953	Giles
+40028	Peter
+40280	Wroth
+40305	Abbot
+40322	Christie of
+40324	the Clinthill
+40336	Mary
+40347	Father Eustace
+40395	Oremus
+40417	Clinthill
+40458	Christie
+40564	Bailie
+40585	Christie
+40606	Abbot
+40620	Christie
+40690	Father Eustace
+40722	Sacristan
+40830	Mary
+40929	Abbot Ingilram
+40961	John the
+40963	Armstrang
+41077	Nicolas
+41129	Mary
+41146	Nicolas
+41190	Nicolas
+41221	Sub-Prior
+41368	Abbot
+41380	Eustace
+41407	Eustace
+41456	Sub-Prior
+41483	Philip the
+41485	Sacristan
+41580	Abbot
+41667	Abbot Boniface
+41711	Eustace
+42003	Abbot
+42214	Eustace
+42265	Sub-Prior
+42414	Eustace
+42457	Abbot
+42750	Nicolas
+42899	Father Eustace
+42953	Nicolas
+42959	Abbot
+42974	Eustace
+43021	Sub-Prior
+43067	Eustace
+43248	Sub-Prior Eustace
+43482	Glendearg
+43527	Edward Glendinning
+43531	Mary Avenel
+43551	Eustace
+43589	Eustace
+43598	Edward
+43678	Mary
+43722	Elspeth Glendinning
+43752	Eustace
+43830	Edward
+43884	Mary
+43971	Halbert
+44022	Elspeth
+44049	Halbert
+44178	Edward
+44199	Halbert
+44255	Edward
+44267	Sub-Prior
+44303	Dame Elspeth
+44308	Edward
+44426	Fisher
+44538	Edward Glendinning
+44608	Chaucer
+44613	Elizabeth
+44648	Father Eustace
+44685	Mary Avenel
+44775	Edward
+44803	Halbert
+44840	Sub-Prior
+44859	Halbert
+44925	Mary Avenel
+44952	Edward
+44959	Laird
+44979	Halbert
+45008	Mary Avenel
+45034	Halbert
+45036	-- ``
+45038	Mary
+45069	Halbert
+45073	Mary
+45110	Edward
+45128	Halbert
+45246	Halbert
+45298	Edward
+45388	Halbert
+45459	Mary Avenol
+45469	Halbert
+45500	Mary
+45558	Mary
+45581	Halbert
+45593	Edward
+45613	Edward
+45634	Halbert
+45777	Edward
+45828	Halbert Glendinning
+45924	Edward
+45990	Mary Avenel
+45997	Edward
+46027	Mary
+46030	Halbert
+46059	Edward
+46082	Edward
+46085	Halbert
+46130	Mary
+46136	Halbert
+46165	Edward
+46177	Halbert
+46319	Glendearg
+46363	Halbert
+46497	Halbert
+46512	Edward
+46518	Mary
+46692	Glendinning
+46837	Halbert Glendinning
+46863	Coleridge
+46941	Halbert Glendinning
+47078	Halbert
+47264	Halbert
+47498	Halbert
+47531	Halbert
+47558	Mary Avenel
+47688	Halbert
+47803	Halbert
+47838	Mary
+47931	Glendinning
+48187	Glendinning
+48298	Halbert Glendinning
+48453	Halbert
+48844	Glendinning
+48905	Halbert
+49095	Halbert
+49247	Halbert Glendinning
+49338	Halbert
+49673	Adam
+49739	Halbert
+49868	Coleridge
+50051	Halbert
+50262	Halbert
+50279	Miller
+50326	Halbert Glendinning
+50365	Halbert
+50388	Halbert
+50459	Elspeth
+50508	Hob Miller
+50523	Happer
+50529	Miller
+50536	Glendearg
+50790	Miller
+50804	Hob Miller
+50881	Dame Elspeth
+50953	Martin
+50981	Miller
+50984	Glendearg
+50994	Dame Glendinning
+51034	Mysie
+51080	Sub-Prior
+51136	Mysie
+51149	Mysie
+51210	Miller
+51222	Mysie
+51294	Elspeth
+51311	Halbert
+51359	Mysie Happer
+51373	Hob Miller
+51389	Mysie
+51399	Dame Glendinning
+51429	Dame Glendinning
+51447	Mysie Happer
+51474	Halbert
+51478	Mysie
+51503	Halbert
+51538	Chaucer
+51540	James I.
+51560	James I.
+51568	Miller
+51797	Dame Glendinning
+51818	Edward
+51859	Mary Avenel
+52022	Edward
+52084	Edward
+52113	Glendinning
+52120	Edward
+52128	Miller
+52244	Miller
+52275	Mysie
+52287	Johnnie Broxmouth
+52320	Dame Elspeth
+52355	Dame Glendinning
+52474	Johnny Broxmouth
+52512	Simon
+52555	Hob Miller
+52601	Elspeth
+52660	Martin
+52775	Knabe
+52801	Paul
+52848	Dame Elspeth
+52854	Martin
+52938	Andrea Ferrara
+52946	Martin
+53127	Mysie
+53187	Miller
+53227	Dame Elspeth
+53268	Miller
+53302	Elspoth
+53457	Elspeth
+53477	Halbert
+53492	Halbert
+53526	Dame Elspeth
+53551	Mysie
+53709	Halbert
+53751	Dame Glendinning
+53772	Halbert
+53904	Miller
+54013	Simon
+54106	Halbert
+54161	Miller
+54178	Edward
+54188	Abbot
+54208	Miller
+54218	Sub-Prior
+54263	Miller
+54267	Edward
+54309	Halbert
+54319	Halbert
+54321	-- Edward
+54338	Edward
+54351	Laird
+54353	Colmslie
+54382	Miller
+54413	Miller of
+54415	Morebattle
+54425	Eckford
+54437	Dame Glendinning
+54448	Laird
+54510	Miller
+54564	Percy
+54570	Laird
+54610	Dame Glendinning
+54630	Halbert
+54655	Tom
+54666	Abbot
+54684	Miller
+54694	Kennaquhair
+54714	Halbert
+54722	Miller
+54740	MacFarlane
+54789	MacFarlane
+54825	James VI
+54875	James
+54880	MacFarlane
+54911	Miller
+54916	Halbert
+54918	Dame Glendinning
+54923	Mary Avenel
+54931	Mysie Happer
+54992	Tibb
+55023	Bruce
+55038	Dame Glendinning
+55087	John Plaintext
+55102	Alderman
+55109	Yon
+55162	Hob Miller
+55166	Mary Avenel
+55176	Dame Elspeth
+55178	Glendinning
+55212	Miller
+55297	Mary Avenel
+55504	Mary
+55598	Simon Glendinning
+55615	Edward
+55633	Halbert
+55642	Halbert
+55673	Edward
+55700	Halbert
+55798	Julian Avenel
+55858	Mary Avenel
+55916	Mysie
+56075	Mary Avenel
+56113	Mysie
+56146	Tibb Tacket
+56183	Mysie
+56226	Mary
+56323	Mary Avenel
+56355	Mysie
+56366	Mary Avenel
+56419	Mary
+56446	Mary Avenel
+56470	Mysie
+56534	Christie of
+56536	the Clinthill
+56620	Mysie
+56662	Christie
+56714	Halbert Glendinning
+56719	Mary
+56736	Elspeth
+56768	Mysie
+56778	Glendinnings
+56926	Mary
+56978	Mysie
+57009	Mary
+57021	Mysie
+57091	Mary Avenel
+57170	Christie of
+57172	the Clinthill
+57231	Christie
+57277	Martin
+57283	Dame Glendinning
+57324	Martin
+57334	Christie
+57342	Truepenny
+57387	Martin
+57423	Jasper
+57439	Christie
+57450	Christie
+57453	Clinthill
+57598	Jasper
+57617	Martin
+57664	Jasper
+57670	Christie
+57730	Christie
+57736	Dame Glendinning
+57740	Piercie Shafton
+57851	Dame Glendinning
+58003	Piercie Shafton
+58008	Christie
+58083	Mary Avenel
+58086	Christie
+58115	Piercie Shafton
+58128	Edward
+58136	Abbot
+58144	Christie
+58230	Dame Glendinning
+58332	Piercie Shafton
+58342	Mary Avenel
+58408	Piercie Shafton
+58522	Mary Avenel
+58587	Piercie Shafton
+58599	Miller
+58644	Mysie
+58673	John Lylly
+58687	Phoebus
+58719	Blount
+58725	Lylly
+58948	Piercie Shafton
+58966	Edward
+59019	Glendinning
+59103	Edward Glendinning
+59190	Mary Avenel
+59297	Edward
+59346	Christie
+59494	Piercie Shafton
+59549	Miller
+59580	Christie
+59583	Clinthill
+59624	Euphuism
+59729	Venus
+59745	Alexander
+59763	Mary
+59939	Mary
+59943	Christie of
+59945	the Clinthill
+59971	Long Dickie
+60023	Christie
+60055	Mary Avenel
+60170	Knight
+60180	Edward
+60332	Dame Glendinning
+60352	Happer
+60375	Miller
+60411	Christie
+60589	Christie
+60616	Hunsdon
+60619	Henry Carey
+60642	Bayard
+60684	Mary Avenel
+60784	Knight
+60788	Mary
+60811	Halbert Glendinning
+60902	Happer
+60917	Halbert
+61081	Halbert
+61206	Halbert
+61350	Dame Glendinning
+61427	Mungo Murray
+61438	Auld Kirkhill
+61475	Diccon Thorburn
+61565	Christie
+61568	Clinthill
+61609	Christie
+61719	Tibb Tacket
+61762	Tibb
+61765	Tibb
+61823	Halbert
+61964	Elspeth
+62033	Abbot
+62087	Christie
+62096	Edward
+62104	Halbert
+62173	Piercie Shafton
+62295	Piercie
+62366	Christie
+62394	Dame Elspeth
+62403	Tibb Tacket
+62425	Desdemona
+62438	Glendinnings
+62510	Christie
+62513	Clinthill
+62635	Christie
+62651	Halbert
+62793	Halbert
+62814	Glendinning
+62827	Knight
+62936	Piercie Shafton
+62952	Halbert
+62984	Glendinning
+63030	Knight
+63130	Knight
+63252	Abbot
+63300	Knight
+63306	Glendinning
+63372	Mary Avenel
+63549	Mary Avenel
+63667	Piercie Shafton
+63710	Miller
+63788	Dame Glendinning
+63805	Miller
+63815	Elspeth
+63879	Piercie
+63897	Mysie
+63925	Mary Avenel
+63994	Halbert Glendinning
+64037	Miller
+64055	Edward
+64061	Martin
+64069	Halbert
+64089	Mary
+64113	Halbert
+64169	Halbert Glendinning
+64244	Mary Avenel
+64375	Knight
+64394	Mary Avenel
+64473	Elizabeth
+64478	Philip Sydney
+64525	Halbert
+64656	Mary
+64661	Glendinning
+64718	Piercie
+64833	Mary
+64949	Cynthia
+65063	Wilt
+65112	Gavin Wilson
+65116	Mary Avenel
+65140	Halbert
+65181	Halbert
+65199	Piercie
+65284	Halbert
+65289	Andrew
+65346	Halbert
+65415	Halbert
+65427	Edward
+65464	Abbot
+65493	Mary
+65513	Abbot
+65560	Kamtschatka
+65587	Halbert
+65684	Edward
+65710	Halbert
+65744	Edward
+65784	Halbert
+65823	Mary Avenel
+65866	Piercie
+65982	Dame Glendinning
+65991	Mary Avenel
+66200	Piercie Shafton
+66234	Piercie Shafton
+66441	Abbot
+66485	Abbot
+66562	Dame Elspeth
+66578	Abbot
+66629	Halbert
+66694	Miller
+66715	Dame Elspeth
+66737	Mysie
+66809	Miller
+66817	Dame Elspeth
+66832	Mysie
+66913	Elspeth
+66969	Dame Glendinning
+66996	Mary Avenel
+67036	Dame Elspeth
+67066	Abbot
+67074	Edward
+67216	Piercie Shafton
+67275	Abbot
+67317	Piercie
+67322	Benedict
+67417	Boniface
+67614	Abbot
+67659	Dame Elspeth
+67668	Edward
+67686	Halbert
+67722	Dame Glendinning
+67726	Halbert
+67885	Pinkie Cleuch
+67892	Simon Glendinning
+67925	Dame Elspeth
+68004	Abbot
+68025	Simon
+68042	Abbot Boniface
+68072	Jude
+68078	Knight
+68115	Pacomius
+68144	Sacristan
+68147	Refectioner
+68153	Abbot
+68242	Mary
+68279	Mary
+68338	Timothy
+68346	Benedict
+68375	Glendearg
+68379	Timothy
+68436	Piercie
+68460	Piercie Shafton
+68540	Richard Coeur-de-Lion
+68636	Piercie Shafton
+68653	Mary
+68681	Piercie Shafton
+68727	Abbot
+68744	Hilarius
+68826	Hilarius
+68866	Refectioner
+68992	Refectioner
+69102	Hilarius
+69301	Tallboy
+69366	Hilarius
+69382	Piercie Shafton
+69470	Piercie Shafton
+69534	Piercie
+69546	Father Eustace
+69628	Dixit Abbas
+69691	Father Eustace
+69723	Piercie Shafton
+70087	Knight
+70240	Father Eustace
+70450	Piercie Shafton
+70596	Sub-Prior
+70673	Abbot
+70695	Piercie Shafton
+70776	Piercie
+70983	Piercie Shafton
+71030	Piercie
+71156	Elizabeth
+71514	Piercie
+71580	Bonamico
+71618	Alnwick
+71647	Henry Vaughan
+71733	Piercie
+71757	Henry Vaughan
+71809	Lancelot
+71812	Tristrem
+71839	Julian Avenel
+71880	Julian
+71915	Piercie
+71941	Julian Avenel
+72068	Father Eustace
+72078	Piercie
+72295	Knight
+72319	Mary
+72835	Mary
+72962	Piercie Shafton
+72974	Piercie
+73039	Howland Yorke
+73042	Stukely
+73048	Yorke
+73160	Yorke
+73201	Thomas Stukely
+73241	Curtis
+73280	Stukely
+73399	Alcazar
+73401	Stukely
+73424	Evans
+73446	George Peel
+73458	Alcazar
+73463	Dryden
+73472	Don Sebastian
+73489	Charles
+73502	Thomas Stukely
+73606	Mary
+73861	Father Eustace
+73883	Piercie Shafton
+73891	Mary
+74004	Julian Avenel
+74306	Father Eustace
+74455	Eustace
+74645	JAMES DUFF
+74656	Halbert Glendinning
+74665	Glendearg
+74676	Piercie Shafton
+74691	Martin
+74703	Halbert
+74746	Halbert
+74860	Martin
+74915	Halbert
+74973	Halbert
+74977	Martin
+75081	Halbert
+75121	Martin
+75151	Martin
+75155	Halbert
+75187	Halbert
+75239	Halbert
+75261	Martin
+75278	Martin
+75364	Halbert
+75371	Martin
+75397	Walter Avenel
+75504	Glendinning
+75511	Martin
+75570	Halbert
+75590	Halbert
+75630	Martin
+75644	Halbert
+75659	Hughie Dun
+75715	Mary
+75739	Halbert
+75753	Martin
+75766	Halbert
+75794	Martin
+75868	Hughie Dun
+75889	Bailie
+75900	Halbert
+75960	Martin
+76011	Halbert
+76064	Halbert
+76132	Martin
+76355	Martin
+76363	Halbert
+76395	Andrews
+76416	Bailie
+76621	Mary Avenel
+76718	Halbert Glendinning
+76921	bush
+77100	Halbert Glendinning
+77330	Halbert
+77814	Marv Avenel
+77826	Mary
+77900	Mary Avenel
+77912	Halbert
+78042	Halbert
+78092	Norman Ulric
+78164	Glendinning
+78459	Glendinning
+78492	Mary Avenel
+78620	Halbert Glendinning
+78680	Piercie Shafton
+78739	Halbert Glendinning
+78905	Edward
+78926	Edward
+78943	Piercie Shafton
+79011	Mary
+79117	Abbot
+79124	Piercie Shafton
+79127	Dame Glendinning
+79155	Mary
+79168	Mary Avenel
+79175	Edward Glendinning
+79263	Piercie Shafton
+79382	Piercie Shafton
+79466	Knight
+79531	Piercie
+79629	Piercie
+79667	Julian
+79669	Santa Maria
+79786	Eustace
+79959	Father Refectioner
+80218	Mary
+80287	Abbot
+80331	Dame Glendinning
+80406	Piercie
+80467	Robin Hood
+80541	Glendinning
+80589	Father Kitchener
+80605	Dame Glendinning
+80649	Kirk
+80761	Abbot
+80965	Halbert
+81015	Martin
+81051	Father Eustace
+81086	Piercie Shafton
+81125	Piercie Shafton
+81224	Piercie
+81248	David
+81314	Dame Glendinning
+81555	Dame Glendinning
+81626	Halbert
+81654	Halbert
+81694	Elspeth
+82009	Father Eustace
+82040	Piercie Shafton
+82260	Halbert
+82285	Abbot
+82302	Dame Glendinning
+82344	Refectioner
+82361	Halbert
+82411	Halbert Glendinning
+82421	Abbot
+82478	Halbert
+82634	Glendinning
+82659	Halbert
+82769	Glendinning
+82798	Glendearg
+82814	Piercie Shafton
+82851	Piercie
+82936	-- Halbert
+83040	Halbert
+83251	Glendinning
+83423	Mary Avenel
+83522	Father Eustace
+83549	Sub-Prior
+83602	Eustace
+83627	Halbert
+83693	Halbert
+83741	Piercie Shafton
+83836	Piercie
+83905	Halbert Glendinning
+83929	Glendearg
+83932	Miller
+83955	Piercie Shafton
+83960	Mary Avenel
+83963	Dame Glendinning
+83974	Halbert
+83999	Edward
+84024	Dame Elspeth
+84116	Halbert
+84214	Mary
+84281	Glendinning
+84439	Halbert Glendinning
+84494	Abbot
+84576	Halbert Glendinning
+84689	Halbert
+84706	Simon Glendinning
+84734	Mary
+84764	Dame Glendinning
+84787	Edward
+85130	Piercie
+85177	Piercie Shafton
+85226	Halbert Glendinning
+85403	Piercie Shafton
+85414	Knight
+85418	Halbert
+85451	Piercie
+85465	Glendinning
+85506	Piercie Shafton
+85587	Glendinning
+85654	Piercie Shafton
+85676	Halbert Glendinning
+85708	Halbert Glendinning
+85858	Halbert Glendinning
+85899	Eustace
+85912	Halbert
+85960	Piercie Shafton
+85972	Halbert
+86041	Piercie Shafton
+86064	Halbert Glendinning
+86162	Abbot
+86177	Piercie Shafton
+86253	Halbert
+86339	Glendinning
+86356	Father Eustace
+86703	Piercie
+86919	Piercie Shafton
+87016	Abbot
+87113	Abbot
+87338	Dame Glendinning
+87346	Mary Avenel
+87353	Miller
+87368	Halbert
+87389	Edward
+87406	Piercie Shafton
+87502	Piercie
+87538	Halbert
+87628	Halbert
+87736	Halbert Glendinning
+87755	Edward
+87804	Piercie Shafton
+87948	Halbert
+88036	Piercie Shafton
+88097	Halbert Glendinning
+88164	Piercie
+88199	Piercie
+88336	Halbert
+88501	Halbert Glendinning
+88544	Piercie
+88609	Glendinning
+88717	Piercie Shafton
+88762	Halbert Glendinning
+88796	Piercie Shafton
+88890	Villagio
+88937	Piercie
+89005	Piercie Shafton
+89117	Piercie Shafton
+89169	Mary Avenel
+89266	Philip Sidney
+89534	Piercie Shafton
+89589	Mary Avenel
+89616	Mysie
+89632	Edward
+89677	Halbert
+89825	Halbert
+89906	Piercie
+89946	Glendearg
+89953	Piercie
+89964	Albert
+89968	Halbert
+89972	Elspeth
+89978	Halbert
+89984	Halbert Brydone
+89999	Halbert
+90046	Dame Elspeth
+90152	Piercie
+90204	Halbert
+90220	-- Halbert
+90361	Dame Glendinning
+90457	Dame Glendinning
+90480	Shakspeare
+90574	Halbert
+90578	Piercie Shafton
+90598	Halbert
+90615	Edward
+90795	Mary Avenel
+90915	Halbert
+90950	Mary Avenel
+91078	Halbert Glendinning
+91171	Piercie Shafton
+91253	Piercie Shafton
+91568	Halbert Glendinning
+91670	Halbert Glendinning
+91687	Edward
+91700	Edward
+91716	Halbert
+91741	Edward
+91768	Edward
+91783	Halbert
+91847	Halbert
+91885	Halbert
+91916	Edward
+91936	Edward
+91974	Halbert
+91997	Halbert
+92051	Edward
+92298	Halbert
+92333	Edward
+92366	Eustace
+92472	Halbert
+92530	Halbert
+92545	Edward
+92591	Father Eustace
+92727	Halbert
+92816	Halbert Glendinning
+92928	Mary Avenel
+92944	Halbert
+92971	Mary Avenel
+93031	Mary
+93039	Halbert
+93096	Halbert
+93150	Mary
+93154	Halbert
+93311	Halbert
+93341	Edward
+93345	Halbert
+93359	Mary Avenel
+93371	Edward
+93378	Halbert
+93435	Halbert
+93499	Mary Avenel
+93578	Mary Avenel
+93600	Halbert
+93640	Mary Avenel
+93656	Halbert Glendinning
+93665	Mary
+93820	Halbert
+93836	Mary
+93902	Mary Avenel
+93914	Halbert Glendinning
+93951	Halbert
+94028	Halbert
+94047	Mary Avenel
+94163	Piercie Shafton
+94184	Mary Avenel
+94258	Phidel
+94271	Felicia
+94306	Piercie Shafton
+94400	Piercie Shafton
+94544	Halbert
+94581	Glendinning
+94737	Piercie
+94794	Halbert
+94918	Halbert
+94934	Martin
+94942	Christie
+95141	Halbert
+95326	Vincentio Saviola
+95389	Halbert
+95606	Piercie Shafton
+95615	Halbert Glendinning
+95818	Halbert Glendinning
+95988	Piercie Shafton
+96057	Halbert Glendinning
+96065	Piercie Shafton
+96148	Sidney
+96166	Felicia
+96217	Urania
+96329	Halbert
+96355	Piercie
+96368	Knight
+96441	Piercie
+96461	Felicia
+96574	Knight
+96581	Halbert Glendinning
+96589	Piercie
+96624	Piercie Shafton
+96663	Halbert
+96690	Piercie Shafton
+96714	Glendinning
+96776	Glendinning
+96873	Piercie
+96907	Halbert
+96941	Piercie
+96977	Halbert
+97056	Halbert Glendinning
+97103	Knight
+97302	Father Eustace
+97307	Halbert
+97339	Piercie Shafton
+97414	Halbert Glendinning
+97450	Piercie Shafton
+97611	Halbert Glendinning
+97639	Piercie Shafton
+97819	Mary
+97875	Halbert
+98055	Piercie Shafton
+98461	Mary
+98503	Halbert Glendinning
+98842	Halbert Glendinning
+99491	Halbert
+99620	Halbert
+99666	Corri
+99875	Halbert Glendinning
+99896	Piercie Shafton
+99963	Halbert
+100032	Halbert
+100180	Halbert
+100248	Halbert
+100355	Glendinning
+100442	Halbert
+100452	Piercie Shafton
+100484	Piercie Shafton
+100494	Piercie Shafton
+100510	Piercie
+100544	Piercie Shafton
+100628	Halbert
+100653	Shafton
+100704	Piercie
+100727	Mary Avenel
+100776	Halbert
+100789	Edward
+100887	Julian
+100922	Piercie Shafton
+100931	Christie of
+100933	the Clinthill
+100981	Julian Avenel
+100996	Halbert
+101009	Julian Avenel
+101153	Halbert Glendinning
+101219	Halbert
+101230	Mary Avenel
+101311	Halbert Glendinning
+101505	Halbert
+101599	Halbert
+101839	Halbert
+101857	Andrew
+101881	Mary
+102122	Piercie Shafton
+102137	Henry Warden
+102153	Halbert Glendinning
+102166	Henry Warden
+102176	Knox
+102200	Mary
+102207	Henry Warden
+102231	Knox
+102260	Halbert
+102375	Julian Avenel
+102392	James V.
+102471	Julian
+102645	Glendinning
+102682	Halbert Glendinning
+102762	Halbert
+102877	Halbert Glendinning
+102930	Glendinning
+103218	Halbert Glendinning
+103274	Halbert
+103645	Julian Avenel
+103955	Julian Avenel
+104450	Halbert Glendinning
+104465	James
+104517	James VI
+104534	Glendinning
+104611	Julian Avenel
+104639	Halbert
+104712	Julian Avenel
+104944	Halbert
+105005	Black Rood
+105105	Halbert
+105118	Christie
+105121	Clinthill
+105127	Julian Avenel
+105209	Halbert Glendinning
+105213	Christie of
+105215	the Clinthill
+105227	Julian Avenel
+105239	Christie
+105241	Halbert
+105287	Barnaby
+105341	Mary
+105355	Buist
+105390	Halbert
+105397	Julian
+105465	Christie
+105490	Warden
+105637	Christie
+105684	Glendinning
+105827	Halbert
+105839	Mary Avenel
+105878	Walter Avenel
+105898	Glendearg
+105901	Mary
+105960	Christie of
+105962	the Clinthill
+106047	Christie
+106063	Halbert
+106273	Salvator Rosa
+106386	Piercie Shafton
+106415	Julian Avenel
+106822	Julian Avenel
+106883	Julian Avenel
+107011	Christie of
+107013	the Clinthill
+107036	Halbert Glendinning
+107174	Halbert
+107206	Julian
+107483	Lady Juliana
+107485	Berners
+107568	Jenkin
+107617	Christie
+107624	Christie
+107676	Laird
+107755	Julian
+107967	Julian
+107983	Julian Avenel
+107999	Kate
+108024	Christie
+108045	Christie
+108058	Halbert Glendinning
+108089	Mary Avenel
+108101	Christie
+108327	Halbert Glendinning
+108341	Swankie
+108359	Julian Avenel
+108378	Glendinning
+108428	Mary
+108455	Halbert
+108511	Halbert Glendinning
+108526	Julian Avenel
+108567	Julian
+108733	Halbert
+108770	Julian
+108778	Christie
+108799	Christie
+108842	George
+108866	Christie
+109099	James
+109211	Simmie
+109320	Julian Avenel
+109680	Julian Avenel
+109737	Julian
+109747	Catherine
+109780	Catherine
+109891	Henry Warden
+109950	Julian Avenel
+109982	Catherine
+110014	Catherine
+110060	Julian Avenel
+110156	Henry Warden
+110384	Julian Avenel
+110554	Catherine
+110564	Christie
+110602	Catherine
+110629	Henry Warden
+110655	Julian Avenel
+110758	Tom Tailor
+110797	Baron
+110951	Henry Warden
+111178	Catherine
+111261	Fife
+111263	Lothian
+111436	Baron
+111663	Gospeller
+111683	Harry Tudor
+111696	Kate
+111736	Julian Avenel
+111979	Baron
+112125	Julian
+112279	-- Halbert
+112281	Glendinning
+112327	Christie of
+112329	the Clinthill
+112394	Catherine
+112414	Kate
+112462	-- Christie
+112465	Rowley
+112467	Hutcheon
+112795	Christie of
+112797	the Clinthill
+112800	Halbert
+112883	Herod
+112925	Julian Avenel
+113016	Christie
+113055	Christie of
+113057	the Clinthill
+113080	Henry Warden
+113103	Julian Avenel
+113136	Catherine
+113214	Bothwell
+113220	Henry Darnley
+113292	Darnley
+113345	Michael Hunter
+113359	Michael
+113505	Geordy Bourne
+113528	Robert Carey
+113619	Bourne
+113813	Selby
+113888	Robert Carey
+113891	Earl
+113941	Christie
+113961	Halbert Glendinning
+114073	-- Louis
+114189	Eskdale
+114350	Halbert
+114373	Christie
+114417	Kite
+114440	Christie of
+114442	the Clinthill
+114448	Halbert Glendinning
+114471	Christie
+114512	Glendinning
+114592	Piercie Shafton
+114611	Henry Warden
+114760	Halbert Glendinning
+114787	Julian Avenel
+114861	Glendinning
+114947	Halbert
+115167	Halbert
+115231	Glendinning
+115338	Glendinning
+115341	Julian Avenel
+115344	Christie
+115377	Halbert Glendinning
+115541	Halbert
+115558	Halbert
+115602	Halbert
+115653	Halbert
+115708	Halbert Glendinning
+115791	Halbert
+115944	Glendinning
+115980	Halbert
+116091	Halbert
+116231	Circe
+116273	Halbert Glendinning
+116324	Elspeth
+116383	Tibb
+116387	Elspeth
+116398	Simmie
+116411	-- Weel
+116414	Tibb
+116424	Piercie
+116515	Malcolm
+116520	Martin
+116525	Martin
+116537	Elspeth
+116557	Piercie Shafton
+116625	Tibb
+116667	Mysie
+116690	Elspeth
+116704	Mysie
+116754	Elspeth
+116773	Tibbie
+116863	Elspeth
+116873	Mysie
+116917	Dame Glendinning
+116928	Halbert
+116953	Mysie
+116972	Piercie
+117035	Tibb
+117059	Southron
+117070	Wallace
+117077	Robert
+117105	Elspeth
+117195	Tibb
+117218	Simmie
+117278	Dame Glendinning
+117299	Halbert
+117320	Tibb Tacket
+117365	Halbert Glendinning
+117401	Piercie Shafton
+117539	Eustace
+117574	Glendearg
+117601	Piercie Shafton
+117646	Mary Avenel
+117653	Halbert Glendinning
+117703	Edward Glendinning
+117725	Mary Avenel
+117751	Martin
+117796	Martin
+117806	Edward
+117884	Dame Glendinning
+117907	Tibb
+118069	Piercie Shafton
+118082	Mary Avenel
+118112	Piercie Shafton
+118159	Mary Avenel
+118204	Euphuist
+118267	Piercie
+118302	Piercie Shafton
+118397	Martin
+118416	Mary Avenel
+118428	Knight
+118503	Halbert Glendinning
+118575	Halbert Glendinning
+118681	Dame Glendinning
+118746	Dame Glendinning
+118785	Piercie Shafton
+118816	Tibb
+118896	Dame Glendinning
+118905	Tibbie
+118933	Mysie Happer
+118944	Edward
+118966	Martin
+118968	Jasper
+119031	Edward
+119067	Edward
+119168	Piercie Shafton
+119195	Piercie Shafton
+119217	Edward
+119277	Mary Avenel
+119282	Tibb
+119300	Mary Avenel
+119308	Edward
+119331	Piercie Shafton
+119337	Sub-Prior
+119351	Halbert Glendinning
+119395	Halbert
+119604	Piercie
+119656	Edward
+119684	Edward
+119705	Knight
+119924	Edward
+119953	Piercie Shafton
+119982	Halbert Glendinning
+120118	Piercie
+120182	Knight
+120189	Abbot
+120289	Mary Avenel
+120313	Martin Tacket
+120374	Halbert
+120406	Piercie
+120502	-- Wilt
+120612	Piercie Shafton
+120677	Halbert
+120704	Knight
+120884	Edward
+120936	Edward
+120971	Halbert Glendinning
+121152	Edward
+121187	Piercie Shafton
+121282	Mary Avenel
+121347	Knight
+121986	Piercie Shafton
+122056	Knight
+122080	Piercie Shafton
+122234	Knight
+122444	Martin
+122784	Vincentio Saviola
+122939	Knight
+123114	Philip
+123151	Piercie Shafton
+123178	Sub-Prior
+123267	Piercie Shafton
+123404	Piercie Shafton
+123527	Mary Avenel
+123585	Mary Avenel
+123898	Knight
+123963	Knight
+124069	Piercie Shafton
+124124	Piercie
+124129	Knight
+124227	Mary
+124255	Piercie
+124259	Shafton
+124403	Abbot
+124443	Alnwick
+124466	Knight
+124538	Edward
+124649	Edward Glendinning
+124730	Sub-Prior
+124742	Edward
+124798	Eustace
+124811	Edward Glendinning
+125180	Edward
+125345	Piercie Shafton
+125365	Edward Glendinning
+125395	Piercie Shafton
+125479	Halbert
+125489	Halbert
+125586	Halbert
+125775	Edward
+125858	Father Eustace
+125881	-- Edward
+125905	Edward
+125941	Mary Avenel
+125961	Piercie Shafton
+125998	Edward Glendinning
+126007	Sub-Prior
+126095	Sacristan
+126120	Piercie Shafton
+126151	Edward
+126253	Eustace
+126367	Mary
+126467	Glendinning
+126573	Queen Elizabeth
+126629	Mary
+126656	Queen Elizabeth
+126845	Mary
+126872	Piercie Shafton
+127011	Piercie Shafton
+127116	Jonson
+127188	James V.
+127429	Jonson
+127515	Signior
+127540	Puntarvolo
+127551	Signor Luculento
+128372	Mary Avenel
+128384	Dame Glendinning
+128419	Elspeth
+128450	Simon Glendinning
+128487	Piercie Shafton
+128553	Dame Glendinning
+128623	Simon Glendinning
+128637	Edward
+128679	Halbert
+128699	Halbert
+128805	Mary
+128817	Piercie Shafton
+128892	Mary Avenel
+128918	Mysie Happer
+128922	Miller
+128982	Halbert Glendinning
+128994	Mary Avenel
+129012	Halbert
+129037	Mysie
+129081	Piercie Shafton
+129119	Sub-Prior
+129165	Eustace
+129263	Edward
+129284	Piercie Shafton
+129330	Piercie Shafton
+129348	Mary Avenel
+129466	Halbert Glendinning
+129513	Glendinning
+129533	Mary Avenel
+129559	Halbert
+129620	Mysie
+129825	Miller
+129873	Piercie Shafton
+129921	Miller
+130018	Piercie Shafton
+130164	Edward
+130293	Mysie
+130300	Piercie Shafton
+130383	Piercie Shafton
+130662	Dame Glendinning
+130699	Miller
+130843	Mysie
+130885	Piercie Shafton
+130968	Mysie
+131028	Piercie
+131132	Knight
+131162	Edward Glendinning
+131167	Dan of
+131169	the Howlet-hirst
+131174	Adie of
+131176	Aikenshaw
+131208	Edward
+131277	Piercie Shafton
+131308	John Foster
+131312	Hundson
+131371	Raphael
+131398	Miller
+131500	Mysie
+131603	Mysie
+131757	Edward Glendinning
+131779	Mysie Happer
+131795	Mysie Happer
+131821	Southron
+131832	Edward
+131843	Miller
+131860	Mary Avenel
+131879	Edward
+131895	Miller
+132001	Edward
+132020	Mysie
+132036	Edward
+132051	Piercie Shaffcon
+132083	Edward
+132143	Edward
+132390	menseful Mysie
+132427	Dan of
+132429	the Howlet-hirst
+132471	Dan
+132494	Miller
+132562	Edward
+132616	Mysie
+132634	Edward
+132661	Dan
+132667	Mysie
+132732	Edward
+132751	Mysie
+132835	Mysie
+132886	Dan
+132926	Dan
+133010	Piercie Shafton
+133081	Mysie
+133215	Edward
+133232	Mysie
+133270	Edward
+133297	Mysie
+133305	Piercie Shafton
+133365	Edward
+133378	Piercie Shafton
+133390	-- Dan
+133393	Jasper
+133395	Martin
+133429	Edward
+133463	Knight
+133477	Halbert
+133480	Edward
+133738	Philip
+133746	Piercie Shafton
+133843	Miller
+133872	Molinara
+133879	Piercie Shafton
+133893	Mysie
+133979	Mysie
+134009	Shafton
+134028	Piercie Shafton
+134111	Mysie
+134134	Piercie Shafton
+134161	Miller
+134296	Piercie Shafton
+134362	Molinara
+134397	Mysie
+134431	Mysie
+134455	Piercie Shafton
+134539	Piercie Shafton
+134587	Mysie
+134642	Piercie Shafton
+134674	Miller
+134716	Mysie
+134737	Piercie Shafton
+134883	Mysie Happer
+134978	Piercie
+135022	Mysie
+135035	Piercie Shafton
+135093	Piercie Shafton
+135108	Bess
+135151	Chaucer
+135163	Mysie
+135177	Piercie
+135198	Molinara
+135215	Mysie
+135245	Shafton
+135251	Molinara
+135280	Miller
+135334	Piercie
+135442	Mysinda
+135534	Piercie Shafton
+135549	Mysinda
+135566	Mysinda
+135597	Mysie Happer
+135700	Mysie
+135750	Mysie
+135810	Piercie
+135827	Mysie
+135864	Piercie Shafton
+135886	Mysie
+136011	Piercie Shafton
+136033	Mysie
+136092	Piercie
+136207	Mysie
+136263	Mysie
+136269	Piercie Shafton
+136411	Piercie Shafton
+136441	Froissart
+136528	Mysie Happer
+136588	Piercie Shafton
+136629	Saint Mary
+136690	Tasker
+136740	Peter Peddie
+136802	Mysie Happer
+136839	Mysie
+137040	Mysie
+137064	Bourdeaux
+137300	Piercie Shafton
+137370	Mysie
+137469	Philip Sidney
+137505	Mysie Happer
+137590	Piercie
+137629	Vincent Saviola
+137760	Molinara
+137889	Mysie Happer
+137988	Mysie
+138132	Piercie
+138240	-- Piercie
+138242	Shafton
+138244	Piercie Shafton
+138271	Piercie Shafton
+138461	Mysie Happer
+138681	Elizabeth
+139061	Piercie Shafton
+139147	Piercie
+139261	Piercie Shafton
+139388	Piercie
+139477	Piercie Shafton
+139534	Mysie
+139605	Piercie Shafton
+139811	Piercie Shafton
+139823	Miller
+140029	Piercie Shafton
+140070	Mysie
+140101	Piercie Shafton
+140347	Mysie Happer
+140352	Piercie Shafton
+140416	Piercie
+140466	Mysie Happer
+140596	Miller
+140655	Piercie Shafton
+140661	Molinara
+140724	Euphues
+140785	Mysie
+140904	Mary Avenel
+140927	Tibbie
+140943	Eustace
+141051	Mary Avenel
+141130	Halbert
+141223	Halbert
+141260	Glendinning
+141353	Dame Glendinning
+141433	Mary Avenel
+141666	Mary
+141737	Mary Avenel
+141921	Adam
+142032	Mary Avenel
+142121	Piercie Shafton
+142134	Mary Avenel
+142191	Halbert Glendinning
+142254	Mysie Happer
+142271	Mary Avenel
+142313	Edward
+142332	Mysie Happer
+142478	Dame Elspeth
+142652	Mary Avenel
+142713	Mary Avenel
+142764	Mary Avenel
+142786	Lady of
+142788	Walter Avenel
+143041	Mary
+143080	Mary Avenel
+143283	Mary Avenel
+143392	Mary Avenel
+143469	Christie
+143538	Dan
+143543	Christie
+143624	Edward
+143662	Christie
+143788	Christie
+143852	Edward
+143865	Shafton
+143875	Christie of
+143877	the Clinthill
+143920	Edward
+143948	Christie
+143972	Piercie Shafton
+143977	Dan of
+143979	the Howlet-hirst
+143986	Halbert Glendinning
+144013	Christie
+144052	Edward
+144078	Christie
+144130	Christie
+144161	Halbert Glendinning
+144230	Halbert Glendinning
+144283	Christie
+144333	Robin of
+144335	Redcastle
+144378	Christie
+144415	Edward
+144435	Martin
+144437	Dan
+144482	Halbert Glendinning
+144487	Christie
+144491	Edward
+144534	Halbert
+144622	Sub-Prior
+144682	Henry Warden
+144754	Christie of
+144756	the Clinthill
+144799	Sub-Prior
+144807	Mary
+144884	Glendinnning
+144905	Christie
+144944	Father Eustace
+144964	Jackman
+144983	Christie
+145098	Henry Warden
+145130	Sub-Prior
+145176	Knox
+145372	Mary
+145460	Earls
+145464	Westmoreland
+145485	Elizabeth
+145613	Eustace
+145699	Eustace
+145852	Eustace
+145930	Henry Warden
+145997	James Stewart
+146003	Earl of
+146005	Murray
+146042	Julian Avenel
+146062	James
+146086	Julian Avenel
+146114	James
+146169	Julian
+146199	Henry Warden
+146281	Mary
+146340	Eustace
+146351	Henry Warden
+146413	Paul
+146422	Peter
+146524	Henry Warden
+146566	Christie of
+146568	the Clinthill
+146736	Eustace
+146945	Sub-Prior
+146949	Henry Wellwood
+146959	William Allan
+147006	Christie
+147207	Wellwood
+147248	Henry Warden
+147318	William Allan
+147472	Mont Blanc
+147583	Allan
+148067	Wellwood
+148328	Buchanan
+148339	Buchanan
+148376	Theodore Beza
+148492	Wilt
+148518	Wilt
+148543	Mary
+148565	Wilt
+148847	Sub-Prior
+148894	Henry
+148951	Henry Warden
+149008	Paul
+149131	Christie
+149358	Sub-Prior
+149394	Edward
+149407	Edward
+149511	Edward Glendinning
+149596	Edward
+149699	Henry Warden
+149701	of Halbert
+149719	Halbert
+149740	Edward
+149903	Edward
+149916	Sub-Prior
+149948	Glendinning
+149973	Halbert Glendinning
+150007	Piercie Shafton
+150014	Edward
+150066	Adam
+150070	Edward Glendinning
+150190	Henry Warden
+150302	Henry
+150518	Edward Glendinning
+150556	Christie of
+150558	the Clinthill
+150620	Father Eustace
+150623	Edward
+150661	Henry Warden
+150709	Tishbite
+150824	Edward Glendinning
+150889	Edward
+150918	Christie
+150945	Edward
+150967	Edward
+151038	Benedict
+151093	Edward
+151116	Edward
+151186	-- Hast
+151240	Glendinning
+151335	Edward
+151340	Halbert
+151506	Edward
+151660	Edward
+151710	Edward
+151736	Mary Avenel
+151752	Mary Avenel
+151778	Halbert
+151821	Edward
+151834	Mary
+151869	Halbert
+151898	Halbert
+151926	Halbert
+152036	Edward
+152206	Abel
+152271	Mary Avenel
+152295	Cain
+152357	Edward
+152388	Mary
+152403	Benedict
+152546	Edward
+152589	Halbert
+152781	Edward
+152809	Edward
+153036	Edward
+153116	Edward
+153160	Eustace
+153196	Edward
+153305	Martin
+153592	Edward Glendinning
+153671	Hie
+153823	Edward
+153880	-- Wilt
+153899	Edward
+153919	Mary
+153937	Mary Avenel
+153951	Edward
+153966	Mary
+154138	Edward
+154212	Dan of
+154214	the Howlet-hirst
+154245	Martin
+154272	Halbert Glendinning
+154342	Tibb
+154349	Halbert
+154364	Piercie
+154375	Southrons
+154391	Scot
+154402	Mary Avenel
+154601	Edward
+154607	Christie of
+154609	the Clinthill
+154620	Henry Warden
+154671	Edward
+154825	Edward
+155008	Henry
+155255	Sub-Prior
+155318	Peter
+155337	Henry Warden
+155397	Christie of
+155399	the Clinthill
+155712	Eustace
+155717	Dame Glendinning
+155779	Dame Glendinning
+155815	Glendearg
+156098	Sub-Prior
+156119	Miller
+156161	Mysie
+156238	Eustace
+156323	Christie of
+156325	the Clinthill
+156494	Jackman
+156637	Edward
+156709	Edward
+156715	Mary
+156771	Edward
+156783	Christie
+156841	Julian
+156865	Edward
+157070	Mary
+157104	Christie
+157200	James
+157205	James Stewart
+157231	James
+157303	Christie
+157351	Clinthill
+157357	James
+157393	James
+157407	Semple
+157409	Cassilis
+157437	Twixt Wigton
+157465	Kennedie
+157480	James
+157493	Henry Warden
+157556	James
+157583	Catherine
+157619	James
+157639	Julian
+157790	James
+157851	Gilbert
+157872	James
+157967	Christie
+157983	Gilbert
+158173	Gilbert
+158191	Gilbert
+158394	Ralph Sadler
+158480	Sadler
+158699	Sacristan
+158807	Father Philip
+158849	Father Eustace
+158864	Edward Glendinning
+158941	Nicholas
+158995	Father Ingelram
+159016	Father Eustace
+159230	Sacristan
+159234	Nicholas
+159288	Abbot
+159430	Father Nicholas
+159527	Sacristan
+159554	Mary
+159871	Abbot Boniface
+159923	Robert Bruce
+159977	Martin
+160296	Martin
+160405	Martin
+160486	Robertus Dei
+160489	Rex Scottorum
+160525	Beate Marie
+160552	Burgi Berwici
+160561	Sancti Martini
+160573	Burgi
+160745	Abbas
+160790	Abbate
+160824	Sancti Martini
+160928	Johanne
+160930	Willielmo
+160932	David Sancti
+160934	Andree
+160938	Dunkeldensis
+160945	Bernardo Abbate
+160953	Malisio
+160962	de Ross
+160965	Comitibus Waltero
+160967	Senescallo Scocie
+160970	Jacobo domini
+160972	de Duglas
+160975	Alexandro Fraser
+160977	Camerario
+160982	Apud Abirbrothock
+160989	Anno Regni
+161020	John Foster
+161040	James Stewart
+161068	Semple
+161129	Stewart
+161135	Murray
+161210	Sacristan
+161213	Nicholas
+161388	Murray
+161404	Judas Maccabeus
+161436	Abbot
+161507	Murray
+161516	Foster
+161580	Petrus Eremita
+161614	Julian Avenel
+161704	Piercie Shafton
+161780	Piercie
+161903	Foster
+161907	Murray
+161940	John Foster
+161995	Murray
+162031	Julian Avenel
+162045	John Foster
+162060	-- Sacristan
+162282	Boniface
+162424	Eustatius
+162490	Nicholas
+162500	Abbot Ingelram
+162517	Benedict the
+162519	Thirteenth
+162577	Sacristan
+162619	Eustace
+162634	Abbot
+162735	Eustace
+162811	Abbot
+162832	Eustace
+163006	Eustatius
+163200	Eustace
+163258	Sub-Prior
+163274	Abbot Boniface
+163310	Boniface
+163324	Sub-Prior
+163584	Elizabeth
+163640	Eustace
+163675	Julian Avenel
+163683	Halbert Glendinning
+163692	Eustace
+163764	Christie
+163811	Christie
+163850	Eustace
+163898	John Foster
+163945	Christie
+164008	John Foster
+164055	Piercie Shafton
+164118	Lothian
+164148	Christie
+164256	Piercie
+164259	Christie
+164295	Mysie Happer
+164348	Christie
+164488	Christie
+164537	Eckie
+164564	Father Eustace
+164686	Abbot Boniface
+164769	GIL MORRICE
+164775	Halbert Glendinning
+164799	Henry Warden
+164901	Halbert
+164909	Eustace
+164988	Halbert
+165030	Halbert
+165034	Saunders
+165055	Saunders
+165105	Saunders
+165210	Earl of
+165212	Murray
+165332	Halbert Glendinning
+165371	Saunders
+165484	Saunders
+165528	Glendinning
+165546	Murray
+165573	Glendinning
+165615	Halbert
+165770	Halbert
+165798	Murray
+165887	Murray
+165934	Murray
+166012	Halbert
+166080	Glendinning
+166137	Halbert
+166196	Buchanan
+166204	Halbert
+166290	Murray
+166317	Halbert
+166508	Murray
+166608	Murray
+166660	Halbert
+166941	Murray
+167090	Halbert Glendinning
+167109	Glendinning
+167119	Murray
+167229	Halbert
+167240	Glendearg
+167303	Glendinning
+167309	Murray
+167346	James V.
+167377	Stewart
+167502	Mary
+167660	Murray
+167835	Henry Warden
+167847	Halbert
+167895	Halbert Glendinning
+167934	Murray
+168018	Halbert
+168045	Murray
+168080	Halbert
+168089	Julian Avenel
+168130	Henry Warden
+168222	Murray
+168227	Glendinning
+168251	Julian
+168259	Murray
+168315	Halbert
+168395	Julian Avenel
+168491	Baal
+168510	Murray
+168562	Halbert Glendinning
+168667	Mary Avenel
+168680	Murray
+168685	Julian Avenel
+168714	Walter Avenel
+168761	Julian
+168768	Halbert
+168784	Halbert
+168809	Galloway
+168812	Murray
+168906	Halbert Glendinning
+168916	Piercie Shafton
+168932	Murray
+168951	Piercie Shafton
+168955	Elizabeth
+168980	Morton
+169003	Morton
+169032	Murray
+169053	Morton
+169079	Murray
+169116	Glendinning
+169158	Murray
+169164	Glendinning
+169191	Earl
+169232	Murray
+169247	Halbert Glendinning
+169379	Morton
+169391	Murray
+169395	Halbert Glendinning
+169406	Halbert
+169427	Glendinning
+169437	Murray
+169486	Morton
+169494	Mary
+169511	Murray
+169533	Morton
+169561	Murray
+169570	Halbert Glendinning
+169611	Murray
+169627	Piercie Shafton
+169670	Murray
+169712	Halbert
+169796	Morton
+169810	Halbert
+169814	Murray
+169823	Morton
+169894	Murray
+169910	John Foster
+169915	Morton
+169944	Murray
+169967	Elizabeth
+169974	Morton
+170015	Boniface
+170043	Murray
+170064	Morton
+170077	Cardinal Beatoun
+170095	Andrews
+170097	Eustace
+170115	Pope Julius
+170127	Foster
+170143	Murray
+170177	Julian Avenel
+170185	Morton
+170192	Murray
+170311	Elizabeth
+170337	Morton
+170419	James Douglas
+170424	Murray
+170461	Piercie Shafton
+170506	Douglas
+170556	James Stewart
+170622	Morton
+170717	Mary
+170729	Murray
+170773	John Foster
+170800	Piercie Shafton
+170873	Julian Avenel
+170907	Murray
+170918	Glendinning
+170976	-- Davidson
+170997	-- Hie
+171002	Glendinning
+171057	Julian Avenel
+171086	Mary
+171123	Glendinning
+171153	Hill
+171214	Halbert
+171287	Glendinning
+171310	Andrew
+171419	Halbert
+171728	Halbert
+171761	Edward
+171846	Murray
+171926	Halbert
+172255	Halbert Glendinning
+172282	Julian Avenel
+172318	Halbert
+172337	Catherine
+172395	Catherine
+172407	Julian
+172560	-- Christie
+172562	of the
+172564	Clinthill
+172566	Rowley
+172568	Hutcheon
+172620	Halbert
+172625	Christie
+172728	Halbert
+172781	Catherine
+172803	Christie
+172806	Clinthill
+172827	Glendinning
+172855	George
+172881	Murray
+172928	Foster
+172997	Halbert Glendinning
+173031	Halbert
+173072	Murray
+173107	Glendinning
+173170	Halbert Glendinning
+173324	John Foster
+173357	Glendinning
+173373	Stawarth Bolton
+173405	Murray
+173417	Glendinning
+173454	John Foster
+173524	Piercie Shafton
+173542	Bolton
+173549	Piercie Shafton
+173563	Piercie Shafton
+173613	John Foster
+173736	Foster
+173754	Murray
+173768	John Foster
+173814	Scot
+173885	Glendinning
+173907	-- Stawarth
+173909	Bolton
+173944	Squire
+173957	Halbert Glendinning
+173970	Catherine
+174003	Glendinning
+174110	Stawarth Bolton
+174207	John
+174218	Morton
+174293	Murray
+174297	Foster
+174337	Piercie Shafton
+174434	Piercie Shafton
+174447	Murray
+174479	Earl
+174509	John Foster
+174517	John
+174553	John Foster
+174583	John
+174588	George Heron
+174591	Chipchase
+174616	Stawarth Bolton
+174627	Piercie Shafton
+174664	George
+174668	Foster
+174743	Morton
+174758	John Foster
+174778	Piercie Shafton
+174808	Foster
+174824	Murray
+174857	Molinara
+174867	Piercie Shafton
+174926	Morton
+174931	John
+174983	John Foster
+174998	John Foster
+175011	Elizabeth
+175052	Knight
+175070	Piercie Shafton
+175107	John Foster
+175153	Murray
+175162	Piercie Shafton
+175216	John Foster
+175257	Murray
+175277	Morton
+175302	John Foster
+175307	Murray
+175407	John Foster
+175443	Stawarth Bolton
+175483	Piercie Shafton
+175509	Murray
+175512	Foster
+175522	Bolton
+175550	Murray
+175553	Morton
+175649	Morton
+175656	Douglas
+175702	Mary
+175715	-- Glendinning
+175765	Halbert Glendinning
+175783	Julian Avenel
+175819	Murray
+175843	Douglas
+175863	Morton
+175884	Henry Warden
+175892	John Knox
+175911	Mary
+175925	Glendinning
+176022	Sacristan
+176167	Nicholas
+176191	Edward
+176440	Piercie Shafton
+176463	Piercie
+176521	Julian Avenel
+176609	Julian Avenel
+176694	Piercie
+176808	Piercie Shafton
+176853	Knight
+176953	Piercie Shafton
+177034	Piercie
+177061	Piercie
+177166	Knight
+177267	Kyrie-Eleison
+177270	Salve Regina
+177301	Abbot
+177306	Piercie
+177445	Piercie Shafton
+177515	Piercie Shafton
+177522	Abbot
+177556	Henry Warden
+177685	William Allan
+177816	Abbot Eustace
+177861	William Allan
+178046	William Allan
+178094	Peter
+178210	Gulielme Allan
+178431	William Allan
+178474	Mary Avenel
+178609	Wellwood
+178706	Murray
+178817	Sacristan
+178882	Mary
+178944	Philip
+178978	Kennaquhair
+179038	Abbot Eustace
+179064	Edward
+179099	Edward
+179151	Edward
+179196	Murray
+179210	Randolph
+179269	Edward
+179350	Murray
+179362	Mary Avenel
+179368	Mary Avenel
+179397	Mary Avenel
+179417	Edward
+179464	Benedict
+179483	Edward
+179510	Murray
+179751	Mary Ayenel
+179829	Boniface
+179839	Philip
+179873	Nicholas
+180765	Murray
+180768	Morton
+180787	Halbert Glendinning
+180793	Henry Warden
+180826	Morton
+180828	Murray
+180861	Murray
+181027	Morton
+181031	Morton
+181047	Murray
+181051	Morton
+181071	Bennygask
+181123	Morton
+181127	Murray
+181145	Glendinning
+181171	Julian Avenel
+181208	Julian
+181305	Morton
+181350	Murray
+181368	Hay
+181443	Murray
+181451	Douglas
+181455	Morton
+181498	George Chalmers
+181514	Hume
+181605	Chalmers
+181652	Fleming
+181660	Kelso
+181681	Chalmers
+181713	Fleming
+181718	Theobald the
+181720	Fleming
+181733	Douglas
+181746	William
+181762	De Duglas
+181780	Chalmers
+181836	Chalmers
+181869	William de
+181871	Douglas
+181881	Douglas
+181905	William de
+181907	Douglas
+181920	Douglas
+181941	Fleming
+181971	Theobald
+182020	Chalmers
+182053	William de
+182055	Douglas
+182088	Kelso
+182098	William de
+182100	Douglas
+182128	Douglas
+182153	William de
+182155	Douglas
+182163	William de
+182165	Douglas
+182211	Douglas
+182214	Hume
+182216	Godscroft
+182242	Black Douglas
+182262	Douglas
+182266	Murray
+182334	Chalmers
+182373	Stewart
+182387	Hailes
+182412	Banquo
+182426	Stewart
+182431	Walter the
+182433	son of
+182435	Allan
+182455	Walter
+182460	Allan
+182465	Flaald
+182470	William
+182497	William
+182505	Walter
+182514	Stewart
+182517	Morton
+182529	Henry Warden
+182717	Douglas
+182721	Murray
+182754	Glendinning
+182815	Bennygask
+182910	Morton
+182999	Morton
+183040	Murray
+183117	William Allan
+183124	Abbot Eustatius
+183269	Morton
+183338	Julian Avenel
+183352	John Foster
+183386	Murray
+183408	Piercie Shafton
+183454	Murray
+183509	Mary
+183519	Murray
+183527	Mary
+183532	Eustace
+183552	Earl of
+183554	Murray
+183573	Murray
+183590	Morton
+183674	James Stewart
+183683	Earl of
+183685	Murray
+183695	Eustatius
+183700	Mary
+183762	Abbot
+183766	Murray
+183960	Murray
+184074	Morton
+184107	Piercie Shafton
+184160	Mary
+184179	Murray
+184250	Earls
+184271	Shafton
+184286	Wilverton
+184367	Murray
+184378	Piercie Shafton
+184422	Murray
+184427	Morton
+184456	Knight
+184460	Morton
+184499	Piercie Shafton
+184516	Murray
+184529	Stawarth Bolton
+184554	Euphuist
+184569	Bolton
+184637	Moll Overstitch
+184653	Shafton
+184686	Morton
+184710	Piercie Shafton
+184839	Halbert Glendinning
+184879	Piercie Shafton
+184907	Tieck
+184910	Das Peter
+184912	Manchem
+184920	Peter
+184964	Peter
+185059	Peter
+185251	Bolton
+185282	Dame Glendinning
+185299	Stawarth Bolton
+185355	Bolton
+185399	Varlet
+185429	Edward
+185470	Overstitch
+185473	Holderness
+185525	Halbert
+185530	Edward
+185553	Philip
+185567	Mary
+185575	Halbert
+185578	Mary Avenel
+185748	Abbot
+185756	Piercie Shafton
+185825	Abbot
+185832	Morton
+185867	Murray
+185878	Elizabeth
+185896	Bolton
+185901	Dunbar
+185949	Piercie Shafton
+185993	Mysie Happer
+185997	Miller
+186007	Tibb Tacket
+186063	Murray
+186074	Miller
+186102	Piercie Shafton
+186179	Morton
+186184	Douglas
+186195	Murray
+186212	Glendinning
+186214	Mary Avenel
+186250	Miller
+186286	Shafton
+186311	Miller
+186347	Murray
+186379	Piercie
+186408	Murray
+186416	Mary Avenel
+186461	Piercie Shafton
+186547	Mary
+186574	Tibb Tacket
+186577	Martin
+186648	Dame Glendinning
+186765	Edward
+187203	Edward
+187212	Mary
+187291	Laurence Templeton
+187308	Edward

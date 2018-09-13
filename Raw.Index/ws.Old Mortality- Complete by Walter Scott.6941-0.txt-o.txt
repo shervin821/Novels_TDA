@@ -1,0 +1,3580 @@
+210	Gandercleugh
+288	Gandercleugh
+975	Laird
+1011	Laird
+1200	Exciseman
+1676	Wallace
+1808	Peter
+1811	Patrick
+1813	Pattieson
+1822	Kirk
+1933	Robert Carey
+1946	John Donne
+2036	Peter Pattieson
+2214	Peter Pattieson
+2237	Dean of
+2239	St. Patrick
+2318	Peter Pattieson
+2546	JEDEDIAH CLEISHBOTHAM
+2584	Robert Paterson
+2775	Walker
+2841	Mearns
+2863	James II
+2872	Argyle
+3245	Walker
+3351	Walker
+3464	Walker
+3531	Walker
+3709	Walker
+3771	Walker
+3880	Walker
+4025	John Bunyan
+4064	Joseph Train
+4197	Robert Paterson
+4286	Robert Paterson
+4297	Walter Paterson
+4300	Margaret Scott
+4327	Robert
+4363	Francis
+4370	John Jardine
+4394	Elizabeth Gray
+4399	Robert Gray
+4405	John Jardine
+4427	Thomas Kirkpatrick
+4430	Closeburn
+4458	Morton
+4538	Thomas Kirkpatrick
+4562	Paterson
+4576	Glenbuck
+4618	Stewart
+4713	Galloway
+4785	Galloway
+4817	Galloway
+4835	Walter
+4845	Galloway
+4898	Dee
+4931	Paterson
+4940	Galloway
+5023	Caldon
+5075	Charles Second
+5081	Caldon
+5283	ROBERT PATERBON
+5287	MARGARET CHRYSTALE
+5292	Lodginge
+5329	Reid
+5343	Sandy the
+5345	Keelman
+5388	Old Keelybags
+5624	Robert Paterson
+5728	Linnen
+5935	Robert
+5937	Walter
+5940	John
+5970	Walter
+5988	John
+6025	Hodgson
+6172	Cooper Climent
+6230	Cooper
+6429	Cooper
+6441	Cooper Climent
+6666	Langhorne
+6678	Pattieson
+6928	Virgil
+6932	Horace
+7338	Jedediah Cleishbotham
+7379	Peter Pattieson
+7410	-- J.
+7412	C. -RSB-
+7769	Dns
+7771	Johan --
+7773	de Hamel
+7778	Johan --
+7780	de Lamel
+7878	Charles II
+7888	James
+8483	Laird
+8491	Laird
+8608	-- J.
+8610	C.
+9009	Galloway
+9153	Stewart
+9167	Galloway
+10084	Peden
+10147	Galloway
+10222	Cleishbotham
+10338	Kirk
+10452	Dorothy
+10465	Laird
+10533	-- J.
+10535	C. -RSB-
+11504	Stewart
+11752	Dryden
+11893	Douglas
+13025	Hamiltoune
+13570	Noah
+13787	Margaret Bellenden
+13797	Lady Margaret
+13838	Edith
+14222	Harrison
+14317	Richard
+14332	Tippermoor
+14370	Harrison
+14383	Margaret Bellenden
+14427	Cuddie Headrigg
+14494	Cuddie
+14560	Cuddie
+14588	Mause
+14606	Lady Margaret
+14614	Margaret
+14656	Guse Gibbie
+14836	Margaret Bellenden
+14851	Lady Margaret
+14946	Cromwell
+14954	Charles the
+14956	Second
+14982	Lady Margaret
+15075	Lady Margaret
+15154	Lady Margaret
+15318	Edith Bellenden
+15339	Edith
+15388	Scuderi
+15428	Cleopatra
+15478	Bellenden
+16010	Margaret
+16026	Lady Margaret
+16223	Henry
+16243	Jenny Dennison
+16524	Evandale
+16816	Bellenden
+17095	Duke
+17105	Malvolio
+17163	Lady Margaret
+17176	Bellenden
+17217	Lady Margaret
+17245	Edith Bellenden
+17258	Lady Margaret
+17281	Morton
+17283	Milnwood
+17309	Margaret
+17332	Lady Margaret
+17391	Gilbertscleugh
+17395	Lady Margaret
+17485	Lady Margaret
+17497	Gilbertscleugh
+17619	Gilbertscleugh
+17627	Lady Margaret
+17647	Gilbertscleugh
+17663	Majesty King
+17665	Charles
+17693	Gilbertscleugh
+17705	Margaret
+17760	Bellenden
+17795	Gilbertscleugh
+17799	Lady Margaret
+17837	Harrison
+17877	Harrison
+18009	Goose Gibbie
+18022	Gibbie
+18069	Gibbie
+18114	Gudyill
+18165	Gibbie
+18444	Goose Gibbie
+18497	Margaret Bellenden
+18620	Goose Gibbie
+18753	Habbie
+18759	Habbie Simpson
+18776	Niel Blane
+18817	Niel
+18853	Croft
+18968	Niel
+19017	Gaius
+19224	Jenny
+19228	Niel Blane
+19324	-- Jenny
+19328	Milnwood
+19401	Cornet Grahame
+19482	Frank Inglis
+19486	Bothwell
+19511	Jenny
+19587	Jenny
+19677	Jenny
+19721	Jenny
+19830	Jenny
+19901	Jenny
+19930	Jenny
+20026	Laird
+20028	Lickitup
+20211	Jenny
+20216	Niel Blane
+20258	Jenny
+20355	Niel Blane
+20368	John Grahame
+20477	Francis Stewart
+20489	Bothwell
+20510	Mary
+20513	Francis Stewart
+20516	Earl of
+20518	Bothwell
+20530	James Sixth
+20550	Earl
+20554	Charles I.
+20604	Charles I.
+20669	Earl of
+20671	Bothwell
+20678	James VI
+20685	Bothwell
+20694	Francis Stewart
+20697	Earl of
+20699	Bothwell
+20709	James VI
+20754	Walter Scott
+20770	Francis Stewart
+20777	Earl
+20817	Crichton
+20830	Francis
+20832	Earl of
+20834	Buccleuch
+20847	James Stewart
+20920	Seaton
+20925	Francis
+20939	John
+20984	John Scot
+20986	of Scotstarvet
+20996	Francis Stewart
+21035	Charles II
+21039	Crichton
+21044	Dean Swift
+21132	Bothwell
+21270	Bothwell
+21281	Bothwell
+21350	Bothwell
+21373	Halliday
+21416	Halliday
+21440	Bothwell
+21445	Tom
+21480	Halliday
+21526	Tom
+21530	Bothwell
+21583	Niel Blane
+21839	Bothwell
+21969	James Sharpe
+21982	Halliday
+21994	Bothwell
+22017	Morton
+22060	Bothwell
+22070	Halliday
+22110	Morton
+22153	Halliday
+22272	Morton
+22293	Morton
+22314	Bothwell
+22361	Bothwell
+22384	Bothwell
+22617	Halliday
+22657	Morton
+22690	Bothwell
+22703	Tom
+22763	Bothwell
+22854	Bothwell
+22953	Morton
+22961	Milnwood
+22988	Morton
+23061	Blane
+23096	Cornet Grahame
+23125	Niel Blane
+23154	Bothwell
+23205	Grahame
+23234	Bothwell
+23247	Bothwell
+23354	James Russell
+23372	Charles Kirkpatrick
+23374	Sharpe
+23376	Esquire
+23436	Bothwell
+23438	Halliday
+23462	Halliday
+23496	Cornet Grahame
+23507	-- Hackston
+23510	Rathillet
+23528	Bothwell
+23531	John Balfour
+23535	Burley
+23563	Bothwell
+23579	Grahame
+23607	Bothwell
+23648	Balfour
+23650	Burley
+23697	Carmichael
+23813	Sharpe
+23821	David Hackston
+23825	Rathillet
+23873	Hackston
+23880	Sharpe
+23964	Hackston
+24003	Hackston
+24015	John Balfour
+24018	Kinloch
+24021	Burley
+24025	Hackston
+24113	James Sharpe
+24123	Leith
+24144	Cornet Grahame
+24206	James Duff
+24209	Morton
+24247	Morton
+24319	Morton
+24432	Morton
+24495	Henry Morton
+24563	Morton
+24645	Morton
+24793	Morton
+24918	Morton
+25155	Hamilton
+25157	Dingwall
+25317	Drake Moss
+25463	John Halftext
+25556	Morton
+25710	Morton
+25792	John Balfour
+25795	Burley
+25835	Balfour
+25973	Morton
+26033	Charles II
+26062	Burley
+26094	Morton
+26143	Morton
+26232	Cornet Grahame
+26288	Burley
+26365	Morton
+26407	Burley
+26478	Morton
+26528	Burley
+26579	Morton
+26697	Morton
+26885	Henry
+26949	Robin
+27011	Alison
+27036	Wilson
+27053	Alison
+27061	Mrs Alison
+27075	Alison
+27079	Morton
+27108	Henry
+27167	Alison
+27198	Henry
+27256	Howff
+27335	Morton
+27343	Mrs Wilson
+27376	Mrs Wilson
+27393	Maister Henry
+27427	-- Aweel
+27547	Aweel
+27688	Mrs Wilson
+27748	Mrs Wilson
+27790	Henry
+27832	Niel Blane
+27989	Henry
+28004	Morton
+28049	Mrs Wilson
+28055	Morton
+28276	John
+28293	John
+28406	Morton
+28510	Charles
+28732	Ere Morton
+29012	Morton
+29194	Morton
+29209	Morton
+29242	Balfour
+29335	Morton
+29376	Balfour
+29605	Balfour
+29620	Morton
+29666	Balfour
+29712	Jeremiah
+29904	Morton
+30074	Charles Stewart
+30104	James Grahame
+30217	Dan
+30255	Balfour
+30259	Morton
+30463	Morton
+30489	Morton
+30545	Edith Bellenden
+30691	Morton
+30726	Balfour
+30744	Morton
+30858	Judas
+30889	Baal
+30901	Kishon
+30975	Morton
+31043	Morton
+31154	Morton
+31172	Burley
+31202	Burley
+31204	Morton
+31227	Morton
+31293	Burley
+31296	Morton
+31314	Morton
+31368	Burley
+31588	David
+31630	Adam
+31731	Morton
+31925	Burley
+32031	Edith
+32224	Gustavus Adolphus
+32279	Edith
+32286	Edith
+32434	Milnwood
+32518	Morton
+32675	Mrs Wilson
+32714	Alison
+32766	Morton
+32816	Morton
+33012	Auld Davie
+33074	Davie
+33233	Gude
+33248	Harry
+33266	Milnwood
+33434	Henry
+33484	Alison
+33570	Margrave
+33655	Morton
+33708	Milnwood
+33721	Wylie Mactrickit
+33904	Ye maunna
+33949	Alison
+33967	Blane
+33981	Alison
+33990	Harry
+33999	Henry
+34002	Dinna
+34093	Milnwood
+34118	Harry
+34160	Morton
+34388	Morton
+34488	Margaret Bellenden
+34587	Margaret
+34599	Harrison
+34666	Lady Margaret
+34698	Bellenden
+34732	Edith
+34766	Margaret
+34830	Bellenden
+34861	Lady Margaret
+34893	Earl
+34928	Margaret Bellenden
+35064	Mause
+35076	Lady Margaret
+35173	Harrison
+35175	Gudyill
+35285	Malcolm Canmore
+35289	Mause
+35356	Dinna
+35432	Cuddie
+35559	Edith
+35740	Mause
+35879	Mause
+36014	Nebuchadnezzar
+36131	Nebuchadnezzar
+36156	Mause
+36180	Meshach
+36183	Abednego
+36199	Cuddy Headrigg
+36271	Margaret Bellenden
+36567	Lady Margaret
+36621	Cuddie
+36709	Mause
+36755	Edith
+36784	Lady Margaret
+36924	Lady Margaret
+37028	Cuddie
+37062	Lady Margaret
+37290	Gudyill
+37339	Mause
+37466	Cuddie
+37507	Cuddie
+37627	Cuddie
+37699	Cuddie
+37835	Mause
+37944	Eppie Dumblane
+38014	Johnstone
+38033	Mause
+38107	Cuddie
+38154	Edith
+38158	Henry Morton
+38167	Milnwood
+38313	Harry
+38334	Harry
+38360	Nippie Milnwood
+38443	Harrison
+38445	auld Gudyill
+38447	cam
+38488	Henry Morton
+38519	Mause
+38525	Cuddie
+38531	Morton
+38633	Morton
+38667	Cuddie
+38688	Cuddie
+38738	Cuddie
+38753	Mause
+38798	Deil
+38809	Cuddie
+38843	Morton
+38896	Harrison
+38901	Gudyill
+38963	Morton
+39021	Cuddie
+39035	Wark
+39149	Morton
+39161	Cuddie
+39225	Cuddie
+39245	Morton
+39357	Morton
+39410	Cuddie
+39488	Cuddie
+39530	Peter Poundtext
+39597	Richard Rumbleberry
+39621	Erastianism
+39626	Prelacy
+39652	Cuddie
+39770	Rumbleberry
+39873	Cuddie
+39875	Mause
+39973	Cuddie
+39990	Poundtext
+40075	Laird
+40160	Cuddie
+40175	Robin
+40348	Milnwood
+40383	Mrs Wilson
+40463	Laird
+40496	Robin
+40539	Mrs Wilson
+40551	Cuddie
+40652	Cuddie
+40684	Milnwood
+40738	Milnwood
+41051	Laird
+41165	Milnwood
+41197	Mrs Wilson
+41254	Robin
+41264	-- Barnsman
+41267	Nevoy Harry
+41281	Milnwood
+41372	Cuddie
+41500	Bothwell
+41536	Milnwood
+41559	Henry Morton
+41581	Burley
+41585	Mause Headrigg
+41709	Milnwood
+41730	Bothwell
+41756	Milnwood
+41928	John Barleycorn
+41940	Milnwood
+42011	Bothwell
+42053	Milnwood
+42073	Bothwell
+42186	Milnwood
+42202	Bothwell
+42220	Poundtext
+42230	Morton
+42234	Morton
+42334	Bothwell
+42470	Milnwood
+42504	Bothwell
+42513	Henry
+42532	Henry
+42574	Bothwell
+42618	Cuddie
+42689	Bothwell
+42715	-- Tom
+42748	Graham
+42809	Cuddie
+42867	Cuddie
+42871	Mause
+42893	Bothwell
+42964	Milnwood
+43028	Milnwood
+43050	Milnwood
+43209	Henry
+43331	Bothwell
+43367	Henry
+43445	Sharpe
+43462	Henry
+43571	Henry
+43576	Bothwell
+43624	Henry
+43654	John Balfour
+43657	Burley
+43683	Henry
+43743	Milnwood
+43777	Burley
+43781	Bothwell
+43785	Henry
+43887	Henry
+43902	Bothwell
+43961	Bothwell
+43976	Henry
+44014	Morton
+44047	Henry
+44067	Bothwell
+44207	Burley
+44303	Morton
+44358	Bothwell
+44369	Henry
+44394	Bothwell
+44409	Alison
+44431	Henry
+44438	Milnwood
+44485	Alison
+44509	Milnwood
+44603	Bothwell
+44683	Mrs Wilson
+44762	Bothwell
+44810	Alison Wilson
+44819	Alison Wilson
+44866	Cuddie
+44918	Cuddie
+44954	Henry
+44977	Cuddie
+45057	Mause
+45098	Cuddie
+45279	Bothwell
+45321	Gie
+45331	Mause
+45473	Andrews
+45477	Bothwell
+45590	Cuddie
+45611	Henry
+45710	Milnwood
+45729	Bothwell
+45845	Milnwood
+45939	Milnwood
+45952	Bothwell
+46070	Bothwell
+46095	Cuddie
+46132	Cuddie
+46181	Bothwell
+46224	Mause
+46305	Menahem
+46350	Ahab
+46357	Tiglath-Peleser
+46379	Hezekiah
+46530	Morton
+46539	Bothwell
+46591	Andrews
+46603	Andrews
+46639	Bothwell
+46642	Milnwood
+46670	Milnwood
+46743	Ailie
+46752	Milnwood
+46789	Milnwood
+46816	Bothwell
+46889	Mause
+46959	Cuddie
+47239	Bothwell
+47272	Morton
+47318	Milnwood
+47379	Mrs Wilson
+47394	Henry
+47425	Bothwell
+47479	Milnwood
+47487	Laird
+47561	Alison Wilson
+47580	Mause
+47582	Cuddie
+47630	Mause
+47679	Harry
+47690	Cuddie
+47714	Alison
+47835	Cuddie
+47862	Ye
+47900	Harry awa
+47916	Laird
+47981	Mause
+48166	Bothwell
+48262	Henry
+48328	Bothwell
+48388	Morton
+48439	Henry
+48471	Bothwell
+48543	Montgomery
+48594	Francis Stewart
+48630	Morton
+48638	Bothwell
+48727	Henry
+48748	Bothwell
+48878	Henry
+48884	Morton
+48936	Bothwell
+49185	Margaret Bellenden
+49263	Bothwell
+49317	Henry
+49339	Tillie
+49402	Henry
+49428	Bothwell
+49505	Henry
+49571	Bothwell
+49592	Andrews
+49646	Charles
+49728	William Henry
+49731	Duke
+49739	Anne
+49752	Jenkin Lewis
+49786	Dy
+49861	Hughes
+49941	Weatherly
+50014	Lewis
+50072	Lewis
+50131	Philip Hayes
+50208	Bothwell
+50284	Bothwell
+50400	Ralph de
+50402	Bellenden
+50512	Gudyill
+50589	Gudyill
+50661	Gudyill
+50664	Jenny Dennison
+50705	Lady Margaret
+50723	Bothwell
+50814	Bothwell
+50898	Lady Margaret
+50930	Bothwell
+50974	Lady Margaret
+51061	Bothwell
+51178	Lady Margaret
+51303	Francis Stewart
+51308	James I.
+51318	Bothwell
+51351	Lady Margaret
+51372	Earl
+51422	Bothwell
+51465	Sheffield
+51518	Wilmot
+51530	Stewart
+51654	Charles
+51692	Lady Margaret
+51788	Stewart
+51792	Lady Margaret
+51944	Grahame
+51968	Lady Margaret
+52020	Lady Margaret
+52049	Stewart
+52117	Harrison
+52146	Kilsythe
+52152	Arthur Bellenden
+52279	Stewart
+52311	Harrison
+52365	James
+52379	Stewart
+52428	Bothwell
+52462	Harrison
+52466	Margaret
+52499	Stewart
+52521	Bothwell
+52553	Harrison
+52591	Gudyill
+52606	Davy
+52713	Bothwell
+52769	Stewart
+52801	Duke James
+52910	Deil
+53081	Francis Stewart
+53084	Bothwell
+53123	Bothwell
+53182	Gudyill
+53253	Margaret
+53299	Bothwell
+53404	Jenny Dennison
+53437	Edith
+53450	Cuddie Headrigg
+53469	Bellenden
+53503	Jenny
+53559	Edith
+53625	Steinsons
+53628	Tam Rand
+53639	Howisons
+53645	Tam Gilry
+53682	Bellenden
+53688	Edith
+53692	Tam Halliday
+53696	Tam
+53715	Muir
+53734	Tam
+53758	Edith
+53789	Jenny Dennison
+53827	Edith
+53837	Cuddie
+53850	Edith
+53889	Edith
+53904	Edith
+53974	Edith
+54021	Tam Halliday
+54057	Edith
+54118	Jenny
+54145	Tam Halliday
+54175	John Macbriar
+54202	Jenny
+54300	Tam
+54360	Milnwood
+54396	Tam Halliday
+54419	Milnwood
+54441	Edith
+54463	Jenny
+54477	Jenny
+54489	Edith
+54675	Pepys
+54687	Edith
+54704	Morton
+54738	Bothwell
+54776	Halliday
+54832	Johnstone
+54848	Jenny Dennison
+54990	Jove
+55107	Jenny
+55194	Mrs Dennison
+55211	Harry Morton
+55242	Mrs Dennison
+55315	Jenny
+55338	Keek
+55343	Janet
+55345	Janet
+55357	Janet
+55372	Halliday
+55404	Jenny
+55450	Jenny
+55531	Halliday
+55568	Jenny
+55619	Jenny
+55803	Cuddie
+55897	Jenny
+55943	Jenny
+55951	John Gudyill
+55973	Halliday
+56028	Jenny
+56079	Jenny
+56112	Halliday
+56170	Bothwell
+56274	Halliday
+56283	Jenny
+56320	Morton
+56367	Edith
+56454	Morton
+56537	Halliday
+56544	Morton
+56567	Edith
+56609	Jenny
+56633	Morton
+56636	Edith
+56725	Edith
+56754	Henry
+56775	Morton
+56904	Henry
+56956	Edith
+56966	Bellenden
+57025	Morton
+57030	Bellenden
+57088	Morton
+57141	Bellenden
+57172	Edith
+57213	Morton
+57256	Bellenden
+57315	Edith
+57340	Grahame
+57352	Morton
+57407	Edith
+57518	Edith
+57522	Henry
+57678	Edith
+57785	Jenny Dennison
+57833	Edith
+57838	Morton
+57847	Milnwood
+57878	Tam Halliday
+57948	Tam Halliday
+57966	Morton
+57985	Jenny
+58075	Mrs Janet
+58151	Morton
+58225	Halliday
+58264	Jenny Dennison
+58298	Jenny
+58342	Halliday
+58392	Bothwell
+58423	Edith
+58427	Morton
+58518	Halliday
+58551	Edith
+58567	Jenny Dennison
+58591	Edith
+58608	Milnwood
+58697	Jenny
+58705	Edith
+58797	Puir Cuddie
+58854	Meg Murdieson
+58874	Jenny
+59009	Edith
+59022	Jenny
+59134	Edith
+59143	Goose Gibbie
+59208	Bellenden
+59227	Jenny Dennison
+59263	Gibbie
+59273	Margaret
+59296	Edith
+59298	Jenny
+59302	Goose Gibbie
+59337	Edith
+59359	Bellenden
+59440	Grahame
+59496	Mrs Carefor
+59640	Edith Bellenden
+59659	Henry Morton
+59698	Grahame
+59729	Jenny
+59873	Gibbie
+59923	Gibbie
+59967	Charnwood
+59978	Bellenden
+60040	Bellenden
+60045	Gideon Pike
+60120	Pike
+60145	Edith
+60184	-- Paduasoy
+60201	Philipdastus
+60203	-- Philip
+60205	Devil
+60259	Pike
+60287	Pike
+60322	Pike
+60404	Mark Antony
+60474	Morton
+60599	Miles Bellenden
+60606	John Gudyill
+60635	John
+60676	John
+60795	John
+60815	John Gudyill
+60826	Lady Margaret
+60876	Lady Margaret
+60891	Mysie
+60950	Mysie
+60992	Mysie
+61036	Mysie
+61077	God
+61109	Mysie
+61168	Mysie
+61221	John Gudyill
+61283	Major Bellenden
+61304	Edith
+61321	Claver
+61355	Pike
+61357	Kilsythe
+61438	Margaret
+61482	Lady Margaret
+61517	Noll
+61573	Lady Margaret
+61706	Edith
+61750	Lady Margaret
+61807	Margaret
+61865	Edith
+62188	Boileau
+62194	Mrs Lennox
+62202	Margaret
+62219	Monsieur Scuderi
+62300	Pallas Armata
+62327	James Turner
+62331	James Turner
+62369	Galloway
+62421	James Turner
+63331	Claver
+63367	Edith
+63429	Lady Margaret
+63532	Margaret
+63535	Edith
+63616	Lady Margaret
+63649	John Grahame
+63714	James II.
+63785	Lady Elphinstoun
+63815	Claver
+63877	Lady Elphinstoun
+63902	Knox
+64051	Claverhouse
+64073	Lady Margaret
+64142	Bothwell
+64162	Bellenden
+64188	Edith
+64229	Edith
+64305	Edith
+64338	Claver
+64386	Margaret Bellenden
+64535	Margaret
+64620	Bellenden
+64645	Edith
+64716	Henry Morton
+64811	Grahame
+65075	Machiavel
+65192	Edith
+65211	Edith Bellenden
+65263	Grahame
+65421	Grahame
+65473	Grahame
+65515	Lady Margaret
+65520	Cuthbert Headrigg
+65538	Grahame
+65651	Grahame
+65805	Margaret Bellenden
+65903	Balfour
+65905	Burley
+65966	Grahame
+66034	Francis Stewart
+66040	Bothwell
+66088	Margaret Bellenden
+66100	-- Bothwell
+66123	Margaret Bellenden
+66146	Bothwell
+66248	Bothwell
+66272	Cornet Stewart
+66331	Evandale
+66346	Bothwell
+66351	Evandale
+66355	Lady Margaret
+66362	Grahame
+66421	Lady Margaret
+66431	Grahame
+66481	Edith
+66504	-- Bothwell
+66513	Margaret Bellenden
+66526	Harrison
+66532	Lady Margaret
+66548	Edith
+66582	Morton
+66751	Lady Margaret
+66840	Morton
+66868	Bellenden
+66959	Edith
+67046	Henry Morton
+67133	Edith
+67170	Bellenden
+67229	Grahame
+67278	Edith
+67295	Bellenden
+67439	Charles I.
+67496	Grahame
+67752	Bothwell
+67761	Bothwell
+67830	Lady Margaret
+67964	Milnwood
+67980	Silas Morton
+67995	Edith
+68014	Bellenden
+68067	Henry Morton
+68125	Edith Bellenden
+68195	Allan
+68256	Bothwell
+68267	Allan
+68334	Lady Margaret
+68347	Morton
+68376	Bellenden
+68430	Bellenden
+68447	Edith
+68543	Edith
+68772	Edith
+68789	Henry Morton
+68965	-- Bothwell
+68994	Edith
+69074	Miss Bellenden
+69182	Edith
+69366	Edith
+69453	Morton
+69490	Morton
+69519	Edith
+69591	Bellenden
+69604	Edith
+69659	Edith
+69719	Edith
+69821	Edith
+69823	Henry Morton
+69915	Bellenden
+70322	Edith Bellenden
+70339	Bellenden
+70397	Edith Bellenden
+70420	Morton
+70602	Morton
+70613	Edith
+70679	Edith
+70737	Lady Bellenden
+70782	Henry
+70788	Edith
+70824	Morton
+70847	Jenny Dennison
+70896	Henry Morton
+70935	Morton
+70953	Edith Bellenden
+70975	Jenny Dennison
+70993	Mrs Dennison
+71012	Jenny Dennison
+71072	Morton
+71124	Edith Bellenden
+71172	Morton
+71217	Edith
+71280	Edith
+71300	Morton
+71335	Morton
+71347	Jenny Dennison
+71357	Edith
+71412	Edith
+71485	Lady Margaret
+71580	Edith Bellenden
+71663	Bothwell
+71709	Morton
+71804	Morton
+71833	Bothwell
+71941	Margaret
+72020	Bellenden
+72026	Evandale
+72088	Morton
+72142	Edith
+72164	Bothwell
+72204	Edith
+72223	Edith
+72276	Edith
+72401	Edith
+72434	Grahame
+72523	Morton
+72592	Major Bellenden
+72605	Henry Morton
+72650	Henry
+72783	Balfour
+72785	Burley
+72804	Morton
+72920	Grahame
+73016	Morton
+73061	-- Bothwell
+73116	Margaret
+73149	Grahame
+73187	Grahame
+73192	Bellenden
+73243	Bellenden
+73297	Grahame
+73439	Bothwell
+73519	Jenny
+73574	Grahame
+73727	Grahame
+73828	Lady Margaret
+73957	Grahame
+74095	Morton
+74129	Morton
+74295	Bothwell
+74320	Morton
+74358	Bothwell
+74363	Grahame
+74382	Bothwell
+74385	Morton
+74511	Morton
+74547	Claverhouse
+74552	Lady Margaret
+74742	Bellenden
+74773	Morton
+74810	Edith
+74816	Jenny Dennison
+74848	Lady Margaret
+74950	Morton
+74991	Bothwell
+75055	Bothwell
+75065	Morton
+75102	Inglis
+75175	Morton
+75191	Inglis
+75276	Bothwell
+75287	Inglis
+75319	Morton
+75604	Morton
+75615	Morton
+75621	Cuddie Headrigg
+75707	Morton
+75733	Henry
+75737	Cuddie
+75863	Morton
+75898	Gabriel Kettledrummle
+75901	Deil
+75939	Milnwood
+76013	Milnwood
+76021	Binna
+76067	Morton
+76076	Cuddie
+76078	-- ``
+76080	Aweel
+76192	Gabriel Kettledrummle
+76231	Henry
+76265	-- Weel
+76334	Cuddie
+76444	-- Weel
+76520	-- Aweel
+76618	Morton
+76649	Cuddie
+76811	Kettledrummle
+76818	Andrew Wilson
+76837	Kettledrummle
+76859	-- Aweel
+76894	Babylon
+76947	Morton
+77050	Cuddie
+77062	Morton
+77231	Morton
+77251	Cuddie
+77337	Tam Halliday
+77341	Jenny Dennison
+77389	Jenny
+77429	Morton
+77456	Milnwood
+77460	Cuddie
+77558	Cuddie
+77562	Morton
+77570	Milnwood
+77652	Cuddie
+77667	Henry Morton
+77681	Bellenden
+77889	Cuddie
+77909	Morton
+77945	Morton
+77982	Cuddie
+78069	Morton
+78190	Morton
+78222	Paul
+78256	Cuddie
+78266	Leddy Margaret
+78295	Caesar
+78395	Cuddie
+78399	Morton
+78504	Inglis
+78555	Morton
+78581	Meg
+78668	Valentine
+78728	Morton
+78740	Cuddie
+78763	Cuddie
+78982	Gabriel Kettledrummle
+79201	Cuddie
+79226	Mause
+79293	Mause
+79353	Judas
+79358	Sharpe
+79398	Bothwell
+79557	Cuddie
+79562	Morton
+79622	Deil
+79699	Cuddie
+79773	Gabriel Kettledrummle
+79867	Gabriel
+79876	Mause
+79967	Bothwell
+79987	Bothwell
+80452	Morton
+80592	Morton
+80678	Bothwell
+80792	Gabriel Kettledrummle
+80864	Mause
+80929	Kettledrummle
+81254	Allan
+81256	Cornet Grahame
+81342	Morton
+82237	Judah
+82382	O Jacob
+82500	Burley
+82518	Hackston
+82522	Paton
+82526	Cleland
+82729	Cornet Grahame
+82765	Cornet Grahame
+82815	Allan
+82853	Allan
+82906	Cornet Grahame
+82937	Ross
+83027	Cornet
+83063	Allan
+83098	Cornet
+83108	Dunbar
+83124	Allan
+83173	Allan
+83243	Ross
+83388	Evandale
+83447	Scotchmen
+83452	Charles
+83778	Dick Grahame
+83815	Cornet Grahame
+83828	Grahame
+83882	Monmouth
+83886	Gie
+83897	Claver
+83963	Grahame
+83979	Claver
+83999	Cornet Grahame
+84130	Sharpe
+84255	Grahame
+84343	Dick Grahame
+84428	Cornet Richard
+84430	Grahame
+84524	Cornet Grahame
+84609	Cornet Grahame
+84671	John Grahame
+84690	Cornet
+84759	Kirk
+84770	Charles Stewart
+85114	Cornet
+85132	John Balfour
+85135	Burley
+85165	Cornet
+85236	Burley
+85291	Burley
+85324	Cornet Grahame
+85369	Burley
+85416	Burley
+85425	Cornet Richard
+85427	Grahame
+85499	Balfour
+85510	Balfour
+85544	Claverhouse
+85627	Cornet
+85727	Allan
+85768	-- Bothwell
+85786	Bothwell
+85849	Bothwell
+86206	Claverhouse
+86378	Bothwell
+86422	Bothwell
+86431	Bothwell
+86452	Burley
+86471	Bothwell
+86573	Bothwell
+86598	Burley
+86620	Burley
+86658	Bothwell
+86806	Burley
+86810	Bothwell
+86880	Burley
+86892	John Balfour
+86943	Bothwell
+86965	Balfour
+87039	Bothwell
+87052	Balfour
+87069	Burley
+87153	Bothwell
+87183	Bothwell
+87233	Balfour
+87257	Bothwell
+87319	Balfour
+87334	Bothwell
+87387	Bothwell
+87436	Burley
+87449	Bothwell
+87496	Burley
+87519	Bothwell
+87691	Bothwell
+87730	Halliday
+87734	Claverhouse
+87750	Bothwell
+87754	Bothwell
+87760	Halliday
+87820	Bothwell
+87882	Allan
+87959	Bothwell
+88021	Allan
+88050	Allan
+88451	Howie
+88476	Mackay
+88551	Popery
+88555	James
+88601	Bishop Sharpe
+88604	Dalziel
+88699	Sharpe
+88715	Dalziel
+88736	-- Ibidem
+88829	Allan
+89095	Margaret
+89166	Allan
+89300	Burley
+89358	Balfour
+89450	Allan
+89544	Evandale
+89562	Allan
+89643	Hector
+89791	Claverhouse
+89901	John Dick
+90156	John Dick
+90209	Cornet Grahame
+90236	Andrew Guild
+90342	Morton
+90346	Cuddie
+90354	Gabriel Kettledrummle
+90407	Inglis
+90454	Cuddie
+90498	Morton
+90553	Mause
+90571	Elihu
+90624	Gabriel Kettledrummle
+90741	Kettledrummle
+90842	Mause
+90976	Cuddie
+91010	Rumbleberry
+91017	Rumbleberry
+91110	Morton
+91112	Cuddie
+91427	Cuddie
+91449	Mause
+91606	Cuddie
+91625	Kettledrummle
+91665	Cuddie
+91694	Deborah
+91768	Cuddie
+91811	Milnwood
+91821	Claver
+91852	Milnwood
+91854	Inglis
+91880	Cuddie
+91937	Morton
+92036	Claverhouse
+92116	Mause
+92183	Tarry
+92214	Wilt
+92225	Wilt
+92234	Wilt
+92242	-- Wae
+92306	Shimei
+92310	Doeg
+92440	Morton
+92548	Morton
+92563	Burley
+92587	Burley
+92596	Henry Morton
+92607	Henry Morton
+92612	Burley
+92632	Silas Morton
+92708	Amalek
+92779	Morton
+92857	Burley
+92959	Tophet
+93034	Shur
+93059	Morton
+93153	Morton
+93170	Morton
+93185	Cuddie
+93245	Cuddie
+93267	Morton
+93274	Henry
+93345	Henry Morton
+93348	Cuddie
+93421	Kettledrummle
+93448	Mause
+93479	Kettledrummle
+93496	Silas Morton
+93588	Cuddie
+93592	Mause
+93605	Judden Headrigg
+93619	Mause Middlemas
+93661	Levites
+93724	Kettledrummle
+93780	Morton
+93782	Cuddie
+93802	Moses
+93809	Amalek
+93840	Aaron
+93848	Kettledrummle
+93922	Morton
+93936	Silas Morton
+93943	Gabriel Kettledrummle
+94055	Robert Hamilton
+94068	William Hamilton
+94087	Howie of
+94089	Lochgoin
+94110	William
+94120	Hamilton
+94125	Bishop Burnet
+94139	Thomas
+94157	Bishop
+94254	Rippon
+94257	Charles I.
+94326	Hamilton
+94384	Hamilton
+94414	Hamilton
+94420	Babel
+94547	William Wilson
+94556	Douglas
+94597	Robert Hamilton
+94683	Saul
+94698	Saul
+94704	Samuel
+94714	Agag
+94868	John Nisbet
+94962	Robert Hamilton
+95013	John Howie
+95085	Methven
+95161	Rosse
+95474	Crafford
+95477	Bleith
+95625	Rosse
+95630	Streven
+95721	J. Grahame
+96041	Charles II
+96179	Burley
+96259	Gabriel Kettledrummle
+96348	Kettledrummle
+96463	Isaiah
+96554	Jacob
+96639	Milnwood
+96792	Kettledrummle
+96832	Charles II.
+96910	Omri
+96912	Ahab
+96939	Tophet
+96988	Kettledrummle
+97026	Gabriel
+97083	Ephraim Macbriar
+97132	Young
+97437	Hagar
+97451	Judah
+97466	Rachel
+97711	Jacob
+98083	Sampson
+98092	Gideon
+98207	Meroz
+98369	Sisera
+98651	Balfour
+98950	Henry IV
+99001	Edith
+99054	Morton
+99111	Jenny Dennison
+99139	Jenny
+99145	Milnwood
+99219	Milnwood
+99221	Cuddie
+99278	Milnwood
+99296	Tam Halliday
+99312	Cuddie
+99403	Margaret
+99407	Grahame
+99553	Major Bellenden
+99568	Grahame
+99833	Lady Margaret
+99910	Edith
+99971	Bellenden
+100034	Lady Margaret
+100061	Harrison
+100074	Gudyill
+100134	Kilsythe
+100136	John
+100144	Tippermuir
+100151	Gudyill
+100169	Alford
+100171	John
+100198	Auld Earn
+100210	Philiphaugh
+100217	John
+100231	John
+100260	John Gudyill
+100383	Harrison
+100473	Harrison
+100501	Claver
+100601	Pike
+100680	Harrison
+100685	Gudyill
+100772	Harrison
+100835	Margaret Bellenden
+100954	Edith
+101015	Miles Bellenden
+101047	Pike
+101055	Pike
+101071	Pike
+101137	Hamilton
+101161	Harrison
+101202	Edith
+101231	Lady Margaret
+101323	Edith
+101370	Lady Margaret
+101413	Earl of
+101415	Torwood
+101671	John Gudyill
+101834	Gudyill
+101853	Bellenden
+101859	Pike
+101887	Margaret
+101891	Goose Gibbie
+101909	Gudyill
+101957	Bellenden
+102081	Edith Bellenden
+102087	Jenny
+102106	Jenny
+102161	Edith
+102208	Claver
+102232	John Balfour
+102238	Milnwood
+102241	Cuddie Headrigg
+102278	Margaret
+102282	Edith
+102383	Edith
+102391	Bellenden
+102479	Edith
+102524	John Gudyill
+102532	Claver
+102565	Edith
+102673	Edith
+102836	Margaret
+102839	John Gudyill
+102861	Edith
+102911	Grahame of
+102913	Claverhouse
+102994	Grahame
+103023	Lady Margaret
+103068	Bellenden
+103122	Grahame
+103126	Lady Margaret
+103135	Bellenden
+103161	Margaret Bellenden
+103185	Bellenden
+103375	Grahame
+103386	Lady Margaret
+103395	Francis Stewart
+103449	Grahame
+103477	Major Bellenden
+103530	Bellenden
+103593	Richard
+103626	Bellenden
+103652	Grahame
+103921	Evandale
+103993	Grahame
+104249	Ross
+104275	Bellenden
+104323	Bellenden
+104343	Margaret
+104346	Bellenden
+104407	Lady Margaret
+104450	Edith
+104457	Henry Morton
+104589	Bellenden
+104609	Inglis
+104707	Inglis
+104754	Major Bellenden
+104845	Bellenden
+104892	Allan
+104941	Bellenden
+105192	Niel Blane
+105213	-- Jenny
+105246	Jenny
+105257	Niel Blane
+105265	Bauldy
+105350	Duncan Glen
+105373	Leddy
+105392	Duncan
+105431	Jenny
+105463	Niel
+105526	Niel Blane
+105876	Ananias
+105927	Henry Morton
+105976	Burley
+106002	Henry Morton
+106007	Balfour
+106025	Silas Morton
+106082	Balfour
+106086	Morton
+106188	Burley
+106237	Balfour
+106241	Morton
+106302	Morton
+106426	Ephraim
+106430	Burley
+106449	Morton
+106558	Morton
+106590	Macbriar
+106621	Ephraim Macbriar
+106627	Burley
+106661	Erastian
+106710	Burley
+106872	Balfour
+106937	Macbriar
+106981	Charles Stewart
+106992	Balfour
+107094	Macbriar
+107130	Balfour
+107160	Morton
+107201	Morton
+107206	John Balfour
+107209	Kinloch
+107212	Burley
+107534	Burley
+107576	Sharpe
+107808	Richard Cameron
+107859	Balfour
+107982	Henry Morton
+108035	Morton
+108048	Burley
+108117	Morton
+108142	Balfour
+108144	Morton
+108167	Macbriar
+108419	Morton
+108565	Burley
+108678	Burley
+108723	James Sharpe
+108732	Morton
+108749	Burley
+108945	Morton
+109040	Burley
+109309	Balfour
+109313	Morton
+109375	Cumming
+109380	Robert Bruce
+109488	Balfour
+109700	Morton
+109758	Walter Scott
+109800	Cressida
+109858	Burley
+109860	Morton
+110004	Burley
+110030	Morton
+110259	Burley
+110497	Balfour
+110542	Peter Poundtext
+110549	Milnwood
+110623	Morton
+110708	Burley
+110785	Kettledrummle
+110898	Balfour
+110911	Henry Morton
+110947	Silas Morton
+110959	Morton
+111004	Silas Morton
+111036	Charles Stewart
+111057	Kirk
+111092	Morton
+111126	Burley
+111157	Poundtext
+111169	Morton
+111222	Morton
+111312	Poundtext
+111351	Poundtext
+111399	Lady Margaret
+111401	Bellenden
+111478	Burley
+111510	Poundtext
+111513	Harrison
+111518	John Gudyill
+111555	James Grahame
+111566	Burley
+111586	Poundtext
+111589	Miles Bellenden
+111613	Burley
+111617	Miles Bellenden
+111624	Arthur
+111724	Burley
+111770	Ross
+111789	Poundtext
+111851	Margaret Bellenden
+111858	Jenny Dennison
+111901	John Gudyill
+111905	Hugh Harrison
+111909	Miles Bellenden
+111965	Habakkuk
+111969	Macbriar
+112074	Morton
+112251	Morton
+112300	Habakkuk Mucklewrath
+112378	Mucklewrath
+112461	Jezabel
+112466	Ahab
+112541	Morton
+112581	Kettledrummle
+112627	Poundtext
+112651	Poundtext
+112655	Macbriar
+112674	Poundtext
+112713	Habakkuk Mucklewrath
+113042	Morton
+113057	Burley
+113115	Burley
+113153	Morton
+113210	John Balfour
+113213	Burley
+113284	Munster
+113326	Morton
+113423	Henry Morton
+113428	Balfour
+113568	Morton
+113664	Balfour
+113756	James Melvin
+113768	Cardinal Beaton
+113780	Morton
+113820	Balfour
+113883	Morton
+113894	Burley
+113924	Morton
+113941	Burley
+113998	Morton
+114062	Morton
+114155	Burley
+114204	Henry IV
+114215	Henry
+114222	Cuddie
+114252	Cuddie
+114283	Cuddie
+114287	Morton
+114305	Cuddie
+114371	Cuddie
+114403	Cuddie
+114443	Morton
+114474	Cuddie
+114641	Bothwell
+114654	Morton
+114663	Cuddie
+114783	Morton
+114821	Cuddie
+114923	Haena
+114932	Cuddie
+115050	Bothwell
+115066	Cuddie
+115081	Cuddie
+115176	Morton
+115201	Cuddie
+115252	Bothwell
+115285	Morton
+115319	Cuddie
+115357	Bothwell
+115437	Bothwell
+115499	Bothwell
+115511	James VI
+115549	Haud Immemor
+115552	F. S.
+115554	E. B.
+115560	Francis Stewart
+115563	Earl of
+115565	Bothwell
+115616	Morton
+115664	Morton
+115798	Morton
+115939	Agnes
+116080	Morton
+116178	Morton
+116327	Burley
+116366	Morton
+116373	Cuddie
+116385	Bothwell
+116562	Morton
+116596	Burley
+116662	Morton
+116732	Burley
+116759	Morton
+116808	Burley
+116810	Macbriar
+116825	Henry Morton
+117049	Ross
+117068	Morton
+117098	Major Bellenden
+117223	Finlay
+117358	Evandale
+117450	Lady Margaret
+117488	Edith
+117608	Lady Margaret
+117630	Edith
+117666	Bellenden
+117842	Edith
+117986	Lady Margaret
+118110	Edith
+118223	Bellenden
+118242	Mr Morton
+118295	Edith
+118404	Bellenden
+118433	Henry Morton
+118504	Poundtext
+118636	Lady Margaret
+118732	Lady Margaret
+118734	Bellenden
+118881	Bellenden
+118966	Bellenden
+119110	Lady Bellenden
+119136	Gideon Pike
+119203	Edith
+119262	Bellenden
+119337	Edith
+119377	Martha Weddell
+119399	John Gudyill
+119419	Pike
+119453	Lady Margaret
+119523	Bellenden
+119557	Lady Margaret
+119596	Jenny Dennison
+119631	Lady Margaret
+119638	Edith
+119674	Jenny
+119720	Milnwood
+119745	Jenny
+119773	Jenny
+119817	Jenny
+119830	Edith
+119837	Henry Morton
+119865	Edith
+119886	Henry Morton
+119946	Edith
+119950	Jenny
+119997	Tam
+120020	John Gudyill
+120043	Milnwood
+120090	Cuddie
+120103	Bothwell
+120132	Cuddie
+120165	Jenny
+120200	Tam Halliday
+120261	Bellenden
+120300	Jenny
+120313	Cuddie
+120325	Edith
+120356	John Gudyill
+120403	Tam Halliday
+120412	Gudyill
+120443	Leddy
+120456	Milnwood
+120458	Cuddie
+120492	Jenny
+120542	Bellenden
+120606	Jenny
+120684	Edith
+120688	Edith
+120738	Leddy
+120789	Jenny Dennison
+120798	Edith
+120958	Margaret
+120990	King Charles
+121032	Edith
+121070	Jenny
+121074	Edith
+121105	Edith
+121124	Jenny
+121188	Jenny
+121205	Edith
+121229	Cuddie Headrigg
+121236	Milnwood
+121296	Milnwood
+121360	Henry Morton
+121378	Henry V.
+121380	On
+121412	Tillietudlem
+121422	Pike
+121457	Lady Margaret
+121637	Bellenden
+121688	Morton
+121975	Major Bellenden
+122375	John Gudyill
+122561	John Gudyill
+122684	Bellenden
+122810	Laird
+122960	William Maxwell
+122968	Miles Bellenden
+122982	Miles Bellenden
+122986	Evandale
+123002	Laird
+123062	Miles Bellenden
+123142	William Lord
+123144	Evandale
+123146	Miles Bellenden
+123227	John Balfour
+123230	Burley
+123257	Bellenden
+123260	Henry Morton
+123752	Lady Margaret
+123935	Henry Morton
+123951	Bellenden
+123975	Henry Morton
+124061	Paul
+124273	Cornet Grahame
+124353	Lady Margaret
+124422	John Gudyill
+124552	Balfour
+124602	Bellenden
+124707	Balfour
+124815	Henry Morton
+125177	Burley
+125240	Burley
+125426	Burley
+125446	Burley
+125603	Cuddie Headrigg
+125636	Jenny Dennison
+125674	Cuddie
+125851	Goose Gibbie
+125863	Edith
+125925	Jenny Dennison
+125997	Cuddie
+126054	Cuddie
+126068	Margaret
+126072	Edith
+126086	Jenny Dennison
+126147	Cuddie
+126190	Lady Margaret
+126275	Cuddie
+126320	Jenny Dennison
+126399	Tam Halliday
+126482	Cuddie
+126499	Jenny
+126538	Jenny
+126581	Bothwell
+126693	Jenny Dennison
+126700	Jenny
+126790	Bellenden
+126848	Cuddie
+126869	Jenny
+127104	Bellenden
+127153	Henry IV
+127311	Henry Morton
+127324	Burley
+127353	Morton
+127428	Burley
+127484	Morton
+127499	Poundtext
+127520	Burley
+127539	Morton
+127561	Henry Morton
+127596	Balfour
+127605	Morton
+127642	Balfour
+127731	Morton
+127746	Burley
+127775	Morton
+127785	Bellenden
+127831	Burley
+127861	Miles Bellenden
+127883	Morton
+127907	Burley
+127994	Morton
+128003	Balfour
+128012	Macbriar
+128117	Morton
+128127	Burley
+128143	Bellenden
+128185	Burley
+128189	Morton
+128249	John Falstaff
+128265	Balfour
+128380	Morton
+128433	Burley
+128448	Silas Morton
+128588	Silas Morton
+128623	Morton
+128659	Balfour
+128816	Burley
+128898	Morton
+128958	Burley
+128975	Balfour
+128983	Kettledrummle
+129000	Morton
+129098	Ross
+129227	Ross
+129303	Morton
+129339	Henry Morton
+129419	Burley
+129452	Morton
+129529	Bellenden
+129532	Edith
+129543	Morton
+129646	Morton
+129727	Gallio
+129808	Morton
+129849	Morton
+130034	Tabor
+130042	Robert Hamilton
+130114	Morton
+130122	Grahame
+130233	Morton
+130343	Henry Morton
+130649	Duke
+130892	Clyde
+130925	Morton
+131125	Poundtext
+131146	Morton
+131233	Morton
+131441	Edith
+131639	Milnwood
+131641	Henry
+131702	Mrs Alison
+131704	Wilson
+131729	Alison
+131733	Morton
+131744	Harry
+131804	Henry
+131829	Ailie
+131900	Ailie
+131946	Alison
+131983	Laird
+132003	Henry
+132036	Tillietudlem
+132043	Hackie
+132078	Morton
+132139	Bellenden
+132167	Morton
+132187	Ailie
+132204	Morton
+132209	Burley
+132243	Mrs Wilson
+132298	Morton
+132300	-- ``
+132302	Cuddie
+132328	Ailie
+132372	Cuddie
+132383	Mither
+132506	Cuddie
+132570	Morton
+132609	Sally
+132652	Balfour
+132703	Haman
+132766	Morton
+132774	Cuddie
+132792	Ailie
+132802	Morton
+132934	Morton
+132939	Burley
+132988	Poundtext
+133033	Morton
+133083	Burley
+133171	Mrs Wilson
+133197	Crichton
+133255	Morton
+133261	Burley
+133312	Burley
+133331	Morton
+133367	Burley
+133429	Burley
+133455	John Grahame
+133478	Morton
+133529	Burley
+133550	Joshua
+133605	Burley
+133633	Poundtext
+133699	Burley
+133723	Poundtext
+133764	John Balfour
+133812	Burley
+133910	John Balfour
+133994	Morton
+134008	Mr Balfour
+134050	Burley
+134082	Morton
+134138	Burley
+134183	Balfour
+134187	Morton
+134220	Burley
+134266	Burley
+134302	Morton
+134316	Mr Poundtext
+134342	-- Dingwall
+134379	Morton
+134396	Poundtext
+134398	Morton
+134504	Burley
+134554	Morton
+134574	Headrigg
+134600	Morton
+134742	Morton
+134817	Charles
+134869	Morton
+134949	Gie
+134960	Gie
+134969	Gordon
+134971	Morton
+134991	Poundtext
+135054	Morton
+135061	Cuddie Headrigg
+135075	Morton
+135117	Morton
+135129	Cuddie
+135173	Jenny
+135177	Cuddie
+135193	Jenny Dennison
+135234	Jenny
+135280	Jenny
+135339	Jenny
+135343	Morton
+135381	Milnwood
+135419	Morton
+135429	Jenny
+135444	Charles aff
+135470	John Gudyill
+135532	Morton
+135587	Jenny
+135623	Morton
+135663	Jenny
+135739	Morton
+135815	-- Cuddie
+135844	Cuddie
+135879	Jenny
+135934	Morton
+135991	Jenny
+136028	Jenny
+136032	Morton
+136185	Inglis
+136224	Morton
+136263	Burley
+136304	Morton
+136331	Jenny
+136334	Tam Halliday
+136380	Morton
+136449	Morton
+136475	Jenny
+136502	Jenny
+136506	Morton
+136520	Cuddie
+136555	Cuddie
+136563	Jenny
+136566	Mrs Dennison
+136576	Tam Rand
+136634	Jenny
+136662	Cuddie
+136676	Morton
+136729	Cuddie
+136738	Balfour
+136746	Ephraim Macbriar
+136751	Kettledrummle
+136789	Morton
+136833	Morton
+136913	Morton
+136976	Morton
+137018	Morton
+137080	Morton
+137100	Burley
+137148	Bellenden
+137152	Morton
+137208	Morton
+137296	Morton
+137367	Morton
+137568	Morton
+137658	Morton
+137757	Morton
+137835	Morton
+137892	Burley
+137905	Morton
+137947	Morton
+137971	Jenny
+137990	Cuddie
+138131	Jenny Dennison
+138197	Halliday
+138260	Bellenden
+138262	Harrison
+138291	Inglis
+138591	Inglis
+138603	Halliday
+138671	Bellenden
+138748	Burley
+138910	Hamilton
+138985	-- Gudyill
+139035	Miles Bellenden
+139088	Margaret
+139147	Bellenden
+139149	Harrison
+139151	Gudyill
+139262	Marlow
+139369	Edith Bellenden
+139404	Bellenden
+139472	Bellenden
+139482	Bellenden
+139540	Edith
+139640	Bellenden
+139682	Edith
+139843	Edith
+139972	Bellenden
+140007	Edith
+140066	Edith
+140180	Edith Bellenden
+140343	Edith
+140555	Bellenden
+140662	Bellenden
+140666	Henry Morton
+140784	Bellenden
+140827	Morton
+140839	Henry Morton
+140844	Major Bellenden
+140859	Morton
+140874	Bellenden
+140926	Bellenden
+140960	Morton
+140993	Bellenden
+141017	Morton
+141053	Cuddie Headrigg
+141068	Jenny Dennison
+141121	Jenny
+141125	Cuddie
+141169	Jenny
+141219	Cuddie
+141231	Jenny
+141262	Deil
+141270	Jenny
+141288	Tam Halliday
+141322	Jenny
+141326	Lady Margaret
+141369	Jenny
+141444	Jenny
+141475	Jenny
+141483	Henry Morton
+141513	Jenny
+141541	Lady Margaret
+141580	Morton
+141665	Morton
+141730	Henry Morton
+141739	Bellenden
+141881	Bellenden
+142006	Lady Margaret
+142031	Morton
+142040	Bellenden
+142078	Edith
+142186	Edith
+142303	Thomas Dalzell
+142484	Athole
+142617	Messrs Laing
+142770	Morton
+142899	Morton
+143130	Morton
+143360	Morton
+143382	Hamilton
+143395	Mr Poundtext
+143409	John Balfour
+143412	Burley
+143457	Morton
+143481	Morton
+143500	Burley
+143521	Macbriar
+143523	Kettledrummle
+143538	Macbriar
+143543	Kettledrummle
+143560	Burley
+143566	Morton
+143589	Poundtext
+143646	Burley
+143658	Morton
+143660	Burley
+143700	Henry Morton
+143710	Burley
+143715	Macbriar
+143790	Macbriar
+143828	Burley
+143855	Morton
+143878	Burley
+144054	Macbriar
+144065	Balfour
+144099	Burley
+144187	Ephraim Macbriar
+144216	Burley
+144366	Burley
+144407	Morton
+144490	Burley
+144492	Macbriar
+144505	Kettledrummle
+144517	Laird
+144531	Poundtext
+144555	Poundtext
+144617	Burley
+144619	Macbriar
+144622	Kettledrummle
+144627	Hamilton
+144751	Morton
+144800	Calvin
+144831	Morton
+144952	Hamilton
+144999	Cameron
+145157	Cameron
+145159	Mr Cargill
+145163	Henry Hall
+145186	Poundtext
+145201	Burley
+145333	Burley
+145381	Morton
+145428	Macbriar
+145479	Morton
+145484	Poundtext
+145537	Poundtext
+145551	Balfour
+145561	Kettledrummle
+145586	Poundtext
+145642	Burley
+145685	Morton
+145699	Balfour
+145743	Balfour
+145757	Morton
+145895	Mr Poundtext
+145966	Langcale
+146120	Burley
+146143	John Grahame
+146181	Morton
+146207	Balfour
+146253	Henry Morton
+146364	Cuddie
+146369	Morton
+146397	Morton
+146475	Clyde
+146559	Morton
+146586	Morton
+146647	Morton
+146770	Morton
+146807	Henry Morton
+146819	Morton
+146897	Morton
+146920	Lumley
+146935	Morton
+146970	Morton
+147060	Morton
+147106	Charles
+147161	Morton
+147268	Morton
+147365	Morton
+147442	Clyde
+147480	Lumley
+147486	Morton
+147500	Duke
+147530	Morton
+147757	Charles
+147823	Thomas Dalzell
+147831	Tom Dalzell
+147835	Crichton
+147841	Swift
+147874	John Paton
+147916	Dalzell
+147920	Paton
+147935	Wallace
+147941	Paton
+147949	Dalzell
+147984	Paton
+147993	Dalzell
+148040	Dalzell
+148105	Grahame
+148154	Morton
+148225	Monmouth
+148239	Dalzell
+148306	Morton
+148330	Morton
+148384	Morton
+148411	Morton
+148413	Dalzell
+148534	Morton
+148588	Morton
+148671	Duke
+148675	Morton
+148789	Morton
+148850	Morton
+148871	Morton
+149012	Dalzell
+149089	Morton
+149093	Dalzell
+149112	Dalzell
+149121	Morton
+149310	Dalzell
+149364	Dalzell
+149419	Morton
+149471	Morton
+149498	Morton
+149500	Milnwood
+149508	Grahame
+149514	Morton
+149550	Morton
+149599	Grahame
+149606	Morton
+149768	Dalzell
+149807	Morton
+149838	Grahame
+149925	Lumley
+150020	Morton
+150156	Bothwell
+150291	Morton
+150367	Bothwell
+150422	Morton
+150525	Morton
+150567	Morton
+150676	Morton
+150837	Peter Poundtext
+150887	Habakkuk Mucklewrath
+150900	Morton
+151073	Mucklewrath
+151165	Morton
+151230	Mucklewrath
+151389	Henry Morton
+151394	Achan
+151797	Burley
+151841	Habakkuk Mucklewrath
+151936	Morton
+151992	Burley
+152051	Morton
+152107	Mucklewrath
+152336	Morton
+152584	Morton
+152617	Burley
+152620	Macbriar
+152623	Ephraim
+152657	Burley
+152661	Tarry
+152665	Macbriar
+152672	Henry Morton
+152730	Burley
+152841	Morton
+152843	Burley
+153008	Kettledrummle
+153012	Macbriar
+153135	Bothwell
+153189	Ere Morton
+153192	Burley
+153339	Morton
+153395	Burley
+153586	Monmouth
+153614	Dalzell
+153659	Loch Lomond
+153870	Morton
+153872	Burley
+154019	Burley
+154021	Morton
+154094	Morton
+154182	Burley
+154199	Morton
+154261	Morton
+154304	Burley
+154631	Richard Grahame
+154806	Dalzell
+154931	Basil Olifant
+155005	Margaret Bellenden
+155089	Dalzell
+155106	Grahame
+155148	Burley
+155150	Morton
+155195	Burley
+155250	Burley
+155275	Morton
+155305	Cuddie
+155414	Morton
+155437	Cuddie
+155487	Morton
+155571	Fletcher
+155595	Morton
+155634	Morton
+155821	Cuddie
+155966	Cuddie
+155995	Morton
+156051	Cuddie
+156128	Morton
+156160	Ephraim Macbriar
+156167	Habakkuk Mucklewrath
+156194	Macbriar
+156257	Morton
+156312	Cuddie
+156321	Mause Headrigg
+156450	Hamilton
+156476	Cuddie
+156530	Macbriar
+156568	Henry Morton
+156614	Mucklewrath
+156761	Morton
+156829	Macbriar
+156873	Morton
+156995	Burley
+157035	Morton
+157092	Macbriar
+157148	Morton
+157325	Macbriar
+157359	Miles Bellenden
+157395	Morton
+157405	Macbriar
+157458	Edith Bellenden
+157469	Morton
+157533	Margaret Bellenden
+157549	John Balfour
+157558	Basil Olifant
+157592	Morton
+157626	Macbriar
+157719	Joshua
+157863	Morton
+157912	Morton
+157977	Macbriar
+158075	Morton
+158445	Morton
+158537	Macbriar
+158641	Tophet
+158690	Hezekiah
+158760	Mucklewrath
+158828	Morton
+158964	Cornet Grahame
+159005	Morton
+159040	Morton
+159120	Morton
+159137	Cuddie
+159166	Morton
+159196	Claverhouse
+159381	Galloway
+160085	Morton
+160117	Morton
+160177	Morton
+160265	Halliday
+160362	Drumshinnel
+160421	Morton
+160633	Grahame
+160670	Morton
+160688	Morton
+160799	Mr Morton
+160821	Morton
+160877	Morton
+160897	Morton
+160901	Claverhouse
+160954	Morton
+160977	Claverhouse
+161069	Robert Grierson
+161099	Morton
+161281	Morton
+161341	Grahame
+161487	-- Wilt
+161610	John Grahame
+161725	Morton
+161819	Mucklewrath
+162000	Morton
+162063	Morton
+162099	Morton
+162114	Morton
+162257	Morton
+162342	Morton
+162373	Cuddie
+162403	Morton
+162536	Morton
+162548	Balfour
+162550	Burley
+162635	Morton
+162748	Morton
+162795	Grahame
+162926	Morton
+162934	Grahame
+163005	Morton
+163062	Morton
+163251	John Grahame
+163273	Morton
+163336	Cuthbert
+163418	Morton
+163509	Halliday
+163593	Heathercat
+163621	Cuthbert
+163703	Morton
+163728	Morton
+163813	Morton
+163867	Morton
+163895	Henry Morton
+163900	Silas Morton
+163916	Morton
+164010	Morton
+164085	Morton
+164111	Burley
+164210	Margaret Bellenden
+164215	Morton
+164228	Grahame
+164251	Edith
+164292	Morton
+164374	Lady Margaret
+164390	Edith
+164409	Burley
+164539	Morton
+164848	Allan
+164873	Morton
+164941	Morton
+165415	David Hackston
+165418	Rathillet
+165439	Cameron
+165496	Cameron
+165721	Morton
+165949	Morton
+165953	Claverhouse
+165958	Cuddie
+166032	Morton
+166092	Cuddie
+166136	Mause
+166163	Cuddie
+166228	Cuddie
+166267	Poundtext
+166347	Cuddie
+166363	Mause
+166421	Cuddie
+166527	Mause
+166555	Cuddie
+166646	Morton
+166659	Byron
+166713	Grahame
+166890	Duke
+166934	Mr Clerk
+166952	Grahame
+166963	Henry Morton
+166993	Henry Morton
+167013	Henry Morton
+167041	Morton
+167068	Morton
+167080	Morton
+167107	Macbriar
+167137	Morton
+167242	Cuddie
+167258	Macbriar
+167339	Bothwell Brigg
+167354	Cuddie
+167445	Cuddie
+167477	Cuddie
+167509	Dalzell
+167610	Dalzell
+167637	Cuddie
+167745	Cuddie
+167805	Cuddie
+167937	Macbriar
+168066	John Balfour
+168069	Burley
+168094	Macbriar
+168139	Macbriar
+168162	Dalzell
+168188	Lauderdale
+168233	Macbriar
+168386	Morton
+168403	Macbriar
+168458	Lauderdale
+168482	Macbriar
+168686	James Mitchell
+168702	Archbishop Sharpe
+168839	John Balfour
+168842	Burley
+169017	Balfour
+169019	Burley
+169068	Morton
+169209	Dalzell
+169412	Richard Cameron
+169577	Macbriar
+169922	Morton
+169931	Grahame
+169941	Morton
+169947	Macbriar
+169981	Claverhouse
+170035	Morton
+170045	Leith
+170052	Morton
+170078	Grahame
+170141	Bellenden
+170158	Lady Margaret
+170196	Morton
+170295	Seneff
+170339	Morton
+170395	Margaret Bellenden
+170438	Claverhouse
+170446	Morton
+170528	Morton
+170584	Morton
+170670	Ephraim
+170831	Silas Morton
+170878	Quintin Mackell
+170892	Bessie Maclure
+170904	Niel Blane
+170996	Jacob
+171006	Joseph
+171036	J. B.
+171038	of B.
+171054	Morton
+171063	Burley
+171154	Burley
+171161	Bellenden
+171212	Morton
+171233	Burley
+171346	Morton
+171424	Morton
+171498	Rosalind
+171514	Morton
+171631	William
+171738	Grahame
+171883	Charles
+171885	James
+171912	William
+172101	William
+172104	Mary
+172356	Stewart
+172420	Charles II
+172499	Aymer de
+172501	Valence
+173161	Cuthbert Headrigg
+173207	-- Cuddie
+173210	Cuddie
+173250	Jenny
+173273	-- Winna
+173364	Cuddie
+173490	Cuddie
+173690	Cuddie
+173708	Claver
+173737	Donalds
+173741	Dugalds
+173773	Mackay
+173831	Cuddie
+173909	Cuddie
+173957	Claver
+173969	Habakkuk Mucklewrath
+174032	Cuddie
+174086	Monmouth
+174118	Cuddie
+174179	Cuddie
+174233	Henry Morton
+174242	Cuddie
+174347	Cuddie
+174472	Burley
+174606	Evan dale
+174700	Jenny
+174785	Cuddie
+174856	Cuddie
+174860	Margaret Bellenden
+174872	Cuddie
+174929	Mains
+175047	Cuddie
+175126	Cuddie
+175165	Jenny
+175236	Cuddie
+175258	Cuddie
+175312	Jenny
+175316	Headrigg
+175360	Cuddie
+175422	Cuddie
+175587	Bellenden
+175610	Leddy Margaret
+175659	Jenny
+175681	Cuddie
+175751	Jenny
+175780	Bellenden
+175860	James
+175865	Basil Olifant
+175938	Stewart
+176068	Jenny
+176111	Jacob
+176173	Jenny
+176191	Cuddie
+176293	Jenny
+176310	Cuddie
+176384	Jenny
+176667	Jenny
+176761	Jenny
+176787	Cuddie
+176832	Jenny
+176838	Edith
+176859	Cuddie
+176877	Harry Morton
+176894	Jenny
+176952	Jenny
+177040	Edith
+177075	Edith
+177095	Tillietudlem
+177126	Cuddie
+177161	Cuddie
+177172	Jenny
+177188	Cuddie
+177199	John Tamson
+177237	Cuddie
+177243	Jenny
+177291	Edith
+177319	Edith
+177366	Cuddie
+177380	Edith
+177406	Ye ken
+177409	Jenny
+177411	Halliday
+177423	Halliday
+177440	Cuddie
+177461	Morton
+177477	Leddy Margaret
+177488	Milnwood
+177492	Cuddie
+177534	Leddy Margaret
+177549	Jenny
+177570	Ailie Wilson
+177600	Morton
+177620	Cuddie
+177657	Jenny
+177666	Cuddie
+177684	Cuddie
+177752	Jenny
+177757	Cuddie
+177811	Jenny
+177910	Cuddie
+177933	Jenny
+177968	Cuddie
+178015	Jenny
+178018	Naebody
+178062	Cuddie
+178111	Leddy Margaret
+178220	Jenny
+178282	Jenny
+178292	Bellenden
+178294	Lady Emily
+178296	Hamilton
+178321	Jenny
+178340	Bellenden
+178370	Jenny
+178398	Bellenden
+178419	Morton
+178432	Jenny
+178578	John Gudyill
+178631	Jenny
+178684	Lady Emily
+178727	Jenny
+178753	Jenny
+178799	Morton
+178812	Bellenden
+178888	Castle Dinnan
+178900	Emily
+178982	Edith
+179078	Lady Emily
+179107	Viscount
+179154	Edith
+179213	Bellenden
+179255	Edith
+179283	Lady Emily
+179316	Edith
+179407	Bellenden
+179445	Edith
+179544	Blair
+179556	Dundee
+179565	Edith
+179606	James
+179612	Edith
+179655	Edith
+179717	Edith
+179936	Edith
+179983	Bellenden
+180006	Evandale
+180187	Edith
+180240	Edith
+180315	Willie
+180635	Charles the
+180637	Second
+180675	Lady Margaret
+180718	Edith
+180740	Edith
+180785	Edith
+180933	Bellendon
+180966	Lady Margaret
+181032	Lady Evandale
+181035	Edith
+181072	Edith
+181177	Edith
+181205	Edith
+181229	Bellenden
+181367	Edith
+181490	Headrigg
+181507	Bellenden
+181625	Lady Emily
+181724	Lady Emily
+181830	Bellenden
+181923	Bellenden
+181985	Lady Emily
+181990	Edith
+182072	Lady Emily
+182101	Edith Bellenden
+182245	Emily
+182279	Edith
+182306	Jenny Dennison
+182321	Bellenden
+182483	Lady Emily
+182590	Bellenden
+182613	Jenny
+182644	Edith
+182673	Jenny
+182682	Lady Emily
+182701	Edith
+182840	Edith
+182917	Edith
+182978	Henry Morton
+182983	Edith
+183008	Bellenden
+183154	Henry Morton
+183237	Lady Emily
+183393	Halliday
+183438	Halliday
+183478	Halliday
+183545	Henry Morton
+183557	Halliday
+183595	Jenny
+183625	Jenny
+183661	Jenny
+183731	Morton
+183775	Halliday
+183852	Jenny
+183879	Morton
+183931	Halliday
+184008	Morton
+184032	Halliday
+184040	Lady Emily
+184062	John Gudyill
+184094	Emily
+184144	Edith
+184181	Edith
+184239	Halliday
+184248	Morton
+184260	Bellenden
+184282	Morton
+184389	Delrio
+184391	Burthoog
+184393	De L'Ancre
+184437	Henry Morton
+184470	Henry Morton
+184514	Bellenden
+184517	Thomas Halliday
+184568	Bellenden
+184657	Margaret Bellenden
+184705	Edith
+184910	Morton
+184922	Edith
+184991	Edith
+185049	Morton
+185097	Bellenden
+185126	Morton
+185182	Margaret Bellenden
+185244	Cuddie
+185281	Bellen
+185289	Edith
+185317	Edith
+185347	Edith
+185390	Edith
+185481	Edith
+185552	Henry Morton
+185590	Edith
+185676	Edith
+185689	Morton
+185739	Halliday
+185900	Edith
+185902	Halliday
+185934	Edith
+185949	Halliday
+185969	Morton
+186079	Morton
+186223	Morton
+186285	Morton
+186617	Edith
+186626	Burley
+186689	Stern
+186906	Burley
+186960	Cuddie
+186967	Burley
+186985	Bellenden
+187008	Noontide
+187051	Morton
+187109	Alison
+187372	Morton
+187395	Alison
+187413	Morton
+187471	Alison Wilson
+187480	Henry
+187494	Wilson
+187549	Wilson
+187561	Morton
+187625	Ailie
+187645	Henry Morton
+187656	Morton
+187821	Wilson
+187848	Ailie
+187872	Henry
+187971	Morton
+188020	Alison
+188065	Morton
+188147	Ailie
+188210	Ailie
+188237	Wilson
+188261	Wilson
+188268	Wilson
+188317	Morton
+188384	Wilson
+188411	Ye
+188416	Harry Morton
+188428	Henry
+188435	Silas Morton
+188467	Milnwood
+188498	Maister Harry
+188513	Morton
+188517	Henry
+188647	Ailie
+188656	Ailie
+188681	Morton
+188683	Milnwood
+188768	Wilson
+188780	Morton
+188842	Morton
+188866	Ye ken
+188945	Morton
+189010	Ailie
+189048	Ailie
+189277	Morton
+189318	Richard
+189333	Richard II
+189349	Wilson
+189411	Milnwood
+189517	Morton
+189666	Charles
+189747	Silas Morton
+189760	Prince of
+189762	Orange
+189777	Morton
+189857	William
+189940	Melville
+189947	Morton
+189962	Morton
+190074	Wilson
+190098	Morton
+190101	Milnwood
+190122	Morton
+190143	Ailie
+190150	Morton
+190153	Melville
+190157	Malville
+190167	Wilson
+190171	Morton
+190217	Ailie
+190263	Ailie
+190300	Wylie Mactrickit
+190439	Milnwood
+190488	Morton
+190561	Ailie
+190598	Ailie
+190783	Morton
+190807	Ailie
+190957	Hamlet
+191032	Ailie
+191075	Morton
+191125	Ailie
+191179	Henry Morton
+191192	Ailie
+191220	Ailie
+191258	Morton
+191318	Burley
+191341	Wilson
+191369	Morton
+191395	Wilson
+191496	Morton
+191581	Ailie
+191629	Ailie
+191673	Morton
+191677	Niel Blane
+191708	Ailie
+191723	Laddie
+191775	Morton
+191881	Morton
+191942	Ailie
+192004	Morton
+192184	Niel Blane
+192264	Morton
+192534	Morton
+192595	Morton
+192662	Niel Blane
+192813	Morton
+192856	Wittybody
+192886	Morton
+192914	Niel Blane
+193008	Morton
+193054	Claver
+193093	Morton
+193191	Willie
+193202	James
+193307	Morton
+193348	Blane
+193356	Elizabeth Maclure
+193364	Bessie Maclure
+193406	Bessie Maclure
+193480	Bessie Maclure
+193546	Morton
+193559	Blane
+193620	Morton
+193639	Bessie
+193644	Niel
+193676	Morton
+193743	Morton
+193762	Maclure
+193794	Niel Blane
+193826	Milnwoodhouse
+193879	Maclure
+193945	Morton
+193993	Burley
+194342	Morton
+194610	Morton
+194619	Burley
+194663	Mother
+194679	Elizabeth Maclure
+194739	Morton
+194880	Morton
+194984	Morton
+194988	Peggy
+195080	Morton
+195114	Johnie
+195133	Morton
+195383	Morton
+195491	Morton
+195534	Bothwell Brigg
+195638	Morton
+195683	Jael
+195686	Sisera
+195869	Johnie
+195880	Morton
+195961	Leddy Margaret
+195963	Bellenden
+195969	Basil Olifant
+195986	Edith
+196132	Basil Olifant
+196193	Bessie Maclure
+196304	Morton
+196326	Dinna
+196450	Bothwell
+196458	Inglis
+196475	Morton
+196517	Quintin Mackell
+196545	Quintin Mackell
+196552	Morton
+196596	Gude
+196620	Morton
+196641	Quintin Mackell
+196647	John Bal
+196719	Ye
+196793	Morton
+196813	Maclure
+196848	Morton
+196965	Ye ken
+197138	Milnwood
+197158	Morton
+197261	Maclure
+197345	William
+197347	Mary
+197386	Kirk
+197503	Morton
+197553	Burley
+197646	James
+197696	Angus
+197766	Morton
+197822	Burley
+197845	Claver
+197863	Morton
+197905	Maclure
+197914	Montgomery
+197916	Ferguson
+197924	James
+197934	Claver
+198030	Morton
+198047	John Balfour
+198051	Burley
+198202	Morton
+198222	Cuddie
+198242	Burley
+198362	Maclure
+198411	Harry Vane
+198414	Harrison
+198416	Overton
+198469	Maclure
+198473	Morton
+198493	Peggy
+198536	Peggy
+198579	Morton
+198739	Morton
+198748	Morton
+198846	Morton
+198986	Morton
+199110	Morton
+199165	Morton
+199403	Morton
+199495	Morton
+199636	Morton
+199929	Morton
+200058	Morton
+200338	Morton
+200497	Burley
+200666	-- Coward
+200867	Morton
+200928	Balfour
+200932	Morton
+200962	Burley
+200966	Morton
+201080	Henry Morton
+201137	Morton
+201139	Black Linn
+201151	Morton
+201193	Burley
+201199	Silas Morton
+201289	Morton
+201311	Burley
+201330	Sathan
+201418	Morton
+201428	Balfour
+201454	Burley
+201465	Wilt
+201482	Morton
+201510	Margaret Bellenden
+201526	Basil Olifant
+201554	Balfour
+201564	Morton
+201594	Balfour
+201654	Morton
+201721	Samson
+201738	Morton
+201749	Balfour
+201779	Balfour
+201879	John Balfour
+201891	Morton
+201908	Balfour
+201935	Burley
+201965	Basil Olifant
+202230	Morton
+202301	Burley
+202314	Morton
+202343	Morton
+202537	Balfour
+202549	Morton
+202594	Burley
+202610	Claver
+202702	Edith Bellenden
+202731	Basil Olifant
+202798	Morton
+202811	Balfour
+202879	Burley
+202891	Morton
+202950	Balfour
+202988	Morton
+202996	Burley
+203013	Morton
+203026	Balfour
+203069	Morton
+203106	Morton
+203125	Burley
+203224	Morton
+203259	Balfour
+203330	Burley
+203420	Morton
+203586	Peggy
+203664	Inglis
+203693	Frank
+203768	King James
+203799	Halliday
+203807	Bellenden
+203878	Inglis
+203975	Dick
+203979	Inglis
+204034	Quintin Mackell
+204086	Inglis
+204106	Bess
+204133	Morton
+204227	Moorkopf
+204253	XXIII
+204305	Edith
+204328	Morton
+204362	Emily
+204367	Edith
+204401	Bellenden
+204413	Miss Bellenden
+204423	Edith
+204453	Lady Emily
+204474	Edith
+204536	Bellenden
+204563	Miss Bellenden
+204729	Margaret
+204838	Majesty
+204861	Margaret
+204932	Edith
+204951	Lady Margaret
+204973	John Gudyill
+205047	John
+205079	John
+205134	Edie Henshaw
+205150	Guse-Gibbie
+205169	John
+205207	Headrigg
+205284	Lady Margaret
+205338	Gudyill
+205345	Gibbie
+205362	Morton
+205417	Gibbie
+205458	Goose-Gibbie
+205535	Lady Margaret
+205565	Morton
+205593	Edith
+205608	Lady Margaret
+205651	Lady Emily
+205660	Edith
+205795	Edith
+205860	Bellenden
+205900	Kilsyth
+205957	Edith
+206021	Edith
+206104	Cuddie
+206160	Basil Olifant
+206165	Cuddie
+206178	Edith
+206227	Halliday
+206229	Hunter
+206242	Edith
+206267	Lady Margaret
+206327	Cuddie
+206367	Edith
+206410	Gudyill
+206417	Cuddie
+206490	Cuddie
+206541	John Gudyill
+206591	Olifant
+206672	Balfour
+206683	Evandale
+206727	Olifant
+206788	Hunter
+206794	Halliday
+206805	Inglis
+206877	Burley
+206898	Halliday
+206945	Wittenbold
+206949	Morton
+206968	William
+206975	Burley
+207258	Burley
+207327	Burley
+207359	Balfour
+207403	Peter Proudfoot
+207481	John Balfour
+207513	James Sharpe
+207563	Morton
+207640	Lady Emily
+207652	Edith
+207660	Morton
+207814	Martha Buskbody
+207953	Jemmy
+207955	Jenny Jessamy
+208007	Julia de
+208009	Roubignd
+208272	Pattieson
+208347	Morton
+208349	Edith
+208363	Lady Margaret
+208438	Lady Margaret
+208472	Basil Olifant
+208516	John Gudyill
+208531	Cuddie
+208597	Jenny
+208607	Basil Olifant
+208690	Gudyill
+208780	Buskbody
+208791	Morton
+208794	Bellenden
+208827	Margaret
+208896	Delville
+208898	Cecilia
+208924	Margaret
+208930	Morton
+208948	Edith
+208962	Morton
+208965	Melville Morton
+209030	Charles the
+209032	Second
+209063	Countess Jane
+209156	Wilson
+209185	Melville Morton
+209252	Alison
+209276	Niel Blane
+209282	Buskbody
+209321	Jenny
+209437	Gilbert Dudden
+209441	Calf-Gibbie
+209454	Buskbody
+209774	JEDEDIAH CLEISHBOTHAM
+209804	Aboon
+209844	Amna
+209863	Anes
+209867	Anither
+209881	Atweel
+209898	Auld
+209943	Baith
+209952	Bannock
+209957	Bawbee
+209962	Beild
+209995	Birky
+210010	Bleeze
+210048	Braw
+210054	Brawly
+210067	Brigg
+210078	Browst
+210124	Canna
+210151	Carcage
+210161	Carline
+210204	Chield
+210209	Chimley
+210214	Claes
+210244	Copleen
+210279	Cuittle
+210288	Daft
+210297	Daurna
+210318	Didna
+210329	Ding
+210334	Dinna
+210360	Douce
+210368	Doun
+210386	Downa
+210404	Drouthy
+210437	Eik
+210471	Fand
+210515	Flyte
+210524	Forgie
+210528	Forrit
+210532	Foumart
+210562	Gar
+210582	Gaun
+210593	Gey
+210604	Gentles
+210608	Gie
+210616	Gledge
+210621	Gomeril
+210633	Gowpen
+210646	Gude
+210652	Gudeman
+210688	Haena
+210702	Haill
+210706	Hantle
+210712	Harry
+210741	Hempie
+210745	Heugh
+210755	Hinny
+210764	Holme
+210789	Howf
+210799	Hup
+210857	Jalouse
+210862	Jimply
+210868	Jo
+210876	John Thomson
+210900	Kail
+210910	Kail
+210941	Ken
+210950	Kenna
+210957	Kittle
+210961	Kye
+211022	Lang
+211042	Lave
+211047	Leatherin
+211054	Letten
+211066	Linn
+211071	Lippie
+211080	Loon
+211097	Loup
+211107	Mains
+211111	Mair
+211125	Mann
+211129	Maunder
+211137	Mensfu
+211144	Mickle
+211182	Muir
+211197	Naig
+211222	Onstead
+211312	Pockmantle
+211325	Putten
+211330	Putten
+211346	Rade
+211350	Randy
+211355	Raploch
+211374	Redd
+211424	Johnstone
+211471	Shaw
+211493	Siller
+211591	Spak
+211595	Speer
+211657	Sune
+211662	Sune
+211719	Teugh
+211743	Threep
+211765	St. Johnstone
+211783	Tittie
+211841	Wadna
+211846	Wallie
+211899	Wheen
+211942	Winnock
+211947	Wotna
+211976	Yestate

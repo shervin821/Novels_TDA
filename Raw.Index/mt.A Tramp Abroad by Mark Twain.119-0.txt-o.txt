@@ -1,0 +1,890 @@
+101	Harris
+119	Harris
+160	Harris
+174	Brandt
+330	Charlemagne
+467	Charlemagne
+800	F. J.
+802	Kiefer
+806	L. W.
+808	Garnham
+897	Garnham
+963	Romer
+2011	PORTIER
+2381	Baden
+2659	Neckar
+3181	Neckar
+3395	Neckar
+4356	Jim Baker
+4361	Jim Baker
+4439	Baker
+5069	Baker
+7892	Schloss
+13034	Bismarck
+13744	Strasburg
+14473	Mark Twain
+14476	Samuel L.
+14478	Clemens
+14638	HARRIS
+14739	Gambetta
+14767	M. Gambetta
+14879	Wagner
+15057	Gotz Von
+15059	Berlichingen
+15175	Neckar
+15223	Gambetta
+15275	M. Paul
+15277	de Cassagnac
+15430	M. Gambetta
+15433	M. Fourtou
+15456	M. Gambetta
+15756	M. Gambetta
+16047	M. Fourtou
+16054	M. Gambetta
+16057	M. Fourtou
+16067	Plessis-Piquet
+16097	Mark Twain
+16100	M. Fourtou
+16805	M. Gambetta
+17283	M. Fourtou
+17322	M. Fourtou
+17437	M. Noir
+17887	Fourtou
+17916	M. Noir
+17960	Fourtou
+17999	M. Gambetta
+18008	M. Fourtou
+18705	M. Gambetta
+18849	M. Gambetta
+19482	Shakespeare
+19502	Mannheim
+20937	Baden
+21253	Wagner
+21296	Wagner
+21352	Wagner
+21386	Wagner
+21460	Wagner
+21719	BEI GOTT
+22193	GOTT IM
+22195	HIMMEL
+22418	Mannheim
+22684	Wallack
+23118	Lear
+24130	King
+24503	Vogel
+24505	Mueller
+24507	Dietz
+24510	Schumann
+24517	Vogel
+24522	Mueller
+24530	Dietz
+24532	Schumann
+24935	X
+24940	Z
+25184	Harris
+25292	Neckar
+25329	Harris
+25529	Neckar
+25902	Neckar
+26020	Goetz von
+26022	Berlichingen
+26049	Harris
+26112	Goetz
+26391	Arthur
+26683	Tilly
+26698	Goetz von
+26700	Berlichingen
+26850	Neckar
+27001	Robin Hood
+27212	Goetz
+27677	Arthur
+27717	X
+27896	X
+28423	Harris
+29142	Adam
+29229	Harris
+29250	Harris
+29302	Harris
+29344	Harris
+29610	Harris
+29780	Harris
+30142	Harris
+30343	Harris
+30420	Harris
+30460	Arthur
+30743	Harris
+30772	X
+30827	Harris
+31090	Goetz von
+31092	Berlichingen
+31488	Neckar
+31823	Harris
+31931	X
+32564	Mark Twain
+32567	Samuel L.
+32569	Clemens
+32632	GERTRUDE
+32716	HARRIS
+32752	ULRICH
+32926	Hermann
+32942	Hermann
+32953	Hermann
+33089	Hirschhorn
+33225	Linden
+33260	Henri II
+33997	Neckar
+34408	Neckar
+34570	Neckar
+34675	Hornberg
+34677	Goetz von
+34679	Berlichingen
+34873	Gertrude
+34904	Wendel Lobenfeld
+34940	von Berlichingen
+35278	Specter
+35446	Hornberg
+36083	Lorelei
+36106	Garnham
+36230	Bruno
+36243	Count Hermann
+36251	Hermann
+36305	Garnham
+36354	Joy
+36520	Garnham
+36615	Hermann
+36749	Hermann
+36784	Lorelei
+36886	Knight
+37090	Count Hermann
+37109	Heinrich Heine
+37471	Garnham
+37544	Garnham
+37596	L. W.
+37598	Garnham
+37850	Garnham
+37892	Garnham
+37898	X
+38051	Bindi Altoviti
+38067	Raphael
+38071	Susan
+38111	Rochus
+38232	John
+38259	Riccio
+38281	Raphael
+38356	St. John
+38385	Eberbach
+38686	Wissenschaft
+40377	Hirschhorn
+41038	Neckar
+41874	Bayard Taylor
+41972	Hirschhorn
+41980	Hirschhorn
+42004	Hirschhorn
+42105	Hirschhorn
+42340	X
+42434	X
+42558	MACHEN
+42628	X
+42834	Fritz Reuter
+43073	White Cap
+43685	Harris
+43722	Harris
+43737	Harris
+43880	Harris
+44106	Harris
+44111	Harris
+44299	Jones
+44409	Jones
+44610	Ludwig
+45611	Dilsberg
+46252	Neckar
+46343	Dilsberg
+46347	Tilly
+46789	Conrad von
+46791	Geisberg
+46952	Catharina
+46963	Conrad
+47065	Conrad
+47240	Conrad
+47253	Ulrich
+47269	Ulrich
+47308	Ulrich
+47328	Conrad
+47393	Ulrich
+47401	Conrad
+47467	Conrad
+47620	Catharina
+47668	Conrad
+47766	Conrad
+47778	Conrad
+47844	Catharina
+48048	Catharina
+48098	Conrad
+48180	Conrad
+48205	Catharina
+48207	Catharina
+48237	Catharina
+48281	Conrad
+48305	Catharina
+48309	Catharina
+48353	Conrad
+48357	Harris
+48472	Neckar
+49344	Henri II
+49439	Henri II
+49790	Buon Retiro
+49839	Byng
+49967	Byng
+51059	Cholley Adams
+51573	Johnny
+51631	Johnny
+51811	Adams
+51828	Cholley
+51844	Cholley
+52562	NACH BELIEBE
+52572	NACH BELIEBE
+52582	NACH BELIEBE
+52592	NACH BELIEBE
+52602	NACH BELIEBE
+52612	NACH BELIEBE
+54371	Caroline de
+54373	Clery
+54642	Margravine
+54692	Margravine
+54717	Margravine
+55187	Mark Twain
+55190	Samuel L.
+55192	Clemens
+55248	GRETCHEN
+55251	PAUL HOCH
+55255	HANS SCHMIDT
+55357	HARRIS
+55643	Jimmy Finn
+55787	Gadsby
+56318	Auerbach
+56778	Black-Forester
+56859	Huss
+56902	Gretchen Huss
+56909	Paul Hoch
+56917	Gretchen
+56929	Hoch
+56961	Gretchen
+56968	Hans Schmidt
+56983	Gretchen
+56985	Gretchen
+56996	Huss
+57040	Baedeker
+57070	Paul Hoch
+57075	Huss
+57098	Huss
+57118	Gretchen
+57132	Huss
+57136	Hoch
+57141	Gretchen
+57150	Huss
+57155	Huss
+57248	Paul Hoch
+57269	Gretchen
+57292	Hans Schmidt
+57303	Huss
+57322	Hans
+57352	Huss
+57363	Hans
+57476	Huss
+57514	Paul Hoch
+60175	XXIII
+60177	Nicodemus Dodge
+60514	Harris
+60598	Harris
+60638	Kirkham
+60645	Harris
+60766	Harris
+61065	Nicodemus Dodge
+61462	Shelby
+61590	Babtis
+61827	Nicodemus
+61963	Nicodemus
+62007	George Jones
+62048	Nicodemus
+62080	Nicodemus
+62082	George
+62096	Nicodemus
+62101	Tom McElroy
+62109	Nicodemus
+62114	Tom
+62127	Nicodemus
+62178	Nicodemus
+62315	Nicodemus
+62346	Jimmy Finn
+62363	Jimmy Finn
+62379	Jimmy
+62417	Jimmy Finn
+62422	Nicodemus
+62439	Nicodemus
+62606	Harris
+62814	Harris
+62954	Harris
+62971	Hans Gross
+62984	Peter
+63040	Peter
+63051	Peter
+63056	Peter
+65399	Ruskin
+65551	Ruskin
+65640	Ruskin
+67358	Harris
+67375	Harris
+67417	Harris
+67463	Harris
+67700	John
+67705	John
+67977	Mary
+68087	George
+68089	Mary
+68210	Mary
+68232	Darley
+68251	Darley
+68311	Darley
+68579	Tom
+68588	Tom
+68808	Thomas Henry
+69337	Joseph William
+69355	Thomas Henry
+69403	Henry Thompson
+69408	Thomas Henry
+69431	Thomas Henry
+69436	Thomas Henry
+69449	Thomas
+69453	Thomas Carlyle
+69464	Henry
+69470	Henry
+69484	Thomas Henry
+69525	Susan Amelia
+69669	George
+69671	Tom
+69673	Darley
+69726	Mary
+69749	Mary
+69758	Mary
+69902	Harris
+71081	Strasburg
+71217	Harris
+71270	Harris
+71842	Louis XVI
+72377	Louis
+72392	Napoleon
+72401	Louis XVI
+72484	Marie Antoinette
+72577	Marie Antoinette
+72608	Louis the
+72610	Poor
+73124	Reuss
+73268	GADSBY
+73274	Riley
+73337	Riley
+73344	Riley
+73377	Riley
+73424	Lykins
+73472	Riley
+73483	Lykins
+73595	Riley
+73795	Riley
+73842	Riley
+73916	Riley
+73951	Gadsby
+73968	Lykins
+74032	Jackson
+74036	Gadsby
+74087	Gadsby
+74864	Gadsby
+74881	Dern
+75021	Lykins
+75030	Riley
+75251	Lykins
+75262	GADSBY
+75284	Riley
+75366	Gadsby
+75824	Rigi
+77041	Rigi
+77089	Schreiber
+77277	Baedeker
+77594	Rigi
+77837	Schiller
+77896	Schiller
+78045	Schiller
+78407	Pontius Pilate
+78419	William Tell
+78468	William Tell
+78865	Rigi
+78909	Schreiber
+79457	Jodel
+80519	Harris
+81618	Harris
+81974	Harris
+82477	Harris
+82875	Baedeker
+83167	Harris
+83364	Harris
+83397	Harris
+83806	Mark Twain
+83809	Samuel L.
+83811	Clemens
+84235	Harris
+84528	Harris
+84715	Rigi
+84781	Harris
+85062	Harris
+86472	Kaltbad
+86624	Vitznau
+86854	Hospenthal
+86877	Giesbach
+87035	H. HARRIS
+87054	Hospenthal
+87079	Hospenthal
+87253	Grimsel
+87532	Grimsel
+87693	Grimsel
+88451	ABER
+88717	Reichenbach
+88892	BODEN
+89372	Fahr
+89428	Harris
+90306	Zulu
+91004	Nicholas
+91108	St. Nicholas
+91132	Pilate
+91148	Nicholas
+91330	Arth
+91907	Kaiserstuhl
+92061	Abraham
+93064	Neddy
+93126	Neddy
+93186	Neddy
+93245	Neddy
+93309	Neddy
+93344	Harris
+93419	Harris
+93833	Napoleon
+93903	Napoleon
+94189	Harris
+94442	Harris
+94467	Brienz
+95445	Napoleon
+96084	Harris
+97714	Polander
+97717	Joseph N.
+97719	Verey
+99014	Arkansaw
+99285	Thun
+102422	Doré
+102867	Harris
+102922	Hinchliff
+102942	Monte Rosa
+103035	Hinchliff
+103897	Peter
+104167	Peter
+104412	Peter
+104618	Harris
+104783	Harris
+105786	Mont Blanc
+106321	Baedeker
+106749	Harris
+107086	Harris
+107111	Harris
+107115	Harris
+107137	Harris
+107192	Harris
+107227	Harris
+107499	Harris
+107606	Harris
+108954	Harris
+109320	Harris
+109579	Darwin
+109900	Mark Twain
+109903	Samuel L.
+109905	Clemens
+110176	MONT BLANC
+110215	Harris
+110223	Harris
+110457	Harris
+110561	Whymper
+110588	Douglas
+110620	St Nicholas
+110652	Mont Blanc
+111027	Poe
+111092	Joseph Addison
+111508	Harris
+111520	St. Paul
+111614	Harris
+112556	Harris
+112867	Baedeker
+113269	Napoleon
+113349	Douglas
+113425	Douglas
+113482	Douglas
+113856	Girdlestone
+113883	Girdlestone
+113910	Hyde Parks
+114045	Girdlestone
+114198	Girdlestone
+114746	Whymper
+115388	Harris
+115594	Harris
+115904	Harris
+117586	Harris
+117614	Harris
+119845	Gorner Grat
+119929	Harris
+120385	Harris
+120389	Harris
+121680	Harris
+121969	HARRIS
+121975	G.S.
+122171	G.S.
+122245	G.S. Do
+122418	G.S.
+122435	G.S.
+122598	G.S. Yes
+123605	Harris
+124690	Glacier
+124722	Baedeker
+124902	Baedeker
+125199	Gorner Grat
+125233	Harris
+125249	Gorner Grat
+125272	Harris
+125426	Harris
+125639	Harris
+125719	Harris
+126117	Baedeker
+126220	Bradshaw
+126229	Bradshaw
+126588	Baedeker
+126690	Baedeker
+126833	Harris
+126981	Harris
+127035	Tom Scott
+127088	Harris
+127108	Tom Scott
+127119	Gorner
+127151	Harris
+128131	Mont Blanc
+128214	Michel Payot
+128603	Whymper
+128630	Mont Blanc
+128943	Mont Blanc
+129041	Whymper
+129338	Hjorleifshofdi
+129586	Mont Blanc
+129698	Pierre Balmat
+129701	Pierre Carrier
+129705	Auguste Tairraz
+129723	Forbes
+129907	Stephen d'Arve
+130258	Marie Couttet
+130267	Julien Davouassoux
+130285	Davouassoux
+130316	Couttet
+130335	Pierre Balmat
+130366	Pierre Carrier
+130384	Balmat
+130457	Balmat
+130614	Marie Couttet
+130656	Couttet
+130666	Auguste Tairraz
+130956	Hamel
+131038	Balmat
+131080	Monsieur Balmat
+131107	Hamel
+131140	Forbes
+131143	Tyndall
+131213	Hamel
+131436	Whymper
+131485	Whymper
+131530	MR. WHYMPER
+131563	Croz
+131569	Peter Taugwalder
+131580	F. Douglas
+131584	Hadow
+131588	Hudson
+131730	Hudson
+131772	Taugwalders
+131886	Hudson
+132177	Croz
+132217	Croz
+132302	Riffel
+132341	Hudson
+132363	Croz
+132369	Hadow
+132372	Hudson
+132392	Douglas
+132399	Peter
+132533	Peter
+132649	Douglas
+132662	Peter
+132672	Taugwalder
+132745	Michel Croz
+132759	Hadow
+132836	Croz
+132864	Hadow
+132889	Hadow
+132905	Douglas
+132922	Croz
+132927	Peter
+132971	Francis Douglas
+133166	Peter
+133293	Whymper
+133307	Taugwalder
+133331	Whymper
+133354	Taugwalder
+133383	Douglas
+133407	Douglas
+133436	Whymper
+134170	-- M.T.
+134890	Jimmy
+134963	Jimmy
+135018	Jimmy
+135092	Jimmy
+135125	Adam
+135146	Jimmy
+135190	Vispach
+135202	Nicholas
+135506	Kennedy
+135549	Arthur Kennedy
+135660	Byron
+135691	Bonnivard
+135868	Byron
+135871	Victor Hugo
+135919	Bonnivard
+135941	Mont Blanc
+136199	Mont Blanc
+136240	Mont Blanc
+136938	Mont Blanc
+137090	Mark Twain
+137093	Samuel L.
+137095	Clemens
+137347	BISMARCK
+137406	Mont Blanc
+137452	Mont Blanc
+137484	Mont Blanc
+137629	Col Baker
+137733	Basson
+137759	St Mark
+137825	Portier
+138094	Mont Blanc
+138354	Mont Blanc
+138541	Mont Blanc
+138778	Mont Blanc
+139082	Mont Blanc
+139236	De Saussure
+139289	Jacques Balmat
+139292	De Saussure
+139351	Mont Blanc
+139403	Mont Blanc
+139619	VERDAMMTES PFENNIG
+139675	Mont Blanc
+139706	Hamel
+139772	Jacques Balmat
+139785	Mont Blanc
+139918	De Saussure
+139952	Albert Smith
+139955	Balmat
+139957	De Saussure
+139960	Mont Blanc
+139970	Smith
+139986	Mont Blanc
+140529	Darwin
+140597	Mont Blanc
+141623	Mont Blanc
+141675	Mont Blanc
+141987	Mont Blanc
+142141	Harris
+142308	Mont Blanc
+142335	Harris
+142420	Glacier des
+142422	Bossons
+142726	Bossons
+143302	Mont Blanc
+143533	Mont Blanc
+143610	Mont Blanc
+143745	George Young
+143750	James
+143752	Albert
+143838	Mont Blanc
+144261	George Young
+144289	George
+144354	George
+144432	George
+144638	George Young
+144706	George
+144828	Mont Blanc
+144835	Miss Stratton
+144947	Mont Blanc
+144956	Maria Paradis
+145085	Mont Blanc
+145091	M. D'Arve
+145144	Mont Blanc
+145155	Randall
+145163	George Corkindale
+145284	Sylvain Couttet
+145366	Couttet
+145433	Couttet
+145471	Bean
+145545	Mont Blanc
+145557	Corkindale
+145560	Randall
+145638	Hessie
+145646	Mont Blanc
+145798	Bean
+145996	Harris
+146888	Josephine
+146961	Marie Louise
+147958	Strasburg
+147966	Cassel
+148531	Mont Blanc
+148691	Baedeker
+148709	Baedeker
+148738	Mont Blanc
+148822	Mont Blanc
+149313	Monsieur
+149420	Monsieur
+149528	Rousseau
+149530	Calvin
+149709	Calvin
+150283	Valentine Baker
+150366	Baker
+150417	Charles Peace
+150448	Arkansaw
+150453	Baker
+150628	Heilbronn
+151997	Judy
+153716	Harris
+154700	Paul Veronese
+154740	Barbarossa
+155553	St. Mark
+155561	St. Mark
+155819	Bassano
+156012	Pope Alexander
+156014	III
+156018	Doge Ziani
+156026	Frederick Barbarossa
+156442	Bassano
+157392	St. Mark
+157469	Florian
+157508	St. Mark
+157745	St. Mark
+157832	St. Mark
+157905	St. Mark
+158270	Crioni
+158316	Crioni
+158334	Stammato
+158336	Crioni
+158367	Crioni
+158387	Stammato
+158412	Piazza
+159883	Clam Soup
+159916	Tahoe
+159951	Woodcock
+159972	Coon
+159979	Bacon
+160295	Scotchman
+160821	Titian Good
+160869	Smollett
+161375	Titian
+161440	Titian
+161491	Titian
+161658	Titian
+161660	Venus
+161795	Titian
+161881	Bassano
+161982	Doré
+162390	Portier Omar
+162392	Khay'am
+162465	PORTIER
+162728	Billy Patterson
+164506	Hotel de
+164508	Ville
+165210	Adam
+165212	Eden
+165253	Adam
+165286	Cain
+166066	Catharine
+167183	Charlemagne
+167219	Luther
+168976	E. Glinicke
+168993	F. Graf
+168995	Bismarck
+169008	Count Bismarck
+169030	R. Diergandt
+170188	Harris
+171440	Marlitt
+171923	Gretchen
+172302	Mein gutER
+172304	Freund
+172325	Freund
+172334	MeinEN gutEN
+172336	Freund
+172345	MeinE gutEN
+172347	FreundE
+172629	HAUSE
+172900	Tannenwald
+172918	Tannenwald
+173035	Gretchen
+173037	Wilhelm
+173045	Wilhelm
+173055	Gretchen
+173067	Wilhelm
+175016	SCHLAG
+175881	Simmons
+175912	Simmons
+175949	Johnson
+175986	Johnson
+176048	Wagoner
+176683	HELLY
+177355	Dative
+177630	Gott
+177639	Gott
+177641	Himmel
+177645	Herr Gott
+177704	Gott
+177973	SCHLAG
+178334	Englischer Worte
+178399	Dienst
+178536	Goethe
+178566	Grossbrittanischer
+178707	Gott
+178756	Hundert Jahre
+178775	Gott
+178965	Herr Givenaught
+179010	Franz Reikmann
+179057	Hildegarde
+179379	Virgin
+179531	Herr Givenaught
+179628	Hildegarde
+179657	Herr Givenaught
+179660	Herr Heartless
+179737	Givenaught
+179962	Givenaught
+180038	Herr Heartless
+180052	Hildegarde
+180059	Herr Givenaught
+180112	Hildegarde
+180203	Virgin
+180208	Hildegarde
+180215	Herr Heartless
+180256	Hildegarde
+180311	Hildegarde
+180329	Virgin
+180398	Ritter
+180428	Hildegarde
+180718	Herr Heartless
+181064	Holy Virgin
+181118	Givenaught
+181198	Givenaught
+181203	Hildegarde
+181273	Hildegarde
+181367	Baden
+182896	Leopold
+182908	Prince Arnulph
+182920	Landtag
+182984	Wagner

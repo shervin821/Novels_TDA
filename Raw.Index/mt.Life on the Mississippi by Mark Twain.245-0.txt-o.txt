@@ -1,0 +1,1006 @@
+495	Marryat
+1267	De Soto
+1431	Francis I.
+1441	Raphael
+1485	De Soto
+1494	Ignatius Loyola
+1513	Michael Angelo
+1530	Mary Queen
+1532	of Scots
+1547	Catherine de
+1549	Medici
+1554	Elizabeth
+1564	Calvin
+1566	Benvenuto Cellini
+1572	Charles V.
+1593	Margaret
+1749	Henry VIII
+1758	Fisher
+1778	De Soto
+1794	Luther
+1814	Rabelais
+1821	Don Quixote
+1829	Shakespeare
+1849	Oliver Cromwell
+1886	De Soto
+2006	De Soto
+2025	Shakespeare
+2352	De Soto
+2553	Louis XIV
+2742	Virgin
+2780	De Soto
+2787	La Salle
+2875	Parkman
+3021	Marquette
+3714	Henri de
+3716	Tonty
+3720	Lorenzo Tonty
+3858	Parkman
+4137	Louis the
+4139	Putrid
+4204	Napoleon
+4207	De Soto
+4306	Napoleon
+4312	Napoleon
+4517	Louis XIV
+4529	La Salle
+4581	Parkman
+4825	Louis XIV
+4829	Louis XV
+4852	Napoleon
+5216	Hannibal
+5389	Huck Finn
+5527	Huck Finn
+5601	Jim
+5669	Jim
+6906	Bob
+6958	Bob
+6975	Bob
+6999	Bob
+7015	Bob
+7023	Bob
+7118	Bob
+7317	Davy
+7331	Bob
+7347	Davy
+7373	Bob
+7674	Ed
+7900	Ed
+8004	Ed
+8073	Dick Allbright
+8590	Dick Allbright
+8654	George
+8666	Dick Allbright
+8692	I. Says
+8713	Dick Allbright
+8775	Dick
+8815	Dick Allbright
+9686	Dick Allbright
+9812	Dick Allbright
+10070	Dick Allbright
+10107	Charles William
+10109	Allbright
+10358	Charles William
+10373	Bob
+10378	Allbright
+10387	Allbright
+10435	Davy
+10456	Ed
+10512	Edward
+10550	Eddy
+10558	Bill
+10570	Edmund
+10574	Jimmy
+10579	Edwin
+10596	Davy
+10613	Bob
+10623	Edward
+10660	Eddy
+10664	Jimmy
+10708	Bill
+10740	Ed
+10989	Big Bob
+11030	Jimmy
+11039	Bob
+11069	Davy
+11113	Bob
+11147	Davy
+11249	Charles William
+11251	Allbright
+11290	Davy
+11300	Charles William
+11370	Aleck Hopkins
+11375	Aleck James
+11377	Hopkins
+11453	Jonas Turner
+11523	Davy
+11771	Jim
+11918	Hannibal
+13195	St. Looy
+13968	Paul Jones
+14881	James
+14884	William
+15638	Paul Jones
+15882	Paul Jones
+16059	Bixby
+16209	Paul Jones
+16230	Bixby
+16362	Bixby
+16464	Bixby
+16769	Bixby
+16800	Bixby
+16992	Jones
+17020	Bixby
+17030	Jones
+17056	Bixby
+17124	Jones
+17221	Bixby
+17274	Bixby
+17428	Bixby
+17555	Caesar
+17769	Bixby
+17826	Bixby
+17978	Bixby
+18060	Jones
+18098	Bixby
+18148	Jones
+18448	Paul Jones
+18464	Paul Jones
+19514	Jim
+19903	Bixby
+19938	Bixby
+20130	Bixby
+20487	Bixby
+20690	Bixby
+20716	Bixby
+20824	Bixby
+20903	Bixby
+21007	George
+21160	Bixby
+21234	Bixby
+21273	Bixby
+21356	Bixby
+21377	Bixby
+21540	Bixby
+21698	Bixby
+22517	Bixby
+22536	Bixby
+22781	Hale
+22997	Bixby
+23060	Bixby
+23264	Bixby
+23301	Bixby
+23347	Bixby
+23545	W
+23838	Bixby
+24120	Bixby
+24561	Bixby
+24754	Bixby
+25221	Bixby
+25260	Higgins
+25407	Bixby
+25669	Bixby
+25705	Bixby
+25843	Bixby
+27760	Bixby
+27784	Burgess
+31613	George Ealer
+31632	George
+31663	Helena
+31692	Ealer
+31708	Ealer
+31872	X.
+31885	George
+31986	Ealer
+32050	Ealer
+32380	Ealer
+32419	Ealer
+32437	Dart
+32495	Ealer
+32670	Helena
+33813	Thornburg
+33817	Tom G
+33821	Tom
+33863	Tom
+33959	Thornburg
+34108	Tom
+34138	Tom
+34282	Tom
+34395	Thornburg
+34433	Thornburg
+34497	Thornburg
+34573	Thornburg
+34621	Thornburg
+34755	Tom
+35061	Tom
+35098	Tom
+36481	Bixby
+36564	Bixby
+36612	Brown
+36684	Henry Blake
+36702	George Elliott
+36751	Asa Hardy
+36761	John
+36777	Tom Jones
+36801	Hardy
+36870	Hardy
+36888	Jane Shook
+36922	Horton
+37176	Brown
+37409	Brown
+37799	Bixby
+37854	Bixby
+37999	Bixby
+38150	Bixby
+38172	Bixby
+38208	Bixby
+38311	Bixby
+38580	Mark
+38679	Ben
+38693	Ben
+38723	Bixby
+38986	Ben
+40153	Scott
+40444	Mary Ann
+40454	Stannin
+40516	Stephen W
+40685	Stephen
+40842	Johnny
+41101	Stephen
+41120	Stephen
+41190	Stephen
+41210	Stephen
+41249	Stephen
+41252	Stephen
+41502	Stephen
+41561	Stephen
+41731	Stephen
+41761	Aleck Scott
+41769	Bixby
+41831	Bixby
+41857	Bixby
+47287	A. L.
+47289	Shotwell
+48041	John J.
+48043	Roe
+48212	Shotwell
+48242	Shotwell
+48261	J. M.
+48263	White
+48326	R. E.
+48328	Lee
+48376	J. M.
+48378	White
+48445	R. E.
+48447	Lee
+48496	Stephen
+49114	Hale
+49755	Brown
+50361	Stephen
+50371	Stephen
+50387	Stephen
+50421	Stephen
+50457	Yates
+50482	Yates
+50520	Stephen
+50537	Yates
+50573	Yates
+50577	Stephen
+50594	Yates
+50604	Stephen
+50641	Yates
+50643	Stephen
+50662	Stephen
+50666	Yates
+50669	Yates
+50676	Stephen
+50704	Yates
+50748	Stephen
+50766	Yates
+50838	Yates
+51200	Jim Wilson
+51302	Yates
+51345	Stephen
+51355	Bogart
+51385	Yates
+51389	Stephen
+51418	Stephen
+51428	Yates
+51640	Yates
+51645	Stephen
+51655	Yates
+51684	Stephen
+51705	Yates
+51832	Bixby
+52059	Brown
+52232	Brown
+52255	Brown
+52404	Horace Bigsby
+52504	Dern
+52972	Brown
+53238	George Ritchie
+53258	George Ealer
+53265	Brown
+53269	Ritchie
+53305	Ealer
+53309	Ritchie
+53318	Brown
+53429	Ritchie
+53439	Brown
+53449	Brown
+53512	Brown
+53560	Brown
+53564	Brown
+53744	Brown
+53958	Brown
+54030	Brown
+54184	Brown
+54197	Brown
+54212	Brown
+54249	Brown
+54281	Brown
+54351	Klinefelter
+54375	Henry
+54479	Brown
+54520	Henry
+54552	Brown
+54591	Brown
+54657	Henry
+54700	Brown
+54953	Brown
+55365	Brown
+55689	Brown
+55760	Brown
+55842	George Ealer
+55861	Goldsmith
+55863	Shakespeare
+55934	George Ealer
+55986	Brown
+56013	A. T.
+56015	Lacey
+56046	Lacey
+56072	Henry
+56231	Henry
+56248	Lacey
+56301	Napoleon
+56425	George Ealer
+56458	George Black
+56462	Wood
+56476	Brown
+56494	Klinefelter
+56556	Ealer
+56649	Wood
+56677	Brown
+56683	George Black
+56706	Klinefelter
+56764	George Ealer
+56889	Ealer
+57084	Wood
+57086	Henry
+57108	Henry
+57144	Henry
+57393	Henry
+57443	Henry
+58164	Peyton
+58196	Henry
+58698	Smith
+58700	Jones
+58703	Johnson
+59102	Adam
+59739	Bill
+59742	Joe
+59745	Tom
+59802	Rogers
+59810	Jones
+59812	Brown
+59814	Dexter
+59816	Ferguson
+59818	Bascom
+59821	Thompson
+60457	Tower Grove
+60602	Charles Augustus
+60604	Murray
+60674	Murray
+60714	Scotchman
+60793	Murray
+60959	Samson
+61004	Marryat
+62742	Genevieve
+63776	Ben Thornburg
+63780	Beck Jolly
+63788	Horace Bixby
+63796	John Stevenson
+63800	Billy Gordon
+63804	Jim Brady
+63808	George Ealer
+63812	Billy Youngblood
+64012	Robert Styles
+64035	Rob Styles
+64556	Tom Ballou
+65050	Tom
+65422	Hickman
+65506	Chester
+65761	Mumford
+65899	Mumford
+65918	Mumford
+65969	Mumford
+66022	Mumford
+66115	Mumford
+66629	Paul Jones
+66653	Mumford
+66686	Mumford
+67150	Beaver Dam
+67152	Rock
+67631	Dickens
+67660	Grant
+67669	Mumford
+67740	Hickman
+67752	Hickman
+67791	Uncle Mumford
+68005	Tom
+68007	Dick
+68009	Harry
+68087	R. H.
+68089	W. Hill
+68167	Cheatham
+68773	Polk
+68894	Mumford
+69292	Darnell
+69299	Watson
+69779	Marshall
+69847	Darnells
+69881	Darnell
+69910	Darnell
+71171	Basil Hall
+71271	Trollope
+71351	Dante
+71362	Borgia
+71424	Charles Augustus
+71426	Murray
+71585	Marryat
+71602	Murray
+72190	Alexander Mackay
+72368	Basil Hall
+72486	Parkman
+72513	La Salle
+72529	Tonty
+73451	Horace Bixby
+73454	George Ritchie
+74184	Uncle Mumford
+74314	MUMFORD
+74318	Mumford
+74841	Milliken
+75993	Edward Atkinson
+76107	B. Williams
+76371	Craighead
+76550	Vogelman
+76682	Jesse James
+76752	Murel
+76793	James
+76799	Murel
+76803	James
+76826	Murel
+76844	Murel
+76857	James
+77343	Murel
+77345	Lynch
+77578	Murel
+77611	Stewart
+77620	Murel
+77659	Stewart
+77697	Murel
+77709	Murel
+77753	Stewart
+77813	Stewart
+77840	Murel
+77845	Stewart
+77867	Murel
+78420	Crenshaw
+78448	Crenshaw
+78492	Crenshaw
+78502	Crenshaw
+78536	Crenshaw
+78607	Crenshaw
+78771	Crenshaw
+79002	Bixby
+79012	Montgomery
+79339	Ernst von
+79341	Hesse-Wartegg
+79843	Trollope
+80883	Jesse Jamieson
+81025	dey
+82533	Poe
+82672	Helena
+83043	Helena
+83296	Helena
+83324	Helena
+83426	Napoleon
+83596	Napoleon
+83766	Fraulein Dahlweiner
+83775	Karlstrasse
+84521	Karl Ritter
+84649	Napoleon
+85748	Blakely
+85870	Napoleon
+85896	Napoleon
+86050	Kruger
+86524	Franz Adler
+86595	Kruger
+86673	Adler
+86874	Adler
+87057	Adler
+87073	Kruger
+87102	Adler
+87130	Adler
+87155	Adler
+87252	Adler
+87811	Adler
+87956	Franz Adler
+88029	Franz Adler
+88418	Kruger
+89142	Adler
+89166	Kruger
+89179	Kruger
+89193	Adler
+89230	Kruger
+89396	Kruger
+89435	Adler
+89515	Kruger
+89582	Adler
+89612	Adam Kruger
+89700	Ritter
+89803	Rogers
+89872	Rogers
+89923	Thompson
+89944	Rogers
+90180	Thompson
+90269	Thompson
+90743	Thompson
+90758	Rogers
+90845	McCord
+90875	Napoleon
+90885	Napoleon
+90940	Napoleon
+90944	Napoleon
+90957	Caesar
+90963	Mumford
+90987	Napoleon
+91016	Napoleon
+91040	Napoleon
+91170	Napoleon
+91242	Thompson
+91245	Rogers
+91266	Thompson
+91448	Napoleon
+91827	Napoleon
+91845	Napoleon
+91918	Calhoun
+92262	Edward Atkinson
+92400	Edward Atkinson
+93384	Uncle Mumford
+93396	H.
+93848	H.
+94032	H.
+95295	Maria
+96658	Grant
+96661	Pemberton
+97140	St. Paul
+97615	John Backus
+98394	Backus
+98493	Backus
+98575	Backus
+98634	Backus
+98663	Backus
+98756	Backus
+99113	Backus
+99179	Backus
+99366	Backus
+99372	Hank Wiley
+99401	Backus
+99409	Wiley
+99435	Backus
+99440	Wiley
+99471	Backus
+99552	Wiley
+99622	Wiley
+99669	Backus
+99698	Wiley
+99722	Backus
+100021	Hickman
+100045	Hickman
+100107	Holcomb
+100174	Lem S.
+100176	Gray
+100206	Gray
+100219	Gray
+100304	Dickens
+100351	Dickens
+100369	Dickens
+100457	Dickens
+100771	Tupper
+100802	Ossian
+100807	Melissa
+100853	Godey
+101066	Rosin
+101319	Napoleon Crossing
+101334	Trumbull
+101343	Sally
+101760	Napoleon
+102294	Wilton
+102667	Rodney
+102800	Trollope
+103502	Rosalie Yarn
+103504	Mill
+103988	George
+105067	Walter Scott
+105630	Joseph A.
+105632	Mabry
+105634	Thomas O'Connor
+105638	Joseph A.
+105640	Mabry
+105661	O'Connor
+105676	O'Connor
+105678	Mabry
+105690	Mabry
+105693	O'Connor
+105702	Mabry
+105706	O'Connor
+105726	Mabry
+105728	O'Connor
+105734	Mabry
+105738	O'Connor
+105750	O'Connor
+105770	Mabry
+105786	O'Connor
+105802	Mabry
+105806	Mabry
+105820	O'Connor
+105829	Mabry
+105833	O'Connor
+105848	Joseph A.
+105850	Mabry
+105852	Jr.
+105857	Mabry
+105867	O'Connor
+105886	O'Connor
+105901	Mabry
+105904	O'Connor
+105915	Mabry
+105922	Mabry
+105932	O'Connor
+105939	Mabry
+105969	Mabry
+106025	Mabry
+106029	Joe
+106041	Moses Lusby
+106044	Don Lusby
+106059	Will Mabry
+106064	Don Lusby
+106070	Thomas O'Connor
+106104	Sharpe
+106131	Burton
+106139	Burton
+106370	Peter Dick
+106385	Dick
+106465	Dick
+106675	Trollope
+106737	Basil Hall
+106950	Trollope
+107082	Basil Hall
+108247	St. Paul
+109204	St. Anne
+109229	St. Anne
+109290	St. Anne
+109383	F. Julius
+109385	Le Moyne
+109499	E. H.
+109501	Barton
+109566	Bianchi
+109602	Cooper
+109660	Charles W.
+109662	Purdy
+110736	O'Flaherty
+110798	Pat
+110929	O'Shaughnessy
+110939	Bridget O'Shaughnessy
+110968	Pat
+111030	O'Shaughnessy
+111044	Dennis
+111067	O'Shaughnessy
+111391	Embamming
+113155	Stonewall Jackson
+113162	Lee
+113170	Jackson
+113179	Lee
+113226	Lee
+113228	Jackson
+113233	Lee
+113235	Jackson
+113241	Lee
+113243	Jackson
+113245	Lee
+113251	Jackson Declining
+113253	Lee
+113269	Jackson
+113275	Jackson Asking
+113277	Lee
+113305	Lee
+113307	Jackson
+113321	Lee
+113323	Jackson
+113390	Beatrice Cenci
+113609	K'yahtah
+113611	Carter
+113670	Suh
+113676	Suh
+113996	John
+115241	New-Yorker
+116601	Walter Scott
+116864	Walter Scott
+117003	Peri
+117069	Arthur
+117858	Rex
+117930	Mardi-Gras
+117961	Walter
+118147	Mardi-Gras
+118220	Bonaparte
+118258	Bonaparte
+118323	Bonaparte
+118354	Walter Scott
+118511	Walter Scott
+118513	Middle-Age
+118567	Walter
+118582	Walter
+118620	Walter
+118704	Walter
+118707	Walter
+118758	Walter
+118823	Walter
+118898	Walter
+118989	North
+119129	Remus
+119172	Walter
+119200	Don Quixote
+119245	Cervantes
+119256	Scott
+119266	Remus
+119269	Cable MR.
+119271	JOEL CHANDLER
+119273	HARRIS
+119277	Remus
+119435	Remus
+119500	Cable
+119561	Remus
+119601	Cable
+119643	Harris
+119710	Jean-ah Poquelin
+119715	Innerarity
+119850	Warner
+119901	Warner
+119969	Eschol Sellers
+120185	Horace Bixby
+120402	Warmouth
+120512	Jackson
+120577	Jackson
+120608	Jackson
+121591	Manchester
+121692	Manchester
+121705	Manchester
+123052	Montgomery
+123927	Dick Kennet
+124027	Ben Thornburgh
+124094	Thornburgh
+124319	Bixby
+124340	George Ritchie
+124432	Bixby
+124552	George Johnson
+124560	George Johnson
+124694	George Johnson
+124829	Isaiah Sellers
+125124	Carrol
+125384	Lafayette
+125418	Jackson
+125488	Helena
+125583	Sellers
+125773	Isaiah Sellers
+126081	Mark Twain
+126329	Turner
+126353	I. Sellers
+127093	Bixby
+127291	Ritchie
+127313	Bixby
+128174	Richard III
+128378	Julius Caesar
+129650	Brown
+129726	Brown
+129863	Williams
+129880	Williams
+129941	Williams
+130132	Jack Hunt
+130159	Hunt
+130180	Williams
+130371	Charlie
+130931	Christ
+131396	Brown
+131447	Charlie
+131569	Brown
+131706	Charlie
+131758	Charlie
+132152	Brown
+132206	Brown
+132351	Mack
+132353	Harry
+132457	Brown
+132492	Jack Hunt
+132499	Brown
+132789	J. G.
+132791	Holland
+132796	Seymour
+132806	Page
+132820	Frye
+132853	Holland
+132873	Page
+133148	Charles Dudley
+133150	Warner
+133347	Williams
+133417	Williams
+133486	Williams
+133525	Williams
+133632	Brown
+133662	Williams
+133740	Williams
+133746	Warner
+134095	Charles Williams
+134313	Jack Hunt
+134331	Williams
+134420	Williams
+134620	Brown
+134671	Brown
+134687	Brown
+134691	Jack Hunt
+134710	Williams
+136788	Smith
+136838	Lem Hackett
+136919	Lem Hackett
+136991	Lem
+137135	Lem Hackett
+137270	Lem
+137313	Lem
+137468	Jim Smith
+137489	Tom Holmes
+137524	John Jones
+138017	Lem Hackett
+138084	Lem
+138199	Dutchy
+138495	Dutchy
+139092	Dutchy
+139133	Dutchy
+140337	John Stavely
+140423	Quincy
+141001	Lynch
+141141	Archibald Lynch
+141290	Lynch
+141663	Lynch
+141786	Lynch
+142406	Jimmy Finn
+142445	Jimmy Finn
+142488	Jimmy Finn
+144144	Ben Coontz
+144273	Ben Coontz
+144298	Ben
+144677	Quincy
+144815	Quincy
+144836	Quincy
+144850	Quincy
+144963	La Grange
+145260	Henry Clay
+145262	Dean
+145560	Claggett
+145567	Dean
+145661	Dean
+146208	Dean
+146213	Claggett
+146245	Burdette
+147294	Davenport
+147299	St. Paul
+147369	St. Paul
+147442	St. Paul
+147585	Davenport
+147613	Davenport
+147696	Davenport
+147710	Davenport
+147754	St. Paul
+147889	Clinton
+147891	Lyons
+148037	Black Hawk
+148705	Remus
+148858	Smith
+148889	Nuth
+148895	Smith
+148934	Smith
+149257	Prairie du
+149259	Chien
+149762	Jovelike
+150226	Winona
+150268	Prescott
+150286	St. Paul
+150291	chief of
+150293	the North
+150486	Winona
+150905	Winona
+151204	Schoolcraft
+151270	Longfellow
+151366	Schoolcraft
+151433	Seegwun
+152184	Paul
+152343	St. Paul
+152439	Paul
+152541	St. Paul
+152787	St. Paul
+153266	Paul
+153280	Pierre Parrant
+153342	St. Paul
+153798	Paul
+153928	Paul
+155252	Susie
+155740	C. P.
+155742	Ferguson
+157744	Susie
+158203	Susie
+158258	Tom Hooper
+158333	York
+158460	Taylor
+158551	Burke
+158563	Susie
+158571	Taylor
+158575	Major Burke
+158620	Tom Ellis
+158660	Ellis
+158776	Ellis
+158851	Ellis
+158965	Ellis
+159139	Susie
+159257	York
+159452	T. S.
+159454	Hooper
+159521	York
+159626	Susie
+160342	Gilmore
+160345	Comstock
+160349	Suter
+160358	Henry Mitchell
+160379	B. B.
+160381	Harrod
+160391	B. Eads
+160411	Taylor
+161533	EDWARD ATKINSON
+161638	Basil Hall
+161858	Hall
+162116	Hall
+162156	Hall
+162330	Obadiah
+162348	Basil Hall
+162359	Obadiah
+162437	Hall
+162498	Hall
+162596	Hall
+162731	Hall
+162750	Hall
+163222	Iamo
+164321	Mudjikewis
+164353	Mudjikewis
+164568	Mudjikewis
+164648	Mudjikewis
+164759	Mudjikewis
+166686	Mudjikewis
+166770	Mudjikewis
+166806	Mudjikewis
+167508	Iamo
+169267	Mudjikewis
+169383	Mudjikewis
+169753	Iamo
+169782	Iamo
+169875	Mudjikewis
+169895	Kebeyun
+170006	Iamo
+170011	Iamoqua

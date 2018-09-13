@@ -1,0 +1,2137 @@
+253	Southcott
+629	Woodman
+632	Farmer
+908	St. Giles
+1078	Woodman
+1209	Hill
+1300	Blackheath
+1762	Hill
+1924	-- Joe
+1944	Joe
+2142	Joe
+2165	Tom
+2183	Joe
+2197	Tom
+2572	Jarvis
+2676	Jerry
+2685	Jerry
+2692	Jerry
+2710	Jerry
+2753	Lorry
+2845	Jerry
+3061	Tellson
+3148	Jerry
+3161	Jerry
+3425	Tom
+3437	Joe
+3452	Joe
+3463	Tom
+3471	Joe
+3498	Jerry
+3644	Jerry
+3649	Jerry
+3670	Jerry
+4259	Jerry
+4284	Jerry
+4286	Jerry
+4385	Smith
+4570	Tellson
+5739	Lorry
+5954	George
+6341	Tellson
+6417	Lorry
+6469	Jarvis Lorry
+6497	Tellson
+6638	George
+6671	Tellson
+6785	Lorry
+7021	Lorry
+7100	Lorry
+7197	Manette
+7221	Manette
+7244	Tellson
+7259	Tellson
+7294	Manette
+7391	Lorry
+7404	Manette
+7666	Manette
+7710	Lorry
+7793	Lorry
+8033	Lorry
+8132	Lorry
+8243	Lorry
+8348	Manette
+8361	Manette
+8493	Beauvais
+8502	Beauvais
+8505	Monsieur Manette
+8515	Beauvais
+8518	Monsieur Manette
+8801	Lorry
+8887	Manette
+8948	Tellson
+8963	Tellson
+9010	Lorry
+9115	Lorry
+9187	Monsieur Manette
+9342	Beauvais
+9706	Jarvis
+9732	Manette
+10073	Lorry
+10185	Lorry
+10307	Tellson
+10388	Manette
+10482	Lorry
+10594	Lorry
+10760	Lorry
+10807	Lorry
+10902	Lorry
+10928	Lorry
+10944	Manette
+10999	Jarvis Lorry
+11614	Antoine
+11786	Antoine
+12706	Gaspard
+13122	Madame Defarge
+13283	Madame Defarge
+13456	Monsieur Defarge
+13501	Jacques
+13510	Monsieur Defarge
+13526	Jacques
+13530	Monsieur Defarge
+13542	Madame Defarge
+13584	Monsieur Defarge
+13614	Jacques
+13622	Jacques
+13625	Monsieur Defarge
+13638	Madame Defarge
+13718	Jacques
+13724	Jacques
+13732	Jacques
+13739	Monsieur Defarge
+13755	Madame Defarge
+13973	Monsieur Defarge
+14006	Monsieur Defarge
+14034	Monsieur Defarge
+14088	Jarvis
+14092	Manette
+14101	Monsieur Defarge
+14158	Monsieur Defarge
+14253	Monsieur Defarge
+14263	Lorry
+14416	Lorry
+14609	Jarvis
+14769	Lorry
+14825	Lorry
+14840	Monsieur Defarge
+14868	Monsieur Defarge
+14937	Lorry
+14946	Defarge
+15068	Lorry
+15156	Defarge
+15291	Monsieur Defarge
+15346	Lorry
+15365	Monsieur Manette
+15428	Jacques
+15603	Lorry
+15746	Defarge
+16035	Monsieur Defarge
+16350	Defarge
+16777	Defarge
+16782	Lorry
+16845	Lorry
+16872	Defarge
+16960	Monsieur Defarge
+16998	Defarge
+17031	Lorry
+17164	Defarge
+17357	Lorry
+17369	Defarge
+17550	Lorry
+17561	Monsieur Manette
+17589	Monsieur Manette
+17594	Lorry
+17599	Defarge
+17643	Monsieur Manette
+17662	Lorry
+17915	Defarge
+19432	God
+19608	Lorry
+19664	Lorry
+19695	Defarge
+19711	Monsieur Manette
+19743	Lorry
+19779	Manette
+19873	Lorry
+19875	Defarge
+20002	Lorry
+20004	Monsieur Defarge
+20036	Monsieur Defarge
+20071	Lorry
+20301	Monsieur Defarge
+20310	Lorry
+20557	Madame Defarge
+20589	Lorry
+20664	Defarge
+20758	Monsieur
+20764	Defarge
+20973	Jarvis
+21179	Tellson
+21189	Tellson
+21195	Tellson
+21201	Noakes
+21214	Tellson
+21236	Tellson
+21289	Tellson
+21317	Tellson
+21671	Tellson
+21936	Tellson
+22004	Tellson
+22075	Tellson
+22145	Jerry
+22151	Cruncher
+22174	Anno Domini
+22183	Cruncher
+22194	Anna Dominoes
+22227	Cruncher
+22317	Cruncher
+22435	Cruncher
+22492	Cruncher
+22532	Cruncher
+22630	Jerry
+22736	Cruncher
+22775	Jerry
+22796	Cruncher
+22923	Cruncher
+22974	Jerry
+23134	Aggerawayter
+23201	Cruncher
+23290	-- Halloa
+23313	Cruncher
+23331	Cruncher
+23377	Crunches
+23455	Jerry Cruncher
+23556	Jerry
+23625	Cruncher
+23673	Tellson
+23676	Jerry
+23689	Jerry
+23785	Jerry
+23799	Jerry
+23824	Tellson
+23868	Jerry
+23905	Jerry
+23938	Bailey
+23953	Jerry
+23964	Jerry
+23980	Bailey
+23998	Lorry
+24008	Bailey
+24015	Jerry
+24041	Bailey
+24065	Lorry
+24090	Cruncher
+24156	Lorry
+24168	Lorry
+24241	Cruncher
+24281	Jerry
+24413	Jerry
+24480	Jerry
+24653	Bailey
+24804	Bailey
+24945	Bailey
+24994	Jerry Cruncher
+25140	Jerry
+25173	Cruncher
+25191	Lorry
+25201	Lorry
+25254	Cruncher
+25288	Jerry
+25294	Lorry
+25344	Jerry
+25377	Jerry
+25580	Jerry
+25911	Ogreish
+25918	Charles Darnay
+25981	Lewis
+26035	Lewis
+26053	Lewis
+26082	Jerry
+26123	Charles Darnay
+26144	Attorney-General
+26709	Jerry
+26783	Jerry
+27342	Attorney-General
+27357	Attorney-General
+27678	Attorney-General
+27770	Solicitor-General
+27783	John Barsad
+27853	Lorry
+28243	Roger Cly
+28538	Attorney-General
+28541	Jarvis
+28546	Jarvis Lorry
+28636	Lorry
+28709	Lorry
+28758	Lorry
+28829	Lorry
+28842	Lorry
+29001	Lorry
+29070	Manette
+29116	Manette
+29244	Manette
+29346	Manette
+29812	Manette
+29877	Manette
+30017	Manette
+30070	George Washington
+30082	George
+30232	George Washington
+30266	Manette
+30275	Manette
+30402	Manette
+30927	Stryver
+30942	Carton
+30956	Stryver
+31042	Cruncher
+31070	Stryver
+31093	Barsad
+31133	Cly
+31275	George Washington
+31407	Stryver
+31416	Cruncher
+31431	Stryver
+31445	Cly
+31519	Carton
+31553	Stryver
+31753	Cruncher
+31804	Carton
+31826	Manette
+31985	George Washington
+32074	Lorry
+32096	Jerry
+32112	Jerry
+32186	Jerry
+32208	Carton
+32218	Lorry
+32289	Lorry
+32307	Carton
+32329	Jerry
+32343	Darnay
+32365	Manette
+32426	Carton
+32487	Darnay
+32530	Jerry
+32638	Jerry
+32640	Jerry
+32644	Lorry
+32678	Lorry
+32732	Jerry
+32774	Bailey
+32847	Manette
+32849	Lucie Manette
+32856	Lorry
+32869	Stryver
+32875	Charles Darnay
+32904	Manette
+33156	Darnay
+33170	Stryver
+33178	Stryver
+33270	Lorry
+33290	Darnay
+33350	Darnay
+33383	Lorry
+33411	Stryver
+33447	Lorry
+33483	Manette
+33499	Lucie
+33504	Darnay
+33523	Lorry
+33527	Stryver
+33554	Lorry
+33560	Darnay
+33565	Lucie
+33570	Lucie
+33615	Darnay
+33654	Lucie
+33778	Darnay
+33780	Lucie Manette
+33803	Stryver
+33879	Lorry
+33882	Darnay
+33901	Darnay
+33912	Carton
+33974	Darnay
+33978	Lorry
+34037	Carton
+34078	Lorry
+34143	Carton
+34173	Lorry
+34199	Carton
+34209	Lorry
+34247	Darnay
+34264	Darnay
+34310	Lorry
+34321	Tellson
+34347	Darnay
+34391	Charles Darnay
+34529	Charles Darnay
+34546	Carton
+34590	Darnay
+34736	Charles Darnay
+34775	Darnay
+34825	Manette
+34832	Manette
+34850	Carton
+34895	Darnay
+34962	Darnay
+34966	Darnay
+35011	Darnay
+35091	Darnay
+35128	Carton
+35187	Carton
+35208	Darnay
+35252	Darnay
+35265	Carton
+35301	Charles Darnay
+35339	Darnay
+35357	Carton
+35438	Darnay
+35770	Stryver
+35817	Stryver
+35838	Bailey
+35877	Stryver
+35922	Stryver
+36011	Sydney Carton
+36039	Stryver
+36051	Hilary Term
+36064	Stryver
+36075	Carton
+36114	Carton
+36181	Stryver
+36446	Stryver
+36631	Stryver
+36749	Stryver
+37143	Stryver
+37249	Stryver
+37490	Stryver
+37594	Carton
+37781	Stryver
+37847	Manette
+37896	Bailey
+37919	Stryver
+38333	Manette
+38384	Jarvis Lorry
+38413	Lorry
+38440	Lorry
+38476	Lucie
+39004	Manette
+39063	Jarvis
+39094	Manette
+39104	Lucie
+39114	Pross
+39135	Pross
+39157	Lorry
+39304	Lorry
+39369	Lorry
+39401	Lucie
+39497	Antoine
+39508	Lorry
+39550	Pross
+39588	Lorry
+39602	Pross
+39606	Lorry
+39650	Lorry
+39670	Pross
+39684	Pross
+39725	Pross
+39745	Lorry
+39761	Pross
+39812	Pross
+39831	Pross
+39870	Lorry
+39948	Pross
+39960	Lorry
+40007	Pross
+40024	Pross
+40054	Lorry
+40089	Manette
+40154	Ladybird
+40163	Lorry
+40166	Pross
+40319	Pross
+40365	Pross
+40373	Solomon
+40390	Lorry
+40395	Pross
+40406	Solomon
+40444	Pross
+40468	Lorry
+40533	Lucie
+40568	Pross
+40609	Pross
+40618	Lorry
+40624	Pross
+40671	Pross
+40680	Lorry
+40703	Manette
+40805	Pross
+40819	Lorry
+40844	Manette
+40918	Miss Pross
+40965	Pross
+41067	Lorry
+41096	Pross
+41104	Manette
+41147	Pross
+41331	Pross
+41430	Pross
+41474	Lorry
+41555	Pross
+41567	Pross
+41686	Pross
+41717	Pross
+41721	Lucie
+41737	Pross
+41751	Lorry
+41798	Lorry
+41807	Pross
+41829	Pross
+41881	Pross
+41928	Gaul
+41956	Cinderella
+41991	Pross
+42048	Pross
+42086	Lucie
+42151	Lorry
+42210	Darnay
+42228	Manette
+42236	Lucie
+42241	Pross
+42305	Lucie
+42368	Manette
+42373	Darnay
+42417	Lucie
+42461	Darnay
+42510	Lucie
+42772	Lucie
+42910	Charles Darnay
+42945	Lorry
+43008	Pross
+43029	Carton
+43087	Lucie
+43093	Darnay
+43153	Manette
+43253	Darnay
+43270	Darnay
+43274	Lucie
+43411	Sydney Carton
+43508	Manette
+43527	Darnay
+43591	Carton
+43616	Manette
+43750	Paul
+43762	Lorry
+43766	Jerry
+43798	Lorry
+43806	Jerry
+43834	Jerry
+43839	Lorry
+43877	Jerry
+43884	Carton
+43898	Darnay
+43992	Monseigneur
+44052	Cook
+44324	Stuart
+44358	Monseigneur
+44389	Monseigneur
+44443	Monseigneur
+45055	Babel
+45629	Antoine
+45752	Monsieur Paris
+45769	Monsieur Orleans
+45945	Monseigneur
+45963	Monseigneur
+46651	Monsieur
+46707	Monsieur
+46745	Monsieur the
+46747	Marquis
+46801	Monsieur the
+46803	Marquis
+46853	Monsieur the
+46855	Marquis
+46923	Monsieur the
+46925	Marquis
+47195	Marquis
+47221	Monsieur the
+47223	Marquis
+47244	Marquis
+47280	Monsieur the
+47282	Marquis
+47348	Monsieur the
+47350	Marquis
+47421	Marquis
+47553	Marquis
+47822	Fancy Ball
+47836	VIII
+47918	Monsieur the
+47920	Marquis
+47953	Monsieur the
+47955	Marquis
+48016	Monsieur the
+48018	Marquis
+48083	Marquis
+48168	Marquis
+48439	Monsieur the
+48441	Marquis
+48521	Monsieur the
+48523	Marquis
+48587	Marquis
+48991	Marquis
+49028	Monsieur Gabelle
+49032	Monsieur Gabelle
+49082	Monsieur Gabelle
+49110	Gabelle
+49179	Monsieur the
+49181	Marquis
+49190	Dolt
+49227	Gabelle
+49521	Monseigneur
+50063	Monsieur the
+50065	Marquis
+50100	Monsieur Charles
+50138	Monsieur the
+50140	Marquis
+50227	Monsieur the
+50229	Marquis
+50371	Monsieur the
+50373	Marquis
+50436	Monsieur the
+50438	Marquis
+50522	Louis
+50641	Marquis
+50877	Marquis
+51028	Charles Darnay
+51058	Monseigneur
+51102	Marquis
+51532	Marquis
+51999	Marquis
+52160	Marquis
+52277	Marquis
+52316	Marquis
+52440	Marquis
+52524	Marquis
+52643	Marquis
+52734	Marquis
+52917	Monsieur Charles
+53037	Marquis
+53085	Marquis
+53151	Marquis
+53378	Marquis
+53510	Marquis
+53607	Marquis
+53699	Monsieur
+53710	Monsieur
+53750	Monsieur the
+53752	Marquis
+53955	Monsieur the
+53957	Marquis
+54364	Monsieur the
+54366	Marquis
+54998	Monsieur Gabelle
+55013	Gabelle
+55035	Leonora
+55054	Gorgon
+55094	Monsieur the
+55096	Marquis
+55156	Jacques
+55178	Charles Darnay
+55314	Tellson
+55358	Darnay
+55549	Charles Darnay
+55566	Lucie Manette
+55754	Manette
+55768	Lucie
+55774	Pross
+55907	Charles Darnay
+55926	Charles Darnay
+55950	Stryver
+56005	Manette
+56049	Manette
+56130	Manette
+56244	Charles Darnay
+56265	Manette
+56323	Charles Darnay
+56394	Manette
+56504	Charles Darnay
+56531	Darnay
+56572	Lucie
+56622	Lucie
+56688	Darnay
+56701	Manette
+56719	Manette
+56763	Manette
+57023	Manette
+57147	Darnay
+57294	Manette
+57368	Lucie
+57485	Charles Darnay
+57515	Lucie
+57674	Manette
+57765	Manette
+57769	Darnay
+57796	Charles Darnay
+57832	Lucie
+57916	Carton
+57922	Stryver
+57951	Darnay
+57990	Manette
+58178	Charles Darnay
+58304	Darnay
+58331	Manette
+58442	Beauvais
+58496	Darnay
+58518	Lucie
+58575	Charles Darnay
+58589	Lucie
+58602	Pross
+58793	Stryver
+58857	Stryver
+58998	Stryver
+59173	Stryver
+59232	Stryver
+59338	Stryver
+59406	Stryver
+59430	Manette
+59536	Stryver
+59610	Stryver
+59806	Stryver
+59923	Manette
+60052	Syd
+60057	Stryver
+60191	Stryver
+60308	Manette
+60446	Stryver
+60583	Stryver
+60678	Hilary
+60777	Stryver
+60794	Stryver
+60806	Manette
+60815	Ranelagh
+60844	Stryver
+60881	Dunstan
+60920	Tellson
+60933	Lorry
+60945	Stryver
+61003	Lorry
+61043	Stryver
+61060	Stryver
+61084	Tellson
+61129	Stryver
+61142	Lorry
+61166	Stryver
+61239	Stryver
+61244	Lorry
+61268	Lorry
+61286	Lorry
+61311	Stryver
+61361	Manette
+61375	Lorry
+61397	Stryver
+61416	Lorry
+61470	Stryver
+61474	Lorry
+61520	Stryver
+61548	Lorry
+61557	Lorry
+61591	Stryver
+61621	Lorry
+61642	Stryver
+61660	Lorry
+61679	Lorry
+61707	Lorry
+61711	Stryver
+61730	Lorry
+61737	Stryver
+61768	Stryver
+61820	Lorry
+61853	Stryver
+61863	Lorry
+61903	Stryver
+61935	Stryver
+62015	Lorry
+62045	Lorry
+62049	Stryver
+62088	Stryver
+62093	Lorry
+62160	Tellson
+62186	Stryver
+62203	Lorry
+62241	Lorry
+62255	Stryver
+62304	Lorry
+62323	Stryver
+62342	Stryver
+62381	Stryver
+62415	Lorry
+62460	Manette
+62472	Manette
+62520	Stryver
+62580	Stryver
+62598	Lorry
+62636	Stryver
+62647	Stryver
+62673	Manette
+62691	Manette
+62866	Stryver
+62909	Stryver
+63053	Stryver
+63098	Bailey
+63124	Stryver
+63139	Lorry
+63150	Stryver
+63188	Lorry
+63239	Stryver
+63267	Lorry
+63300	Stryver
+63361	Lorry
+63371	Stryver
+63399	Lorry
+63593	Lorry
+63698	Lorry
+63711	Stryver
+63748	Stryver
+63772	Lorry
+63787	Stryver
+63823	Manette
+64043	Stryver
+64153	Lucie
+64218	Carton
+64230	Miss Manette
+64414	Manette
+64447	Carton
+64524	Carton
+64560	Manette
+64625	Miss Manette
+64744	Carton
+64817	Carton
+64831	Miss Manette
+65024	Carton
+65037	Manette
+65125	Carton
+65149	Manette
+65245	Miss Manette
+65328	Carton
+65341	Manette
+65438	Carton
+65499	Manette
+65639	Lucie Manette
+65670	Manette
+65770	Carton
+65958	Manette
+66044	Jeremiah Cruncher
+66144	Cruncher
+66169	Jerry
+66221	Tellson
+66243	Cruncher
+66322	Cruncher
+66391	Cruncher
+66421	Cruncher
+66449	Jerry
+66454	Cruncher
+66476	Young Jerry
+66538	Rip
+66555	Cruncher
+66599	Jerry
+66614	Cruncher
+66735	Yaha
+66760	Cruncher
+66777	Tellson
+66835	Yaha
+66889	Yaha
+66932	Roger Cly
+66944	Cruncher
+66948	Bailey
+66957	Yaha
+66964	Bailey Spi
+66981	Jerry
+67298	Jerry Cruncher
+67312	Tellson
+67520	Pancras
+67551	Roger Cly
+67605	Bailey
+67744	Cruncher
+67803	Jerry
+67808	Cruncher
+67822	Cly
+67949	Jerry
+67983	Cruncher
+68005	Cruncher
+68061	Cruncher
+68080	Cruncher
+68133	Jerry
+68139	Jerry
+68144	Cruncher
+68159	Jerry
+68171	Jerry
+68175	Cruncher
+68209	Jerry
+68214	Cruncher
+68421	Cruncher
+68543	Cruncher
+68736	Young Jerry
+68797	Young Jerry
+68817	Cruncher
+68909	Cruncher
+68920	Jerry
+69017	Young Jerry
+69067	Izaak Walton
+69122	Young Jerry
+69159	Jerry
+69249	Jerry
+69329	Jerry
+69473	Young Jerry
+69589	Jerry
+69917	Young Jerry
+69952	Young Jerry
+69963	Cruncher
+69992	Cruncher
+70001	Jerry
+70003	Jerry
+70005	Jerry
+70025	Jerry
+70059	Jerry
+70122	Jerry
+70135	Cruncher
+70315	Cruncher
+70341	Cruncher
+70378	Jerry
+70403	Jerry
+70467	Young Jerry
+70500	Cruncher
+70542	Cruncher
+70579	Young Jerry
+70589	Cruncher
+70638	Cruncher
+70662	Cruncher
+70729	Jerry
+70754	Cruncher
+70760	Jerry
+70804	Monsieur Defarge
+70835	Monsieur Defarge
+70904	Monsieur Defarge
+70946	Monsieur Defarge
+71250	Antoine
+71285	Monsieur Defarge
+71323	Antoine
+71384	Monsieur Defarge
+71420	Defarge
+71464	Defarge
+71468	Madame Defarge
+71485	Jacques
+71516	Jacques
+71546	Jacques
+71600	Defarge
+71661	Madame Defarge
+71853	Jacques Two
+71856	Jacques Three
+71870	Jacques Four
+71881	Jacques Five
+71919	Monsieur Defarge
+71960	Marquis
+71991	Marquis
+72079	Jacques Three
+72114	Monsieur the
+72116	Marquis
+72154	Jacques Two
+72192	Monsieur the
+72194	Marquis
+72235	Jacques
+72239	Defarge
+72300	Defarge
+72934	Defarge
+72941	Jacques
+73103	Defarge
+73188	Jacques Three
+73218	Defarge
+73255	Jacques
+73259	Defarge
+73426	Jacques
+73511	Jacques
+73586	Defarge
+73644	Monseigneur
+73769	Louis Fifteen
+73794	Jacques
+73816	Damiens
+73875	Jacques
+73947	Defarge
+74468	Jacques
+74546	Jacques
+74641	Jacques Two
+74643	, of
+74645	Defarge
+74702	Defarge
+74854	Defarge
+74958	Defarge
+75043	Defarge
+75305	Madame Defarge
+75505	Jacques
+75611	Defarge
+75671	Defarge
+75976	Madame Defarge
+76019	Antoine
+76061	Monsieur the
+76063	Marquis
+76288	Monsieur the
+76290	Marquis
+76509	Monsieur Defarge
+76541	Antoine
+76596	Jacques
+76649	Madame Defarge
+76698	Defarge
+76742	John
+76746	John Barsad
+76873	Madame Defarge
+76973	Defarge
+77039	Monsieur Defarge
+77220	Defarge
+77296	Defarge
+77323	Defarge
+77385	Defarge
+77567	Defarge
+77668	Defarge
+77781	Defarge
+78492	Antoine
+78614	John
+78921	Gaspard
+78929	Gaspard
+79066	Madame Defarge
+79104	Defarge
+79171	Ernest Defarge
+79204	Defarge
+79245	Antoine
+79253	Gaspard
+79266	Defarge
+79414	Defarge
+79445	Defarge
+79455	Monsieur Defarge
+79488	Defarge
+79501	Manette
+79546	Defarge
+79671	Manette
+79685	Defarge
+79707	Defarge
+79905	Manette
+79933	Gaspard
+79938	Gaspard
+79962	Monsieur the
+79964	Marquis
+79968	Gaspard
+79985	Marquis
+80003	Charles Darnay
+80122	Barsad
+80158	Monsieur
+80177	Antoine
+80205	Defarge
+80237	Ma'amselle Manette
+80277	Defarge
+80334	Madame Defarge
+80392	Defarge
+80414	Monsieur
+80521	Antoine
+80535	Antoine
+80577	Antoine
+80997	Lucie
+81147	Charles
+81150	Charles
+81388	Lucie
+81564	Charles
+81592	Charles
+81613	Charles
+81620	Charles
+81721	Doctor of
+81723	Beauvais
+82176	Lucie
+82445	Lucie
+82605	Beauvais
+82722	Lucie
+82820	Lorry
+82833	Pross
+82878	Manette
+82896	Pross
+82904	Charles
+82941	Lucie
+82962	Lucie
+83242	Charles Darnay
+83258	Lorry
+83262	Pross
+83296	Solomon
+83310	Lorry
+83349	Lucie
+83389	Charles
+83404	Pross
+83433	Lorry
+83444	Pross
+83457	Pross
+83466	Lorry
+83536	Pross
+83570	Lorry
+83646	Pross
+83674	Pross
+83692	Lorry
+83721	Pross
+83742	Lorry
+83775	Lucie
+83798	Pross
+83871	Tellson
+84018	Adam
+84034	Charles Darnay
+84130	Lorry
+84161	Charles Darnay
+84164	Lucie Manette
+84215	Lorry
+84307	Charles
+84358	Lorry
+84362	Pross
+84386	Lorry
+84448	Lorry
+84473	Lorry
+84496	Pross
+84569	Lorry
+84582	Tellson
+84648	Pross
+84701	Lorry
+84757	Manette
+84764	Manette
+84858	Lorry
+84932	Manette
+85057	Lorry
+85125	Lucie
+85146	Pross
+85190	Pross
+85244	Lorry
+85308	Lorry
+85333	Tellson
+85457	Manette
+85492	Lorry
+85520	Lorry
+85601	Lorry
+85664	Pross
+85737	Lorry
+85789	Lorry
+85793	Pross
+85813	Lucie
+85859	Lorry
+85893	Lorry
+85936	Lorry
+85990	Lorry
+86010	Lorry
+86076	Lorry
+86090	Lucie
+86166	Lorry
+86285	Lorry
+86314	Lorry
+86419	Jarvis Lorry
+86441	Manette
+86468	Pross
+86547	Lorry
+86574	Pross
+86601	Lorry
+86652	Lorry
+86724	Lorry
+86761	Lorry
+86769	Manette
+86854	Manette
+86859	Lorry
+86912	Manette
+86957	Lorry
+86971	Manette
+87378	Lorry
+87401	Manette
+87406	Lorry
+87642	Manette
+87654	Lorry
+87707	Lorry
+87776	Lorry
+87844	Lorry
+87882	Manette
+87997	Lorry
+88040	Lorry
+88140	Lorry
+88168	Lorry
+88361	Manette
+88450	Manette
+88628	Pross
+88669	Lorry
+88778	Lorry
+88835	Lorry
+88871	Manette
+89066	Lorry
+89125	Manette
+89190	Lorry
+89252	Manette
+89318	Lorry
+89365	Lucie
+89383	Lorry
+89395	Lucie
+89421	Lorry
+89440	Pross
+89460	Lorry
+89471	Pross
+89551	Lorry
+89554	Pross
+89660	Charles Darnay
+89669	Darnay
+89687	Darnay
+89691	Carton
+89759	Charles Darnay
+89787	Carton
+90006	Darnay
+90056	Darnay
+90153	Carton
+90225	Darnay
+90246	Darnay
+90294	Stryver
+90538	Darnay
+90606	Pross
+90613	Lorry
+90615	Charles Darnay
+90724	Darnay
+90736	Charles
+90779	Lucie
+90851	Charles
+90855	Carton
+90998	Charles Darnay
+91333	Lucie
+91504	Lucie
+91645	Lucie
+91680	Pross
+91898	Lucie
+91921	Lucie
+92119	Lucie
+92161	Stryver
+92285	Stryver
+92322	Stryver
+92355	Lucie
+92375	Darnay
+92391	Stryver
+92434	Stryver
+92445	Darnay
+92563	Lucie
+92813	Lucie
+92854	Lorry
+92868	Lucie
+92917	Lorry
+93027	Darnay
+93039	Darnay
+93092	Darnay
+93118	Lorry
+93153	Manette
+93270	Lucie
+93422	Lorry
+93480	Antoine
+93496	Antoine
+93543	Antoine
+93713	Antoine
+93763	Defarge
+93784	Defarge
+93832	Jacques Three
+93844	Jacques One
+93970	Defarge
+94158	Jacques One
+94161	Jacques Two
+94172	Jacques Five-and-Twenty
+94379	Defarge
+94434	Defarge
+94527	Jacques Three
+94679	Defarge
+94733	Defarge
+94781	Defarge
+94825	Jacques Three
+94835	Monsieur
+94857	Jacques Three
+94886	Defarge
+95036	Defarge
+95042	Jacques Three
+95300	Defarge
+95310	Defarge
+95326	Jacques
+95335	Jacques Three
+95344	Alexandre Manette
+95349	Defarge
+95474	Jacques
+95615	Jacques
+95716	Antoine
+95872	Defarge
+95964	Antoine
+95987	Antoine
+96055	Antoine
+96383	Antoine
+96406	Lucie Darnay
+96466	Antoine
+96502	Madame Defarge
+96730	Antoine
+96777	Antoine
+96849	Antoine Quarter
+96917	Defarge
+96991	Foulon
+97184	Defarge
+97222	Defarge
+97395	Foulon
+97402	Foulon
+97409	Foulon
+97439	Foulon
+97442	Foulon
+97453	Foulon
+97474	Foulon
+97498	Foulon
+97530	Foulon
+97546	Foulon
+97553	Foulon
+97560	Foulon
+97569	Foulon
+97571	Rend Foulon
+97651	Foulon
+97668	Antoine
+97721	Antoine
+97779	Jacques Three
+98049	Antoine
+98067	Defarge
+98111	Jacques Three
+98302	Madame Defarge
+98425	Antoine
+98447	Antoine
+98501	Antoine
+98527	Foulon
+98759	Defarge
+98771	Monsieur Defarge
+98812	Antoine
+98844	Antoine
+98883	Foulon
+98900	Antoine
+98904	XXIII
+99225	Monseigneur
+99264	Monseigneur
+99646	Jacques
+99653	Jacques
+100637	Monsieur Gabelle
+100801	Marquis
+100809	North
+101013	Monsieur Gabelle
+101021	Gabelle
+101294	Monsieur Gabelle
+101436	Marquis
+101565	North
+101630	Monsieur Gabelle
+101660	Gabelle
+101693	Monsieur Gabelle
+101717	Gabelle
+101771	Monsieur Gabelle
+101862	Monsieur Gabelle
+101891	Monsieur Gabelle
+101998	North
+102114	Lucie
+102372	Lucifer
+102376	Sardanapalus
+102540	Tellson
+102586	Tellson
+102618	Tellson
+102634	Tellson
+102674	Tellson
+102713	Lorry
+102720	Charles Darnay
+102787	Charles Darnay
+102815	Lorry
+102849	Charles
+102854	Lorry
+102991	Tellson
+103015	Charles Darnay
+103043	Lorry
+103070	Lorry
+103169	Lucie
+103178	Lucie
+103199	Lucie
+103224	Charles Darnay
+103260	Charles
+103264	Lorry
+103419	Tellson
+103427	Tellson
+103494	Charles
+103499	Lorry
+103687	Jerry
+103689	Jerry
+103712	Jerry
+103779	Tellson
+103809	Lorry
+104043	Charles Darnay
+104059	Stryver
+104138	Darnay
+104148	Darnay
+104187	Lorry
+104225	Darnay
+104257	Monsieur
+104260	Marquis St.
+104262	Evremonde
+104273	Tellson
+104290	Manette
+104301	Charles Darnay
+104348	Lorry
+104359	Lorry
+104422	Lorry
+104512	Marquis
+104600	Marquis
+104668	Darnay
+104679	Stryver
+104699	Jupiter
+104703	Stryver
+104721	Darnay
+104756	Darnay
+104864	Darnay
+104897	Darnay
+104901	Bully Stryver
+104977	Stryver
+105062	Stryver
+105077	Lorry
+105079	Charles Darnay
+105108	Lorry
+105206	Stryver
+105212	Darnay
+105254	MONSIEUR
+105257	MARQUIS
+105332	Monsieur
+105335	Marquis
+105474	Monsieur
+105510	Monsieur
+105513	Marquis
+105566	Monsieur
+105569	Marquis
+105590	Monsieur
+105593	Marquis
+105627	Monsieur
+105630	Marquis
+105653	Darnay
+105789	Lucie
+106077	Monsieur Gabelle
+106166	Charles Darnay
+106378	Gabelle
+106552	Lucie
+106565	Lucie
+106683	Tellson
+106730	Jerry
+106745	Charles Darnay
+106786	Lorry
+106821	Lorry
+106846	Gabelle
+106897	Lorry
+106934	Lucie
+106939	Lucie
+106944	Lorry
+106961	Charles Darnay
+107000	Lucie
+107049	Lucie
+107563	Charles Darnay
+107780	Gabelle
+108002	Charles Darnay
+108059	Darnay
+108323	Charles Darnay
+108640	Darnay
+108711	Darnay
+108797	Darnay
+109210	Charles Darnay
+109295	Gabelle
+109313	Darnay
+109358	Charles Darnay
+109529	Darnay
+109705	Darnay
+109775	Evremonde
+109791	Evremonde
+109807	Darnay
+109839	Evremonde
+109917	Evremonde
+109949	Defarge
+109959	Defarge
+109994	Defarge
+110020	Manette
+110039	Darnay
+110051	Defarge
+110062	Antoine
+110120	La Guillotine
+110161	Defarge
+110334	Defarge
+110368	Darnay
+110423	Lorry
+110474	Defarge
+110512	Charles Darnay
+110673	Charles Darnay
+111033	Defarge
+111061	Defarge
+111256	Charles Darnay
+111502	Charles Darnay
+111778	Charles Darnay
+111918	Charles Darnay
+112836	Tellson
+112882	Pagan
+112935	Tellson
+112977	Tellson
+112998	Tellson
+113021	Tellson
+113052	Jarvis
+113279	Lorry
+113380	Lorry
+113540	Lucie
+113545	Lucie
+113602	Lorry
+113614	Lucie
+113616	Manette
+113669	Lucie
+113673	Charles
+113679	Charles
+113802	Lorry
+113810	Manette
+113932	Charles
+113952	Charles
+113960	Lucie
+113986	Lorry
+113994	Lucie
+114038	Charles
+114070	Lucie
+114155	Charles
+114818	Lorry
+114898	Manette
+114917	Lorry
+114991	Lorry
+115057	Evremonde
+115088	Lucie
+115116	Pross
+115152	Lucie
+115176	Pross
+115267	Lucie
+115285	Lorry
+115447	Lorry
+115510	Lorry
+115528	Tellson
+115556	Lucie
+115599	Defarge
+115680	Tellson
+115684	Lorry
+115687	Lucie
+115734	Charles
+115753	Lorry
+115802	Lucie
+115809	Pross
+115828	Jerry
+115957	Lorry
+116027	Lorry
+116035	Manette
+116045	Manette
+116061	Defarge
+116085	Charles
+116112	Charles
+116145	Lorry
+116187	Lorry
+116220	Lorry
+116256	Lorry
+116295	Defarge
+116300	Lorry
+116346	Jerry
+116350	Lucie
+116365	Lorry
+116462	Defarge
+116515	Lucie
+116548	Madame Defarge
+116570	Lorry
+116637	Lorry
+116672	Defarge
+116696	Lucie
+116701	Lorry
+116725	Pross
+116729	Pross
+116731	Defarge
+116842	Madame Defarge
+116860	Lucie
+116878	Lorry
+116899	Madame Defarge
+116937	Madame Defarge
+116969	Madame Defarge
+117007	Lucie
+117147	Defarge
+117184	Madame Defarge
+117209	Lucie
+117249	Madame Defarge
+117268	Lucie
+117453	Madame Defarge
+117461	Lucie
+117512	Lucie
+117517	Lorry
+117597	Lorry
+117619	Lucie
+117656	Manette
+117689	Lucie
+117796	Lorry
+118033	Charles Darnay
+118097	Manette
+118411	Lorry
+118584	Manette
+118588	Jarvis Lorry
+118734	Lucie
+118853	Lorry
+118947	Charles
+118993	Lucie
+119040	Lorry
+119093	Charles Darnay
+119749	Devil
+119890	Lucie
+119919	Charles
+120113	Lucie
+120301	Antoine
+120382	Lucie
+120609	Lucie
+120653	Charles
+121073	Lucie
+121158	Samson
+121214	Lucie
+121400	Lucie
+121710	Lucie
+121881	Lucie
+122162	Lucie
+122369	Lucie
+122476	Charles
+122720	Tellson
+122813	Lorry
+122963	Charles Evremonde
+122967	Darnay
+123006	Charles Evremonde
+123010	Darnay
+123112	Darnay
+123411	Charles Darnay
+123438	Charles Evremonde
+123442	Darnay
+123643	Defarge
+123727	Manette
+123746	Lorry
+123775	Charles Evremonde
+123779	Darnay
+124019	Theophile Gabelle
+124023	Alexandre Manette
+124062	Lucie Manette
+124069	Manette
+124151	Charles Darnay
+124160	Manette
+124448	Gabelle
+124460	Gabelle
+124564	Evremonde
+124567	Darnay
+124570	Manette
+124714	Monsieur Lorry
+124777	Jurymen
+125126	Manette
+125552	Carmagnole
+125584	Lorry
+125604	Lucie
+125626	Pross
+125648	Lucie
+125661	Charles
+126052	Charles
+126097	Charles
+126164	Jerry
+126245	Jerry Cruncher
+126281	Manette
+126292	Charles Evremonde
+126296	Darnay
+126386	Cruncher
+126439	Pross
+126499	Cruncher
+126606	Cruncher
+126611	Pross
+126630	Jerry
+126636	Pross
+126671	Pross
+126725	Jerry
+126748	Pross
+126751	Cruncher
+126763	Nick
+126773	Pross
+126819	Lucie
+126836	Pross
+126926	Manette
+126970	Pross
+126980	Lucie
+126992	Pross
+127026	Pross
+127064	Cruncher
+127078	Pross
+127115	Pross
+127125	Manette
+127191	Charles
+127201	Pross
+127249	Solomon
+127257	Cruncher
+127273	Lucie
+127292	Lorry
+127303	Pross
+127327	Lucie
+127391	Lucie
+127475	Lucie
+127540	Charles
+127641	Darnay
+127655	Darnay
+127670	Evremonde
+127745	Manette
+127911	Antoine
+127929	Antoine
+127949	Antoine
+128013	Evremonde
+128058	Antoine
+128147	Antoine
+128168	VIII
+128184	Pross
+128218	Cruncher
+128377	Pross
+128401	Brutus
+128465	Cruncher
+128475	Pross
+128481	Brutus
+128621	Pross
+128632	Pross
+128727	Brutus
+128752	Pross
+128788	Pross
+128798	Cruncher
+128834	Pross
+128860	Solomon
+128868	Pross
+128904	Solomon
+128936	Pross
+128970	Solomon
+129001	Pross
+129024	Cruncher
+129036	Solomon
+129050	Cruncher
+129069	Pross
+129093	Solomon
+129102	Brutus
+129136	Solomon
+129171	Pross
+129198	Solomon
+129205	Pross
+129220	Pross
+129243	Solomon
+129312	Solomon
+129317	Pross
+129425	Pross
+129438	Solomon
+129483	Pross
+129502	Lorry
+129579	Cruncher
+129613	John Solomon
+129617	Solomon John
+129644	Cruncher
+129671	John Solomon
+129675	Solomon John
+129681	Solomon
+129699	John
+129716	Pross
+129811	Bailey
+129860	Jerry
+129890	Cruncher
+129903	Bailey
+129915	Pross
+129921	Lorry
+129976	Barsad
+129984	Barsad
+130044	Barsad
+130183	Barsad
+130268	Barsad
+130307	Barsad
+130408	Barsad
+130506	Pross
+130534	Barsad
+130542	Lorry
+130556	Pross
+130594	Solomon
+130671	Carton
+130677	Lorry
+130689	John Barsad
+130693	Solomon Pross
+130702	Lorry
+130736	Tellson
+130781	Pross
+130793	Barsad
+130833	Barsad
+130860	Lorry
+130879	Lorry
+130897	Barsad
+130903	Pross
+130930	Darnay
+130985	Barsad
+130999	Barsad
+131019	Barsad
+131069	Lorry
+131134	Manette
+131156	Barsad
+131195	Lorry
+131199	Manette
+131225	Lorry
+131255	Lorry
+131371	Barsad
+131404	Lorry
+131451	Barsad
+131540	Barsad
+131588	Barsad
+131604	Pitt
+131651	Barsad
+131678	Barsad
+131691	Barsad
+131763	Barsad
+131779	Barsad
+131889	Antoine
+131891	Defarge
+131907	Manette
+131987	Antoine
+132201	Lorry
+132305	Barsad
+132354	Lorry
+132475	Carton
+132670	Sydney Carton
+132761	Bailey
+132776	Barsad
+132804	Cly
+132880	Lorry
+132927	Cruncher
+132973	Cly
+133033	Lorry
+133045	Cruncher
+133080	Jack
+133089	Cruncher
+133109	Roger Cly
+133117	Cruncher
+133152	Barsad
+133176	Cruncher
+133224	Jerry
+133233	Jerry
+133256	Cly
+133292	Cruncher
+133332	Sydney Carton
+133339	Lorry
+133356	Cruncher
+133400	Cly
+133443	Cruncher
+133482	Barsad
+133608	Cly
+133664	Cruncher
+133690	Cruncher
+134079	Lorry
+134082	Jerry
+134145	Lorry
+134190	Jerry
+134203	Cruncher
+134243	Cruncher
+134266	Lorry
+134286	Tellson
+134336	Tellson
+134356	Cruncher
+134544	Tellson
+134563	Cruncher
+134703	Lorry
+134752	Lorry
+134786	Cruncher
+134812	Lorry
+134828	Crunches
+135035	Lorry
+135040	Cruncher
+135222	Cruncher
+135228	Sydney Carton
+135243	Barsad
+135278	Lorry
+135286	Lorry
+135318	Lorry
+135333	Carton
+135397	Lorry
+135424	Lorry
+135572	Lorry
+135596	Carton
+135606	Darnay
+135662	Lorry
+135708	Carton
+135860	Lorry
+135988	Lorry
+136024	Lorry
+136083	Carton
+136100	Lucie
+136272	Lorry
+136431	Carton
+136504	Lorry
+136676	Lorry
+136825	Lorry
+136846	Lorry
+137024	Samson
+137047	Samson
+137150	Carton
+137436	Sydney Carton
+138519	Lorry
+138605	Lorry
+138611	Manette
+138842	Jacques Three
+138844	of St.
+138846	Antoine
+138925	Charles Evremonde
+138929	Darnay
+138985	Charles Evremonde
+138989	Darnay
+139000	Law
+139044	Ernest Defarge
+139049	St. Antoine
+139058	Therese Defarge
+139070	Alexandre Manette
+139093	Manette
+139176	Manette
+139198	Law
+139288	Manette
+139330	Defarge
+139553	Defarge
+139736	Manette
+139744	Manette
+139756	Manette
+139805	Manette
+139823	Defarge
+139867	Alexandre Manette
+140333	Manette
+140346	Manette
+140350	Beauvais
+140395	Manette
+142581	Nobles
+143785	Marquis
+144249	Marquis
+144454	Monsieur
+145504	Marquis St.
+145506	Evremonde
+146021	Charles
+146145	Ernest Defarge
+146287	Marquis
+146447	Alexandre Manette
+146604	Antoine
+146784	Madame Defarge
+146971	Lucie
+147043	Barsad
+147058	Barsad
+147166	Charles
+147299	Darnay
+147600	Sydney Carton
+147613	Lorry
+147774	Pross
+147829	Lucie
+148019	Lorry
+148043	Manette
+148084	Charles
+148234	Manette
+148343	Manette
+148386	Lorry
+148419	Lorry
+148454	Lorry
+148541	Lorry
+148576	Manette
+148627	Lorry
+148850	Antoine
+148852	Defarge
+148869	Antoine
+148961	Lorry
+148999	Antoine
+149040	Defarge
+149057	Jacques Three
+149113	Carton
+149184	Madame Defarge
+149238	Madame Defarge
+149284	Defarge
+149332	Defarge
+149364	Jacques Three
+149494	Jacques Three
+149519	Defarge
+149551	Jacques Three
+149573	Defarge
+149675	Defarge
+149908	Jacques
+149912	Madame Defarge
+149975	Defarge
+149992	Bastille
+150117	Defarge
+150175	Bastille
+150183	Defarge
+150260	Defarge
+150320	Defarge
+150339	Marquis
+150410	Madame Defarge
+150498	Lorry
+150523	Lucie
+150571	Charles
+150594	Lorry
+150602	Manette
+150612	Lucie
+150640	Carton
+150664	Manette
+150671	Lorry
+151076	Lorry
+151085	Defarge
+151372	Lorry
+151399	Lorry
+151456	Sydney Carton
+151464	Lorry
+151532	Manette
+151765	Madame Defarge
+151778	Lucie
+152101	Lorry
+152371	Lorry
+152843	Charles Darnay
+153209	Lucie
+153596	Lorry
+153733	Lucie
+154566	Darnay
+154942	Darnay
+155012	Darnay
+155309	Darnay
+155518	Carton
+155539	Carton
+155551	Carton
+155613	Carton
+155667	Carton
+155700	Carton
+155764	Carton
+156010	Lorry
+156049	Carton
+156213	Barsad
+156229	Carton
+156672	Evremonde
+156792	Citizen Evremonde
+156979	Alexandre Manette
+157043	Lucie
+157065	Lucie
+157083	Evremonde
+157089	Lucie
+157270	Jarvis
+157283	Jarvis
+157384	Jarvis Lorry
+157434	Jarvis Lorry
+157487	Lucie
+157939	Lorry
+158160	Jacques Three
+158237	Jacques Three
+158279	Madame Defarge
+158356	Jacques Three
+158467	Jacques Three
+158486	Samson
+158522	Jacques Three
+158563	Madame Defarge
+158639	Jacques Three
+158760	Madame Defarge
+158874	Jacques Three
+158892	Madame Defarge
+158932	Madame Defarge
+158975	Jacques Three
+159014	Madame Defarge
+159061	Jacques Three
+159108	Madame Defarge
+159290	Antoine
+159449	Jacques Three
+159477	Madame Defarge
+159651	Juryman
+160092	Madame Defarge
+160135	Pross
+160142	Lorry
+160211	Pross
+160213	Jerry
+160306	Pross
+160314	Jerry
+160327	Solomon
+160353	Madame Defarge
+160387	Cruncher
+160392	Pross
+160451	Cruncher
+160490	Pross
+160519	Cruncher
+160537	Cruncher
+160544	Respectin
+160606	Pross
+160638	Cruncher
+160687	Cruncher
+160692	Pross
+160732	Jerry
+160763	Cruncher
+160783	Pross
+160804	Cruncher
+160837	Cruncher
+160864	Cruncher
+160892	Cruncher
+160924	Pross
+160945	Cruncher
+161034	Cruncher
+161051	Madame Defarge
+161080	Pross
+161090	Cruncher
+161144	Cruncher
+161153	Madame Defarge
+161179	Pross
+161208	Cruncher
+161226	Pross
+161229	Cruncher
+161272	Pross
+161308	Cruncher
+161322	Pross
+161345	Cruncher
+161381	Pross
+161436	Cruncher
+161460	Pross
+161473	Cruncher
+161522	Pross
+161603	Pross
+161749	Pross
+161798	Lucie
+161824	Pross
+161863	Madame Defarge
+161884	Lucifer
+161889	Pross
+161926	Pross
+161951	Lorry
+161977	Pross
+161986	Pross
+161991	Madame Defarge
+162008	Madame Defarge
+162066	Pross
+162138	Madame Defarge
+162182	Pross
+162214	Madame Defarge
+162252	Madame Defarge
+162318	Pross
+162386	Miss Pross
+162411	Pross
+162472	Pross
+162501	Pross
+162623	Pross
+162701	Pross
+162739	Madame Defarge
+162771	Pross
+162846	Madame Defarge
+162903	Pross
+162913	Pross
+162951	Pross
+162999	Miss Pross
+163054	Pross
+163103	Pross
+163182	Pross
+163517	Cruncher
+163541	Pross
+163556	Cruncher
+163564	Pross
+163581	Cruncher
+163612	Pross
+163619	Cruncher
+163642	Cruncher
+163667	Pross
+163711	Cruncher
+163761	Pross
+163840	Cruncher
+164856	Evremonde
+164998	Therese Defarge
+165147	Evremonde
+165414	Sydney Carton
+166110	Barsad
+166113	Cly
+166115	Defarge

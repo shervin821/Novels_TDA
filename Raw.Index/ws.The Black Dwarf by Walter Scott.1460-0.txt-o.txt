@@ -1,0 +1,1028 @@
+11	Shepherd
+429	Jedediah Cleishbotham
+472	Jedediah Cleishbotham
+488	Pattieson
+640	Bauldie
+799	Bauldie
+1157	Bauldie
+1230	Christy Wilson
+1362	Bauldie
+1394	Christy Wilson
+1410	Christy Wilson
+1591	Bauldie
+1796	Leyden
+1853	Richard Surtees
+2288	Adam
+2441	Hearne
+2495	Halbert
+2498	Hobbie Elliot
+2511	Martin Elliot
+2624	James
+2889	Anne
+3024	Stewart
+3149	Hobbie Elliot
+3243	Hobbie
+3281	Hobbie
+3451	Hobbie
+3979	Hobbie
+4065	Hobbie
+4231	Young Earnscliff
+4311	Hobbie
+4352	Carla Cleugh
+4355	Hobbie
+4359	Earnscliff
+4388	Hobbie
+4426	Hobbie
+4526	Hobbie
+4561	Patrick
+4691	Earnscliff
+4722	Hobbie
+4739	Laird
+4801	Hobbie
+4864	Hobbie
+4928	Ellieslaw
+4949	Hobbie
+4985	Ellieslaw
+5070	Hobbie
+5076	Laird
+5131	Hobbie
+5166	Patrick
+5191	Isabel Vere
+5206	Hobbie
+5281	Elliot
+5326	Laird
+5488	Hobbie
+5595	Davie
+5598	Stenhouse
+5628	Hobbie
+5664	Elliot
+5727	Hobbie
+5732	Laird
+5787	Hobbie
+5879	Dick Turnbull
+5888	Willie
+5890	Winton
+5905	Earnscliff
+5918	Dick
+5959	Willie
+5997	Willie
+6037	Earnscliff
+6047	Hobbie
+6056	Elliot
+6143	JOHN LEYDEN
+6308	Hobbie Elliot
+6411	Elliot
+6772	Elliot
+6832	Hobbie Elliot
+6864	Hobbie
+6933	Earnscliff
+6942	Humphrey Ettercap
+6967	Humphrey
+7027	Hobbie
+7066	Earnscliff
+7173	Earnscliff
+7220	Hobbie
+7309	Earnscliff
+7415	Hobbie
+7513	Hobbie Elliot
+7573	Earnscliff
+7597	Hobbie
+7657	Earnscliff
+7776	Hobbie
+7880	Hobbie Elliot
+7954	Grace Armstrong
+8107	Earnscliff
+8161	St. John
+8235	Dinna
+8272	Hobbie
+8288	Armstrong
+8459	Hobbie Elliot
+8490	Hobbie
+8549	Hobbie
+8599	Isabel Vere
+8628	Earnscliff
+8715	Hobbie Elliot
+8744	Hobbie
+8813	Hobbie
+9061	Earnscliff
+9087	Hobbie Elliot
+9099	Jenny
+9110	Hobbie
+9146	Hobbie
+9242	Hobbie
+9354	Hobbie
+9392	Hobbie
+9405	Earnscliff
+9429	Mayna
+9785	Dunbar
+9809	Laird
+9811	Benarbuck
+9878	Earnscliff
+10216	Earnscliff
+10252	Hobbie
+10341	Misanthropos
+10378	Earnscliff
+10404	Hobbie
+10442	Patrick
+10511	Hobbie
+10515	Earnscliff
+10578	Hobbie
+10652	Hobbie
+10778	Earnscliff
+10834	Hobbie
+10883	Earnscliff
+10945	Earnscliff
+11152	Hobbie
+11614	Earnscliff
+11642	Elliot
+11744	Elliot
+11889	Earnscliff
+11920	Earnscliff
+12699	Earnscliff
+12722	Hobbie Elliot
+12744	Auld Ane
+13056	Earnscliff
+13346	Earnscliff
+13469	Earnscliff
+13587	Elshie
+13650	Elshie
+13788	Elshie
+13796	Earnscliff
+13899	Alice of
+13901	Bower
+13909	Ruthwin
+13986	Earnscliff
+14013	Hobbie
+14016	Hobbie
+14143	Hobbie
+14247	-- Earnscliff
+14359	Elshie
+14529	Elshie
+14952	Earnscliff
+15319	Wise Wight
+15321	of Mucklestane-Moor
+15587	Isabel Vere
+15618	Vere
+15869	Vere
+15877	Nancy
+15932	Ilderton
+16006	Elshender
+16052	Miss Vere
+16727	Isabella
+16822	Miss Vere
+16842	Nancy
+16850	Miss Ilderton
+16879	Miss Ilderton
+16945	Nancy
+17032	Miss Vere
+17055	Lucy
+17142	Nancy Ilderton
+17222	Gorgon
+17238	Lucy
+17263	Frederick Langley
+17325	Elshie
+17338	Miss Vere
+17383	Lucy
+17432	Frederick
+17451	Lucy
+17490	Miss Vere
+17561	Miss Ilderton
+17591	Nancy
+17696	Lucy
+17790	Lucy
+17794	Isabella
+17844	Ilderton
+17978	Nancy
+17989	Ilderton
+17992	Nancy
+18034	Pierre
+18109	Earnscliff
+18111	Lucy
+18115	Miss Vere
+18131	Lucy
+18136	Pierres
+18166	Lucy
+18224	Earnscliff
+18257	Lucy
+18376	Lucy
+18390	Isabella
+18394	Lucy
+18539	Ellieslaw
+18547	Frederick Langley
+18578	Horsington
+18604	Frederick
+18634	Fain
+18636	Isabella
+18705	Diana
+19151	Elshie
+19182	Elshender
+19202	Ye ken
+19205	Elshie
+19445	Elshie
+19451	Westburnflat
+19552	Earnscliff
+19572	Earnscliff
+19635	Auld Reekie
+19660	Hobbie
+19667	Elshie
+19731	Hobbie
+19789	Elshie
+19840	Westburnflat
+20269	Hunchback
+20302	Elliot
+20305	Hobbie
+20487	-- CAMPBELL
+20796	Hubert
+20800	Hubert
+20902	Canny Hobbie
+20904	Elliot
+20907	Hobbie
+20910	Canny Hobbie
+20912	Elliot
+20996	Hobbie Elliot
+21103	Hobbie
+21171	Hobbie
+21218	Elliot
+21270	Hobbie
+21343	Killbuck
+21363	Elshie
+21451	Elshie
+21508	Hobbie
+21850	Hobbie
+21905	Martin
+21960	Hobbie
+22046	Hobbie
+22053	Elshie
+22180	Hobbie
+22251	Elshie
+22292	Elshie
+22313	Westburnflat
+22319	Banquo
+22374	Elshie
+22433	Charlie Cheat-the-Woodie
+22444	Charlie Foster
+22447	Tinning Beck
+22674	Hobbie
+22736	Westburnflat
+22890	Elshender
+22936	Westburnflat
+22983	Charlie Cheat-the-Woodie
+23194	Hobbie Elliot
+23342	Hobbie
+23392	-- Hout
+23463	Killbuck
+23499	Annaple
+23715	Grace Armstrong
+23743	Annaple
+23846	Elliot
+23980	Hobbie
+24050	Annaple
+24351	Hobbie
+24371	Simon
+24412	Tam
+24597	Simon
+24633	Hobbie
+24709	Hobbie
+24782	Simon of
+24784	Hackburn
+24799	Simon
+24859	Hobbie
+24895	Hobbie
+24965	Hobbie
+25075	Lilias
+25077	Jean
+25338	Gie
+25394	Young Earnscliff
+25407	Davie
+25409	Stenhouse
+25434	Earnscliff
+25457	Earnscliff
+25484	Hobbie
+25643	Elliot
+25662	Laird
+25677	Telfer
+25706	Hobbie
+25723	Elliot
+25756	Simon of
+25758	Hackburn
+25769	Hobbie
+25836	-- Hae
+25842	Hobbie
+25857	Dick of
+25859	the Dingle
+25875	Simon
+25985	Elliot
+26015	Hugh
+26078	Hobbie
+26112	Hobbie
+26206	Simon
+26212	Graeme
+26309	Dick of
+26311	the Dingle
+26319	Canny Elshie
+26347	Hobbie
+26396	Hobbie
+26439	Hobbie
+26495	Elliot
+26597	Hobbie
+26693	Dickon
+26811	Hobbie
+26832	Hobbie
+26878	Elshie
+26945	Elshie
+27023	Hobbie
+27032	Elshie
+27101	Hobbie
+27288	Hobbie
+27332	Armstrong
+27386	Hobbie
+27443	Elliot
+27514	Elliot
+27566	Elshie
+27661	Elliot
+27739	Elshie
+27843	Hobbie
+27863	Elliot
+27877	Jock
+27908	Westburnflat
+27995	-- Fareweel
+28000	Elshie
+28092	Hobbie Elliot
+28158	Earnscliff
+28235	Earnscliff
+28253	Hobbie
+28283	Elliot
+28287	auld Ellieslaw
+28300	Ye
+28318	Elshie
+28321	Westburnflat
+28324	Ellieslaw aye
+28366	James VIII.
+28388	Ellieslaw
+28420	Earnscliff
+28439	Westburnflat
+28445	Ellieslaw
+28720	Earnscliff
+28929	Elliot
+29244	Hobbie
+29315	Earnscliff
+29457	William Graeme
+29459	of Westburnflat
+29464	Earnscliff
+29508	Hobbie Elliot
+29541	Earnscliff
+29567	Earnscliff
+29656	Earnscliff
+29707	Hobbie
+29717	Earnscliff
+29815	Hobbie
+29965	Hugh
+30212	Hobbie
+30386	Hobbie
+30482	Hobbie
+30610	Earnscliff
+30642	Earnscliff
+30745	Hobbie
+30751	Simon
+30772	Elliot
+30797	Willie of
+30799	Westburnflat
+30862	Hobbie
+30865	Castleton
+30900	Elliot
+31038	Earnscliff
+31065	Westburnflat
+31111	Hobbie
+31126	Turner
+31158	Crissop
+31161	Liddel
+31232	Westburnflat
+31240	Simon
+31293	Willie
+31354	Hobbie
+31375	Hobbie
+31397	Grace Armstrong
+31402	Isabella Vere
+31424	Grace Armstrong
+31429	Hobbie
+31447	Westburnflat
+31481	Elliot
+31522	Hobbie
+31560	Elliot
+31600	Earnscliff
+31631	Earnscliff
+31638	Miss Vere
+31668	Earnscliff
+31802	Isabella
+31911	Willie
+31921	Hobbie
+31972	Westburnflat
+31984	Hobbie
+32011	Hobbie
+32060	Ere Hobbie
+32116	Dick of
+32118	the Dingle
+32266	Earnscliff
+32319	Hobbie
+32475	Hobbie
+32525	Hae
+32630	Wae
+32666	Grace
+32748	Hobbie
+32910	Hobbie
+32954	Elliot
+33052	Hobbie
+33078	Hobbie
+33102	Hobbie
+33120	Hobbie
+33157	Hobbie
+33167	Grace
+33207	Hobbie
+33212	Jeanie
+33237	Hobbie
+33275	Hobbie
+33443	Hobbie
+33516	Hobbie
+33596	Westburnflat
+33653	Hobbie
+33660	Graeme
+33852	Hobbie
+34012	Harry
+34060	Will Graeme
+34080	Hobbie
+34107	Hobbie
+34209	Hobbie
+34213	John Elliot
+34222	Harry
+34341	Hobbie
+34390	Thomas Kittleloof
+34446	Hobbie
+34492	Laird
+34543	Elliot
+34553	Hobbie
+34571	Hobbie
+34643	Hobbie
+34743	Hobbie
+34769	Hobbie
+34871	Elshie
+34879	Elshie
+34885	Canny Elshie
+34896	Hobbie
+34952	Elshie
+35017	Hobbie
+35058	auld Ellieslaw
+35071	Westburnflat
+35112	Elshie
+35155	Brough
+35179	Jock Howden
+35188	Elshie
+35208	Lambside
+35292	Hobbie
+35295	Elshie
+35374	Mucklestane
+35393	Hobbie
+35397	Harry
+35417	Hobbie
+35429	John
+35448	Harry
+35487	Hobbie
+35512	Elshie
+35548	Hobbie
+35625	Annaple
+35654	Hobbie
+35783	Tarras
+35868	Hobbie
+35956	Hobbie
+36012	Hobbie
+36090	Hobbie
+36104	Elliot
+36195	Hobbie
+36288	Tarras
+36342	Hobbie
+36407	Hobbie
+36546	Elshie
+36602	Westburnflat
+36647	-- Aweel
+36667	Ye
+36685	Grace
+36784	Elshie
+36792	Hob Elliot
+36913	Elliot
+37103	Saunders Wyliecoat
+37226	Elshie
+37275	Elshie
+37474	Hobbie
+37610	Elliot
+37632	Hobbie
+37641	Vere
+37667	Ellieslaw
+37686	Isabella
+37742	Isabella
+37769	Frederick
+37866	Isabella
+38006	Isabella
+38011	Vere
+38280	Lucy Ilderton
+38303	Ilderton
+38325	Vere
+38345	Frederick
+38398	Frederick
+38445	Isabella
+38485	Isabella
+38601	Vere
+38627	Isabella
+38805	Grace Armstrong
+38838	Earnscliff
+38844	Vere
+38903	Ellieslaw
+38988	Dixon
+38995	Vere
+39044	Dixon
+39122	Frederick
+39159	Ilderton
+39181	Dixon
+39184	Ratcliffe
+39212	Dixon
+39217	Vere
+39227	Ratcliffe
+39289	Vere
+39299	Ratcliffe
+39306	Laird
+39308	Ellieslaw
+39357	Vere
+39559	Ratcliffe
+39612	Ratcliffe
+39706	Vere
+39776	Vere
+39795	Vere
+39804	Ratcliffe
+39860	Ratcliffe
+39873	Vere
+39899	Frederick
+39933	Ratcliffe
+39985	Vere
+40012	Isabella
+40020	Frederick
+40061	Ratcliffe
+40106	Frederick
+40120	Ratcliffe
+40160	Vere
+40179	Lucy Ilderton
+40193	Earnscliff
+40270	Ratcliffe
+40297	Ellieslaw
+40317	Vere
+40321	Ratcliffe
+40326	Earnscliff
+40354	Lucy Ilderton
+40367	Ellieslaw
+40379	Frederick
+40410	Ratcliffe
+40480	Frederick Langley
+40494	Frederick
+40500	Vere
+40507	Ratcliffe
+40549	Mareschal of
+40551	Mareschal-Wells
+40605	Vere
+40639	Ellieslaw
+40839	Ratcliffe
+40873	Ilderton
+40891	Vere
+41073	Ellieslaw
+41085	Mareschal
+41087	Ratcliffe
+41135	Ratcliffe
+41210	Mareschal
+41216	Vere
+41240	Mareschal
+41246	Vere
+41271	Westburnflat
+41280	Frederick
+41326	Ellieslaw
+41335	Vere
+41356	Elliot of
+41358	the Heugh-foot
+41419	Mareschal
+41463	Westburnflat
+41502	Mareschal
+41530	Vere
+41574	Frederick
+41611	Mareschal-Wells
+41630	Vere
+41667	Mareschal
+41693	Ellieslaw
+41730	Earnscliff
+41798	Mareschal
+41802	Earnscliff
+41841	Ellieslaw
+41854	Mareschal
+41862	Isabella
+41938	Mareschal
+41955	-- Earnscliff
+41974	Ellieslaw
+42008	Earnscliff
+42025	Vere
+42057	Earnscliff
+42063	Ellieslaw
+42109	Earnscliff
+42121	Ellieslaw
+42154	Vere
+42227	Frederick Langley
+42293	Simon of
+42295	Hackburn
+42321	Simon
+42334	Frederick Langley
+42360	Hie Te'iot
+42365	Simon
+42398	Mareschal
+42409	Earnscliff
+42472	Ellieslaw
+42542	Ellieslaw
+42547	Mareschal
+42560	Earnscliff
+42574	Hobbie Elliot
+42601	Mareschal
+42665	Frederick Langley
+42722	Frederick
+42726	Mareschal
+42733	Ellieslaw
+42851	Ellieslaw
+42888	Mareschal
+42935	Mareschal
+43031	Marchie
+43037	Mareschal-Wells
+43049	Frederick
+43086	Mareschal
+43098	Frederick
+43116	Ellieslaw
+43148	Ratcliffe
+43150	Mareschal
+43163	Ratcliffe
+43202	Ratcliffe
+43206	Mareschal
+43241	Ratcliffe
+43262	Mareschal
+43327	Mareschal
+43351	Ellieslaw
+43440	Ratcliffe
+43462	Killiecrankie
+43582	John Falstaff
+43636	Mareschal
+43658	Ratcliffe
+43700	Ratcliffe
+43736	Ratcliffe
+43982	Mareschal
+44045	Forster
+44047	Derwentwater
+44060	Douglas
+44284	Ellieslaw
+44351	Frederick Langley
+44362	Mareschal of
+44364	Mareschal-Wells
+44397	Ratcliffe
+44471	Willie
+44473	Westburnflat
+44670	Justice Freeman
+44675	Lady Jones
+44682	Thomas Truby
+44931	Frederick Langley
+44941	Ellieslaw
+44964	Ratcliffe
+44978	Mareschal
+45066	Ellieslaw
+45123	Ellieslaw
+45144	Mareschal
+45286	Mareschal
+45299	Ellieslaw
+45324	Ellieslaw
+45506	James the
+45508	Eighth
+45612	Ellieslaw
+45616	Mareschal
+45787	John Rewcastle
+45811	Laird
+45823	Adam
+45881	Mareschal-Wells
+45920	Westburnflat
+45969	Ellieslaw
+46033	William Willieson
+46060	Mareschal
+46142	Willie
+46159	John Rewcastle
+46210	Ellieslaw
+46251	Ratcliffe
+46393	Ellieslaw
+46410	Ratcliffe
+46476	Vere
+46480	Ratcliffe
+46590	Mareschal
+46646	Vere
+46733	Ratcliffe
+46775	Ellieslaw
+46799	Ellieslaw
+46801	Mareschal
+46805	Frederick Langley
+46865	Ellieslaw
+46877	Westburnflat
+47027	Frederick
+47040	Mareschal
+47086	Ellieslaw
+47105	Mareschal
+47158	Ellieslaw
+47314	RALPH MARESCHAL
+47327	Frederick
+47344	Ellieslaw
+47407	Mareschal
+47425	Mareschal
+47484	Nihil Nameless
+47649	Mareschal
+47654	Frederick Langley
+47687	Frederick
+47691	Ellieslaw
+47711	Vere
+47716	Frederick
+47739	Mareschal
+47761	Frederick
+47801	Vere
+47819	Frederick
+47951	Mareschal
+47991	Frederick Langley
+48003	Ellieslaw
+48036	Ellieslaw
+48059	Frederick
+48178	Frederick
+48210	Frederick
+48220	Ellieslaw
+48291	Ellieslaw
+48329	Frederick
+48412	Hobbler
+48497	Ellieslaw
+48510	Frederick
+48538	Frederick
+48565	Ellieslaw
+48586	Mareschal
+48628	Ellieslaw
+48647	Mareschal
+48674	Frederick Langley
+48684	Lady Langley
+48738	Ellieslaw
+48750	Frederick
+48762	Vere
+48792	Ellieslaw
+48836	Earl Osmond
+48848	Tancred
+48851	Osmond
+48859	Vere
+49075	Ratcliffe
+49186	Isabella
+49195	Mareschal
+49490	Isabella
+49514	Isabella
+49518	Vere
+49586	Isabella
+49627	Isabella
+49713	Frederick Langley
+49793	Isabella
+49800	Isabella
+49971	Ratcliffe
+50000	Isabella
+50035	Isabella
+50091	Mareschal
+50221	Frederick
+50290	Isabella
+50319	Isabella
+50375	Isabella
+50671	Ellieslaw
+50729	Mareschal
+50783	Isabella
+50833	Frederick Langley
+50982	Vere
+50999	Mareschal
+51097	Frederick
+51149	Bell
+51244	Isabella
+51277	Isabella
+51324	Vere
+51347	Isabella
+51411	Ratcliffe
+51422	Vere
+51533	Ellieslaw
+51561	Isabella
+51598	Isabella
+51634	Isabella
+51727	Frederick
+51794	Frederick
+51807	Isabella
+51849	Isabella
+52045	Ratcliffe
+52047	Ellieslaw
+52087	Vere
+52117	Ratcliffe
+52135	Ratcliffe
+52203	Ratcliffe
+52226	Ratcliffe
+52277	Ratcliffe
+52310	Frederick Langley
+52334	Ratcliff
+52351	Ratcliffe
+52471	Ratcliffe
+52506	Ratcliffe
+52610	Ratcliffe
+52638	Miss Vere
+52720	Ratcliffe
+52745	Isabella
+52766	Ratcliffe
+52879	Frederick Langley
+52885	Ratcliffe
+52949	Ratcliffe
+53062	Vere
+53078	Ratcliffe
+53154	Ratcliffe
+53276	Ratcliffe
+53315	Isabella
+53342	Ratcliffe
+53407	Ratcliffe
+53411	Miss Vere
+53435	Miss Vere
+53461	Haswell
+53564	Ratcliffe
+53640	Ratcliffe
+53799	Isabella
+54059	Letitia
+54372	Ratcliffe
+55356	Ratcliffe
+55375	Ratcliffe
+55574	Ratcliffe
+55621	Ratcliffe
+55703	Ratcliffe
+55730	Miss Vere
+55848	Ratcliffe
+55852	Isabella
+55897	Ratcliffe
+55974	Ratcliffe
+55980	Isabella
+56100	Ratcliffe
+56205	Isabella
+56252	Isabella Vere
+56373	Isabella
+56492	Ratcliffe
+56524	Isabella
+56678	Isabella
+56751	Isabella
+57159	Isabella
+57236	Isabella
+57298	Isabella
+57480	Wert
+57491	Isabella
+57566	Isabella
+57647	Isabella
+57758	Isabella
+57955	Isabella
+58108	Ratcliffe
+58150	Ratcliffe
+58182	Ratcliffe
+58190	Vere
+58242	Ratcliffe
+58265	Vere
+58296	Ratcliffe
+59011	Isabella
+59018	Vere of
+59020	Ellieslaw
+59088	Ellieslaw
+59140	Ratcliffe
+59172	Ellieslaw
+59211	Frederick Langley
+59230	Mareschal
+59294	Frederick
+59350	Frederick
+59371	Mareschal
+59386	Hobbler
+59438	Ellieslaw
+59467	Knight
+59503	Frederick
+59532	Mareschal
+59546	Frederick Langley
+59591	Mareschal
+59673	Mareschal
+59677	Ellieslaw
+59728	Ellieslaw
+59812	Isabella
+59824	Isabella
+59851	Mareschal
+59860	Ellieslaw
+59874	Frederick
+59894	Vere
+59991	Frederick
+59996	Ellieslaw
+59998	Mareschal
+60020	Ellieslaw
+60115	Vere
+60144	Laird
+60146	Ellieslaw
+60190	Frederick
+60322	Ellieslaw
+60442	Ellieslaw
+60457	Hubert Ratcliffe
+60502	Frederick Langley
+60520	James
+60532	Edward Mauley
+60607	Frederick
+60643	Hobbie Elliot
+60689	Elshie
+60763	Elliot
+60767	Mareschal
+60781	Mareschal-Wells
+60785	Hobbie
+60823	Canny Elshie
+60841	Ellieslaw
+60929	Mareschal
+60948	Frederick
+60977	Binna
+60985	Hobbie
+61013	James
+61127	Nanse
+61136	Ratcliffe
+61155	Frederick
+61192	Mareschal
+61196	Ratcliffe
+61288	Elliot
+61310	Westburnflat
+61428	Isabella
+61440	Edward Mauley
+61652	Isabella
+61730	Isabella
+61755	Ratcliffe
+61757	Isabella
+61816	Hobbie Elliot
+61855	Elshie
+61859	Ratcliffe
+61881	Westburnflat
+61965	Ratcliffe
+62084	Edward Mauley
+62457	Edward
+62483	Ratcliffe
+62498	Ellieslaw
+62540	Edward
+62649	Ratcliffe
+62786	Ratcliffe
+62811	Edward
+62877	Ratcliffe
+62925	La Trappe
+62963	Ratcliffe
+62967	Westburnflat
+62998	Frederick
+63009	Edward Mauley
+63096	Earnscliff
+63172	Frederick Langley
+63204	Isabella
+63245	Ratcliffe
+63248	Edward
+63405	Ratcliffe
+63437	Ratcliffe
+63490	Marchie
+63522	RICHARD VERE
+63551	Hobbie
+63626	Hobbie
+63655	Isabella
+63690	Ratcliffe
+63719	Edward Mauley
+63750	Hobbie Elliot
+63824	Isabella
+63863	Hobbie
+63877	Canny Elshie
+63894	Ratcliffe
+63904	Hobbie
+63940	Edward Mauley
+63950	Halbert
+63952	Hobbie Elliot
+63969	Elliot
+63974	Hobbie
+64032	Ratcliffe
+64113	Hobbie
+64131	Eishie
+64223	Elshie
+64245	Hobbie
+64278	Ratcliffe
+64348	Elliot
+64386	Isabella
+64395	Ratcliffe
+64402	Edward Mauley
+64411	Ellieslaw
+64418	Ratcliffe
+64432	Edward
+64470	Ratcliffe
+64519	Mareschal
+64545	Lucy Ilderton
+64573	Frederick Langley
+64626	Vere
+64732	Willie
+64734	Westburnflat
+64740	Hobbie Elliot
+64935	Ratcliffe
+64942	Ellieslaw
+65012	Ellieslaw
+65022	Edward
+65050	Ratcliffe
+65111	Elshie
+65239	Elliot

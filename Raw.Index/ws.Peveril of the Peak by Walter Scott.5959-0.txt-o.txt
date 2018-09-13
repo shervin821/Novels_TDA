@@ -1,0 +1,4089 @@
+39	William
+59	William Peveril
+69	Hastings
+89	Gulielmus Bastardus
+139	William Peveril
+192	Baron
+298	John
+305	William Peveril
+316	Ferrers
+323	William
+367	Charles
+381	Geoffrey Peveril
+517	Geoffrey
+584	Geoffrey Peveril
+610	Geoffrey
+663	Peveril
+782	Peveril
+814	Poyntz
+816	Cromwell
+827	Cavalier
+897	Cromwell
+914	Geoffrey
+983	Peveril
+1013	Geoffrey
+1035	Charles II
+1063	Cromwell
+1109	Geoffrey
+1128	Oliver
+1135	Bridgenorth
+1157	James I.
+1209	Bridgenorth
+1245	Bridgenorth
+1255	Geoffrey
+1308	Bridgenorth
+1323	Geoffrey
+1507	Bridgenorth
+1543	Geoffrey
+1562	Major Bridgenorth
+1599	Lady Peveril
+1607	Bridgenorth
+1623	Moultrassie Hall
+1634	Rupert
+1665	Bridgenorth
+1686	Bridgenorth
+1735	Bridgenorth
+1741	Geoffrey
+1804	Bridgenorth
+1929	Bridgenorth
+1957	Geoffrey Peveril
+1970	Bridgenorth
+2013	Bridgenorth
+2075	Geoffrey
+2102	Bridgenorth
+2213	Bridgenorth
+2232	Hall
+2320	Geoffrey
+2431	Peveril
+2456	Bridgenorth
+2522	Charles
+2614	Geoffrey
+2679	Bridgenorth
+2687	Cromwell
+2709	Charles Stewart
+2737	Bridgenorth
+2843	Bridgenorth
+2919	Bridgenorth
+2936	Lady Peveril
+2958	Bridgenorth
+2989	Geoffrey
+3035	Lady Peveril
+3099	Alice
+3182	Lady Peveril
+3198	Lady Peveril
+3228	Bridgenorth
+3287	Lady Peveril
+3305	Alice
+3312	Julian
+3409	Lady Peveril
+3532	Julian
+3636	Geoffrey
+3737	Hugh Peters
+3760	Martindale
+3781	Lady Peveril
+3835	Master Solsgrace
+3866	Geoffrey Peveril
+3996	Moultrassie Hall
+4039	Geoffrey
+4120	Julian
+4126	Alice
+4152	Geoffrey
+4165	Bridgenorth
+4247	Bridgenorth
+4362	Bridgenorth
+4373	Geoffrey
+4463	Bridgenorth
+4552	Bridgenorth
+4610	Alice
+4757	Hastings
+4778	Geoffrey
+4908	Bridgenorth
+4924	Geoffrey
+4935	Alice
+4938	Julian
+4994	Charles
+5096	Oliver
+5115	Cavalier
+5177	Bridgenorth
+5253	Geoffrey
+5318	Geoffrey
+5337	Martindale
+5352	Geoffrey Peveril
+5358	Martindale
+5379	Peveril
+5387	Earl of
+5389	Martindale
+5395	Martindale
+5459	Geoffrey
+5501	Julian
+5503	Alice
+5505	Lady Peveril
+5526	Lady Peveril
+5564	Geoffrey
+5568	Bridgenorth
+5596	Moultrassie Hall
+5672	Geoffrey
+5745	Charles
+5759	Peveril
+5878	Geoffrey
+6086	Lady Peveril
+6148	Geoffrey
+6287	Julian Peveril
+6500	Lady Peveril
+6541	Julian
+6573	Dame Martha
+6599	Alice
+6613	Moultrassie
+6618	Bridgenorth
+6678	Bridgenorth
+6773	Bridgenorth
+6864	Lady Peveril
+7098	Bridgenorth
+7118	Lady Peveril
+7182	Geoffrey
+7248	Lady Peveril
+7267	Master Bridgenorth
+7374	Bridgenorth
+7413	Geoffrey
+7505	Adam
+7517	Lady Peveril
+7550	Shakespeare
+7617	Bridgenorth
+7680	Lady Peveril
+8000	David
+8129	Bridgenorth
+8578	Lady Peveril
+8646	Lady Peveril
+8711	Geoffrey
+8815	Geoffrey
+8818	Charles
+8878	Peveril
+8947	Bridgenorth
+9034	Whitaker
+9213	Gatherill
+9257	Whitaker
+9284	Whitaker
+9455	Whitaker
+9502	Whitaker
+9548	Geoffrey
+9715	Whitaker
+9819	Nehemiah Solsgrace
+9826	Whitaker
+9955	Richard Whitaker
+9967	Whitaker
+10080	Dick Whitaker
+10288	Peveril
+10295	Geoffrey
+10457	Bridgenorth
+10466	Lady Peveril
+10517	Lady Peveril
+10603	Peveril
+10698	Lady Peveril
+10748	Bridgenorth
+11087	Popery
+11172	Christina
+11234	Lady Peveril
+11299	Bridgenorth
+11341	Charles
+11360	Bridgenorth
+11385	Geoffrey
+11434	Lady Peveril
+11478	Bridgenorth
+11567	Peveril
+11606	Bridgenorth
+11676	Tirzah
+11686	Bridgenorth
+11720	Martindale
+11774	Bridgenorth
+11873	Geoffrey
+11930	Bridgenorth
+12054	Bridgenorth
+12097	Lady Peveril
+12240	Bridgenorth
+12259	Lady Peveril
+12355	Martindale
+12363	Lady Peveril
+12367	Bridgenorth
+12484	Lady Peveril
+12646	Dummerar
+12688	Geoffrey
+12738	Century White
+12803	Dummerar
+12827	Geoffrey Peveril
+12938	Dummerar
+13014	Dummerar
+13104	Lady Peveril
+13125	Dummerar
+13222	Lady of
+13224	the Manor
+13313	Lady Peveril
+13491	Lady Peveril
+13710	Cromwell
+14172	Bridgenorth
+14358	Holdfast Clegg
+14389	Solsgrace
+14407	Oliver
+14465	Solsgrace
+14867	Oliver
+14970	Oliver
+15296	Jasper Cranbourne
+15430	Dick Wildblood
+15461	Roger Raine
+15486	Jasper
+15498	Dick
+15508	Franklin
+15532	Lady Peveril
+15550	Dick
+15586	Jasper
+15590	Dick
+15653	Jasper
+15719	Dick
+16122	Major Bridgenorth
+16140	Lady Peveril
+16163	Bridgenorth
+16310	Solsgrace
+16356	Lady Peveril
+16402	Lady Peveril
+16434	Nehemiah Solsgrace
+16791	Jasper Cranbourne
+16917	Dummerar
+16943	Jasper
+17032	Jasper
+17279	Lady Peveril
+17455	Peveril
+17560	Froissart
+17739	Peveril
+17861	Whitaker
+18154	Bridgenorth
+18168	Gaffer Hodgeson
+18176	Solsgrace
+18474	Roger Raine
+18678	Lady Peveril
+18748	Deborah
+18782	Deborah
+18877	Deborah
+18918	Lance Outram
+18959	Deborah
+18992	Deborah
+19016	Julian
+19026	Alice
+19083	Julian
+19135	Ferdinand
+19138	Isabella
+19164	Julian
+19295	Julian
+19518	Julian
+19642	Julian
+19730	Alice Bridgenorth
+19804	Julian
+19813	Alice
+19927	Julian
+20131	Julian
+20198	Bridgenorth
+20242	Lady Peveril
+20336	Alice
+20451	Alice
+20462	Julian Peveril
+20515	Lady Peveril
+20549	Alice
+20612	Julian
+20673	Peveril
+20750	Margaret
+20761	Margaret Stanley
+20774	Lady Peveril
+20897	Lady Peveril
+20971	Geoffrey Peveril
+20987	Lady Peveril
+20992	Geoffrey
+21027	Lady Peveril
+21042	Margaret Stanley
+21074	Margaret
+21144	Lady Peveril
+21186	Ellesmere
+21362	Lady Peveril
+21411	Margaret
+21428	Lady Peveril
+21433	Julian
+21457	Bridgenorth
+21586	Lady Peveril
+21646	Julian
+21791	Harrison
+21867	Julian
+21928	Julian
+21945	Prince Rupert
+21969	Margaret
+22079	Prince Rupert
+22129	Lady Peveril
+22234	Lady Peveril
+22244	Earl
+22259	Lady Peveril
+22358	Lady Peveril
+22556	Peveril
+22687	Lady Peveril
+22821	Margaret Stanley
+22838	Bolton
+22879	Lady Peveril
+22912	Geoffrey
+22973	-- Margaret
+23108	Blake
+23110	Lawson
+23151	Bridgenorth
+23187	Lady Peveril
+23233	Lady Derby
+23309	Earl
+23461	Lady Peveril
+23670	William Christian
+23710	Lady Peveril
+23922	Christian
+24062	Calcott
+24139	Lady Peveril
+24196	Bridgenorth
+24312	Dempster
+24353	Dempster
+24384	Scald
+24459	Lady Peveril
+24474	Margaret
+24558	Bridgenorth
+24586	Bridgenorth
+24680	Bridgenorth
+24699	Lady Peveril
+24739	Bridgenorth
+24787	Alice
+24983	Ahab
+24993	Lady Peveril
+25201	Lady Peveril
+25390	-- Charlotte
+25575	Lady Peveril
+25637	Bridgenorth
+25674	Lady Peveril
+25735	Bridgenorth
+25790	Charles Stuart
+25900	-- Methinks
+25903	Margaret
+25924	Bridgenorth
+25947	Lady Peveril
+25982	Whitaker
+26086	Peveril
+26108	Bridgenorth
+26145	Lady Peveril
+26190	Bridgenorth
+26339	Lady Peveril
+26425	Bridgenorth
+26428	Whitaker
+26502	Bridgenorth
+26539	Whitaker
+26567	Lady Peveril
+26587	Whitaker
+26601	Bridgenorth
+26710	Whitaker
+26739	Noll
+26792	Whitaker
+26797	Lady Peveril
+26909	Bridgenorth
+26963	Lady Peveril
+27113	Lady Peveril
+27130	Whitaker
+27140	Bridgenorth
+27196	Whitaker
+27249	Peveril
+27416	Whitaker
+27681	Lady Peveril
+27794	Margaret
+27875	Lady Peveril
+27911	Margaret Stanley
+27923	Margaret
+27940	Lady Peveril
+28046	Julian
+28068	Sam Brewer
+28078	Black Hastings
+28173	Lady Peveril
+28179	Geoffrey
+28227	Geoffrey Peveril
+28275	Geoffrey
+28398	Geoffrey
+28424	Prince Rupert
+28427	Ormond
+28452	Harry Bennet
+28537	Geoffrey
+28590	Charles
+28713	Judith
+28754	Geoffrey
+28889	Geoffrey
+28988	Black Hastings
+29012	Rupert
+29033	Marmaduke Langdale
+29037	Philip Musgrave
+29113	Peveril
+29148	William
+29189	Duke
+29298	Julian
+29335	Black Hastings
+29348	Saunders
+29369	Brewer
+29403	Geoffrey
+29481	Julian
+29596	Gil
+29643	Earl
+29680	Margaret Stanley
+29715	Margaret
+29805	Julian
+29834	Lady Peveril
+29852	Geoffrey
+29857	Julian
+29900	Julian
+29922	Julian
+29927	Alice Bridgenorth
+29981	Lady Peveril
+30003	Earl
+30074	Geoffrey
+30195	Bridgenorth
+30253	Peveril
+30314	Dame Margaret
+30344	Alice
+30403	Peveril
+30557	Lady Peveril
+30593	Margaret
+30619	Lady Peveril
+30640	Geoffrey
+30643	Bridgenorth
+30711	Lady Peveril
+30724	Derby
+30775	Charlotte
+30810	Geoffrey
+30920	Geoffrey
+31013	Lady Peveril
+31124	Countess
+31160	Lady Peveril
+31209	Geoffrey Peveril
+31214	Whitaker
+31264	Lady Peveril
+31269	Whitaker
+31381	Bridgenorth
+31418	Geoffrey
+31431	Bridgenorth
+31490	Bridgenorth
+31585	Geoffrey
+31612	Martindale
+31639	Bridgenorth
+31846	Geoffrey
+31863	Knight
+32020	Peveril
+32067	Lady Derby
+32122	Geoffrey
+32125	Lady Peveril
+32164	Whitaker
+32190	Outram
+32192	Saunders
+32201	Roger Raine
+32210	Roger
+32220	Dick of
+32222	the Dale
+32285	Whitaker
+32302	Jasper Cranbourne
+32355	Jasper
+32387	Fang
+32413	Henry IV
+32568	Lady Peveril
+32627	Whitaker
+32630	Lance Outram
+32702	Peveril
+32718	Whitaker
+32735	Whitaker
+32742	Lance
+32849	Whitaker
+32921	Lance
+32974	Bridgenorth
+33013	Whitaker
+33052	Whitaker
+33060	Lance
+33110	Lance
+33122	Whitaker
+33209	Lance
+33219	Master Whitaker
+33226	Deborah
+33251	Whitaker
+33254	Lance Outram
+33269	Lance
+33462	Deb
+33497	Ivy-tod Dingle
+33549	Whitaker
+33565	Bridgenorth
+33582	Lance
+33598	Gad
+33651	Whitaker
+33710	Madam Deb
+33737	Bridgenorth
+33856	Lance
+33905	Lance
+33916	Whitaker
+33947	Deborah
+33987	Lance
+34093	Whitaker
+34166	Lance
+34174	Deborah
+34283	Whitaker
+34375	Lance
+34390	Lady Peveril
+34420	Geoffrey
+34427	Whitaker
+34520	Whitaker
+34595	Earl
+34714	Geoffrey
+34767	Geoffrey Peveril
+34798	Geoffrey
+34804	Bridgenorth
+34858	Geoffrey
+34874	Geoffrey
+34931	Bridgenorth
+34950	Geoffrey
+34994	Geoffrey
+35027	Noll
+35067	Bridgenorth
+35094	Geoffrey
+35180	Geoffrey Peveril
+35185	Bridgenorth
+35253	Geoffrey
+35427	Bridgenorth
+35440	Geoffrey
+35454	Black Hastings
+35508	Bridgenorth
+35561	Geoffrey
+35598	Bridgenorth
+35608	Geoffrey
+35643	Geoffrey
+35733	Geoffrey
+35757	Bridgenorth
+35833	Peveril
+35930	Bridgenorth
+35950	Geoffrey Peveril
+35997	Geoffrey
+36111	Lance Outram
+36162	Lance
+36181	Major Bridgenorth
+36227	Geoffrey
+36358	Clarendon
+36365	Charles
+36524	Earl
+36538	BYRON
+36541	Peveril
+36569	Bridgenorth
+36598	Geoffrey
+36623	Whitaker
+36641	Bridgenorth
+36644	Peveril
+36693	Bridgenorth
+36765	Lady Peveril
+36887	Deborah
+36916	Rachael
+36969	Deborah
+37000	Lady Peveril
+37020	Rachael
+37028	Julian
+37033	Deborah
+37046	Bridgenorth
+37050	Moultrassie Holt
+37074	Geoffrey Peveril
+37294	Deborah Debbitch
+37308	Abigail
+37375	Deborah Debbitch
+37446	Deborah
+37454	Moultrassie Holt
+37512	Abigail
+37517	Bridgenorth
+37532	Deborah
+37634	Lady Peveril
+37661	Bridgenorth
+37687	Deborah
+37715	Alice
+37750	Deborah
+37754	Bridgenorth
+37811	Bridgenorth
+37849	Lady Peveril
+38068	Deborah Debbitch
+38101	Alice
+38298	Prince of
+38300	the Air
+38362	Williams
+38589	Geoffrey Peveril
+38671	Geoffrey
+38685	Joachim Win-the-Fight
+38702	Geoffrey
+38801	RALPH BRIDGENORTH
+38824	Lady Peveril
+38965	Lance Outram
+39035	Deborah
+39172	Julian
+39237	Whitaker
+39316	Deborah
+39321	Alice
+39333	Bridgenorth
+39366	Lady Peveril
+39383	Bridgenorth
+39437	Alice
+39488	Geoffrey
+39517	Dummerar
+39571	Bridgenorth
+39656	Dummerar
+39843	Whitaker
+39865	Geoffrey
+39896	Dame Margaret
+39943	Lady Peveril
+39966	Bridgenorth
+40015	Solsgrace
+40080	Noll
+40099	Charles
+40107	Dame Margaret
+40180	Meg
+40265	Ralph Bridgenorth
+40267	of the
+40269	Hall
+40281	Lady Peveril
+40309	Bridgenorth
+40317	Geoffrey
+40341	Deborah
+40370	Deborah
+40399	Lady Peveril
+40471	Bridgenorth
+40492	Bosworthfield
+40546	Dame Margaret
+40712	Bridgenorth
+40768	Meg
+40788	Margaret
+40846	Julian
+40901	Geoffrey
+40906	Lady Peveril
+40951	Geoffrey
+41014	Lady Peveril
+41093	Geoffrey
+41143	Geoffrey
+41198	Dame Margaret
+41226	Julian
+41250	Alice
+41298	Geoffrey Peveril
+41360	Dummerar
+41385	Geoffrey
+41430	Hugh Peters
+41553	Dummerar
+41596	Bridgenorth
+41624	Geoffrey
+41695	Dummerar
+41751	Geoffrey
+41778	Solsgrace
+41811	Solsgrace
+41887	Dummerar
+41902	Peveril
+41908	Jasper Cranbourne
+41959	Roger Raine
+41992	Solsgrace
+42009	Win-the-Fight
+42064	Geoffrey
+42140	Geoffrey
+42205	Geoffrey
+42263	Peveril
+42345	Solsgrace
+42357	Geoffrey
+42367	Solsgrace
+42424	Geoffrey Peveril
+42461	Peveril
+42680	Solsgrace
+42803	Solsgrace
+43025	Solsgrace
+43105	Solsgrace
+43217	Abiezer
+43389	Solsgrace
+43406	Bridgenorth
+43455	Samson
+43459	Delilah
+43503	Baal
+43544	Bridgenorth
+43684	Bridgenorth
+43771	Lady Peveril
+43810	Bridgenorth
+43869	Geoffrey
+43914	Solsgrace
+43949	Elijah
+43961	Cherith
+43998	Bridgenorth
+44102	Solsgrace
+44199	Jasper Cranbourne
+44209	Ralph Bridgenorth
+44220	Geoffrey Peveril
+44253	Geoffrey Peveril
+44264	Major Bridgenorth
+44313	Jasper
+44325	Solsgrace
+44351	Bridgenorth
+44379	Jasper
+44430	Bridgenorth
+44471	Jasper
+44511	Geoffrey Peveril
+44514	Master Bridgenorth
+44612	Jasper
+44616	Bridgenorth
+44631	Geoffrey
+44683	Bridgenorth
+44714	Jasper
+44765	Lady Peveril
+44791	Geoffrey
+44815	Geoffrey
+44963	Solsgrace
+45079	Bridgenorth
+45117	Jasper
+45140	Jasper
+45370	Jasper
+45432	Geoffrey
+45559	Jasper
+45585	Jasper
+45659	Bridgenorth
+45691	Jasper Cranbourne
+45708	Jasper
+45721	Geoffrey
+45748	Master Bridgenorth
+45759	Geoffrey
+45771	Bridgenorth
+45813	Jasper
+45852	Ralph Bridgenorth
+45873	Jasper Cranbourne
+45900	Dame Margaret
+45902	Peveril
+46028	Jasper Cranbourne
+46048	Jasper
+46164	Geoffrey Peveril
+46200	Geoffrey Peveril
+46206	Bridgenorth
+46318	Ralph Bridgenorth
+46324	Jasper
+46424	Geoffrey
+46462	Bridgenorth
+46552	Solsgrace
+46617	Ananias
+46619	Sapphira
+46811	Bridgenorth
+46905	Moultrassie Hall
+46915	Jasper Cranbourne
+46929	Geoffrey Peveril
+46958	Geoffrey
+47103	Jasper
+47116	Dame Margaret
+47186	Dame Margaret
+47282	Bridgenorth
+47403	-- Antony
+47406	Cleopatra
+47610	Geoffrey
+47616	Bridgenorth
+47633	Martindale
+47663	Dame Margaret
+47735	Martindale-cum-Moultrassie
+47738	Margaret
+47815	Lady Peveril
+47863	Peveril
+47870	Bridgenorth
+47903	Alice
+47906	Deborah Debbitch
+47940	Bridgenorth
+47963	Deborah
+48027	Alice
+48036	Popery
+48049	Nehemiah Solsgrace
+48133	Peveril
+48143	Bridgenorth
+48169	Dame Dickens
+48251	Master Bridgenorth
+48265	Geoffrey
+48274	Lady Peveril
+48333	Peveril
+48386	Lady Peveril
+48689	Lady Peveril
+48810	Dobby
+48819	Lady Peveril
+48951	Lady Peveril
+49054	Lady Peveril
+49152	Bridgenorth
+49293	Lady Peveril
+49555	Lady Peveril
+49661	Alice
+49675	Bridgenorth
+49810	Lady Peveril
+49845	Bridgenorth
+49945	Bridgenorth
+50166	Bridgenorth
+50189	Harrison
+50202	Lady Peveril
+50218	Bridgenorth
+50457	Bridgenorth
+50662	Gallio
+50843	Lady Peveril
+51112	Alice
+51183	Peveril
+51258	Bridgenorth
+51371	Lady Peveril
+51468	Bridgenorth
+51514	Bridgenorth
+51827	Geoffrey
+51832	Lady Peveril
+51865	Julian
+51888	Bridgenorth
+51911	Julian
+51973	Master Bridgenorth
+51987	Lady Peveril
+52023	Julian
+52040	Earl
+52063	Bridgenorth
+52159	Lady Peveril
+52227	Bridgenorth
+52308	Pope
+52614	Charles
+52701	Bridgenorth
+52793	Lady Peveril
+52877	Lady Peveril
+52905	Dame Margaret
+52925	Peveril
+52946	Bridgenorth
+52977	Geoffrey
+53061	Geoffrey
+53079	Venner
+53101	Bridgenorth
+53165	Lady Peveril
+53176	Geoffrey
+53268	Saunders
+53395	Bridgenorth
+53445	Bridgenorth
+53477	Lady Peveril
+53491	Julian
+53513	Earl
+53526	Lady Peveril
+53576	Julian
+53584	Lady Peveril
+53639	Earl
+53672	Charles
+53743	Earl
+53752	Julian
+53800	Charles
+53889	Derby
+53912	Julian Peveril
+53973	Rushin
+53995	-- COLLINS
+54136	Earl
+54397	Julian
+54552	Julian
+54587	Julian
+54631	Queen
+54700	Viceroy
+54740	Julian
+54795	King Charles
+54821	Julian
+54933	Julian
+55003	-- O
+55005	Julian
+55036	Julian
+55048	Louis
+55101	Julian
+55148	Sedley
+55158	Harry Jermyn
+55198	Nelly
+55212	Cynthia
+55591	Julian
+55605	Lady Cynthia
+55638	Julian
+55712	Peveril
+55751	Julian
+55816	Julian
+55849	Isaac Walton
+56354	Julian Peveril
+56768	Julian Peveril
+56821	William Christian
+56830	Waterson
+56837	Rushin
+56839	William Dhône
+56924	William Dhône
+56956	Master Peveril
+56998	Deborah
+57002	Peveril
+57029	Alice
+57041	Julian
+57053	Deborah
+57101	Debbitch
+57266	Deborah
+57314	Julian
+57420	Julian Peveril
+57425	Dame Christian
+57445	Alice
+57465	Deborah
+57472	Julian
+57522	Alice
+57561	Dame Deborah
+57588	Alice
+57603	Deborah
+57652	Julian Peveril
+57727	Deborah
+57731	Julian
+57744	Alice Bridgenorth
+57812	Julian Peveril
+57823	Deborah
+57859	Peveril
+57889	Alice Bridgenorth
+57975	Alice
+58005	Master Julian
+58023	Alice
+58062	Deborah
+58133	Deborah Debbitch
+58208	Debbitch
+58233	Julian Peveril
+58268	Alice
+58305	Julian
+58332	Master Julian
+58337	Dame Deborah
+58444	Deborah
+58661	Geoffrey
+58694	Alice
+58782	Dame Deborah
+58857	Dame Debbitch
+58933	Julian Peveril
+58949	Deborah
+59194	Julian Peveril
+59236	Dame Debbitch
+59275	Alice Bridgenorth
+59323	Martindale Castle
+59332	Geoffrey
+59345	Lance Outram
+59366	Julian
+59377	Deborah
+59437	Julian
+59449	Deborah
+59493	Bridgenorth
+59517	Lady Peveril
+59532	Dame Deborah
+59592	Alice
+59606	Bridgenorth
+59661	Bridgenorth
+59688	Dame Deborah
+59712	Alice
+59719	Kirk-Truagh
+59842	Deborah
+59902	Alice
+59957	Alice
+59964	Dame Deborah
+59991	Monsieur De
+59993	Pigal
+60052	Deborah
+60118	Bridgenorth
+60137	Deborah
+60151	Sellenger
+60157	Alice
+60277	Christian
+60292	Dame Deborah
+60314	Bridgenorth
+60323	Alice
+60360	Dame Deborah
+60387	Christian
+60441	Dame Debbitch
+60444	Alice
+60478	Julian
+60494	Dame Deborah
+60532	Dame Deborah
+60589	Bridgenorth
+60619	Dame Debbitch
+60626	Julian
+60753	Julian
+60759	Alice
+60784	Dame Deborah
+60786	Debbitch
+60803	Julian
+60806	Bridgenorth
+60847	Bridgenorth
+60884	Dame Deborah
+60922	Alice
+61004	Deborah
+61092	Julian
+61103	Alice
+61162	Martindale
+61164	Moultrassie
+61206	Geoffrey
+61257	Deborah Debbitch
+61274	Lance Outram
+61346	Deborah
+61364	Alice
+61366	Julian
+61404	Julian
+61471	Deborah
+61500	Julian
+61518	Deborah
+61594	Deborah
+61635	Bridgenorth
+61647	Deborah
+61661	Julian
+61683	Peveril
+61695	Julian
+61701	Earl
+61741	Alice
+61813	Alice
+61858	Alice
+61964	Julian
+62026	Alice
+62033	Julian
+62117	Alice
+62265	Alice
+62294	Julian
+62344	Peveril
+62453	Julian
+62470	Julian
+62581	Julian
+62585	Alice
+62680	Peveril
+62742	Alice
+62777	Julian
+62784	Alice
+62817	Alice
+62846	Julian
+62895	Julian
+62948	Alice
+62997	Alice
+63001	Julian
+63058	Alice
+63112	Julian
+63197	Alice
+63213	Julian
+63220	Julian
+63299	Knight
+63374	Geoffrey
+63386	Dame Margaret
+63414	Julian
+63442	Black Hastings
+63459	Moultrassie
+63473	Julian
+63515	Geoffrey
+63549	Gill
+63593	Julian
+63618	Alice
+63692	Peveril
+63713	Bridgenorth
+63726	Julian
+63745	Lady Peveril
+63790	Geoffrey
+63826	Julian
+63853	Julian
+63880	Peveril
+63903	Alice
+63934	Alice Bridgenorth
+63975	Lady Peveril
+63988	Bridgenorth
+63991	Julian
+64024	Alice
+64064	Debbitch
+64120	Deborah
+64135	Julian
+64163	Julian
+64223	Alice
+64229	Deborah
+64325	Alice Bridgenorth
+64378	Julian
+64475	Alice Bridgenorth
+64578	Alice
+64642	Julian
+64661	Alice
+64723	Alice
+64898	Julian
+64924	Alice
+64962	Alice
+65107	Julian
+65117	Alice
+65196	Alice
+65245	Julian
+65276	Julian
+65280	Alice
+65396	Deborah
+65459	Peveril
+65575	Deborah
+65642	Julian
+65646	Alice Bridgenorth
+65688	Deborah
+65773	Deborah
+65777	Julian
+65784	Alice
+65800	Alice
+65849	Alice
+65938	Julian
+65942	Alice
+65969	Julian
+65999	Julian
+66006	Alice
+66052	Alice
+66067	Julian
+66099	Julian
+66153	Alice Bridgenorth
+66157	Julian Peveril
+66166	Julian
+66212	Julian
+66304	Alice
+66308	Julian
+66358	Alice
+66407	Bridgenorth
+66471	Alice
+66495	Alice
+66587	Peveril
+66640	Major Bridgenorth
+66687	Alice
+66771	Julian
+66845	Ralph Bridgenorth
+66891	Julian Peveril
+66905	Alice
+66939	Alice
+66943	Bridgenorth
+66977	Alice
+66989	Julian
+67068	Alice
+67072	Bridgenorth
+67151	Alice
+67170	Julian
+67197	Bridgenorth
+67240	Julian
+67341	Alice
+67357	Julian
+67409	Bridgenorth
+67472	Julian
+67479	Bridgenorth
+67533	Bridgenorth
+67575	Bridgenorth
+67593	Julian
+67634	Bridgenorth
+67678	Peveril
+67712	Alice Bridgenorth
+67828	Julian
+67966	Julian
+68030	Bridgenorth
+68186	Peveril
+68213	Bridgenorth
+68306	Julian
+68634	William
+68661	Julian Peveril
+68671	Bridgenorth
+68905	Geoffrey Peveril
+68944	Julian
+68990	Julian
+69253	Julian
+69344	Bridgenorth
+69457	Charles
+69495	Peveril
+69540	Bridgenorth
+69587	Julian
+69639	Baal
+69745	Peveril
+69804	Bridgenorth
+69879	Margaret Peveril
+69996	Julian Peveril
+70027	Alice Bridgenorth
+70087	Deborah Debbitch
+70122	Major Bridgenorth
+70161	Bridgenorth
+70188	Deborah
+70239	Bridgenorth
+70245	Deborah
+70322	Alice
+70491	Deborah
+70656	Martindale
+70678	Bridgenorth
+70735	Deborah
+70789	Bridgenorth
+70849	Julian Peveril
+71162	Bridgenorth
+71252	Julian
+71272	Bridgenorth
+71287	Huguenots
+71311	Nantz
+71409	Oliver
+71467	Peveril
+71474	Oliver
+71493	Bridgenorth
+71701	Peveril
+71722	Deborah
+71791	Peveril
+71835	Julian Peveril
+71841	Alice Bridgenorth
+71889	Dame Deborah
+71921	Alice
+71946	Dame Debbitch
+72107	Bridgenorth
+72148	Deborah
+72160	Julian
+72173	Bridgenorth
+72440	Peveril
+72460	Bridgenorth
+72529	Julian
+72562	Julian
+72585	Bridgenorth
+72633	Bridgenorth
+72712	Peveril
+72745	Bridgenorth
+72757	Julian
+72948	Oliver
+72952	Milton
+72986	Peveril
+73014	Bridgenorth
+73070	Julian
+73111	Bridgenorth
+73263	Philip
+73522	Nehemia Solsgrace
+73683	Adrian Hanson
+74692	Bridgenorth
+74781	Julian
+74810	Bridgenorth
+74918	Julian
+74956	Bridgenorth
+75034	Julian Peveril
+75045	Bridgenorth
+75134	Richard Whalley
+75145	Peveril
+75159	Bridgenorth
+75189	Charles Stewart
+75216	Julian
+75272	Bridgenorth
+75290	Julian
+75331	Bridgenorth
+75344	Stewart
+75424	Richard Whalley
+75566	Julian
+75602	Julian
+75611	Alice
+75663	Julian
+75714	Bridgenorth
+75743	Geoffrey Peveril
+75774	Bridgenorth
+75796	Julian
+75836	Alice
+75840	Julian
+75906	Julian
+76007	Julian
+76115	Julian
+76119	Alice
+76146	Bridgenorth
+76170	Alice
+76203	Bridgenorth
+76340	Laban
+76415	Peveril
+76433	Deborah
+76517	Julian
+76555	Rushin
+76654	Holm-Peel
+76685	Peveril
+76812	Holm-Peel
+76822	Julian
+77004	St. Patrick
+77104	Holm-Peel
+77217	Holm-Peel
+77386	Charles II
+77522	Richard
+77555	Eleanor
+77563	Duke
+77643	Holm-Peel
+77675	Julian Peveril
+77706	Julian
+77742	Julian
+77854	Julian
+77940	Julian
+77996	Earl
+78009	Nowel
+78054	Julian
+78065	Greenhalgh
+78106	Dryden
+78108	Lee
+78175	Peveril
+78234	Waller
+78239	Denham
+78350	Lady Derby
+78357	Fenella
+78446	Peveril
+78457	Julian
+78488	Julian
+78578	Julian
+78623	Philip
+78702	Julian
+78716	King of
+78718	Man
+78734	Griffiths
+78795	Philip
+78928	Earl Philip
+79012	Peveril
+79015	Philip
+79027	Julian
+79055	Bishop
+79123	Waldron
+79225	-- WALDRON
+79276	Peggy of
+79278	Ramsey
+79308	Peveril
+79474	Signor Furabosco
+79550	Gibbon
+79639	Bolton
+79680	Peveril
+79692	Julian
+79750	Philip
+80141	Julian
+80352	Master Peveril
+80393	Peveril
+80509	Peveril
+80592	Oates
+80765	Peveril
+80912	Peveril
+81059	Julian
+81113	Kirk Truagh
+81131	Edward Christian
+81166	Peveril
+81227	Edward Christian
+81327	Dempster Christian
+81394	Bridgenorth
+81406	Peveril
+81600	Peveril
+81621	Aldrick
+81677	Dempster Christian
+81680	Bridgenorth
+81720	Ramsey
+81820	Peveril
+81876	Edward Christian
+81879	Robert
+81883	Ralph Bridgenorth
+81947	Peveril
+81954	Alice
+81983	William Christian
+82010	King Charles
+82090	Peveril
+82301	Julian Peveril
+82304	Julian
+82359	Julian
+82427	Earl
+82479	Alice
+82513	Goddard Crovan
+82539	Julian
+82678	Peveril
+82787	Julian
+82884	Richards
+82917	Peveril
+83067	Peveril
+83137	Oswald
+83248	Peveril
+83376	Fenella
+83528	Fenella
+83544	Shelley
+83608	Lady Derby
+83678	Fenella
+84052	Fenella
+84131	Derby
+84217	Fenella
+84260	Fenella
+84339	Fenella
+84489	Julian
+84515	Julian
+84553	Fenella
+84670	Julian
+84690	Fenella
+84716	Peveril
+84769	Julian
+84785	Peveril
+84807	Fenella
+84837	Julian
+84939	Julian Peveril
+85140	Julian
+85266	Julian
+85318	Fenella
+85402	Julian
+85458	Julian
+85466	Goddard Crovan
+85519	Alice Bridgenorth
+85535	Fenella
+85572	Julian
+85638	Alice
+85689	Countess
+85739	Alice
+85793	Peveril
+85802	Fenella
+85920	Peveril
+86032	Julian
+86138	Julian
+86234	Alice
+86472	Goddard Crovan
+86475	Julian
+86549	Alice
+86586	Julian Peveril
+86592	Alice Bridgenorth
+86596	Alice
+86628	Julian
+86683	Alice
+86693	Julian
+86730	Julian
+86740	Julian
+86771	Julian Peveril
+86812	Alice
+86894	Alice Bridgenorth
+86979	Peveril
+86995	Julian
+87066	Deborah
+87081	Alice
+87085	Peveril
+87109	Julian
+87176	Peveril
+87184	Alice
+87214	Alice
+87281	Alice
+87285	Peveril
+87372	Alice
+87457	Alice
+87461	Peveril
+87541	Alice
+87590	Peveril
+87613	Alice
+87651	Peveril
+87660	Alice
+87715	Julian
+87789	Julian
+87819	Alice
+87896	Julian
+87900	Alice
+88164	Peveril
+88177	Alice
+88277	Alice
+88347	Alice
+88474	Alice
+88526	Alice
+88628	Peveril
+88672	Alice
+88751	Alice
+88762	Julian
+88772	Julian
+88822	Alice
+88826	Julian
+88952	Alice
+89029	Alice
+89075	Julian
+89092	Alice
+89096	Peveril
+89200	Alice
+89269	Julian
+89310	Julian
+89381	Alice
+89438	Alice Bridgenorth
+89452	Alice
+89500	Julian
+89507	Alice
+89674	Julian
+89760	Alice
+89764	Julian
+89809	Julian
+89813	Alice Bridgenorth
+90037	Alice
+90097	Bridgenorth
+90162	Alice
+90273	Alice
+90309	Major Bridgenorth
+90394	Julian Peveril
+90432	Bridgenorth
+90531	Bridgenorth
+90535	Julian
+90583	Bridgenorth
+90623	Goddard Crovan
+90709	Julian
+90750	Bridgenorth
+90768	Alice
+90774	Peveril
+90782	Bridgenorth
+90803	Alice
+90858	Julian
+90947	Bridgenorth
+90980	Alice
+90984	Julian
+91065	Master Peveril
+91094	Peveril
+91104	Bridgenorth
+91141	Bridgenorth
+91268	Julian
+91285	Bridgenorth
+91380	Alice Bridgenorth
+91467	Julian
+91476	Alice
+91593	Bridgenorth
+91623	Bridgenorth
+91724	Peveril
+91734	Bridgenorth
+91821	Bridgenorth
+91968	Bridgenorth
+91972	Peveril
+92022	Bridgenorth
+92047	Peveril
+92194	Charles Stewart
+92266	Master Julian
+92372	Alice
+92397	Bridgenorth
+92453	Bridgenorth
+92457	Peveril
+92719	Peveril
+92729	Bridgenorth
+92810	Bridgenorth
+92850	Julian Peveril
+92895	Julian
+93066	Bridgenorth
+93115	Peveril
+93180	Bridgenorth
+93395	Julian Peveril
+93447	Bridgenorth
+93549	Peveril
+93561	Bridgenorth
+93662	Julian Peveril
+93676	Bridgenorth
+93683	Julian
+93739	Peveril
+93751	Bridgenorth
+93869	Peveril
+93911	Alice
+93948	Bridgenorth
+93984	Alice
+94056	Bridgenorth
+94254	Julian
+94313	Julian
+94346	Knight of
+94348	Dames
+94414	Arthur
+94416	Ramsey
+94433	Julian
+94518	Julian
+94539	Julian
+94623	Julian
+94740	Fenella
+94762	Morris
+94773	Julian
+94783	Morris
+94790	Julian
+94930	Earl
+95204	Peveril
+95246	Alice Bridgenorth
+95325	Bridgenorth
+95357	Alice
+95414	Bridgenorth
+95424	Alice
+95522	Bridgenorth
+95562	Peveril
+95668	Fenella
+95687	Peveril
+95903	Julian
+95975	Julian
+96013	Peveril
+96189	Julian
+96340	Julian
+96381	Julian
+96399	Peveril
+96517	Fenella
+96559	Julian
+96585	Fenella
+96653	Julian
+96707	Peveril
+96865	Peveril
+97032	Stanley
+97056	-- Nay
+97121	Peveril
+97147	Stanley
+97191	Stanley
+97347	Julian
+97606	Julian
+97710	Peveril
+97731	Charles
+97980	Julian
+98097	Peveril
+98127	Julian
+98189	Julian
+98330	Julian Peveril
+98434	Julian
+98651	Bolton
+98719	Peveril
+98849	Peveril
+98871	Julian
+98917	Julian
+99145	Peveril
+99219	Julian
+99361	Peveril
+99465	Julian
+99585	Peveril
+99812	Peveril
+99870	Julian
+99969	Alice Bridgenorth
+100038	Julian Peveril
+100080	Alice
+100109	Alice
+100303	Bridgenorth
+100390	Alice
+100506	Bridgenorth
+100545	Bridgenorth
+100640	Bridgenorth
+100668	Julian
+100686	Debbitch
+101034	Alice
+101090	Julian
+101146	Fenella
+101409	Julian
+101465	Fenella
+101551	Julian
+101651	Peveril
+101900	Peveril
+102003	Julian
+102160	Julian
+102250	Julian
+102291	Peveril
+102376	Fenella
+102433	Latham
+102455	Julian
+102478	Peveril
+102584	Peveril
+102594	Julian
+102704	Bridgenorth
+102950	Fenella
+103171	Fenella
+103181	Julian
+103278	James
+103298	Mauthe Dog
+103561	Fenella
+103565	Peveril
+103636	Peveril
+103831	Fenella
+103913	Julian
+103989	Fenella
+104035	Julian
+104143	Fenella
+104235	Fenella
+104258	Peveril
+104292	Fenella
+104481	Peveril
+104520	Peveril
+104545	Fenella
+104577	Peveril
+104626	Fenella
+104644	Fenella
+104651	Peveril
+104913	Alice Bridgenorth
+105003	Fenella
+105102	Julian
+105114	Fenella
+105183	Holm-Peel
+105203	Julian
+105324	Peveril
+105342	Fenella
+105579	Alice Bridgenorth
+105633	Julian Peveril
+105638	Julian Peveril
+105655	Alice
+105816	Peveril
+105873	Fenella
+105894	Alice Bridgenorth
+105926	Peveril
+105984	BEN JONSON
+105987	Peveril
+106017	Fenella
+106053	Peveril
+106080	Gott
+106141	Peveril
+106161	Meinheer
+106201	Peveril
+106228	Adrian Brackel
+106251	Adrian Brackel
+106255	Gott
+106269	Peveril
+106273	Fenella
+106285	Earl
+106368	Adrian Brackel
+106600	Venella
+106624	Julian
+106676	Adrian Brackel
+106715	Fenella
+106794	Adrian Brackel
+106825	Peveril
+106867	Fenella
+106993	Peveril
+107078	Peveril
+107126	Julian
+107541	Peveril
+107654	Joe Bridlesley
+107738	Bridlesley
+107755	Julian
+107813	Bridlesley
+108054	Peveril
+108227	Bridlesley
+108301	Julian
+108416	Peveril
+108434	Charles Topham
+108441	Black Rod
+108518	Charles Topham
+108546	Julian
+108600	Topham
+108623	Peveril
+108684	Bridlesley
+108735	Peveril
+108768	Topham
+108777	Geoffrey Peveril
+108808	Julian
+108828	Topham
+108882	Topham
+108895	Shortell
+108956	Dangerfield
+108960	Everett
+109037	Topham
+109221	Topham
+109225	Dangerfield
+109285	George
+109323	Festus
+109498	Bridlesley
+109596	Everett
+109608	Dangerfield
+109727	Peveril
+109791	Bridlesley
+109859	Topham
+109911	Julian
+109958	Dishley
+110048	Peveril
+110113	Grimalkin
+110131	John Whitecraft
+110196	Julian
+110230	Julian
+110298	Peveril
+110405	Julian
+110565	Julian
+110690	Julian
+110722	Julian
+110771	Peveril
+111209	John Bigstaff
+111230	Julian
+111473	Julian
+111515	Peveril
+111630	Alice
+111632	Alice
+111642	Julian
+111647	Alice
+111714	Dame Whitecraft
+111871	Peveril
+111996	Peveril
+112002	Chaucer
+112060	Cowley
+112062	Waller
+112106	Cowley
+112254	Peveril
+112365	Julian
+112384	Caius
+112420	Julian
+112589	Peveril
+112856	Julian
+112895	Gaffer Whitecraft
+112933	Julian
+112994	Peveril
+113002	Julian
+113193	Julian
+113345	John Whitecraft
+113357	Peveril
+113497	John Whitecraft
+113597	Titus Oates
+113646	Doddrum
+113655	Doddrum
+113787	Peveril
+113871	Peveril
+113939	Dame Whitecraft
+114012	Peveril
+114104	John Whitecraft
+114129	Peveril
+114170	Julian
+114362	Peveril
+114392	Julian
+114472	Peveril
+114502	Peveril
+114579	Peveril
+114615	Julian
+114670	Julian
+114736	Julian
+114971	Bridgenorth
+115047	Julian
+115133	Peveril
+115189	Peveril
+115555	Peveril
+115628	Master Ganlesse
+115695	Anthony
+115756	Peveril
+115781	Ganlesse
+115840	Peveril
+115934	Peveril
+115978	Barbara
+116003	Worster
+116040	Betty
+116063	Peveril
+116135	Ganlesse
+116153	Simon Canter
+116315	Simon Canter
+116351	Namptwich
+116357	Simon
+116512	Peveril
+116740	Peveril
+116846	Simon Canter
+116851	Richard Ganlesse
+116888	Julian Peveril
+116916	Peveril
+116940	Oates
+116942	Bedloe
+116963	Janeway
+116965	Newman
+116967	Simmons
+117106	Peveril
+117267	Julian Peveril
+117386	Peveril
+117427	Peveril
+117513	Peveril
+117714	Peveril
+117762	Topham
+117785	Peveril
+117908	Julian
+118028	Julian Peveril
+118081	Peveril
+118091	Popery
+118180	Julian
+118404	Julian
+118436	Julian
+118474	Edmondsbury Godfrey
+118525	Ganlesse
+118623	Diccon
+118644	Ganlesse
+118660	Robin
+118706	Ganlesse
+118748	Diccon Ganlesse
+118763	Ganlesse
+118788	Chaubert
+118850	Peveril
+118875	Ganlesse
+118980	Peveril
+119000	Ganlesse
+119079	Will Smith
+119130	Peveril
+119160	Smith
+119180	Chaubert
+119202	Ganlesse
+119268	Ganlesse
+119340	Ganlesse
+119372	Ganlesse
+119380	Peveril
+119424	Peveril
+119452	Smith
+119522	Peveril
+119590	Smith
+119601	Dick
+119613	Anne Page
+119672	Smith
+119683	Tom Beacon
+119686	Tom
+119690	Tom
+119768	Ganlesse
+119814	Smith
+119854	Chaubert
+119906	Betterton
+119913	Chaubert
+119943	Julian
+120111	Smith
+120172	Chaubert
+120278	Ganlesse
+120301	Julian
+120371	Smith
+120459	Julian
+120466	Smith
+120504	Cutlar MacCulloch
+120515	Peveril
+120532	Ganlesse
+120546	Smith
+120615	Dick Ganlesse
+120664	Vin de
+120666	Cahors
+120674	Tom Beacon
+120697	Ganlesse
+120714	Smith
+120747	Ganlesse
+120775	Smith
+120810	Peveril
+120830	Smith
+120854	Peveril
+120880	Sharp
+120963	Peveril
+120989	Will Smith
+121000	Ganlesse
+121043	Smith
+121059	Ganlesse
+121165	Ganlesse
+121169	Smith
+121196	Ganlesse
+121259	Smith
+121289	Ganlesse
+121345	Smith
+121401	Richard Ganlesse
+121461	Smith
+121522	Ganlesse
+121687	Julian
+121812	Ganlesse
+121814	Smith
+121823	Ganlesse
+121856	Edmondsbury Godfrey
+121864	Coleman
+121884	Will Smith
+121931	Godfrey
+122098	Julian
+122253	Smith
+122310	Oates
+122327	Ganlesse
+122389	Ganlesse
+122430	Smith
+122502	Dun
+122516	Gregory Brunden
+122533	Charles I.
+122552	Julian
+122636	XXIII The
+122638	Gordon
+122673	Julian
+122732	Julian
+123089	Julian
+123338	Peveril
+123393	Peveril
+123490	Martindale
+123539	Peveril
+123565	Ganlesse
+123595	Julian
+123726	Ganlesse
+123754	Julian Peveril
+123838	Julian
+123909	Julian
+123982	Ganlesse
+124041	Peveril
+124105	Julian
+124147	Julian
+124201	Ganlesse
+124223	Peveril
+124241	Julian
+124347	Julian
+124451	Peveril
+124609	Martindale
+124650	Peveril
+124711	Geoffrey
+124771	Geoffrey
+124817	Geoffrey
+124859	Julian
+125005	Geoffrey
+125051	Peveril
+125222	Roger Raine
+125370	Geoffrey
+125398	Cromwell
+125410	Julian
+125526	Roger Raine
+125557	Dame Raine
+125562	Julian Peveril
+125583	Julian
+125620	Matthew Chamberlain
+125634	Julian
+125670	Matt Chamberlain
+125712	-- Chamberlain
+125715	Matthew Chamberlain
+125721	Matt
+125724	Matt Chamberlain
+125741	Peveril
+125777	Dame Raine
+125788	Roger
+125843	Matt Chamberlain
+125848	Matt
+125884	Matthew
+125916	Matthew
+125928	Peveril
+125944	Matt Chamberlain
+125950	Raine
+125962	Julian
+126006	Chamberlain
+126054	Dame Raine
+126063	Matt
+126154	Peveril
+126163	Geoffrey
+126216	Matt Chamberlain
+126290	Peveril
+126322	Matthew
+126328	Peveril
+126366	Peveril
+126489	Julian
+126504	Julian
+126538	Roger Raine
+126554	Matt Chamberlain
+126574	Julian
+126612	Geoffrey
+126620	Roger Raine
+126630	Peveril
+126683	Oliver
+126689	Roger Raine
+126710	Matt
+126732	Bridgenorth
+126774	Roger Raine
+126805	Matthew
+126875	Roger
+126899	Bett
+126912	Dobbin
+126964	Dobbin
+126978	Peveril
+127013	Matthew Chamberlain
+127049	Julian
+127059	Dobbin
+127091	Julian
+127111	Dobbin
+127142	Dobbin
+127213	Peveril
+127325	Julian
+127504	Geoffrey
+127538	Julian
+127629	Julian
+127660	Geoffrey
+127685	Julian
+127768	Geoffrey
+127778	Geoffrey
+127837	Lady Peveril
+127882	Julian
+127935	Julian
+127970	Peveril
+128009	Julian
+128043	Julian
+128048	Geoffrey
+128103	Geoffrey
+128114	Bridgenorth
+128151	Julian
+128207	Geoffrey
+128238	Geoffrey
+128242	Major Bridgenorth
+128512	Geoffrey
+128516	Bridgenorth
+128614	Noll
+128690	Lady Peveril
+128703	Master Bridgenorth
+128724	Geoffrey
+128794	-- Julian
+128841	Julian
+129039	Peveril
+129150	Vander Huys
+129158	Don John
+129181	Geoffrey
+129218	Everett
+129267	Geoffrey
+129309	Topham
+129347	Julian
+129476	Dangerfield
+129483	Julian
+129576	Dangerfield
+129618	Topham
+129643	Topham
+129673	Everett
+129686	Omer
+129704	Everett
+129711	Topham
+129741	Master Topham
+129748	Dangerfield
+129769	Bridgenorth
+129833	Bridgenorth
+129904	Everett
+129912	Dangerfield
+129968	Topham
+129978	Edmondsbury Godfrey
+130074	Lady Peveril
+130220	Lady Peveril
+130289	Bridgenorth
+130308	Madam
+130413	Master Topham
+130424	Julian
+130485	Topham
+130516	Master Topham
+130521	Bridgenorth
+130547	Geoffrey
+130549	Lady Peveril
+130583	Topham
+130645	Topham
+130686	Topham
+130707	Bridgenorth
+130742	Geoffrey
+130786	Topham
+130788	Julian
+130826	Julian
+130898	Julian
+130942	Geoffrey
+131043	Everett
+131045	Dangerfield
+131077	Dangerfield
+131095	Everett
+131126	Geoffrey
+131204	Master Bridgenorth
+131242	Geoffrey
+131246	Bridgenorth
+131282	Julian
+131310	Julian
+131470	Bridgenorth
+131474	Julian
+131517	Bridgenorth
+131519	Julian
+131548	Peveril
+131611	Bridgenorth
+131657	Bridgenorth
+131668	Julian
+131727	Bridgenorth
+131757	Bridgenorth
+131801	Julian
+132060	Julian
+132107	Bridgenorth
+132257	Peveril
+132298	Bridgenorth
+132410	Peveril
+132481	Alice
+132592	Alice Bridgenorth
+132617	Martindale
+132619	Julian
+132746	Bridgenorth
+132841	Julian
+132843	Alice
+132886	Alice
+132897	Julian
+132914	Alice
+133027	Charles the
+133029	Second
+133051	Julian
+133364	Bridgenorth
+133473	Julian
+133507	-- Peveril
+133534	Alice
+133637	Alice
+133663	Bridgenorth
+133683	Dame Deborah
+133832	Peveril
+133846	Alice
+133885	Alice
+133911	Debbitch
+133989	Bridgenorth
+134021	Peveril
+134093	Julian
+134112	Julian
+134344	Julian
+134462	Julian
+134506	Julian
+134601	Julian
+134632	Smith
+134635	Ganlesse
+134728	Julian
+134783	Julian
+134867	Ganlesse
+134870	Julian
+134954	Julian
+135020	Bridgenorth
+135068	Alice Bridgenorth
+135087	Alice
+135225	Cromwell
+135268	Julian
+135281	Bridgenorth
+135314	Jeremiah
+135389	Baal
+135462	Julian
+135486	Bridgenorth
+135518	Julian
+135557	Peveril
+135657	Edmondsbury Godfrey
+135700	Julian
+135974	Alice
+136005	Bridgenorth
+136022	Peveril
+136083	Julian
+136137	Bridgenorth
+136170	Bridgenorth
+136180	Julian
+136215	Bridgenorth
+136235	Julian
+136244	Julian
+136340	Bridgenorth
+136439	Julian
+136492	Bridgenorth
+136573	Everett
+136575	Dangerfield
+136617	Peveril
+136678	Bridgenorth
+136770	Julian Peveril
+136903	Simon Simonson
+136925	Bridgenorth
+136929	Julian
+137013	Bridgenorth
+137132	Peveril
+137188	Bridgenorth
+137356	Bridgenorth
+137370	Julian
+137408	Peveril
+137513	Julian Peveril
+137577	Deborah Debbitch
+137629	Dame Ellesmere
+137658	Lance Outram
+137678	Geoffrey
+137687	Dame Ellesmere
+137691	Deborah
+137721	Deborah
+137741	Dame Ellesmere
+137785	Debbitch
+137829	Dame Ellesmere
+137894	Lance
+137939	Deborah
+137964	Dummerar
+138046	Lance Outram
+138088	Deborah
+138136	Deborah
+138174	Bridgenorth
+138196	Geoffrey
+138202	Bridgenorth
+138235	Geoffrey
+138327	Dame Deborah
+138333	Lady Peveril
+138405	Julian Peveril
+138450	Bridgenorth
+138459	Geoffrey Peveril
+138466	Martindale
+138493	Deborah
+138524	Dame Ellesmere
+138558	Deborah
+138626	Lance Outram
+138666	Outram
+138703	Deborah
+138714	Lance Outram
+138752	Major Bridgenorth
+138893	Dame Ellesmere
+138979	Deborah
+139095	Lance Outram
+139210	Outram
+139275	Bridgenorth
+139279	Master Julian
+139288	Moultrassie Hall
+139318	Lance
+139380	Whitaker
+139390	Marston Moor
+139393	Edge Hill
+139474	Geoffrey
+139489	Nell
+139779	Derbyshire Camilla
+139816	Lance
+139862	Deborah Debbitch
+139875	Deb
+139937	Dame Ellesmere
+140013	Geoffrey
+140089	Lance
+140141	Geoffrey
+140231	Geoffrey
+140267	Lance
+140303	Geoffrey
+140337	Ditchley
+140383	Gaffer Ditchley
+140416	Bridgenorth
+140449	Lance
+140457	Moultrassie Hall
+140497	Geoffrey
+140524	Lance
+140553	Geoffrey
+140560	Geoffrey
+140566	Ditchley
+140616	Lance
+140647	Gaffer Ditchley
+140656	Lance
+140670	Geoffrey
+140678	Bridgenorth
+140701	Geoffrey
+140776	Lance
+140820	Ditchley
+140843	Lance
+140878	Peveril
+140892	Rumps
+140908	Lance
+140961	Lance
+141054	Cisly Sellok
+141148	Geoffrey
+141247	Lance
+141341	Julian
+141360	Lance
+141451	Ditchley
+141492	Lance
+141556	Huzza
+141567	Bridgenorth
+141588	Lance
+141637	Peveril
+141674	Lance Outram
+141713	Ditchley
+141802	Lance Outram
+142009	Lance
+142107	Lance
+142119	Robin Round
+142123	Robin
+142353	Lance
+142670	Bridgenorth
+142753	Lance
+142922	Peveril
+142946	Bridgenorth
+142958	Bridgenorth
+143022	Julian
+143032	Ganlesse
+143122	Bridgenorth
+143266	Lance
+143367	Lance
+143437	Julian Peveril
+143483	Bridgenorth
+143636	Alice Bridgenorth
+143653	Julian
+143696	Alice
+143835	Julian
+143858	Bridgenorth
+143912	Lance
+143929	Joe Rimegap
+143975	Julian
+144001	Bridgenorth
+144023	Ditchley
+144080	Julian
+144185	Ditchley
+144187	Lance Outram
+144266	Bonadventure
+144274	Lance
+144317	Lance
+144328	Julian
+144389	Joe
+144639	Bridgenorth
+144650	Julian Peveril
+144706	Ralph Bridgenorth
+144729	Wilt
+144797	Ganlesse
+144866	Major Bridgenorth
+144891	Julian
+144944	Lance Outram
+144980	Bridgenorth
+144987	Lance
+145023	Bridgenorth
+145046	Bridgenorth
+145078	Peveril
+145083	Julian
+145122	Bridgenorth
+145229	Peveril
+145256	Bridgenorth
+145388	Julian
+145466	Bridgenorth
+145568	Peveril
+145599	Bridgenorth
+145649	Julian
+145705	Bridgenorth
+145741	Julian
+145758	Bridgenorth
+145769	Julian
+145828	Bridgenorth
+145862	Julian
+145983	Julian
+146026	Bridgenorth
+146082	Peveril
+146142	Alice
+146169	Lance
+146217	Julian
+146235	Dame Ellesmere
+146296	Lance
+146334	Bridgenorth
+146351	Deborah Debbitch
+146387	Geoffrey
+146438	Bridgenorth
+146455	Lance
+146486	Julian
+146516	Lance
+146554	Julian
+146560	Julian
+146582	Lance
+146650	Bridgenorth
+146668	Julian
+146716	Dame Debbitch
+146765	Deborah
+146821	Julian
+146837	Lance
+146869	Lance
+146922	Deb
+146935	Lance
+146939	Julian
+146962	Lance
+147054	Lance
+147058	Julian
+147113	Lance
+147123	Martindale
+147147	Dame Debbitch
+147160	Naunt
+147175	Dame Ellesmere
+147192	Ralph
+147224	Julian
+147236	Lance
+147320	Deborah Debbitch
+147338	Lance
+147354	Cis Sellok
+147361	Deb
+147367	Lance
+147412	Bridgenorth
+147414	Julian
+147427	Bridgenorth
+147488	Alice
+147544	Alice
+147579	Lance
+147602	Julian
+147642	Deborah
+147663	Lance
+147674	Dame Debbitch
+147725	Julian
+147730	Ralph
+147750	Julian
+147785	Julian
+147863	Julian
+147936	Julian
+147962	Sieur Chaubert
+147977	Smith
+148098	Julian
+148186	Lance
+148220	Peveril
+148228	Lance
+148266	Julian
+148565	Julian
+148578	Lance Outram
+148666	Chaubert
+148677	Julian
+148701	Chaubert
+148710	Ganlesse
+148712	Smith
+148988	Tom
+149157	Chaubert
+149238	George Wakeman
+149249	Scroggs
+149271	Wakeman
+149309	Rowley
+149428	Charles II
+149490	Tom
+149718	-- Nay
+149743	Grace
+149756	Smith
+149809	Charles II
+149855	Anthony
+149869	Anthony Ashley
+149871	Cooper
+149911	Julian
+149930	Ned
+150000	Ned
+150121	Smith
+150208	Tom
+150302	Anthony
+150323	Chiffinch
+150374	Ned
+150378	Ned
+150432	Chiffinch
+150514	Nelly
+150608	Chiffinch
+150779	Chiffie
+150798	Rowley
+150836	Venus
+150849	Chiffinch
+151026	Alice Bridgenorth
+151030	Julian
+151050	Chiffinch
+151142	Belle Louise
+151144	de Querouaille
+151205	Anthony
+151235	Charles
+151292	Chiffinch
+151326	Peter
+151388	Chiffinch
+151409	Ned
+151496	Ned
+151543	Majesty of
+151545	Man
+151557	Ned
+151575	Cavalier
+151617	Anthony
+151665	Anthony
+151722	Chiffinch
+151821	Chaubert
+151874	Ned
+151923	Chiffinch
+151948	Furnival
+152003	Machiavel
+152005	Chiffinch
+152051	Chiffinch
+152091	Micher
+152102	Chiffinch
+152186	Chiffinch
+152234	Chiffie
+152265	Chiffinch
+152387	Chiffinch
+152422	-- Dawn
+152482	Rowley
+152510	Peveril
+152525	Chiffinch
+152531	Charles
+152569	Bridgenorth
+152641	Chiffinch
+152864	-- Lance
+152908	Peveril
+152963	Lance Outram
+153004	Lance
+153021	Peveril
+153066	Lance
+153129	Peveril
+153135	Outram
+153183	Julian
+153219	Lance
+153237	Saville
+153343	Saville
+153367	Jeremy
+153412	Jeremy
+153434	Jonathan
+153457	Jonathan
+153471	Jeremy
+153507	Jeremy
+153547	Jeremy
+153549	Jonathan
+153572	Saville
+153632	Chiffinch
+153699	Bacchus
+153719	Lance
+153767	Chiffinch
+153778	Saville
+153794	Lance
+153805	Chiffinch
+153835	Lance
+153857	Chiffinch
+154025	Tom Beacon
+154066	Tom
+154070	Chiffinch
+154094	Tom
+154131	Tom
+154143	Saville
+154205	Tom
+154248	Chiffinch
+154289	Lance
+154302	Saville
+154338	Tom
+154343	-- Tom
+154377	Tom Beacon
+154384	Lance
+154413	Chiffinch
+154421	Peveril
+154436	Tom Beacon
+154453	Chiffinch
+154458	Chaubert
+154528	Peveril
+154554	Chaubert
+154557	Lance Outram
+154585	Chiffinch
+154730	Chiffinch
+154766	Peveril
+154770	Chiffinch
+154789	Lance
+154813	Chiffinch
+154826	Lance
+154840	Julian
+154862	Chaubert
+154923	Lance
+154954	Chiffinch
+154969	Julian
+154988	Chiffinch
+155054	Peveril
+155125	Chiffinch
+155144	Peveril
+155194	Peveril
+155289	Peveril
+155317	Chiffinch
+155360	Julian
+155379	Julian
+155407	Chiffinch
+155451	Peveril
+155463	Chiffinch
+155513	Chiffinch
+155575	Julian
+155664	Machiavel
+155690	Lance
+155705	Lance
+155802	Lance
+155879	Chiffinch
+156069	-- DRYDEN
+156093	George Villiers
+156096	Duke
+156101	Dryden
+156130	Charles
+156403	Seagull
+157031	Duke
+157100	Jerningham
+157461	Jerningham
+157490	Clarence
+157527	Jerningham
+157566	Gatheral
+157622	Gatheral
+157684	Gatheral
+157693	Jerningham
+157905	Araminta
+157943	Jerningham
+158099	Jerningham
+158247	Grace
+158259	Jerningham
+158296	Araminta
+158355	Araminta
+158373	Duke
+158428	Dryden
+158522	Duke
+158604	Duke
+158608	Jerningham
+158641	Black Will
+158813	Duke
+158851	Julian Peveril
+158899	Duke
+158966	Jerningham
+159086	Duke
+159212	Jerningham
+159258	Jerningham
+159296	George
+159326	Duke
+159560	Chamberlain
+159570	Jerningham
+159592	Harry Bennet
+159627	Ned Christian
+159634	Jack Ketch
+159646	Jack Ketch
+159712	Christian
+159811	Oates
+159913	Black Tom
+159951	Mary
+159955	Thomas
+159994	Charles II
+160021	Duke
+160072	Christian
+160125	Charles
+160185	-- Christian
+160298	Duke
+160326	Gaul
+160354	-- Chiffinch
+160518	Christian
+160570	Christian
+160876	Chiffinch
+160900	Saville
+161019	Jerningham
+161058	Jerningham
+161077	Buckingham
+161227	Saville
+161318	Topham
+161322	Topham
+161351	Knight
+161399	Geoffrey Peveril
+161411	Julian
+161526	Christian
+161646	Chiffinch
+161820	Charles
+161822	-- Jerningham
+161877	Araminta
+161885	Jerningham
+161994	Buckingham
+162014	Bassanio
+162083	Ralph Bridgenorth
+162086	Moultrassie
+162138	Christian
+162229	Alice
+162268	Bridgenorth
+162306	Alice
+162317	Bridgenorth
+162426	Julian Peveril
+162437	Bridgenorth
+162535	Ralph Bridgenorth
+162558	Baal
+162573	Julian Peveril
+162646	Bridgenorth
+162673	Alice
+162761	Bridgenorth
+162828	Bridgenorth
+162882	Alice
+162909	Judith
+162911	Bethulia
+162921	Esther
+162961	Bridgenorth
+163181	Bridgenorth
+163281	Stanley
+163323	Christian
+163327	Bridgenorth
+163376	Christian
+163492	Bridgenorth
+163539	Ralph Bridgenorth
+163568	Geoffrey Peveril
+163573	Bridgenorth
+163620	Christian
+163629	Bridgenorth
+163678	Bridgenorth
+163715	Ammon
+163844	Bridgenorth
+163863	Bridgenorth
+164255	Edward Christian
+164329	Edward Christian
+164343	William Christian
+164386	William
+164401	Edward
+164575	Villiers
+164577	Duke of
+164579	Buckingham
+164616	Charles
+164653	Buckingham
+164693	Christian
+164879	Edward Christian
+164951	Christian
+165022	Edward Christian
+165374	Bridgenorth
+165412	Alice Bridgenorth
+165486	Bridgenorth
+165532	Christian
+165550	Julian Peveril
+165585	Dame Debbitch
+165615	Alice
+165692	Alice
+165756	Christian
+165764	Chiffinch
+165838	Alice
+165926	Davises
+165935	Alice Bridgenorth
+165953	Chiffinch
+165979	Chiffinch
+166006	Alice
+166036	Charles
+166250	Bridgenorth
+166414	Peveril
+166588	Topham
+166732	Chiffinch
+166896	Alice Bridgenorth
+166913	Christian
+166917	Julian Peveril
+166957	Alice
+167002	Peveril
+167009	Chiffinch
+167090	Julian
+167103	Julian
+167138	Topham
+167209	Julian
+167248	Chiffinch
+167279	Moultrassie
+167283	Alice
+167319	Bridgenorth
+167321	Christian
+167367	Bridgenorth
+167694	John Dryden
+167697	Charles
+167732	WOLOOT
+167769	Julian Peveril
+167897	Charles
+167914	Buckingham
+167925	Duke of
+167927	Ormond
+167964	Peveril
+167982	Ormond
+168017	Barstow
+168046	Martin Christal
+168056	Peveril
+168199	Savoy
+168228	John of
+168230	Gaunt
+168250	Charles II
+168366	Julian
+168373	Martin Christal
+168458	Fenella
+168466	Fenella
+168488	Julian
+168532	Julian
+168539	Fenella
+168608	Fenella
+168692	Fenella
+168717	Savoy
+168738	Rushin
+168753	Fenella
+168866	Fenella
+168871	Julian
+168971	Charles II.
+169057	Fenella
+169100	Julian
+169466	Julian Peveril
+169480	Charles Stewart
+169578	Fenella
+169642	Peveril
+169680	Fenella
+169810	Peveril
+169830	Fenella
+169866	Fenella
+169928	Fenella
+169958	Fenella
+170002	Fenella
+170073	Charles
+170131	Fenella
+170262	Nelly Gwyn
+170336	Fenella
+170380	Fenella
+170488	Fenella
+170547	Charles
+170619	Peveril
+170627	Fenella
+170652	Marquis
+170707	Julian
+170736	Majesty
+170755	Charles
+170803	Peveril
+170858	Empson
+170865	-- Empson
+170891	Peveril
+170948	Empson
+170972	Charles
+170994	Julian
+171002	Empson
+171046	Fenella
+171099	Rowley
+171188	Peveril
+171406	Peveril
+171515	Empson
+171517	Julian
+171727	Empson
+171780	Empson
+171829	Rowley
+171848	Empson
+171899	Empson
+171976	Empson
+171997	Julian
+172012	Empson
+172071	Empson
+172161	Empson
+172209	Empson
+172232	Clubfoot
+172285	Rowley
+172324	Rowley
+172354	Empson
+172391	Empson
+172431	Fleet-Ditch
+172437	Master Empson
+172510	Empson
+172559	Waller
+172587	Empson
+172695	Master Empson
+172763	Empson
+172810	Mendoza
+172870	Empson
+172946	Empson
+172989	Fenella
+172991	Peveril
+173083	Empson
+173207	Julian
+173285	Fenella
+173340	Fenella
+173469	Julian
+173486	Fenella
+173611	Earl
+173742	Alice Bridgenorth
+173766	Calvin
+173778	Julian Peveril
+173788	Alice Bridgenorth
+173831	Alice
+173865	Alice
+173893	Christian
+173958	Chiffinch
+174096	Mistress Chiffinch
+174101	Chiffinch
+174228	Chiffinch
+174256	Charles
+174340	Charles
+174366	Sultana
+174384	Chiffinch
+174432	Chiffinch
+174442	Edward Christian
+174500	Alice
+174635	Chiffinch
+174711	Chiffinch
+174784	Rowley
+174840	Rowley
+175090	Fenella
+175112	Chiffinch
+175133	Empson
+175163	Mab
+175193	Chiffinch
+175256	Nelly
+175269	Bajazet
+175302	Chiffinch
+175338	Chiffinch
+175380	Chiffinch
+175447	Chiffinch
+175470	Chiffinch
+175534	Alice
+175551	Duke of
+175553	Buckingham
+175579	Alice Bridgenorth
+175623	Chiffinch
+175659	Chiffinch
+175679	Charles
+175720	Alice
+175783	Julian
+175800	Alice
+175853	Alice
+175887	Peveril
+175958	Alice
+176033	Alice
+176036	Charles
+176091	Charles
+176154	Duke
+176414	Charles
+176545	George
+176611	Charles
+176715	Helen
+176771	Buckingham
+176789	Dermot O'Cleaver
+176835	Julian
+176868	Julian
+176900	Powis
+176946	Julian
+176967	Charles
+176974	Lady Derby
+177004	Le Jeune
+177023	Julian
+177081	-- Empson
+177111	Empson
+177148	Sirrah
+177195	Empson
+177215	Fenella
+177349	George
+177361	Ere Buckingham
+177369	Julian
+177470	Julian
+177546	Julian Peveril
+177561	Geoffrey Peveril
+177723	-- Buckingham
+177770	Godfrey
+177802	Geoffrey his
+177804	Majesty
+177810	Julian
+177822	Geoffrey
+177897	George
+177939	Catholics
+178085	Charles
+178138	Charles
+178180	Charles
+178271	Charles
+178330	Julian
+178358	Julian
+178365	Fenella
+178409	Fenella
+178419	Julian
+178551	Chiffinch
+178599	Buckingham
+178612	Charles
+178669	Julian
+178692	Alice Bridgenorth
+178815	Chiffinch
+178818	Alice
+178843	Alice
+178873	Charles
+178893	Alice
+178900	Julian
+178942	Alice
+178983	Julian
+179022	Chiffinch
+179068	Chiffinch
+179119	Alice
+179155	Mistress Chiffinch
+179184	Alice
+179219	Charles
+179336	Buckingham
+179402	Alice
+179420	Charles
+179444	Alice
+179598	Andrew Smith
+179622	Empson
+179774	Chiffinch
+179830	Alice
+179878	Chiffinch
+179919	Julian Peveril
+179988	Master Peveril
+180047	Julian
+180052	Alice
+180143	Peveril
+180152	Alice
+180180	Fenella
+180247	Charles
+180315	Fenella
+180337	Empson
+180367	Fenella
+180442	George
+180506	George
+180519	Charles
+180545	George
+180611	-- Chiffinch
+180648	Chiffinch
+180721	Chiffinch
+180780	Chiffie
+180829	Duke
+180867	Cocks
+180923	Julian Peveril
+180930	Alice Bridgenorth
+180939	Jame
+180959	Alice
+181021	Christian
+181091	Julian
+181248	-- Julian
+181298	Julian
+181342	Julian
+181361	Alice
+181465	Alice
+181492	Christian
+181524	Julian
+181558	Alice
+181563	Julian
+181613	Fenella
+181713	Peveril
+181735	Alice Bridgenorth
+181797	Alice
+181820	Peveril
+181845	Alice
+181849	Julian
+181875	Fenella
+181877	Julian
+181890	Fenella
+181955	Alice
+181971	Fenella
+182063	Julian
+182095	Lance
+182105	Geoffrey
+182135	Julian
+182174	Fenella
+182212	Alice
+182229	Fenella
+182245	Julian
+182433	Peveril
+182504	Peveril
+182599	Julian
+182676	Peveril
+182751	Tom
+182778	Laurence
+182839	Alice
+182845	Peveril
+182871	Fenella
+182895	Alice
+182923	Peveril
+183063	Julian
+183075	Alice
+183179	Peveril
+183202	Peveril
+183549	-- ``
+183551	Huzza
+183598	Julian
+183602	Alice Bridgenorth
+183755	Peveril
+183876	Jacobus
+183907	Peveril
+183967	Julian
+184055	Peveril
+184125	Peveril
+184172	Peveril
+184201	Peveril
+184291	Tom
+184323	Julian
+184367	Tom
+184392	Peveril
+184439	Jack
+184589	Julian
+184680	Edmondsbury Godfrey
+184998	Julian
+185174	Julian
+185556	Gwynnap
+185565	Meyrick
+185858	Lyttleton
+185997	Maulstatute
+186017	Peveril
+186228	Julian
+186278	Peveril
+186374	Peveril
+186455	Julian
+186481	Julian Peveril
+186510	Geoffrey Peveril
+186532	Julian
+186759	Julian
+186901	Julian
+186940	Lance Outram
+187174	Johnson
+187205	Julian
+187315	Julian
+187486	Julian
+187640	Peveril
+187750	Julian
+188372	Julian
+188583	Julian Peveril
+188841	Peveril
+189070	Julian
+189102	Geoffrey
+189107	Julian
+189123	Geoffrey
+189132	Geoffrey
+189160	Geoffrey
+189209	Julian
+189231	Geoffrey
+189273	Jem Clink
+189287	Julian
+189490	Peveril
+189586	Geoffrey
+189595	Geoffrey
+189618	Peveril
+189675	Geoffrey
+189695	Julian
+189748	Geoffrey
+189771	Geoffrey
+189827	Julian
+189922	Geoffrey
+189962	Peveril
+190092	Julian
+190196	Geoffrey
+190249	Peveril
+190260	Geoffrey
+190353	Geoffrey Hudson
+190357	Julian
+190382	Henrietta Maria
+190404	Charles I.
+190457	Geoffrey Peveril
+190499	Geoffrey
+190541	Geoffrey Hudson
+190565	Peveril
+190665	Julian
+190727	Geoffrey
+190735	Geoffrey
+190790	Peveril
+190839	Geoffreys
+190869	Geoffrey Peveril
+190895	Julian
+190997	Geoffrey
+191028	Jack Jenkins
+191053	Master Evans
+191065	Geoffrey
+191152	Julian
+191238	Peveril
+191302	Geoffrey Hudson
+191554	Geoffrey Hudson
+191829	Geoffrey Peveril
+191923	Julian
+191932	Geoffrey Hudson
+191961	Julian
+192108	Peveril
+192144	Hudson
+192183	Julian
+192198	Hudson
+192204	François
+192229	Julian
+192303	Prince Rupert
+192450	Robin
+192452	Cock Robin
+192486	Peveril
+192511	Hudson
+192532	Henrietta Maria
+192667	Duc de
+192669	la Tremouille
+192718	Peveril
+192783	Julian
+192817	Geoffrey Hudson
+192868	Julian
+192928	Henrietta Maria
+193013	Julian
+193053	Peveril
+193198	Julian
+193392	Julian
+193406	Hudson
+193523	Julian
+193532	Geoffrey Hudson
+193560	Nebuchadnezzar
+193701	Peveril
+193795	Bilboa
+193989	King
+193993	George
+194002	Oliver
+194226	Julian
+194738	Crofts
+194962	Peveril
+195217	Julian
+195447	Geoffrey Hudson
+195640	Peveril
+195729	Julian
+196008	Geoffrey Hudson
+196051	Peveril
+196098	Geoffrey
+196173	Peveril
+196215	Julian
+196285	Geoffrey
+196356	Julian
+196399	Peveril
+196510	Julian
+196564	Julian
+196690	Julian
+196797	Julian
+196855	Peveril
+196911	Bridget
+197002	Julian
+197025	Geoffrey Hudson
+197114	Julian
+197184	Bridget
+197239	Julian
+197356	Peveril
+197419	Hudson
+197430	Julian
+197587	Rembrandt
+197665	Peveril
+197776	Julian
+197955	Scuderi
+197963	Geoffrey Hudson
+198020	Cowley
+198055	Julian
+198227	Julian
+198304	Julian
+198479	Julian
+198490	Geoffrey Hudson
+198541	Julian
+198658	Julian
+198753	Julian
+198797	Julian
+198844	Julian
+198881	Julian
+198938	Julian
+198995	Julian
+199040	Hudson
+199084	Cockerel
+199392	David
+199502	Knight Corineus
+199511	Ascaparte
+199516	Bevis
+199521	Guy
+199536	Hoel
+199543	Arthur
+199547	Ryence
+199712	Geoffrey
+199721	Ryence
+199815	Julian
+199842	Hudson
+199926	Julian
+199989	Peveril
+200085	Julian Peveril
+200156	Julian
+200214	Julian
+200306	Julian
+200444	Julian
+200502	Julian
+200576	Peveril
+200635	Stafford
+200650	Coleman
+200697	Pickering
+200819	Julian
+200861	Scroggs
+200873	Julian
+200952	Julian
+200992	Alice Bridgenorth
+201137	Julian
+201197	Julian
+201217	Alice Bridgenorth
+201267	Julian
+201317	ALLAN RAMSAY
+201323	Julian Peveril
+201763	Geoffrey Hudson
+201805	Peveril
+201820	Hudson
+201862	Lingua Franca
+201884	Julian
+202079	Crofts
+202115	Peveril
+202143	Julian
+202152	Geoffrey Hudson
+202164	Signor
+202248	Julian
+202268	Peveril
+202450	Julian
+202538	A.B.
+202824	Peveril
+202904	Alice Bridgenorth
+203112	Julian
+203191	Julian
+203282	Peveril
+203391	Julian
+203528	Julian
+203799	Alice Bridgenorth
+203919	Julian
+203967	Julian
+203987	Geoffrey Hudson
+204045	Julian
+204208	Julian Peveril
+204248	Geoffrey Hudson
+204294	Julian
+204333	Peveril
+204344	Julian
+204372	Geoffrey
+204455	Julian
+204527	Boa
+204551	Julian
+204711	Julian
+204812	Peveril
+204972	Julian
+205012	Julian
+205088	Julian
+205188	Julian
+205322	Julian
+205526	Nigel
+205681	Peveril
+205728	Geoffrey Peveril
+205785	Peveril
+205928	Julian
+206029	Julian
+206182	Coleby
+206215	Peveril
+206398	Charles
+206455	Duke of
+206457	Buckingham
+206552	George Villiers
+206555	Duke
+207044	Julian
+207073	Jerningham
+207078	Nick
+207117	Jerningham
+207207	Duke
+207227	Empson
+207230	Chiffinch
+207294	Empson
+207326	Empson
+207424	Jerningham
+207606	Jenkins
+207823	Jerningham
+207874	Jerningham
+208193	Jerningham
+208359	Jerningham
+208487	Jerningham
+208608	Niobe
+208634	Jerningham
+208700	Chiffinch
+208713	Saville
+208718	Saville
+208767	Phillis
+208796	Empson
+208882	Jerningham
+208887	Jerningham
+208964	Jerningham
+209071	John Coventry
+209152	Jerningham
+209198	Jerningham
+209470	Earl
+209549	Jerningham
+209583	Jerningham
+209678	Jacob Doublefee
+209690	Jerningham
+209818	Jerningham
+209941	Buckingham
+209983	Jerningham
+209989	Christian
+210197	Buckingham
+210244	Milton
+210260	Christian
+210338	Christian
+210471	Christian
+210486	Chiffinch
+210502	Chiffinch
+210600	Christian
+210660	Chiffinch
+210788	Chiffinch
+210825	Duke
+210930	Duke
+211076	Boccaccio
+211083	Garba
+211149	Buckingham
+211346	Christian
+211548	Duke
+211601	Buckingham
+211670	Chiffinch
+211870	Duke
+212026	Julian
+212031	Geoffrey
+212036	Peveril
+212043	Peveril of
+212045	the Devil
+212157	Empson
+212213	Rowley
+212240	Samson
+212343	Chiffinch
+212383	Christian
+212531	Duke
+212552	Jerningham
+212632	Jerningham
+212752	Christian
+213222	Ned Christian
+213564	Duke
+213602	Lucifer
+214056	Duke
+214060	Jerningham
+214333	Jerningham
+214551	Jerningham
+214783	Jerningham
+214863	Jerningham
+214931	Wilderhead
+214956	Drowndland
+214983	Laird
+214985	Lackpelf
+215031	Jerningham
+215180	Jerningham
+215276	Jerningham
+215435	Alice Bridgenorth
+215527	Chiffinch
+215692	Phillis
+215804	Charles
+215854	Cliefden
+216045	Earl
+216096	Charles
+216098	Buckingham
+216283	Dowlas
+216302	Lachrymæ
+216414	Dame Dowlas
+216537	Dame Dowlas
+216543	Duke
+216645	Madam Dowlas
+216725	Phillis
+217021	Alice Bridgenorth
+217256	Alice Bridgenorth
+217766	Alice
+218018	Alice
+218163	Chiffinch
+218248	Alice
+218291	Chiffinch
+218535	Duke
+218557	Buckingham
+218609	Alice Bridgenorth
+218734	Cleopatra
+218948	Duke
+219037	Jerningham
+219053	Jerningham
+219076	Duke
+219310	Zarah
+219377	Zarah
+219467	Zarah
+219584	Zarah
+220019	Zarah
+220393	Zarah
+221118	Buckingham
+221217	Elizabeth
+221400	Duke
+221743	Jerningham
+221840	Duke
+221906	Alice Bridgenorth
+221914	Chiffinch
+222037	Duke
+222103	Chiffinch
+222187	Chiffinch
+222244	Kate
+222442	Nelly
+222452	Kate
+222499	Evelyn
+222508	Nell Gwyn
+222527	Charles II
+222533	James Park
+222559	Nelly
+222611	EVELYN
+222640	Chiffinch
+222648	Tom Chiffinch
+222706	Kate
+222710	Chiffinch
+222800	Rowley
+222827	Chiffinch
+222877	Kate
+222883	Chiffinch
+222959	Kate
+222977	Bolton
+223029	Chiffinch
+223047	Chaubert
+223089	-- Chiffinch
+223092	Chaubert
+223105	Tom Chiffinch
+223115	Kate
+223119	Chiffinch
+223235	Cleopatra
+223255	Venus
+223281	Charles
+223337	Chiffinch
+223344	Solomon
+223369	Chaubert
+223439	William the
+223441	Conqueror
+223556	Charles
+223671	Ormond
+223731	Ormond
+223817	Charles
+223835	Ormond
+223882	Julian Peveril
+224137	Henry
+224167	Anne Bullen
+224334	Charles
+224459	Coleby
+224510	Coleby
+224624	Charles
+224791	Charles Stewart
+224894	Cavalier
+225179	Buckingham
+225184	George
+225245	Ormond
+225259	Coleby
+225280	Ormond
+225369	Geoffrey Peveril
+225585	Ormond
+225601	Charles
+225667	Malmsey
+225701	Ormond
+225767	Ormond
+225801	Duke
+225851	Ormond
+225918	Buckingham
+225926	Ormond
+225952	George
+226038	Ormond
+226090	Duke
+226230	Ormond
+226312	Caliban
+226361	Duke
+226386	Duke of
+226388	Ormond
+226406	Majesty
+226571	Duke of
+226573	Buckingham
+226866	Charles
+226913	Ormond
+226930	Buckingham
+226939	Ormond
+226968	Ormond
+227013	Ossory
+227183	Ormond
+227214	Duke
+227234	North
+227284	Corah
+227324	Charles
+227422	Julian
+227793	George Wakeman
+227801	Oates
+227987	Geoffrey Hudson
+228244	Chaucer
+228248	Chaunticlere
+228268	Geoffrey
+228367	Geoffrey
+228387	Geoffrey
+228519	Julian Peveril
+228681	Julian
+228757	Geoffrey Peveril
+228832	Peveril
+228872	Martindale
+228917	Geoffrey
+228977	Scroggs
+229101	Scroggs
+229109	Oates
+229253	Scroggs
+229274	Charles
+229286	North
+229553	Geoffrey Peveril
+229620	Stafford
+229649	Geoffrey Hudson
+229655	Geoffrey Hudson
+229668	Queen Dowager
+229729	Stafford
+229838	Geoffrey Peveril
+229860	Geoffrey
+229875	Master Hudson
+229924	Geoffrey
+230016	Julian Peveril
+230071	Chiffinch
+230086	John Jenkins
+230116	Peveril
+230185	Goliath of
+230187	Gath
+230267	Oates
+230316	Godfrey
+230421	Oates
+230653	Omer
+230806	Geoffrey Peveril
+230910	Geoffrey
+230944	Oates
+231024	Geoffrey Peveril
+231105	Oates
+231141	Oates
+231229	Oates
+231264	Scroggs
+231347	Oates
+231391	Oates
+231475	William Scroggs
+231508	Oates
+231628	Oates
+231756	Oates
+231835	Everett
+231837	Dangerfield
+231878	Oates
+231927	Oates
+231969	Everett
+231979	Dangerfield
+232001	Julian Peveril
+232031	Geoffrey
+232049	Peveril
+232180	Peveril
+232531	Lady Fairfax
+232615	Bridgenorth
+232695	Bridgenorth
+232705	Geoffrey Peveril
+232720	Oates
+232773	Peveril
+233089	Scroggs
+233119	Oates
+233167	Oates
+233340	Judas Iscariot
+233347	Oates
+233372	Bartholomew
+233441	Oates
+233523	Oates
+233859	Geoffrey
+234001	Charles
+234014	Ormond
+234289	Oates
+234342	Maaster Attarney
+234377	Rowley
+234437	Geoffrey
+234455	Lady Peveril
+234478	Geoffrey
+234480	Julian
+234540	Lady Peveril
+234675	Julian
+234757	Edmondsbury
+234804	Lambe
+234827	Lambe
+234844	Charles
+234850	Julian
+234961	Geoffrey
+234970	Galfridus Minimus
+235224	Geoffrey
+235255	Geoffrey Peveril
+235287	Julian
+235875	Julian
+235978	Julian
+236095	Julian
+236170	Julian
+236262	Julian
+236598	Geoffrey Hudson
+236724	Julian
+237041	Julian
+237227	Julian
+237317	Geoffrey
+237329	Julian
+237494	Bridgenorth
+237532	Julian
+237587	Alice
+237647	Geoffrey Peveril
+237743	Bridgenorth
+237772	George
+237798	Master Bridgenorth
+237871	Peveril
+237877	Bridgenorth
+237903	Geoffrey
+237962	Geoffrey
+237972	Julian
+238036	Bridgenorth
+238112	Julian Peveril
+238126	Alice
+238158	Peveril
+238233	Julian
+238269	Bridgenorth
+238309	Ganlesse
+238322	Bridgenorth
+238346	Alice
+238395	Julian
+238413	Bridgenorth
+238434	Geoffrey
+238477	Julian
+238522	Julian
+238573	Geoffrey
+238784	Geoffrey Peveril
+238894	Geoffrey
+238918	-- Julian
+238936	Master Bridgenorth
+239001	Geoffrey Peveril
+239006	Bridgenorth
+239126	Geoffrey
+239148	Bridgenorth
+239173	Geoffrey Peveril
+239305	Julian Peveril
+239346	Charles
+239378	Julian
+239453	Julian
+239484	Bridgenorth
+239529	Julian
+239533	Bridgenorth
+239581	Bridgenorth
+239625	Julian
+239756	Julian
+239986	Vicit Leo
+240095	Joshua
+240157	Julian
+240189	Venner
+240196	Charles
+240421	Tophet
+240454	Bridgenorth
+240467	Julian
+240493	Julian
+240531	Julian
+240606	Julian
+240611	Bridgenorth
+240689	Bridgenorth
+240888	Julian
+240938	Alice
+241011	Julian
+241014	Bridgenorth
+241108	Bridgenorth
+241164	Alice
+241244	Julian Peveril
+241262	Saul
+241283	Bridgenorth
+241353	Julian
+241515	Bridgenorth
+241585	Julian
+241609	Bridgenorth
+241701	Julian
+241716	Bridgenorth
+241789	Julian
+241796	Bridgenorth
+242010	Geoffrey
+242057	Julian
+242069	Bridgenorth
+242185	Christian
+242259	Charles Sedley
+242283	Duke
+242376	Ned Christian
+242380	Mother Cresswell
+242433	George
+242463	Sedley
+242531	Christian
+242654	Cresswell
+242674	Sedley
+242894	Christian
+242904	Christian
+243505	Lady Anne
+243512	Duke of
+243514	York
+243565	Duke
+243575	Christian
+243619	Duke
+243821	Ned Christian
+243878	Christian
+244157	Ormond
+244160	Charles
+244306	Charles Stewart
+244525	Duke
+244617	Duke
+244695	Duke
+244721	Duke
+244747	Jerningham
+244969	Christian
+245041	Christian
+245074	Christian
+245144	Christian
+245209	Bridgenorth
+245217	Weiver
+245395	Octavius
+245397	Lepidus
+245400	Anthony
+245477	Tom Armstrong
+245500	Shaftesbury
+245521	Thomas
+245525	Thomas Armstrong
+245640	Hans Snorehout
+245662	Levi
+245727	Ned
+245749	Christian
+245945	Christian
+246141	Rowley
+246187	Cromwell
+246262	Charles
+246321	Oates
+246344	Duke
+246415	Duke
+246629	Ned
+246712	Buckingham
+246764	Charles
+246782	Jerningham
+246920	Jerningham
+247047	Roger North
+247401	Jerningham
+247425	Duke
+247484	Chiffinch
+247545	Chiffinch
+247633	Buckingham
+247718	Duke
+247766	Chiffinch
+247853	Charles
+247915	Charles
+248058	James
+248086	Charles
+248129	Catherine
+248307	Charles
+248403	Charles
+248432	Geoffrey Peveril
+248462	Ormond
+248748	Sedley
+248842	Empson
+248935	Purcel
+249543	Minerva
+249545	Venus
+249592	Isabella
+249758	Sedley
+249760	Etherege
+249887	Charles
+250004	Charles
+250460	Charles
+250720	Charles
+251226	Ormond
+251714	Ormond
+251849	Rushin
+251913	Peveril
+252175	Charles
+252411	Geoffrey Hudson
+252528	Buckingham
+252564	Hudson
+252620	Ormond
+252764	Charles
+252833	Duke
+252971	Geoffrey Hudson
+252984	George Villiers
+252987	Duke
+253006	Charles
+253082	Hudson
+253213	Ormond
+253274	Sedley
+253570	Duke of
+253572	Ormond
+253692	Chiffinch
+253755	Selby
+253768	Selby
+253853	Ormond
+253938	Ormond
+254033	Ormond
+254084	Geoffrey Hudson
+254302	Charles
+254378	Ormond
+254409	Charles
+254654	Peveril
+254690	Julian
+255017	Duke of
+255019	Ormond
+255058	Geoffrey Hudson
+255126	Ormond
+255146	Geoffrey Hudson
+255160	Ormond
+255176	Geoffrey Hudson
+255202	Ormond
+255401	Charles
+255456	Geoffrey Hudson
+255897	Selby
+256166	Geoffrey Hudson
+256373	Hudson
+256433	Don Quixote
+256483	Duke of
+256485	Ormond
+256505	Charles
+256646	Lady Anne
+256692	Ormond
+256733	Ormond
+256793	Selby
+256871	Ormond
+256878	Duke
+256906	RICHARD III
+256940	Chiffinch
+256977	Chiffinch
+257057	Anne
+257063	Duke
+257067	Chiffinch
+257109	Chiffinch
+257150	Chiffinch
+257233	Chiffinch
+257391	Chiffinch
+257549	Chiffinch
+257640	Master Chiffinch
+257667	Chiffinch
+257673	Duke
+257770	Ganz
+257854	Christian
+257969	Chiffinch
+258016	Chiffinch
+258103	Empson
+258112	Alice
+258256	Chiffinch
+258333	Christian
+258343	Bridgenorth
+258449	Christian
+258482	Christian
+258499	Bridgenorth
+258516	Bridgenorth
+258518	I am
+258520	the fox
+258607	Christian
+258611	Bridgenorth
+258699	Bridgenorth
+258888	Christian
+258943	Zarah
+259047	Alice Bridgenorth
+259164	Christian
+259292	Christian
+259306	Zarah
+259338	Zarah
+259419	Zarah
+259463	Zarah
+259561	Zarah
+259611	Zarah
+259818	Zarah
+259899	Earl
+260193	Zarah
+260336	Zarah
+260444	Rushin
+260509	Zarah
+260597	Bridgenorth
+260622	Christian
+260846	Christian
+260892	Buckingham
+260928	Zarah
+261041	Zarah
+261114	Zarah
+261117	Fenella
+261452	Zarah
+261518	Zarah
+261596	Julian Peveril
+261793	Zarah
+261931	Zarah
+262009	Christian
+262040	Zarah
+262145	Zarah
+262248	Christian
+262327	Charles
+262345	Scroop
+262400	HENRY V
+262425	Charles
+262620	Weiver
+263043	Charles
+263362	Duke
+263390	Carleton
+263403	Carleton
+263559	Buckingham
+263672	Buckingham
+263730	Charles
+263770	Charles
+263787	Duke
+263793	Chiffinch
+263859	Pendables
+263884	Dawson
+264198	Charles
+264236	Charles
+264271	Charles
+264471	Geoffrey Hudson
+264498	Edward Christian
+264632	Sheffield
+264717	Christian
+264818	Hudson
+264885	Hudson
+264924	Buckingham
+264934	Ere Hudson
+264941	Buckingham
+265136	Grant
+265270	Charles
+265316	Ormond
+265372	Ormond
+265651	Charles
+265715	Bridgenorth
+265744	Lady Peveril
+265773	Lance Outram
+265815	Lady Peveril
+265881	Mitford
+265920	Geoffrey
+265923	Dick Mitford
+265955	Marquis
+265968	George
+265970	Julian
+265987	Peveril
+265999	Dick Mitford
+266058	Dick Mitford
+266094	Geoffrey
+266102	Alice
+266104	Julian Peveril
+266125	Julian
+266171	Julian
+266208	Dame Peveril
+266237	Lance
+266274	Julian
+266300	Bridgenorth
+266378	Lady Peveril
+266453	Lady Peveril
+266459	Alice
+266562	Martindale
+266592	Lance Outram
+266607	Lady Peveril
+266614	Julian
+266620	Alice
+266675	Geoffrey
+266712	Geoffrey
+266752	Charles I.
+266836	Charles
+266868	Geoffrey
+266998	Ormond
+267023	Geoffrey
+267106	Geoffrey
+267148	-- Julian
+267166	Julian Peveril
+267277	Charles
+267280	Ormond
+267295	Julian
+267318	Ormond
+267332	Geoffrey
+267364	Charles
+267408	Julian
+267476	Bridgenorth
+267483	Julian
+267606	Peveril
+267623	Ormond
+267709	Julian
+267749	Julian
+267860	Peveril
+267910	Wert
+267920	Chiffinch
+267961	Julian
+268014	-- Buckingham
+268181	Julian
+268277	Julian
+268335	Zarah
+268338	Fenella
+268351	Martindale
+268387	Ormond
+268430	Julian Peveril
+268442	Fenella
+268444	Buckingham
+268539	Ormond
+268567	Geoffrey Peveril
+268615	Julian Peveril
+268751	Julian Peveril
+268774	Zarah
+268987	Julian
+268994	Julian
+269031	Peveril
+269106	Julian Peveril
+269116	Christian
+269138	Zarah
+269353	Charles
+269360	Peveril
+269431	Fenella
+269434	Zarah
+269481	Magdalene
+269484	Judith
+269661	Zarah
+269725	Charles
+269813	Ormond
+269924	Buckingham
+270006	Buckingham
+270047	George
+270094	George
+270224	Villiers
+270304	Christian
+270328	Villiers
+270379	Charles
+270570	Charles
+270669	Lady Derby
+270716	Ormond
+270719	Julian Peveril
+270756	Charles
+270815	Christian
+270879	Julian
+271107	Zarah
+271407	Zarah
+271409	Fenella
+271425	Edward Christian
+271718	Selby
+271889	Julian Peveril
+271898	Bridgenorth
+271936	Bridgenorth
+271975	Julian
+272011	Julian
+272072	Geoffrey Peveril

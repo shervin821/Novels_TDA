@@ -1,0 +1,3975 @@
+141	Bretagne
+213	Flanders
+493	Ecorcheurs
+714	Louis XI
+775	Louis
+1297	Louis
+1422	Louis
+1452	Louis
+1711	Les Cent
+1713	Nouvelles Nouvelles
+1738	Antoine Verard
+1751	De Bure
+1824	Louis
+1841	Margaret
+1867	Louis
+1995	Louis
+2096	Louis
+2212	Louis
+2476	Charles
+2523	Duke
+2594	Louis
+2604	Charles
+2640	Duke
+2647	Louis
+2652	Dauphin
+2741	Louis
+2813	Dukes
+2828	Louis
+2855	Louis
+2924	Charles
+3079	Charles the
+3081	Bold
+3100	Louis
+3472	Plessis
+3492	Plessis
+4081	Scot
+4637	Anne
+4865	Scot
+4871	Samaritan
+5521	Scot
+5768	Virgin Mary
+6205	Scot
+6285	Virgin Mary
+6294	St. Luke
+6764	Scot
+6978	Scot
+7155	Varlet
+7183	Quentin Durward
+7236	Scot
+7345	Durward
+7467	Hubert
+7470	Bishop
+7478	Durward
+7606	Scot
+7693	Durward
+7762	Quentin Durward
+8067	Hubert
+8131	Durward
+8174	Durward
+8396	Durward
+8410	Durward
+8570	Durward
+8807	Varlet
+8865	Quentin Durward
+8885	King Louis
+8890	God
+8990	Durward
+9059	Durward
+9608	Durward
+9868	Durward
+10324	Durward
+10404	Louis
+10554	Plessis
+10600	Plessis
+10691	Plessis
+10744	Durward
+10759	Angus
+10765	Angus
+10880	Lesly
+10882	Lesly
+10927	Ludovic Lesly
+10951	Ludovic
+10959	Ludovic
+10966	Quentin
+11057	Le Balafre
+11202	Durward
+11267	Quentin
+11662	Louis
+11726	Prince
+11883	Maitre Pierre
+11921	Maitre Pierre
+11926	Quentin
+11991	Maitre Pierre
+12140	Quentin
+12143	Quentin
+12398	Louis XI
+12522	Maitre Pierre
+12622	Pierre
+12659	Maitre Pierre
+12754	YORICK
+12818	Homer
+12832	Odysseus
+12887	Palmer
+13068	Vin de
+13070	Beaulne
+13203	Maitre Pierre
+13235	Scot
+13292	Maitre Pierre
+13361	Quentin Durward
+13402	Vin de
+13404	Beaulne
+13417	Maitre Pierre
+13443	Maitre Pierre
+13493	Maitre Pierre
+13531	Glen Houlakin
+13536	Glen
+13542	Maitre Pierre
+13564	Glen Houlakin
+13569	Quentin
+13579	Glen of
+13581	the Midges
+13672	Durward
+13711	Maitre Pierre
+13756	Durward
+13895	Louis --
+13897	God
+13985	Maitre Pierre
+14000	Louis
+14144	Quentin
+14190	William de
+14192	la Marck
+14201	Durward
+14281	Maitre Pierre
+14302	Duke
+14308	Adolphus
+14312	Arnold
+14380	Charles of
+14382	Burgundy
+14395	Zutphen
+14410	Quentin
+14459	Pierre
+14529	Duke
+14591	Duke
+14640	Maitre Pierre
+14686	Maitre Pierre
+14753	Mahomet
+14762	Mahomet
+14858	Maitre Pierre
+14873	Louis de
+14875	Luxembourg
+14880	Paul
+14908	Louis
+14910	Duke Charles
+14944	Louis XI
+14958	Paul
+15058	Maitre Pierre
+15087	Paul
+15139	Durward
+15187	Paul
+15226	Quentin
+15296	Quentin Durward
+15324	Julian
+15363	Maitre Pierre
+15368	Julian
+15383	Quentin
+15499	Durward
+15551	Durward
+15685	Quentin
+15757	Jacqueline
+15761	Maitre Pierre
+15779	Dame Perette
+15818	Jacqueline
+15851	Maitre Pierre
+15889	Jacqueline
+15944	Quentin Durward
+15955	Jacqueline
+16010	Pierre
+16042	Jacqueline
+16099	Louis
+16135	Jacqueline
+16149	Maitre Pierre
+16163	Durward
+16261	Maitre Pierre
+16283	Quentin
+16355	Pierre
+16388	Maitre Pierre
+16436	Quentin
+16492	Maitre Pierre
+16497	Quentin
+16714	Durward
+16717	Maitre Pierre
+16730	Jacqueline
+16750	Jacqueline
+16856	Jacqueline
+16863	Quentin Durward
+16884	Maitre Pierre
+16999	Quentin
+17090	Quentin
+17173	Maitre Pierre
+17248	Glen Houlakin
+17258	Pierre
+17312	Quentin
+17415	Quentin
+17480	Pierre
+17552	Quentin
+17574	Durward
+17602	Glen Isla
+17636	Vin de
+17638	Beaulne
+17742	Maitre Pierre
+17751	Quentin
+17755	Julian
+17786	Le Balafre
+17822	Quentin Durward
+17843	Maitre Pierre
+17909	Quentin
+17972	Quentin
+18063	Quentin
+18074	Paul
+18220	Maitre Pierre
+18292	Martin Dominique
+18312	Pierre
+18316	Durward
+18335	Pierre
+18363	Durward
+18374	Pierre
+18413	Maitre Pierre
+18461	Scot
+18466	Pierre
+18560	Maitre Pierre
+18638	Durward
+18646	Pierre
+18689	Pierre
+18824	Pierre
+18828	Durward
+18850	Quentin
+18922	Quentin Durward
+18929	Glen Houlakin
+19007	Quentin
+19293	Pierre
+19304	Quentin Durward
+19406	Pierre
+19441	Quentin
+19482	Quentin
+19585	Durward
+19639	Quentin
+19714	Durward
+19951	Bishop
+19954	Henry Rowley
+19975	Guy Mannering
+19981	Snowdon
+19993	Stephens
+19995	Catherine
+20006	Susanna
+20011	Figaro
+20019	Scott
+20195	Quentin
+20325	Durward
+20348	Lute
+20499	Quentin
+20565	Quentin Durward
+20615	Charles the
+20617	Sixth
+21091	Ludovic Lesly
+21103	Le Balafre
+21269	Virgin Mary
+21315	Holy Virgin
+21418	Andrew
+21509	Andrew
+21541	Andrew
+21590	Quentin Durward
+21648	Ludovic
+21654	Le Balafre
+21724	Durward
+21752	Bourdeaux
+21801	Landes
+21872	Plessis
+21976	Le Balafre
+22019	Glen Houlakin
+22036	Quentin
+22168	Allan Durward
+22263	Glen Houlakin
+22327	Glen Houlakin
+22335	Andrew
+22339	Le Balafre
+22361	Glen Houlakin
+22423	Jude
+22469	Amaury Bras
+22471	de fer
+22534	Andrew
+22536	Andrew
+22539	Andrew
+22549	Archer
+22602	Balafre
+22633	Andrew
+22643	Boniface
+22667	God
+22811	Angus Shire
+22831	Andrew
+22881	Bartholomew
+22889	Michael Angelo
+23000	Durward
+23026	Le Balafre
+23075	Quentin
+23114	Aberbrothik
+23188	Andrew
+23368	Quentin
+23414	Robersart
+23496	Durward
+23553	Le Balafre
+23597	Durward
+23609	Lesly
+23655	Durward
+23685	Father Peter
+23922	Le Balafre
+24136	Quentin
+24300	Charlemagne
+24307	Robert Bruce
+24310	William Wallace
+24320	Barbour
+24431	Charlemagne
+24438	King of
+24440	the Franks
+24483	Caesar Augustus
+24518	Arthur
+24524	Robert Bruce
+24530	Robert Bruce
+24536	John Baliol
+24579	William Wallace
+24592	Edward I
+24597	Wallace
+24618	Barbour
+24626	Chaucer
+24633	Bruce
+24641	Robert Bruce
+24666	Wallace
+24693	Durward
+24796	Artois
+24798	Hainault
+24921	Duke
+24952	Scot
+25010	Durward
+25025	Balafre
+25037	Louis
+25046	Jacques Bonhomme
+25072	Scot
+25164	Ludovic
+25196	Cressy
+25233	Henry V
+25394	Martin
+25518	Charles of
+25520	Burgundy
+25622	Peter
+25683	Balafre
+25720	Lesly
+25741	Du Guesclin
+25812	Plessis
+25896	Charles
+25927	Le Balafre
+25955	Oliver Dain
+25964	Oliver
+26057	Ludovic le
+26059	Balafre
+26129	Louis
+26285	Balafre
+26354	Durward
+26442	Quentin
+26454	Cher
+26546	Mannering
+26923	Pasquier
+27416	Hindostanee
+27423	Grellman
+27425	Hoyland
+27443	Quentin Durward
+27608	Durward
+27720	Lesly
+27724	Glen Houlakin
+27751	Quentin
+27917	Le Balafre
+28096	Balafre
+28147	Boniface
+28250	Louis
+28255	Balafre
+28277	Quentin
+28327	Maitre Pierre
+28380	Balafre
+28444	Durward
+28591	Durward
+28602	Maitre Pierre
+28605	Le Balafre
+28641	Martin
+28835	Louis
+28839	Quentin
+28938	Maitre Pierre
+28961	Pierre
+28981	Durward
+29055	Quentin
+29156	Maitre Pierre
+29164	Pierre
+29171	Pierre
+29421	Martin
+29433	Pierre
+29542	Quentin
+29614	Cher
+29719	Quentin
+29785	Scot
+29888	Durward
+29999	Durward
+30056	Quentin
+30291	Scot
+30384	Durward
+30470	Durward
+30639	Durward
+30723	Quentin
+30973	Quentin
+31059	Quentin
+31080	Maitre Pierre
+31109	Durward
+31174	Petit Andre
+31239	Petit Andre
+31249	Quentin
+31305	Quentin
+31382	Durward
+31514	Martin
+31677	Petit Andre
+31794	Durward
+31809	Quentin
+31865	Trois Eschelles
+32202	Louis
+32209	Heraclitus
+32231	Heraclitus
+32292	John
+32296	John
+32319	Petit Andre
+32331	Henry de
+32333	Cousin
+32346	Trois Eschelles
+32443	Petit Andre
+32535	Trois Eschelles
+32550	Petit Andre
+32667	Petit Andre
+32717	Louis XI
+32730	Quentin Durward
+32877	Beati
+32911	Petit Andre
+33047	Ludovic Lesly
+33058	Le Balafre
+33156	Trois Eschelles
+33169	Durward
+33186	Petit Andre
+33197	Quentin
+33233	Archer
+33259	Andrew
+33289	Andrew
+33302	Archer
+33318	Quentin
+33400	Trois Eschelles
+33428	Petit Andre
+33454	Trois Eschelles
+33611	Archer
+33770	Quentin
+33865	Archer
+33931	Archer
+33954	Durward
+34039	Archer
+34154	Signior Archer
+34159	Petit Andre
+34172	Trois Eschelles
+34213	Archer
+34268	Balafre
+34275	Lesly
+34286	Quentin
+34302	Durward
+34340	Lindesay
+34342	Guthrie
+34344	Tyrie
+34429	Balafre
+34479	Martin
+34574	Balafre
+34661	Cunningham
+34711	Lindesay
+34715	Sandie Wilson
+34736	Sandie
+34830	Cunningham
+34931	Cunningham
+34946	Martin
+34957	Lesly
+34997	Provost Tristan
+35127	Crawford
+35164	Quentin
+35246	Quentin
+35306	Cunningham
+35451	Cunningham
+35475	Cunningham
+35500	Oliver -LSB-
+35502	Oliver Dain
+35505	Oliver
+35567	Louis
+35589	Balafre
+35597	Oliver
+35621	Cunningham
+35624	Oliver
+35680	Balafre
+35713	Crawford
+35715	Oliver
+35789	Quentin Durward
+35815	Plessis
+35967	Michael of
+35969	Moffat
+35982	Cunningham
+36019	Lindesay
+36078	Quentin
+36169	Lindesay
+36173	Jacques Bonhomme
+36199	Jacques
+36296	Cunningham
+36312	Guthrie
+36316	Cunningham
+36329	Cunningham
+36352	Guthrie
+36365	Cunningham
+36368	Ye
+36407	Balafre
+36435	Cunningham
+36463	Lindesay
+36493	Balafre
+36502	Andrew
+36517	Cunningham
+36541	John Highlander
+36556	Guthrie
+36567	Balafre
+36577	Angus
+36585	Glen Isla
+36610	Guthrie
+36630	Balafre
+36653	Cunningham
+36722	Balafre
+36774	Quentin
+36840	Le Balafre
+36879	Crawford
+36909	Charles VI
+36941	Douglas
+36944	Buchan
+37082	Crawford
+37107	Douglas
+37112	Douglas
+37117	Duke
+37123	Charles VII
+37130	Buchan
+37138	Robert II
+37167	Joan
+37210	Charles VII
+37241	Balafre
+37243	Cunningham
+37245	Durward
+37293	Crawford
+37445	Michael
+37465	Louis XI
+37514	Louis
+37543	Crawford
+37580	Le Balafre
+37593	Louis
+37618	Crawford
+37714	Philip du
+37716	Four
+37797	Ludovic Lesly
+37803	Archie Cunningham
+37887	Ludovic
+37958	Durward
+37987	Ludovic
+37992	Crawford
+38020	Quentin
+38121	Quentin
+38192	-- Ludovic
+38275	Crawford
+38309	Balafre
+38322	Crawford
+38330	Ludovic
+38357	Lesly
+38477	Ludovic
+38493	Crawford
+38526	Ludovic
+38545	Lesly
+38596	Ludovic
+38688	Beauge
+38701	Stewart
+38703	Earl of
+38705	Buchan
+38993	Crawford
+38998	Le Balafre
+39135	Crawford
+39175	Cunningham
+39177	Lindesay
+39321	Oliver
+39380	Quentin Durward
+39429	Crawford
+39479	Quentin
+39550	Quentin
+39615	Cunningham
+39646	Lindesay
+39671	Crawford
+39730	Duke Charles
+39732	of Burgundy
+39750	Crevecoeur
+39802	Guthrie
+39826	Crawford
+39848	Countess
+39890	Lindesay
+39929	Cunningham
+39943	Duke
+39950	Charles
+39996	Crawford
+40026	Joan
+40085	Cunningham
+40115	Andrew
+40122	Le Balafre
+40197	Guthrie
+40217	Le Balafre
+40229	Crawford
+40360	Arnot
+40365	Crawford
+40416	Countess Isabelle
+40418	de Croye
+40430	Arnot
+40459	Doguin
+40487	Fleur de
+40489	Lys
+40496	Doguin
+40498	Saunders Steed
+40598	Andrew Arnot
+40669	Countess Isabelle
+40694	Andrew Arnot
+40725	Arnot
+40802	Count de
+40804	Crevecoeur
+40827	Andrew
+40837	Guthrie
+40914	Melusina
+40981	Melusina
+41008	Melusina
+41063	Johnny Guthrie
+41154	Cunningham
+41179	Crawford
+41258	Balafre
+41339	Ludovic
+41368	Countess Isabelle
+41374	Durward
+41460	Maitre Pierre
+41499	Quentin
+41503	Maitre Pierre
+41546	Will Harper
+41568	Quentin
+41663	Durward
+41708	Aberbrothick
+41790	Louis
+41792	Quentin Durward
+42026	Quentin
+42132	Le Balafre
+42186	Quentin
+42448	Durward
+42485	Crawford
+42512	Quentin
+42537	Count de
+42539	Dunois
+42621	Dunois
+42653	Louis
+42920	Louis Duke
+42940	Louis XII
+42962	Louis
+42967	Prince
+43022	Prince
+43067	Joan
+43075	Louis
+43154	Quentin
+43228	John of
+43230	Balue
+43236	Louis
+43253	Wolsey
+43263	Louis
+43269	Henry VIII
+43337	Henry
+43632	Wolsey
+43644	Henry VIII
+43681	Henry
+43734	Dunois
+43773	Oliver Dain
+43799	Louis
+43803	Cardinal
+44005	Oliver le
+44007	Dain
+44011	Oliver le
+44013	Mauvais
+44017	Oliver le
+44019	Diable
+44055	Count de
+44057	Dunois
+44169	Ludovic Lesly
+44191	Oliver
+44220	Quentin
+44247	Balafre
+44377	Ludovic Lesly
+44388	Tristan
+44454	Quentin
+44528	Scot
+44562	Oliver
+44626	Louis
+44632	Quentin
+44667	Maitre Pierre
+44827	Vin de
+44829	Beaulne
+44850	-- Balafre
+44859	Lesly
+44919	Oliver Dain
+44923	Le Balafre
+44957	Quentin
+45009	Louis
+45136	Quentin
+45244	Peter
+45316	Joan
+45610	Joan
+45652	Martin
+45693	Quentin
+45746	Durward
+45775	Louis
+45852	Louis
+45890	Anne
+45905	Joan
+45996	Duke
+46079	Hubert
+46152	Oliver
+46174	Martin
+46235	Dunois
+46301	Dunois
+46385	Charles of
+46387	Burgundy
+46435	Dunois
+46442	Crevecoeur
+46643	Dunois
+46653	Crevecoeur
+46716	Louis
+46766	Dunois
+46776	Dennis Montjoye
+46781	Montjoie St.
+46783	Denis
+46795	Denis
+46952	Edward IV
+47005	Louis
+47086	Louis
+47211	Balue
+47257	Balafre
+47356	Dunois
+47424	Dunois
+47462	Bishop
+47469	Cardinal
+47501	Dunois
+47570	Dryasdust
+47590	Charles V
+47640	Gregory
+47845	Crevecoeur
+48032	Philip the
+48034	Good
+48057	Duke
+48065	Seignior Count
+48067	de Crevecoeur
+48072	Louis
+48205	Crevecoeur
+48254	Philip Crevecoeur
+48256	de Cordes
+48286	Crevecoeur
+48297	Louis
+48317	Philip Crevecoeur
+48319	de Cordes
+48332	Crevecoeur
+48795	Flanders
+48890	Crevecoeur
+48969	Isabelle Countess
+48993	Countess Isabelle
+49110	Count de
+49112	Crevecoeur
+49116	Louis
+49240	Crevecoeur
+49389	Zamet Magraubin
+49452	Philip Crevecoeur
+49454	de Cordes
+49631	Duke
+49735	Crevecoeur
+49749	Louis of
+49751	Valois
+49781	Toison
+49798	Philip Crevecoeur
+49801	Cordes
+49832	Charles
+49840	Duke
+49857	Earl of
+49859	Flanders
+49862	Artois
+49877	Zutphen
+49879	Marquis
+49898	Louis
+49945	Duke
+50096	Crawford
+50199	Count
+50231	Duke
+50278	Count of
+50280	Crevecoeur
+50303	King Louis
+50375	Count de
+50377	Crevecoeur
+50423	Crawford
+50455	Cardinal
+50459	Bishop
+50484	Crevecoeur
+50531	Balue
+50572	Louis
+50643	Louis
+50660	Crevecoeur
+50720	Dunois
+50750	Crawford
+50818	Dunois
+50862	Dunois
+50998	Balue
+51220	Philip
+51222	Crevecoeur
+51394	-- Orleans
+51414	Joan
+51427	Cher
+51469	Allegre
+51485	-- Dunois
+51617	Crevecoeur
+51653	Louis
+51663	Duke of
+51665	Burgundy
+51756	Louis
+51832	Crevecoeur
+51869	Louis
+51895	Dunois
+51932	Father
+51956	Dunois
+51990	Cardinal
+52003	Louis
+52009	Crevecoeur
+52025	-- Said
+52258	Dunois
+52325	Louis
+52442	Dunois
+52558	Duke
+52709	Louis
+53052	Dunois
+53063	Louis
+53094	Hubert
+53136	Quentin Durward
+53172	Cardinal Balue
+53229	Becket
+53236	Wolsey
+53690	Cardinal
+53740	Dunois
+53904	Angelo
+53950	James
+54287	Balue
+54366	Balue
+54412	Favila
+54502	Dunois
+54535	Peter
+54802	Crevecoeur
+54847	Balue
+54865	Louis
+54903	Crevecoeur
+55000	Crevecoeur
+55024	Martin
+55067	Louis
+55231	Louis
+55272	Louis
+55527	Louis
+55619	Louis
+55630	Quentin Durward
+55693	Durward
+55712	Quentin
+55777	Durward
+55790	Scot
+55801	Maitre Pierre
+55846	Quentin
+56041	Crawford
+56133	Durward
+56189	Martin
+56218	Louis
+56228	Cardinal
+56261	Quentin
+56325	Squire
+56329	Quentin
+56359	Louis
+56376	Quentin
+56382	Scot
+56454	Quentin
+56501	Louis
+56579	Quentin
+56664	Le Balafre
+56779	Quentin
+56807	Oliver Dain
+56814	Diable
+56967	Seignior Balafre
+56991	Archer
+56995	Lesly
+57055	Quentin
+57059	Balafre
+57097	Quentin
+57165	Norman
+57185	Oliver
+57198	Oliver
+57332	Quentin
+57529	Le Balafre
+57535	Giles
+57568	Tyrie
+57589	Oliver
+57594	Seignior Le
+57596	Balafre
+57643	Balafre
+57704	Balafre
+57732	Seignior Le
+57734	Balafre
+57787	Seignior Balafre
+57834	Oliver
+57877	Oliver
+57894	Le Balafre
+57905	Archer
+57924	Oliver
+57962	Balafre
+58122	Quentin
+58310	Master Oliver
+58483	Quentin Durward
+58499	Oliver
+58616	Charlemagne
+58654	Rolando
+58676	Louis XI
+58699	Roland
+58722	Oliver
+58793	Quentin
+58809	Oliver
+58821	Quentin
+58894	Oliver
+58952	Oliver
+59316	Forres
+59322	Duffus
+59373	Quentin
+59476	Quentin
+59634	Quentin
+59763	Quentin
+59939	Squire
+59960	Maitre Pierre
+59964	Quentin
+59987	Louis
+60147	Louis
+60248	Quentin
+60279	Louis
+60363	Durward
+60371	Scot
+60430	Balue
+60437	de Crevecoeur
+60483	Quentin
+60514	Louis
+60542	Durward
+60617	Durward
+60724	Louis
+60728	John
+60740	John
+60800	Ecosse
+60811	Crevecoeur
+60826	Quentin
+60868	Paul
+60897	James
+60903	James
+60905	Quentin
+60909	Douglas
+60926	Douglas
+60938	James
+60940	Earl of
+60942	Douglas
+60961	James
+60973	Douglas
+60982	Patrick Grey
+60999	Quentin
+61037	Quentin
+61102	Quentin
+61153	Quentin
+61192	Squire
+61328	Louis
+61332	Life Guardsman
+61497	Louis
+61500	Quentin Durward
+61572	Crevecoeur
+61588	Oliver
+61611	Oliver
+61681	Quentin
+61711	Quentin
+61747	Louis
+61863	Quentin
+61878	Louis
+61952	Quentin
+62004	Louis
+62049	Crevecoeur
+62190	Genappes
+62216	Louis of
+62218	Valois
+62349	Oliver
+62357	Vin d'Auxerre
+62377	Rois
+62403	Duke
+62413	-- Oliver
+62421	Vin de
+62423	Rheims
+62444	Cardinal
+62499	Louis
+62513	Sillery
+62599	Count
+62629	Count de
+62631	Crevecoeur
+62730	Henry V
+62806	Louis
+62918	de Crevecoeur
+62932	Louis XI
+62990	Scot
+63040	Oliver
+63047	Quentin
+63170	Quentin
+63308	Louis XI
+63455	Prince
+63567	Quentin
+63598	Louis
+63632	Denis
+63720	Quentin
+63742	Louis
+63747	Roland
+63851	L'Hermite
+63878	Oliver
+64111	Quentin
+64170	Count of
+64172	Crevecoeur
+64315	Quentin
+64350	Lute
+64633	Quentin
+64639	Joan
+64906	Quentin
+64957	Louis
+64967	Quentin
+65003	Quentin
+65121	Quentin
+65181	Durward
+65406	Quentin
+65452	Quentin
+65557	Joan
+65705	Louis
+66295	Michaud
+66307	Charlemagne
+66364	Joan
+66576	Louis
+66648	Joan
+66842	Quentin
+66890	Quentin
+66907	Louis
+66935	Prince of
+66937	the Blood
+67056	Dunois
+67092	Joan
+67132	Croye
+67368	Dunois
+67483	Countess
+67525	Joan
+67552	Lady Hameline
+67617	Duke
+67631	Countess Isabelle
+67633	de Croye
+67847	Countess
+68046	Lady Hameline
+68094	Lady Hameline
+68261	Louis
+68305	Quentin
+68394	Quentin
+68566	Louis
+68584	Joan
+68601	Louis
+68669	Countess Isabelle
+68784	Louis
+68788	Quentin Durward
+68868	Dukes
+68990	Oliver Dain
+69084	Durward
+69100	Oliver
+69142	Quentin
+69148	Oliver
+69182	Quentin
+69213	Hautlieu
+69228	Marquis de
+69230	Hautlieu
+69241	Scott
+69257	Quentin Durward
+69290	Oliver
+69337	Louis
+69352	Prince
+69461	Oliver
+69524	Oliver
+69601	Edward
+69648	Paul
+69655	Oliver
+69688	Oliver
+69823	Oliver
+69898	Duke Charles
+69913	Louis
+69919	Oliver
+70010	Oliver
+70069	Louis
+70159	Louis
+70265	Joan
+70320	Oliver
+70439	Oliver
+70475	Oliver
+70530	Louis
+70573	-- Dunois
+70630	Oliver
+70708	King Louis
+70714	Oliver
+70838	Oliver
+70968	Charles the
+70970	Hardy
+71034	Oliver
+71059	Oliver
+71080	Isabelle
+71085	Adolphus
+71139	Oliver
+71209	Adolphus
+71285	Liegeois
+71300	Duke Charles
+71330	Oliver
+71355	Isabelle
+71367	Adolphus
+71384	William de
+71386	la Marck
+71399	Oliver
+71432	De la
+71434	Marck
+71473	Oliver
+71488	Oliver
+71510	Ratisbon
+71534	Oliver
+71565	Maximilian
+71589	Oliver
+71638	Louis
+71683	Adolphus
+71690	De la
+71692	Marck
+71811	Oliver
+71924	Hameline
+71926	Isabelle de
+71928	Croye
+71953	Isabelle
+71973	William de
+71975	la Marck
+72014	De la
+72016	Marck
+72170	Liegeois
+72197	Charles
+72230	Oliver
+72240	Oliver
+72295	Oliver
+72301	Louis
+72306	Oliver
+72368	Cade
+72399	Jack Cade
+72405	Cade
+72411	Mortimer
+72420	Richard
+72463	William de
+72465	la Marck
+72532	William de
+72534	la Marck
+72653	Scot
+72662	Oliver
+72729	Julian
+72822	Julian
+72826	Oliver
+72909	Louis
+72937	Oliver the
+72939	Devil
+73012	Julian
+73166	Julian
+73219	Julian
+73269	Sancte Juliane
+73276	Ora
+73285	Julian
+73459	Oliver
+73498	Oliver
+73548	Galeotti Martivalle
+73586	Oliver
+73613	Louis
+73685	Louis
+73721	William de
+73723	la Marck
+73764	Oliver
+73824	Louis
+73830	Julian
+73949	Louis
+73963	Oliver
+73982	Duke Charles
+74026	Charles of
+74028	Burgundy
+74081	Oliver
+74090	Oliver
+74133	Charles of
+74135	Burgundy
+74166	Oliver
+74427	Louis
+74532	Louis
+74630	Louis
+74676	Hameline
+74698	Lady Isabelle
+74718	Louis XI
+74749	Louis
+74763	Duke Charles
+74772	Isabelle
+74792	Joan
+74853	Scottishman
+74876	Crawford
+74910	Quentin
+74933	Crevecoeur
+75113	Martin
+75192	Quentin Durward
+75283	Quentin
+75343	Louis
+75364	Oliver le
+75366	Diable
+75397	Oliver
+75404	Louis
+75414	Quentin
+75424	Plessis
+75447	Galeotti Marti
+75454	Martivalle
+75500	Paulus Jovius
+75529	Matthias Corvinus
+75545	Louis
+75571	Martius Galeotti
+75577	Matthias Carvinus
+75620	Pope
+75635	Louis XI
+75646	Martivalle
+75719	Janus Pannonius
+75740	Galeotti
+75783	Quentin
+75893	Matthias Corvinus
+75933	Jacob
+75964	Pope
+76293	Galeotti Martivalle
+76363	Santon
+76546	Martivalle
+76730	Galeotti
+76734	Louis
+76755	Martivalle
+76809	Louis
+76969	Quentin
+77013	Martivalle
+77211	Galeotti
+77269	Louis
+77348	Galeotti
+77413	Galeotti
+77593	Sancte Huberte
+77596	Sancte Juliane
+77599	Sancte Martine
+77602	Sancta Rosalia
+78029	Countess Isabelle
+78037	William de
+78039	la Marck
+78103	Galeotti
+78228	Plessis
+78410	Martivalle
+78588	Louis
+78625	Louis
+78648	Durward
+78661	Scot
+78697	Martin
+78886	Matthias
+78889	Hun
+78971	Balue
+79111	Abbot of
+79113	Istrahoff
+79128	Dubravius
+79144	Sheik Ebn
+79146	Hali
+79187	Toinette
+79222	Toinette
+79351	Quentin Durward
+79426	Oliver
+79474	Oliver
+79545	Oliver le
+79547	Diable
+79628	Quentin
+79758	Quentin
+79789	Quentin
+79794	Gascon
+79960	Quentin Durward
+80026	Quentin
+80122	Gascon
+80152	Plessis
+80274	Bishop Perpetuus
+80289	Charlemagne
+80316	Gatien
+80351	Valentinian
+80393	Scottishman
+80489	Quentin
+80507	Lady Hameline
+80747	Quentin
+80804	Quentin
+80820	Lady Isabelle
+80825	Lady Hameline
+80877	Durward
+80927	Lady Hameline
+80991	Edward
+81094	Marthon
+81121	Lady Isabelle
+81144	Countess
+81171	Isabelle
+81539	Countess
+81620	Countess
+81723	Isabelle
+81773	Lady Hameline
+81789	Rhinegrave Gottfried
+81824	Thibault
+81929	Montigni
+81941	Countess Isabelle
+81977	Quentin
+82057	Quentin
+82109	Quentin
+82115	Seignior Archer
+82137	Seignior Archer
+82246	Quentin
+82285	Petit Andre
+82305	Trois Eschelles
+82351	Durward
+82398	Petit Andre
+82579	Seignior Archer
+82659	Baco
+82693	Quentin
+82868	Jacques Butcher
+82886	H. E.
+82888	M. P.
+82927	Petit Andre
+82968	Petit Andre
+83006	Quentin
+83090	Petit Andre
+83177	Quentin
+83241	Petit Andre
+83253	Petit Andre
+83347	Durward
+83352	Petit Andre
+83416	Quentin
+83428	Archer
+83581	Bertrand Guyot
+83639	Quentin
+83685	Quentin
+83689	Squire
+83756	Durward
+83841	Quentin
+83917	Quentin
+83966	Gascon
+83974	Durward
+84008	Gascon
+84049	Quentin
+84101	Quentin
+84135	Durward
+84156	Martin
+84192	Knight
+84196	Quentin
+84310	Quentin
+84412	Durward
+84448	Quentin
+84475	Durward
+84601	Quentin
+84644	Durward
+84781	Quentin
+84881	Quentin
+84892	Crawford
+84982	Levi
+84987	Jehovah
+85023	Crawford
+85064	Crawford
+85148	Dunois
+85238	Quentin Durward
+85308	Dunois
+85364	Dunois
+85366	Crawford
+85421	Crawford
+85518	Prince
+85567	Crawford
+85580	Prince
+85626	Crawford
+85651	Dunois
+85706	Louis
+85760	Crawford
+85875	Dunois
+86075	Louis
+86142	Magdalene
+86188	Crawford
+86235	Dunois
+86271	Crawford
+86414	Crawford
+86437	Quentin
+86497	Petit Andre
+86521	Petit Andre
+86662	Petit Andre
+86691	Crawford
+86765	Crawford
+86822	Quentin
+86853	Quentin
+86859	Crawford
+86867	Plessis
+86881	Crawford
+86911	Plessis
+86925	Scotchman
+86948	Louis
+87052	Balue
+87067	S. De
+87069	Comines
+87136	Scot
+87191	Lady Hameline
+87233	Quentin
+87392	Dunois
+87449	Isabelle
+87468	Quentin
+87600	Quentin
+87638	Holy Virgin
+87648	-- Dismount
+87666	Durward
+87805	Quentin
+87892	Countess
+88045	Quentin
+88130	Duke Charles
+88189	Hameline
+88372	Quentin
+88469	Quentin
+88533	Lady Hameline
+88551	Archer
+88628	Quentin
+88742	Quentin
+89155	Mary
+89183	Quentin
+89198	Durward
+89237	Trois Eschelles
+89240	Petit Andre
+89367	Quentin
+89486	Quentin
+89625	Quentin
+89746	Quentin
+89787	Zingaro
+89841	Quentin
+89868	Mohammed
+90004	Durward
+90120	Durward
+90589	Quentin
+90699	Quentin
+90747	Durward
+90767	Hayraddin Maugrabin
+90773	Hayraddin
+90814	Hayraddin
+90900	Durward
+90918	Hayraddin
+90959	Durward
+90984	Zingaro
+91047	Scot
+91066	Hayraddin
+91111	Hayraddin
+91141	Quentin
+91151	Hayraddin
+91282	Squire
+91286	Hayraddin Maugrabin
+91320	Quentin
+91386	Maugrabin
+91404	Scot
+91433	Durward
+91497	Hayraddin
+91523	Durward
+91554	Zamet the
+91556	Maugrabin
+91565	Quentin
+91625	Hayraddin
+91670	Quentin
+91774	Durward
+91797	Hayraddin
+91872	Quentin
+91993	Quentin
+92068	Quentin
+92120	Glen Houlakin
+92129	Hayraddin
+92299	Louis
+92341	Quentin
+92435	Quentin
+92490	Quentin
+92607	Quentin
+92619	Hayraddin
+92668	Durward
+92674	Hayraddin
+92752	Quentin
+92871	Flanders
+92885	Quentin
+93015	Quentin
+93045	Quentin
+93147	Jeshurun
+93212	Duke
+93236	George
+93279	Cyrus
+93334	Alexander the
+93336	Great
+93370	Ezekiel xxvi
+93394	Quentin
+93501	Beati
+93518	Quentin
+93564	Father
+93842	William de
+93844	la Marck
+93850	William
+93859	Scot
+93967	Christos Domini
+94093	William de
+94095	la Marck
+94316	Quentin
+94364	Duke Charles
+94432	William de
+94434	la Marck
+94443	Rouslaer
+94445	Pavillon
+94482	Quentin
+94533	Peter
+94588	William de
+94590	la Marck
+94704	Quentin
+94751	Prelate
+94824	William de
+94826	la Marck
+94848	Sacristan
+94978	Francis
+95007	Father Cherubin
+95053	Sacristan
+95087	Hayraddin
+95111	Quentin Durward
+95232	Hayraddin
+95299	Durward
+95309	Hayraddin
+95431	Quentin
+95459	Quentin
+95514	Quentin
+95563	BEN JONSON
+95568	ROBIN
+95571	Quentin
+95630	Quentin
+95653	Glen Houlakin
+95713	Quentin
+95725	Hayraddin
+95817	Durward
+95854	Quentin
+95889	Quentin
+95943	Andrew
+95949	Glen Isla
+96005	Countess Isabelle
+96067	Andrew
+96177	Scot
+96289	Hayraddin
+96337	Hayraddin
+96355	Durward
+96405	Hayraddin
+96686	Donner
+96742	Hayraddin
+96752	Scot
+96857	Teufel
+96883	Hayraddin
+96929	Hagel
+96966	Hayraddin
+97004	William de
+97006	la Marck
+97106	Bischoff
+97168	Teufel
+97335	Hayraddin
+97468	Heinrick
+97800	Hayraddin
+97857	Zamet
+97870	Heinrick
+97874	Hayraddin
+97894	King Louis
+97897	Duke Charles
+97899	of Burgundy
+97919	Louis
+97932	Charles
+97968	Scot
+98154	Tuisco
+98191	Quentin Durward
+98256	Hayraddin
+98322	Hayraddin
+98477	Duke Charles
+98499	Louis
+98508	Durward
+98610	William de
+98612	la Marck
+98670	-- Quentin
+98681	Louis
+98749	Countess
+98835	Quentin
+98955	Quentin Durward
+99041	William de
+99043	la Marck
+99140	Durward
+99196	Quentin
+99302	Quentin
+99321	Scot
+99404	Durward
+99475	Quentin
+99502	Caspar
+99504	Melchior
+99507	Balthasar
+99545	Quentin
+99606	William de
+99608	la Marck
+99619	Father Francis
+99798	Quentin
+99814	Melchior
+99816	Caspar
+99819	Balthasar
+100043	Quentin
+100099	Quentin
+100171	Quentin
+100242	SAMUEL JOHNSON
+100248	Quentin Durward
+100376	Quentin
+100607	Quentin
+100644	Quentin
+100721	Maugrabin
+100749	Quentin
+100760	Hayraddin
+100810	Quentin
+100882	Quentin
+100917	Klepper
+100926	Hayraddin
+100977	Klepper
+101022	Durward
+101138	Quentin
+101215	Quentin
+101261	Countess
+101304	Quentin
+101343	Quentin
+101465	Lady Hameline
+101516	Pliny
+101571	Quentin
+101585	Seignior Quentin
+101591	Countess Isabelle
+101634	Lady Hameline
+101689	Quentin
+101747	Countess Isabelle
+101754	Seignior Quentin
+101825	Quentin
+101834	Isabelle
+101871	Rhinegrave Godfrey
+101877	Countess Isabelle
+101893	Lady Hameline
+101989	Quentin
+102006	Hameline
+102041	Lady Hameline
+102108	Durward
+102202	Lady Hameline
+102221	Lady Isabelle
+102253	Durward
+102311	Countess Isabelle
+102329	Quentin
+102350	Durward
+102397	Louis
+102477	Lady Hameline
+102502	Louis
+102521	Lady Isabelle
+102599	Quentin
+102689	Durward
+102891	Quentin
+102906	Hayraddin
+102984	Hayraddin
+103039	Quentin
+103122	Quentin
+103144	Hayraddin
+103208	Quentin
+103244	Zingaro
+103269	Quentin
+103330	Hayraddin
+103374	Maugrabin
+103377	Quentin
+103419	Quentin
+103455	Hayraddin
+103464	Louis of
+103466	Valois
+103510	Quentin
+103601	Quentin
+103609	Zingaro
+103649	Louis
+103709	Quentin
+103756	Maes
+103806	Hayraddin
+103848	Quentin
+103859	Duke
+103865	William de
+103867	la Marck
+103968	Quentin
+104045	William de
+104047	la Marck
+104065	Hayraddin
+104069	Quentin
+104115	Maes
+104286	Maes
+104409	Quentin
+104429	Bishop
+104494	Louis
+104643	Bishop
+104718	Bishop
+104745	Bishop
+104755	Louis
+104763	Charles of
+104765	Burgundy
+104826	Croye
+104935	Bishop
+105062	Charles of
+105064	Burgundy
+105181	Quentin
+105213	Isabelle
+105291	Quentin
+105322	Quentin
+105391	JULIUS CAESAR
+105396	Lady Isabelle
+105410	Quentin
+105492	Quentin
+105520	Quentin
+105658	Quentin
+105669	Charlet
+105682	Louis
+105754	Hungarie
+105763	Hazlitt
+105793	Quentin
+105815	Hayraddin
+105830	Quentin
+105952	Hayraddin
+105989	Durward
+106020	Hayraddin
+106085	Quentin
+106303	Scot
+106307	Zingaro
+106317	Quentin Durward
+106370	Quentin
+106475	Hayraddin
+106551	Quentin
+106564	Zingaro
+106621	Zingaro
+106685	Quentin
+106745	Zingaro
+106836	Quentin
+106846	Charles
+106853	Louis
+106856	Ere Durward
+106868	Quentin
+106886	Hayraddin
+106911	Durward
+106946	Zingaro
+107025	Hayraddin
+107055	Marthon
+107082	Quentin
+107106	Hayraddin
+107151	Isabelle
+107219	Marthon
+107276	Isabelle
+107346	Bishop
+107355	Quentin
+107427	Durward
+107449	Quentin
+107505	Quentin
+107609	Quentin
+107787	Quentin
+107846	Lambert
+107867	Quentin
+107957	Quentin
+108044	Quentin
+108203	Quentin
+108213	Andrew
+108259	Quentin
+108263	Durward
+108285	Liegeois
+108331	Quentin
+108351	Paul
+108373	Quentin
+108388	Paul
+108421	Pavillon
+108433	Seignior Pavillon
+108438	Quentin
+108461	Rouslaer
+108576	Quentin
+108633	Rouslaer
+108690	Quentin
+108736	Lambert
+108747	Andrew
+108795	Quentin
+108811	Rouslaer
+108813	Pavillon
+108846	Archer of
+108848	Louis
+108853	Louis
+108886	Louis
+108900	Archer
+108924	Charles
+108984	Quentin
+109019	Dunois
+109029	Crawford
+109082	Louis
+109191	Quentin
+109365	Nikkel Blok
+109430	Claus Hammerlein
+109494	Quentin
+109497	Rouslaer
+109506	Pavillon
+109620	Stadthouse
+109656	Meinheers Rouslaer
+109714	Quentin
+109748	Quentin
+109829	Louis
+109862	Pavillon
+109919	Pavillon
+109959	Meinheer Pavillon
+109978	Quentin
+110002	Pavillon
+110161	Trudchen
+110203	Sieur Pavillon
+110261	Trudchen
+110267	Quentin
+110318	Archer
+110470	Quentin
+110611	Quentin
+110773	Quentin
+110849	Durward
+110902	Quentin
+111033	Quentin
+111084	Quentin
+111163	Quentin
+111223	Quentin
+111415	Duke Charles
+111480	Liegeois
+111494	Duke Philip
+111500	Charles
+111613	Seignior Stranger
+111764	Quentin Durward
+111825	Quentin
+111847	Quentin
+112068	Quentin
+112155	Isabelle
+112214	Macbeth
+112224	Durward
+112254	Quentin
+112560	Quentin
+112650	Marthon
+112652	Hayraddin
+112693	Quentin
+112883	Durward
+113227	Durward
+113369	Isabelle
+113550	Malvolio
+113671	King of
+113673	Hongrie
+113700	Quentin
+113742	Hayraddin
+113754	Quentin
+113787	Quentin Durward
+113832	Isabelle
+113840	Bishop
+113853	Quentin
+113902	Quentin
+114024	Marthon
+114027	Hayraddin
+114030	Isabelle
+114205	Quentin
+114242	Crawford
+114265	Hayraddin
+114315	Quentin
+114558	Quentin
+114727	Quentin
+114762	Hayraddin Maugrabin
+114819	Durward
+114842	Quentin
+114875	Maugrabin
+114946	William de
+114948	la Marck
+115020	Quentin
+115079	Bishop
+115151	Quentin
+115189	Quentin
+115242	Quentin
+115279	Sanglier
+115281	Sanglier
+115292	William de
+115294	la Marck
+115314	Bishop
+115361	Quentin Durward
+115375	Isabelle
+115483	Hayraddin
+115554	Hayraddin
+115581	Quentin
+115662	Quentin
+115666	Hayraddin
+115705	Quentin
+115746	Bishop
+115874	Quentin
+115914	Marthon
+115989	Hayraddin
+116023	Quentin
+116046	Hameline
+116088	Quentin
+116120	Isabelle
+116141	Hayraddin
+116229	Quentin
+116258	Hayraddin
+116292	Scot
+116305	Hayraddin
+116311	Countess Hameline
+116384	Hameline
+116442	Hayraddin
+116461	Zingaro
+116521	Hayraddin
+116626	Hayraddin
+116678	Marthon
+116769	Marthon
+116808	Hayraddin
+116942	Marthon
+116992	Hayraddin
+117121	Isabelle
+117128	De la
+117130	Marck
+117189	William
+117223	Rizpah
+117555	Quentin Durward
+117754	Quentin
+117895	Quentin
+117954	Scot
+118036	Quentin
+118156	Quentin
+118281	La Marck
+118309	Quentin
+118320	King Louis
+118337	William de
+118339	la Marck
+118371	Marthon
+118437	Quentin
+118540	Quentin
+118611	Quentin
+118644	Quentin
+118657	Archer
+118756	Quentin
+118872	Quentin
+118914	Isabelle
+118991	Quentin
+119135	Countess Isabelle
+119238	Durward
+119336	Quentin
+119351	Meinheer Pavillon
+119412	William de
+119414	la Marck
+119426	Pavillon
+119552	Charles the
+119554	Bold
+119768	Durward
+119777	Hermann Pavillon
+119827	Quentin
+120023	Meinheer Pavillon
+120073	Peterkin Geislaer
+120081	Peterkin
+120113	Pavillon
+120184	Peterkin
+120312	Peterkin
+120337	Peterkin
+120375	Lambert
+120383	Meister Aesop
+120392	Aesop
+120455	Master Pavillon
+120491	Bishop
+120546	Peterkin
+120550	Pavillon
+120578	Peterkin
+120609	Nikkel Blok
+120625	William de
+120627	la Marck
+120673	Peter
+120677	Pavillon
+120711	Geislaer
+120798	Peter
+120852	Quentin
+120864	Durward
+120936	Meinheer Pavillon
+120953	William de
+120955	la Marck
+121001	Peter
+121024	Scot
+121043	King Louis
+121079	William de
+121081	la Marck
+121171	Durward
+121316	Peter
+121357	Trudchen
+121366	Peter
+121397	Peter
+121402	Fleming
+121436	Pavillon
+121525	Peter
+121557	Trudchen
+121578	Quentin
+121594	Meinheer Pavillon
+121616	Charlemagne
+121670	Pavillon
+121688	Pavillon
+121698	De la
+121700	Marck
+121726	Croye
+121756	Isabelle
+121907	Peter
+121920	Peter
+121965	William de
+121967	la Marck
+122031	Quentin
+122038	Pavillon
+122065	Quentin
+122153	Peter
+122172	Peterkin
+122223	Quentin
+122228	Isabelle
+122345	Quentin
+122377	Quentin
+122387	Countess
+122423	Pavillon
+122539	Durward
+122542	Pavillon
+122583	Dick
+122588	Ashford
+122590	Dick
+122597	Cade
+122628	HENRY V
+122652	Quentin
+123044	De la
+123046	Marck
+123336	De la
+123338	Marck
+123411	Nikkel Blok
+123418	De la
+123420	Marck
+123570	Quentin
+123603	William de
+123605	la Marck
+123825	De la
+123827	Marck
+123926	De la
+123928	Marck
+124009	Conrade Horst
+124092	Quentin
+124134	Syndic Pavillon
+124199	Peter
+124258	De la
+124260	Marck
+124273	De la
+124275	Marck
+124348	Pavillon
+124389	De la
+124391	Marck
+124481	De la
+124483	Marck
+124573	Pavillon
+124670	De la
+124672	Marck
+124746	Quentin
+124825	Pavillon
+124829	Peter
+124879	Michael
+124906	Peter
+125034	Bishop
+125046	Louis
+125119	Quentin
+125127	Countess Isabelle
+125168	Durward
+125300	De la
+125302	Marck
+125367	Louis
+125430	-- Nikkel
+125449	De la
+125451	Marck
+125472	Louis
+125478	De la
+125480	Marck
+125534	William de
+125536	la Marck
+125566	William de
+125568	la Marck
+125736	De la
+125738	Marck
+125783	De la
+125785	Marck
+125851	Bishop
+125982	Louis
+126043	Bishop
+126049	Nikkel Blok
+126081	Bishop
+126155	Louis de
+126157	Bourbon
+126192	Charles
+126207	Louis
+126246	William de
+126248	la Marck
+126272	Louis
+126313	De la
+126315	Marck
+126390	Bishop
+126457	De la
+126459	Marck
+126473	Bishop
+126513	Lambert
+126520	William de
+126522	la Marck
+126697	De la
+126699	Marck
+126713	Quentin Durward
+126758	De la
+126760	Marck
+126765	Carl Eberson
+126814	De la
+126816	Marck
+126920	Quentin Durward
+126937	William de
+126939	la Marck
+126965	Carl
+127007	De la
+127009	Marck
+127052	Louis
+127058	Quentin
+127232	Quentin
+127244	Archer
+127255	William de
+127257	la Marck
+127320	William
+127358	Charles of
+127360	Burgundy
+127413	De la
+127415	Marck
+127570	Scot
+127585	Pavillon
+127616	William de
+127618	la Marck
+127631	Pavillon
+127659	Schonwaldt
+127820	Quentin
+127843	Quentin
+127849	Countess
+127922	Durward
+127944	Scot
+128012	Peter
+128080	Peter
+128111	Isabelle
+128142	Durward
+128166	Peter
+128193	Peter
+128195	Peter
+128305	Peter
+128362	Peter
+128446	Quentin
+128496	Master Squire
+128498	Archer
+128571	Quentin
+128718	Durward
+128807	Peter
+128855	Trudchen
+128912	Gertrude
+128939	Quentin
+128989	Pavillon
+129148	Quentin
+129213	XXIII
+129262	JULIUS CAESAR
+129297	Scot
+129379	Quentin
+129496	Mother Mabel
+129582	Isabelle
+129614	Pavillon
+129627	Mother Mabel
+129672	Mother Mabel
+129689	Isabelle
+129715	Pavillon
+129763	Durward
+129864	Trudchen
+129960	William de
+129962	la Marck
+129990	Countess
+130038	William de
+130040	la Marck
+130051	Bishop
+130141	Quentin Durward
+130438	Quentin
+130463	Quentin
+130468	Plessis
+130498	Pavillon
+130542	Fleming
+130596	Trudchen
+130638	Seignior Quentin
+130770	Bishop
+130784	Quentin
+130790	Pavillon
+130869	Isabelle
+131016	Seignior Durward
+131021	Isabelle
+131045	Quentin
+131050	Isabelle
+131055	Gertrude
+131201	Gertrude
+131290	Gertrude
+131339	Fleming
+131418	Hans Glover
+131465	Countess
+131548	Quentin
+131571	Peter
+131580	Scot
+131645	Mother Mabel
+131709	Peter
+131738	Mother Mabel
+131839	Gertrude
+131939	Pavillon
+131948	Rouslaer
+131955	Peter Geislaer
+131994	Hans Glover
+132000	Trudchen Pavillon
+132052	Trudchen
+132132	Quentin
+132140	Isabelle
+132209	Quentin
+132246	Quentin
+132274	Lady Isabelle
+132304	Fleming
+132327	Quentin
+132440	Louis
+132466	Charles
+132471	Quentin
+132522	Durward
+132529	Lady Isabelle
+132609	Quentin
+132766	Barbour
+132768	Bruce
+132831	Edward
+132838	Wenceslaus
+132848	Durward
+132962	Isabelle
+132970	Quentin
+133313	De la
+133315	Marck
+133335	Isabelle
+133438	Duke Charles
+133479	Quentin
+133557	Louis
+133591	Zamet Hayraddin
+133618	Duke Charles
+133674	Countess Hameline
+133703	Quentin
+133712	Countess
+133749	Countess Hameline
+133763	Countess Isabelle
+133806	Quentin
+133844	Isabelle
+133900	Hameline
+133923	William de
+133925	la Marck
+133995	Countess Isabelle
+134071	Quentin
+134108	Countess Hameline
+134128	Countess Isabelle
+134137	William de
+134139	la Marck
+134157	Countess Isabelle
+134196	Marthon
+134222	Zamet
+134224	Hayraddin Maugrabin
+134300	Louis
+134351	Quentin Durward
+134383	Durward
+134399	Marthon
+134413	Lady Hameline
+134463	Countess Isabelle
+134472	Quentin
+134505	William de
+134507	la Marck
+134510	Isabelle
+134626	Marthon
+134711	Hameline
+134721	Quentin
+134745	Marthon
+134771	Hayraddin
+134835	Hameline
+134843	Quentin
+134866	Lady Hameline
+134886	Marthon
+134937	Isabelle
+134952	Quentin
+134998	Marthon
+135010	Zamet
+135094	Hans Glover
+135264	Quentin
+135449	De la
+135451	Marck
+135626	Fynes Morrison
+135670	Quentin
+135677	Isabelle
+135737	Isabelle
+135758	Hans Glover
+135783	Fleming
+135935	Isabelle
+135996	Crevecoeur
+136010	Quentin Durward
+136040	Isabelle
+136053	Crevecoeur
+136096	Isabelle
+136109	Count Reinold
+136184	George of
+136186	Burgundy
+136198	Crevecoeur
+136209	Damian
+136218	-- Lay
+136226	-- Crevecoeur
+136265	Knight
+136361	Crevecoeur
+136387	Isabelle
+136539	Lady Isabelle
+136661	Court of
+136663	the Duke
+136688	Stephen
+136731	Count Stephen
+136763	Countess Isabelle
+136897	Crevecoeur
+136902	Countess Isabelle
+136958	Crevecoeur
+136964	Glover
+137017	Gertrude
+137055	Glover
+137161	Crevecoeur
+137175	Glover
+137259	Quentin
+137293	Crevecoeur
+137401	Durward
+137438	Quentin Durward
+137481	Seignior Archer
+137486	Crevecoeur
+137512	Quentin
+137543	Isabelle
+137586	Crevecoeur
+137689	Count of
+137691	Crevecoeur
+137762	Burgundy
+137877	Squire
+137960	Quentin
+138010	Crevecoeur
+138079	Isabelle
+138087	Crevecoeur
+138091	Quentin Durward
+138140	Lady Isabelle
+138149	Flanders
+138173	Plessis
+138199	Louis
+138204	Quentin
+138225	William de
+138227	la Marck
+138236	Scotchman
+138257	Louis
+138275	Crevecoeur
+138359	Louis
+138399	Archer
+138446	Crevecoeur
+138450	Louis
+138505	Crevecoeur
+138607	Durward
+138623	William de
+138625	la Marck
+138645	Crevecoeur
+138652	-- Schonwaldt
+138700	Louis
+138822	Countess Isabelle
+138992	Charles of
+138994	Burgundy
+139085	Philip Crevecoeur
+139088	Cordes
+139097	Lambert
+139128	Louis of
+139130	Bourbon
+139186	Lambert
+139202	Crevecoeur
+139241	Durward
+139269	William de
+139271	la Marck
+139323	Durward
+139372	De la
+139374	Marck
+139415	Crevecoeur
+139616	Quentin
+139669	Crevecoeur
+139718	Lady Hameline
+139751	Countess Isabelle
+139859	Arthur
+139911	Cocagne
+140067	Crevecoeur
+140084	Quentin
+140179	Durward
+140196	Hameline
+140231	Isabelle
+140279	William de
+140281	la Marck
+140289	Lambert
+140298	Crevecoeur
+140379	Quentin
+140463	Squire
+140481	Lady Isabelle
+140569	Arthur
+140686	Crevecoeur
+140700	Quentin
+140774	Amadis
+140776	Oriana
+140789	Amadis
+140814	Amadis
+140826	Oriana
+140841	Quentin
+140868	Crevecoeur
+140897	Crevecoeur
+141084	Crevecoeur
+141088	Quentin
+141148	Adam
+141160	Quentin
+141169	Glen Houlakin
+141192	Adam
+141238	Quentin
+141266	Archer
+141305	Crevecoeur
+141390	Crevecoeur
+141407	Crevecoeur
+141529	Duke Charles
+141565	Quentin Durward
+141621	Quentin
+141714	Crevecoeur
+141835	Quentin
+141883	Crevecoeur
+142026	Hainault
+142082	Quentin
+142119	Isabelle
+142198	Quentin
+142306	Durward
+142403	Crevecoeur
+142425	Durward
+142495	Quentin
+142688	Isabelle
+142716	Quentin Durward
+142791	Quentin
+142807	Crevecoeur
+142824	Scot
+142973	Quentin
+143003	King Louis
+143020	Crevecoeur
+143148	Maxence
+143162	Perrone
+143263	Crevecoeur
+143373	Crevecoeur
+143415	Count of
+143417	Crevecoeur
+143452	Crevecoeur
+143530	Charles
+143548	Crevecoeur
+143586	Crevecoeur
+143604	Seigneur
+143720	Philip de
+143722	Comines
+143732	Duke Charles
+143734	the Bold
+143747	Crevecoeur
+143764	Baron D'Hymbercourt
+143772	Philip de
+143774	Comines
+143826	Matthieu d'Arves
+143858	Monsieur Petitot
+143863	Philip de
+143865	Comines
+143881	Charles
+143885	Margaret
+143921	Prince of
+143923	Orange
+144008	Imbercourt
+144031	Mary of
+144033	Burgundy
+144037	Charles the
+144039	Bold
+144123	Noah
+144134	Crevecoeur
+144180	Comines
+144207	Crevecoeur
+144214	Louis
+144276	D'Hymbercourt
+144300	Edward
+144315	Crevecoeur
+144338	Comines
+144358	Edward
+144376	Black Prince
+144442	Comines
+144525	Montjoie
+144539	Louis
+144589	Louis
+144606	Charles
+144608	Duke
+144640	Crevecoeur
+144661	Plessis
+144668	Cardinal Balue
+144691	Louis
+144734	Louis
+144764	D'Hymbercourt
+144830	Crevecoeur
+144864	Louis
+144988	Louis
+145070	George
+145126	Charles
+145132	Louis
+145168	Charles
+145178	Louis
+145195	Charalois
+145260	Louis
+145282	Charles
+145315	-- S.
+145317	-RSB-
+145331	Crevecoeur
+145354	D'Hymbercourt
+145381	Galeotti
+145395	Crevecoeur
+145438	Monsieur
+145460	Crevecoeur
+145514	D'Hymbercourt
+145518	Louis
+145566	Oliver
+145622	Crevecoeur
+145643	Duke
+145673	Louis
+145685	Giles Orthen
+145700	De Lau
+145703	Pencil de
+145705	Riviere
+145767	Crevecoeur
+145818	Comines
+145835	Charles of
+145837	Burgundy
+145930	Charles
+145934	Le Glorieux
+145943	Louis
+146020	Charles
+146072	Crevecoeur
+146092	Crevecoeur
+146177	Louis
+146195	Peronne
+146239	Quentin
+146513	Francis
+146519	Charles
+146543	Charles of
+146545	Burgundy
+146580	Louis
+146779	Louis
+147119	Louis
+147249	Philip
+147253	Duke Charles
+147460	Mary
+147545	Duke Philip
+147745	Joachim
+148022	Joan
+148073	Duke Charles
+148114	Louis
+148130	Joan
+148188	Charles
+148294	Louis
+148368	Louis
+148489	Duke Charles
+148519	Scott
+148525	De Comines
+148535	Louis
+148632	Charles
+148709	Shakespeare
+148711	Richard III
+148719	Martin
+148788	George
+148868	Peronne
+149062	George
+149248	Paul
+149254	Paul
+149258	Peter
+149297	King Louis
+149305	Louis de
+149307	Luxembourg
+149317	Paul
+149323	Mary of
+149325	Embrun
+149359	George
+149494	Quentin
+149517	Charles
+149646	Louis
+149856	Le Glorieux
+149971	Louis
+149980	Charles
+150027	Louis
+150101	Comines
+150116	Andrew
+150165	Louis
+150178	Andrew
+150211	Louis
+150313	D'Hymbercourt
+150409	Seignior Philip
+150481	Louis
+150565	Quentin Durward
+150570	Peronne
+150622	Charlemagne
+150676	King
+150729	John
+150859	Louis
+150953	Crawford
+150960	Crawford
+150966	Crawford
+151025	Crawford
+151152	Crawford
+151189	John of
+151191	Crawford
+151220	Crawford
+151232	Earl Tineman
+151236	Earl of
+151238	Douglas
+151289	Crawford
+151298	Duke
+151307	Crawford
+151332	Scot
+151352	Le Balafre
+151375	Archer
+151480	Balafre
+151563	Balafre
+151575	Quentin
+151621	Louis
+151683	Balafre
+151694	Charlot
+151771	Le Balafre
+151815	Oliver
+151842	Louis
+151906	Durward
+151969	Louis
+151983	Charlot
+152002	Charlot
+152028	Gascon
+152041	Louis
+152227	Louis
+152235	Martius Galeotti
+152292	Louis
+152330	Galeotti
+152348	Louis
+152372	Louis
+152437	Louis
+152457	Oliver
+152557	Oliver le
+152559	Diable
+152720	King Louis
+152742	Oliver
+152803	Oliver
+152849	Oliver
+152922	Duke Charles
+152932	Count de
+152934	Charalois
+152942	Duke Philip
+152947	Dauphin
+153166	William
+153198	Oliver
+153212	Oliver
+153256	Oliver
+153290	Countess
+153383	Rousalaer
+153385	Pavillon
+153421	Oliver
+153615	De la
+153617	Marck
+153628	Oliver
+153659	Oliver
+153663	Louis
+153706	William de
+153708	la Marck
+153746	Galeotti
+153757	De la
+153759	Marck
+153772	Archer
+153843	Oliver
+153921	Oliver
+153956	Louis
+153975	Oliver
+154026	Oliver
+154218	Oliver
+154337	Oliver
+154385	Charles
+154413	Oliver
+154624	Charles
+154716	Louis
+154752	Charles
+154960	Louis
+154985	Bretagne
+155025	Louis
+155093	Oliver
+155277	Louis
+155306	Charles
+155310	D'Hymbercourt
+155380	Charles
+155444	Louis
+155520	Burgundy
+155673	Louis
+155731	Count de
+155733	Crevecoeur
+155744	Plessis
+155749	Louis
+155798	Bishop
+155806	William de
+155808	la Marck
+155924	Louis
+156006	Charles
+156168	Louis
+156272	Gueldres
+156285	Le Glorieux
+156308	Charles
+156397	Louis
+156418	Henry
+156464	Louis
+156527	Tiel Wetzweiler
+156599	Charles
+156630	Tiel Wetzweiler
+156728	Charles
+156766	Le Glorieux
+157031	Charles
+157034	Louis
+157079	Charles
+157098	Charles
+157102	Le Glorieux
+157113	Charles
+157121	Sieur D'Hymbercourt
+157124	De Comines
+157223	D'Hymbercourt
+157288	Philip de
+157290	Comines
+157297	D'Hymbercourt
+157323	George D'Hymbercourt
+157362	Wild Huntsman
+157426	D'Hymbercourt
+157593	De Comines
+157613	Crevecoeur
+157658	D'Hymbercourt
+157698	D'Hymbercourt
+157711	Prince
+157744	De Comines
+157766	King
+157770	Charles
+157827	Crevecoeur
+157997	Louis
+158019	Crevecoeur
+158150	Crevecoeur
+158216	Louis
+158311	William de
+158313	la Marck
+158320	Liegeois
+158380	Crevecoeur
+158433	William de
+158435	la Marck
+158524	Louis
+158781	Louis
+158839	Dunois
+158857	Duke
+158940	Dunois
+158975	Louis
+159047	Louis
+159109	Crawford
+159158	Louis
+159285	Andrew
+159334	Crawford
+159408	Crevecoeur
+159509	Crevecoeur
+159558	Crevecoeur
+159618	Louis
+159677	Crawford
+159804	Crawford
+159868	Crawford
+159967	Duke
+159990	Crevecoeur
+160116	Louis
+160129	Dunois
+160172	Crawford
+160202	Louis
+160210	Crawford
+160312	Louis
+160471	Crawford
+160483	Crevecoeur
+160564	Louis of
+160566	Valois
+160596	Earl Herbert
+160623	Crawford
+160707	D'Hymbercourt
+160764	Louis
+160892	Crevecoeur
+160898	Marshal of
+160900	the Duke
+160982	Crawford
+161012	Plessis
+161056	Oliver le
+161058	Dain
+161068	Balafre
+161096	Martius Galeotti
+161116	Count de
+161118	Crevecoeur
+161121	Galeotti
+161222	Louis
+161235	Crevecoeur
+161241	Louis
+161310	Crevecoeur
+161415	Louis
+161428	Duke Charles
+161439	Louis
+161496	Louis
+161511	Charles
+161553	Louis
+161559	Louis
+161576	Charles
+161611	Charles
+161659	Louis
+161699	Louis
+161734	Charlemagne
+161751	Nathaniel Wraxall
+161815	King Louis
+161878	Dante Alighieri
+161911	Dante
+162035	Earl Herbert
+162045	Louis
+162153	Crevecoeur
+162230	Flanders
+162259	Balafre
+162382	Oliver le
+162384	Dain
+162444	Le Glorieux
+162508	Crevecoeur
+162764	Louis
+162786	Herbert
+163064	Charles
+163141	King
+163176	Crevecoeur
+163211	Plessis
+163215	Crevecoeur
+163256	Louis
+163266	Crevecoeur
+163291	Mornay
+163296	Crevecoeur
+163325	Louis
+163331	Crevecoeur
+163352	Crevecoeur
+163375	Crevecoeur
+163529	Crevecoeur
+163533	Louis
+163591	Crevecoeur
+163634	Le Glorieux
+163649	Louis
+163665	Crevecoeur
+163725	Solomon
+163729	Louis
+163750	Le Glorieux
+163799	Le Glorieux
+163847	Count of
+163849	Crevecoeur
+163925	Prithee
+163939	Martius Galeotti
+163976	Jan Dopplethur
+164012	Seignior de
+164014	Crevecoeur
+164018	Louis
+164136	Galeotti
+164169	Crevecoeur
+164195	Louis
+164261	Crevecoeur
+164353	Louis
+164388	Oliver
+164390	Tristan
+164400	Le Balafre
+164469	Oliver
+164471	Tristan
+164623	Mornay
+164679	Louis the
+164681	Fool
+164683	Louis the
+164685	Driveller
+164709	Liegeois
+164762	Charles of
+164764	Burgundy
+164794	Martius
+164817	Balue
+164963	Louis
+164970	Cardinal La
+164972	Balue
+165067	Louis
+165198	Clery
+165238	Clery
+165245	Madonna
+165265	Clery
+165449	Charles
+165467	John d'Angely
+165596	Lady of
+165598	Clery
+165880	John
+165947	Louis
+166058	Clery
+166123	Le Balafre
+166230	Martius Galeotti
+166304	Le Balafre
+166437	Balafre
+166558	Le Balafre
+166675	Le Balafre
+166713	Andrew
+166936	Peronne
+166940	Le Balafre
+167038	Galeotti
+167092	Balafre
+167349	Louis
+167400	Oliver
+167419	Dieu
+167461	Trois Eschelles
+167464	Petit Andre
+167623	Martius Galeotti
+167676	Tristan
+167788	Louis
+167926	Peter
+167930	Lady of
+167932	Clery
+168051	Galeotti
+168121	Louis
+168140	Louis
+168448	Louis
+168466	Trois Eschelles
+168487	Oliver le
+168489	Dain
+168498	Le Balafre
+168607	Trois Eschelles
+168723	Petit Andre
+168812	Martius Galeotti
+168880	Trois Eschelles
+168951	Trois Eschelles
+169009	Trois Eschelles
+169033	Francis
+169060	Francis
+169098	Petit Andre
+169229	Petit Andre
+169261	Trois Eschelles
+169366	Louis
+169426	Dunois
+169432	Charles
+169485	Galeotti
+169522	Oliver
+169531	Ludovic Lesly
+169656	Louis
+169674	Le Glorieux
+169681	Martius Galeotti
+169799	Martius
+169894	Louis
+169908	Martius
+170008	Galeotti
+170027	Le Glorieux
+170048	Crevecoeur
+170061	Charles of
+170063	Burgundy
+170072	Louis
+170170	Martius Galeotti
+170254	Martius
+170347	Le Glorieux
+170406	Herbert
+170420	Martius Galeotti
+170578	Martius
+170582	Louis
+170618	Galeotti
+170697	Martius Galeotti
+171044	Plessis
+171157	Martius
+171202	Capet
+171214	Hugh Capet
+171228	Denis
+171237	Louis
+171446	Louis of
+171448	Valois
+171602	Scot
+171817	Hayraddin Maugrabin
+172006	Galeotti
+172017	Louis
+172068	Galeotti
+172079	Louis
+172090	Martius
+172126	Scott
+172130	Tiberius
+172152	Louis
+172195	Louis
+172268	Louis
+172277	Cottier
+172305	Louis
+172380	Louis
+172399	-- Saidst
+172422	Galeotti
+172489	Martius Galeotti
+172544	Scot
+172636	Martius
+172660	Galeotti
+172687	Galeotti
+172691	Louis
+172766	Martius Galeotti
+172803	Matthias Corvinus
+172865	Scot
+172908	Quentin Durward
+172957	Louis
+172963	Galeotti
+173135	Galeotti
+173145	Louis
+173236	Le Balafre
+173348	Trois Eschelles
+173364	Petit Andre
+173392	Francis
+173427	Petit Andre
+173484	Martius
+173680	Oliver
+173787	Petit Andre
+173951	Herbert
+173976	Oliver
+174049	Oliver
+174108	Oliver
+174116	Crevecoeur
+174133	Louis
+174193	Crevecoeur
+174265	Louis
+174331	D'Hymbercourt
+174333	De Comines
+174392	Louis
+174611	George
+174614	Andrew
+174634	De la
+174636	Marck
+174680	Duke
+174701	Louis
+174874	Charles
+174991	Louis
+175011	D'Hymbercourt
+175041	Crevecoeur
+175109	Peronne
+175142	Charles
+175149	Louis
+175157	Duke
+175213	Fox
+175282	De Comines
+175312	Louis
+175482	Louis
+175542	D'Hymbercourt
+175544	Crevecoeur
+175633	Crevecoeur
+175642	Louis
+175661	Charles
+175682	Crevecoeur
+175706	Denis
+175714	Louis
+175733	Crevecoeur
+175757	Louis
+175875	George
+176111	Louis
+176136	D'Hymbercourt
+176138	Crevecoeur
+176151	De Comines
+176162	Crevecoeur
+176218	Crevecoeur
+176300	Bridget
+176370	Lady Hameline
+176402	Duke Charles
+176432	Countess
+176438	Charles
+176447	Louis
+176467	Hameline
+176488	Zamet Maugrabin
+176518	Charles
+176530	Louis
+176561	Crevecoeur
+176579	Comines
+176665	Philip
+176712	De Comines
+176748	Louis
+176823	De Comines
+176855	Duke Charles
+176857	of Burgundy
+176875	Louis
+176925	Philip de
+176927	Comines
+176932	Charles of
+176934	Burgundy
+176950	Louis
+177066	De Comines
+177095	Prince
+177099	Louis
+177168	Philip
+177212	De Comines
+177258	Louis
+177296	Plessis
+177316	De Comines
+177324	Plessis
+177377	Louis
+177436	De Comines
+177493	Louis
+177504	William de
+177506	la Marck
+177522	Louis
+177610	Duke
+177627	Louis
+177737	Philip
+177753	Charles
+177759	Duke of
+177761	Guyenne
+177779	Charlemagne
+177847	Philip de
+177849	Comines
+177939	Louis
+177997	De Comines
+178099	Louis
+178263	Duke
+178322	De Comines
+178390	Philip
+178430	Duke
+178444	De Comines
+178461	Countess Isabelle
+178463	de Croye
+178658	De Comines
+178716	Louis
+178776	Joan
+178836	Philip de
+178838	Comines
+178896	Isaac
+178900	Abraham
+178924	Abraham
+178931	Philip
+179032	De Comines
+179060	Louis
+179091	Charles of
+179093	Burgundy
+179132	Philip de
+179134	Comines
+179230	Louis
+179378	Philip de
+179380	Comines
+179588	Charles of
+179590	Burgundy
+179637	Louis
+179749	Charles
+179753	Louis
+179827	Louis
+179844	Louis
+179953	Philip
+180009	De Comines
+180048	Louis
+180118	De Comines
+180406	Charles of
+180408	Burgundy
+180415	De Comines
+180602	Philip
+180772	Philip
+180795	De Comines
+180825	William de
+180827	la Marck
+180918	Duke Charles
+180984	De Comines
+180988	Charles
+181029	Philip
+181061	Duke Charles
+181095	Majesty
+181124	Philip
+181142	De Comines
+181185	Charles
+181276	De Comines
+181307	Joan
+181350	Joan
+181371	Philip
+181430	De Comines
+181464	Philip
+181482	De Comines
+181529	Isabelle de
+181531	Croye
+181563	Louis
+181608	Joan
+181664	Philip
+181698	Philip
+181734	Crevecoeur
+181779	Quentin Durward
+181793	De Comines
+181824	Martin
+181829	Julian
+181852	Galeotti
+181889	Quentin
+181914	Crevecoeur
+181935	Duke
+181984	Joan
+182037	Philip
+182148	William de
+182150	la Marck
+182173	La Marck
+182177	Hameline
+182213	La Marck
+182241	De Comines
+182253	La Marck
+182311	Philip
+182377	De Comines
+182478	Philip
+182486	Charles the
+182488	Simple
+182522	Philip
+182555	Louis of
+182557	Valois
+182576	Philip
+182629	Martin
+182631	Oliver
+182633	Balue
+182663	Philip
+182737	Louis
+182741	Philip
+182858	Charles
+182949	Scott
+182978	Louis
+182988	Louis
+183028	Charles VIII
+183147	Oliver le
+183149	Dain
+183165	Louis
+183315	Duke
+183343	Oliver
+183380	Count de
+183382	Crevecoeur
+183388	Crawford
+183392	Le Balafre
+183396	Quentin Durward
+183435	Crevecoeur
+183455	Louis
+183465	Crawford
+183473	Archer
+183503	Crawford
+183510	Durward
+183564	Le Balafre
+183618	Ludovic
+183641	Wallace Wight
+183661	Quentin
+183695	Le Balafre
+183705	Crawford
+183762	Ludovic
+183766	Crawford
+183800	King Louis
+183821	Duke Charles
+183833	Le Balafre
+183876	Quentin
+183991	Le Balafre
+183999	Crawford
+184061	Ludovic
+184066	Crawford
+184102	Ludovic
+184132	Crawford
+184194	Quentin
+184283	Crawford
+184338	Crawford
+184346	Ludovic Lesly
+184396	Ludovic
+184400	Crawford
+184431	Quentin
+184495	-- Kens
+184515	Quentin
+184525	Martius Galeotti
+184594	Crawford
+184598	Oliver
+184604	Galeotti
+184642	Le Balafre
+184655	Ludovic Lesly
+184679	Ludovic
+184749	Ludovic Lesly
+184761	Saunders Souplesaw
+184768	Glen Houlakin
+184773	Galeotti
+184824	Quentin
+184859	Saunders
+184913	Quentin
+184921	Saunders
+184931	Crawford
+184951	Ludovic
+185053	Ludovic Lesly
+185087	Quentin
+185092	Crawford
+185184	Crawford
+185224	Durward
+185235	Crevecoeur
+185243	Countess Isabelle
+185245	of Croye
+185285	Louis
+185406	Andrew
+185411	Crevecoeur
+185423	Duke Charles
+185479	Ludovic Lesly
+185512	Crawford
+185519	Crawford
+185527	Le Balafre
+185608	Crevecoeur
+185710	Stephen
+185825	Durward
+185828	Crawford
+185853	de Crevecoeur
+185895	Quentin
+185920	Count de
+185922	Crevecoeur
+185927	Crawford
+186018	Quentin
+186057	Crawford
+186151	Crevecoeur
+186166	Archer
+186180	Isabelle
+186194	Quentin
+186308	Durward
+186330	Quentin
+186394	Durward
+186440	Crevecoeur
+186457	Isabelle
+186523	Quentin
+186620	Isabelle
+186658	Quentin
+186688	Isabelle
+186694	Durward
+186741	Quentin
+186793	Louis
+186845	De la
+186847	Marck
+186906	Countess Isabelle
+186943	King Louis
+187012	Durward
+187020	Louis
+187159	Countess Isabelle
+187172	Quentin
+187218	Durward
+187277	Quentin
+187303	Crevecoeur
+187305	Crawford
+187366	Isabelle
+187468	Quentin
+187497	Count of
+187499	Crevecoeur
+187512	-- Quentin
+187514	Durward
+187575	Crevecoeur
+187611	Crawford
+187663	Crevecoeur
+187725	Crevecoeur
+187768	Crevecoeur
+187792	Crevecoeur
+187903	Crawford
+188045	Duke Charles
+188067	Herbert
+188078	Louis
+188194	Louis
+188482	Herbert
+188508	Charles
+188546	Louis
+188704	Toison d'Or
+188718	Earl Herbert
+188730	Louis
+188779	Louis
+188916	Duke Charles
+189019	Lady Hameline
+189497	William de
+189499	la Marck
+189514	Burgundy
+189804	Louis
+190002	Charles
+190089	Countess Isabelle
+190111	Crevecoeur
+190135	Charles
+190235	Charles
+190243	Isabelle
+190314	Crevecoeur
+190346	Duke
+190406	Crevecoeur
+190500	Isabelle
+190544	Charles
+190570	Countess Isabelle
+190586	Charles
+190589	Louis
+190626	Louis
+190653	Lady Hameline
+190710	Hayraddin Maugrabin
+190724	Maugrabin
+190727	Zamet
+190810	Crevecoeur
+190911	Louis
+190976	Bishop
+191353	King Louis
+191364	Helen
+191371	Menelaus
+191418	Louis
+191440	Charles
+191467	Crevecoeur
+191499	Noble Duke
+191625	Louis
+191669	Charles
+191674	Countess Isabelle
+191759	George
+191765	Duke Charles
+191835	Countess Isabelle
+191868	Crevecoeur
+191874	Prince
+191893	Quentin Durward
+191908	Duke
+192029	Louis
+192097	Louis
+192099	Quentin
+192258	Archer
+192300	Dunois
+192319	Quentin
+192335	Duke Charles
+192379	Quentin
+192446	Quentin
+192562	Durward
+192590	Quentin Durward
+192595	Hayraddin Maugrabin
+192663	William de
+192665	la Marck
+192724	Louis
+192753	Quentin
+192781	Louis
+192802	Durward
+192839	Quentin
+192865	Louis
+193030	Quentin Durward
+193042	Louis
+193069	Schonwaldt
+193126	Charles
+193136	Durward
+193156	Archer
+193195	Prince
+193225	Louis
+193249	Quentin
+193380	Countess Isabelle
+193535	Crevecoeur
+193566	Louis
+193597	Charles
+193640	De Comines
+193729	Prospero
+193762	Liegeois
+193835	Louis XI
+193884	Charles
+194175	Charles the
+194177	Bold
+194186	Rouge Sanglier
+194200	William de
+194202	la Marck
+194219	Bishop
+194229	Charles
+194259	Honourable Countess
+194261	Hameline
+194279	Duke Charles
+194352	Charles of
+194354	Burgundy
+194409	Bishop
+194578	Bishop
+194594	Duke Charles
+194622	Louis
+194627	Bishop
+194689	William de
+194691	la Marck
+194695	Prince Bishop
+194753	Prince
+194755	Bishop
+194804	Isabelle
+194844	Lady Hameline
+194935	Isabelle
+194982	Crevecoeur
+195061	Rouge Sanglier
+195133	Charles of
+195135	Burgundy
+195255	George
+195271	Louis
+195287	Charles
+195341	William de
+195343	la Marck
+195371	Louis
+195381	De la
+195383	Marck
+195422	Charles
+195491	Crevecoeur
+195493	D'Hymbercourt
+195549	Toison
+195669	Rouge Sanglier
+195742	Duke
+195812	Toison d'Or
+195825	Rouge Sanglier
+195898	Rouge Sanglier
+195934	Toison
+196012	Rouge Sanglier
+196147	Le Glorieux
+196186	Rouge Sanglier
+196235	Toison
+196256	Childebert
+196267	Gandemar
+196338	Le Glorieux
+196367	Louis
+196380	Charles
+196425	Le Glorieux
+196437	Toison
+196512	Louis
+196558	George
+196566	Louis
+196602	Edward
+196645	Louis
+196663	Edward IV
+196739	Louis
+196760	Ferne
+196791	Louis XI
+196829	Edward IV
+196843	Quentin
+196943	Ferne
+196964	Louis
+197095	Rouge Sanglier
+197103	-- Haloo
+197125	Rubens
+197161	Rubens
+197184	Marie de
+197186	Medicis
+197202	Philip IV
+197207	Charles
+197235	King Louis
+197282	Duke Charles
+197308	-- Hyke
+197311	Talbot
+197324	Berner
+197478	Louis
+197484	Sanglier
+197584	Charles
+197594	King Louis
+197732	Duke
+197869	Duke
+197887	Oliver le
+197889	Dain
+197893	King Louis
+197907	Hayraddin Maugrabin
+197932	Louis
+197955	Oliver
+198058	Duke Charles
+198197	Louis
+198216	Louis
+198218	Louis
+198266	Louis
+198614	La Marck
+198630	Louis
+198780	Countess Isabelle
+198782	of Croye
+198819	Joan
+198855	Charles
+199036	Louis
+199260	Herbert
+199287	Duke Charles
+199412	Hayraddin Maugrabin
+199445	Trois Eschelles
+199448	Petit Andre
+199481	Allegro
+199485	Penseroso
+199495	Milton
+199516	Garrick
+199570	Petit Andre
+199611	Hayraddin
+199622	Quentin Durward
+199670	Hayraddin
+199697	Trois Eschelles
+199706	Hayraddin
+199721	Trois Eschelles
+199782	Hayraddin
+199795	Petit Andre
+199857	Trois Eschelles
+199934	Trois Eschelles
+199939	Quentin Durward
+199958	King Louis
+199969	Quentin
+200129	Quentin
+200159	Petit Andre
+200171	Archer
+200246	Petit Andre
+200293	Archer
+200326	Trois Eschelles
+200346	Petit Andre
+200371	Hayraddin
+200373	Durward
+200394	Quentin
+200444	Quentin
+200467	Hayraddin
+200611	Durward
+200655	Quentin
+200800	Durward
+200818	Hayraddin
+200862	Quentin
+200912	Hayraddin
+200953	Hameline
+200980	Charles
+201005	Quentin
+201070	Durward
+201086	Hayraddin
+201102	Hameline
+201169	Quentin
+201196	Hayraddin
+201234	De la
+201236	Marck
+201282	Durward
+201306	Marck
+201312	Louis
+201316	Marthon
+201359	Louis
+201384	William de
+201386	la Marck
+201451	Charles
+201494	Louis
+201497	Denis Montjoye
+201528	King Louis
+201594	Duke Charles
+201643	Quentin
+201676	Hayraddin
+201713	Quentin
+201744	Klepper
+201797	Klepper
+201894	Klepper
+201928	Klepper
+201942	Quentin
+202117	Quentin
+202128	Hayraddin
+202197	Quentin
+202373	Quentin Durward
+202444	Klepper
+202479	Quentin
+202498	Klepper
+202506	Hayraddin
+202595	Quentin Durward
+202657	Louis
+202665	De la
+202667	Marck
+202688	Duke
+202749	Charles
+202782	Crevecoeur
+202793	Duke
+202831	Balue
+202972	Louis
+203014	Charles of
+203016	Burgundy
+203064	Louis
+203084	Isabelle
+203132	Crevecoeur
+203136	Monsieur d'Orleans
+203194	Louis
+203272	Crevecoeur
+203295	Charles of
+203297	Burgundy
+203304	Louis
+203425	Louis
+203637	Joan
+203681	Charles
+203734	Duke
+203740	Isabelle
+203791	King Louis
+203819	Countess
+203924	George
+204129	Lady Isabelle
+204209	Crevecoeur
+204328	Dunois
+204362	Isabelle
+204396	Isabelle
+204465	-- Monseigneur
+204467	d'Orleans
+204494	Prince
+204646	Duke
+204653	Crevecoeur
+204727	Duke
+204807	Louis
+204854	Crevecoeur
+204883	Bishop
+204964	Reinold
+205024	Reinold
+205085	St. George
+205134	Isabelle
+205155	Crawford
+205218	Crevecoeur
+205259	De la
+205261	Marck
+205269	Crevecoeur
+205274	Duke
+205298	Stephen
+205316	Crevecoeur
+205339	Stephen
+205358	Dunois
+205416	Isabelle
+205443	Dunois
+205487	Le Balafre
+205507	Saunders Souplejaw
+205554	Le Glorieux
+205581	Louis
+205623	Crevecoeur
+205629	Isabelle
+205646	Holy Virgin
+205663	Ursula
+205669	Crevecoeur
+205754	Isabelle
+205766	Ursula
+205797	Carpacelo
+205800	Hans Memling
+205866	GOLDSMITH
+205872	Louis
+205894	Balue
+205949	Louis
+206085	Oliver
+206165	Louis
+206237	Countess Crevecoeur
+206255	Charles
+206503	Isabelle
+206522	Quentin Durward
+206568	Crevecoeur
+206588	Crevecoeur
+206592	Dunois
+206625	Isabelle
+206676	Crevecoeur
+206748	William
+206791	William
+206804	Godfrey
+206824	Reinold
+206874	Isabelle
+206920	Isabelle
+206923	Earl Eberson
+206941	Lady Hameline
+206959	Isabelle
+206969	William de
+206971	la Marck
+206975	Lady Hameline
+206990	Countess Isabelle
+207018	Crevecoeur
+207064	Crevecoeur
+207087	De la
+207089	Marck
+207228	Isabelle
+207291	Isabelle
+207361	La Marck
+207373	William
+207487	Isabelle
+207515	Quentin Durward
+207525	Lady Hameline
+207592	Scot
+207650	Durward
+207662	Hayraddin
+207669	De la
+207671	Marck
+207800	Louis
+207802	Charles
+207889	Bishop
+207909	Charles
+208011	Charles
+208022	Louis
+208083	William de
+208085	la Marck
+208216	Louis
+208264	De la
+208266	Marck
+208358	Duke Charles
+208377	Louis
+208426	D'Hymbercourt
+208428	Crevecoeur
+208514	D'Hymbercourt
+208609	Duke Charles
+208635	D'Hymbercourt
+208730	D'Hymbercourt
+208918	D'Hymbercourt
+209118	Duke
+209128	D'Hymbercourt
+209130	Crevecoeur
+209294	Louis
+209371	Crawford
+209383	Le Balafre
+209489	Charles
+209500	Quentin Durward
+209533	Louis
+209546	William de
+209548	la Marck
+209570	Louis
+209677	Louis
+209725	-- Dunois
+209806	Charles
+209810	Le Glorieux
+209835	Louis
+209897	Louis
+209988	Crevecoeur
+210011	Louis
+210019	Oliver le
+210021	Dain
+210070	De la
+210072	Marck
+210084	Crevecoeur
+210125	Oliver
+210148	De la
+210150	Marck
+210158	Oliver
+210191	Oliver
+210263	Crawford
+210265	Quentin Durward
+210321	Martius Galeotti
+210366	Oliver
+210376	Clery
+210379	Monseigneur St.
+210381	Martin
+210480	Marechal
+210485	Seigneur D'Hymbercourt
+210553	Jean de
+210555	Vilde
+210591	Charles
+210626	Louis
+210881	Duke
+210908	Louis
+211237	Quentin Durward
+211252	La Marck
+211428	Quentin
+211552	Quentin
+211654	Crawford
+211744	Crawford
+211752	Cunningham
+211773	Durward
+211803	Quentin
+211811	Crawford
+211855	Quentin
+211911	Quentin
+212045	Quentin
+212067	Vive Li
+212070	Li
+212101	Quentin
+212167	Crawford
+212226	Crawford
+212245	Louis
+212301	Crawford
+212411	Quentin
+212455	Durward
+212601	Denis Montjoie
+212612	Rouge Sanglier
+212684	Louis
+212700	Le Balafre
+212703	Quentin
+212718	D'Hymbercourt
+212720	Crevecoeur
+213066	Le Balafre
+213069	Quentin
+213169	Crawford
+213297	Crawford
+213299	Dunois
+213381	Dunois
+213436	Quentin
+213449	Dunois
+213544	-- Orleans
+213656	Dunois
+213706	Quentin
+213802	Durward
+213823	Dunois
+213836	Dunois
+213850	William de
+213852	la Marck
+213865	Quentin
+213884	-- Balafre
+213898	Dunois
+213905	Quentin Durward
+213956	De la
+213958	Marck
+214076	Liegeois
+214080	Quentin
+214124	Le Balafre
+214134	Quentin
+214157	De la
+214159	Marck
+214228	Quentin
+214281	Quentin
+214355	Durward
+214423	De la
+214425	Marck
+214555	De la
+214557	Marck
+214588	Quentin
+214592	Le Balafre
+214626	Quentin
+214630	Marck
+214648	Scot
+214725	De la
+214727	Marck
+214903	De la
+214905	Marck
+214932	Sanglier
+214991	Quentin
+215037	De la
+215039	Marck
+215097	Quentin
+215137	Le Balafre
+215159	Wallace
+215199	Archer
+215284	Quentin
+215331	Gertrude Pavillon
+215388	Quentin
+215390	De la
+215392	Marck
+215421	De la
+215423	Marck
+215462	Balafre
+215480	De la
+215482	Marck
+215489	Quentin
+215500	Gertrude
+215530	Durward
+215584	Gertrude
+215672	Isabelle
+215733	Quentin
+215750	Gertrude
+215752	Pavillon
+215825	Louis
+215920	Crawford
+215937	Le Balafre
+215974	Ludovic
+216021	Le Balafre
+216105	Crawford
+216126	Ludovic
+216173	Crawford
+216220	Le Balafre
+216321	Louis
+216323	Charles
+216393	Crevecoeur
+216402	De la
+216404	Marck
+216444	De la
+216446	Marck
+216472	Charles
+216510	Crawford
+216518	Le Balafre
+216590	De la
+216592	Marck
+216669	La Marck
+216709	John
+216714	La Marck
+216760	Maximilian
+216796	Crawford
+216800	Louis
+216803	Charles
+216832	Ludovic Lesly
+216840	Le Balafre
+216889	Crawford
+216902	Archer
+217067	Reginald de
+217069	Croye
+217123	Crawford
+217162	Le Balafre
+217182	King Louis
+217271	Crawford
+217387	William de
+217389	la Marck
+217426	King Louis
+217481	Charles
+217509	Dunois
+217516	Crevecoeur
+217547	Crawford
+217553	Allan Durward
+217570	Durward
+217574	Crevecoeur
+217582	-- Fortune
+217631	Crawford
+217651	Charles
+217675	Crevecoeur
+217867	Glen Houlakin
+217911	Quentin Durward
+217926	Isabelle de
+217928	Croye
+218037	Hymen
+218094	Astraea
+218115	Aphra Behn
+218231	Isabelle de
+218233	Croye
+218337	Ariosto
+218341	Angelica
+218405	Ariosto
+218419	Orlando Furioso
+218442	Angelica
+218447	Scott
+218452	Ariosto

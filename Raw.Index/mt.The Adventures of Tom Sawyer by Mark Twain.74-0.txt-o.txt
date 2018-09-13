@@ -1,0 +1,1771 @@
+234	Tom
+437	Polly
+814	Tom
+836	Jim
+866	Jim
+868	Jim
+875	Tom
+884	Sid
+916	Tom
+930	Polly
+998	Tom
+1041	Tom
+1051	Tom
+1096	Tom
+1149	Tom
+1186	Polly
+1213	Tom
+1248	Tom
+1292	Tom
+1334	Tom
+1344	Sidney
+1381	Tom
+1385	Tom
+1418	Tom
+1464	Sid
+1514	Sid
+1783	Tom
+1900	Tom
+1906	Tom
+1971	Tom
+2048	Tom
+2421	Tom
+2507	Tom
+2614	Tom
+2756	Tom
+2828	Tom
+2896	Tom
+2953	Tom
+2966	Tom
+3012	Tom
+3069	Tom
+3267	Tom
+3366	Jim
+3395	Tom
+3463	Jim
+3487	Tom
+3493	Jim
+3507	Jim
+3604	Jim
+3614	Gim
+3645	Mars Tom
+3719	Jim
+3737	Jim
+3746	Jim
+3759	Dat
+3771	Mars Tom
+3798	Jim
+3854	Tom
+3862	Polly
+3881	Tom
+4048	Ben Rogers
+4070	Ben
+4251	Chow
+4255	Chow
+4405	Tom
+4417	Ben
+4444	Tom
+4472	Ben
+4479	Tom
+4494	Ben
+4511	Tom
+4524	Ben
+4570	Tom
+4599	Tom
+4629	Tom Sawyer
+4701	Ben
+4707	Tom
+4735	Ben
+4758	Tom
+4769	Tom
+4796	Ben
+4919	Tom
+4923	Ben
+4939	Jim
+4952	Sid
+4963	Sid
+5028	Ben
+5051	Tom
+5138	Ben
+5143	Tom
+5150	Billy Fisher
+5166	Johnny Miller
+5213	Tom
+5364	Tom
+5496	Mont Blanc
+5587	Polly
+5685	Tom
+5747	Tom
+5778	Polly
+5807	Tom
+5871	Tom
+6004	Sid
+6039	Sid
+6047	Polly
+6069	Tom
+6111	Sid
+6125	Tom
+6188	Tom
+6197	Joe Harper
+6248	Tom
+6302	Tom
+6315	Jeff Thatcher
+6359	Amy Lawrence
+6552	Tom
+6588	Tom
+6814	Tom
+6881	Sid
+6924	Sid
+6934	Sid
+6968	Sid
+6985	Tom
+6992	Sid
+7003	Tom
+7144	Tom
+7164	-- Sid
+7171	Polly
+7177	Tom
+7283	Tom
+7595	Mary
+8136	Tom
+8156	Sid
+8191	Tom
+8195	Tom
+8206	Sid
+8239	Polly
+8291	Tom
+8312	Sid
+8320	Tom
+8360	Tom
+8395	Mary
+8608	Mary
+8625	Tom
+8658	Tom
+8698	Mary
+8712	Tom
+8736	Mary
+8780	Mary
+8827	Barlow
+8869	Tom
+8897	Mary
+8975	Mary
+8989	Tom
+9005	Tom
+9126	Mary
+9215	Mary
+9336	Mary
+9387	Mary
+9395	Tom
+9412	Mary
+9429	Tom
+9437	Sid
+9439	Mary
+9523	Tom
+9537	Billy
+9580	Tom
+9594	Tom
+9693	Tom
+9744	Tom
+9896	Mary
+9978	Tom
+10070	Tom
+10339	Walters
+10612	Sid
+10614	Mary
+10628	Walters
+10672	Thatcher
+10713	Tom
+10732	Amy Lawrence
+10860	Walters
+10997	Thatcher
+11005	Jeff Thatcher
+11043	Jim
+11084	Jeff
+11088	Walters
+11342	Walters
+11415	Tom Sawyer
+11448	Walters
+11485	Tom
+11588	Tom
+11625	Tom
+11703	Amy Lawrence
+11715	Tom
+11783	Tom
+11792	Tom
+11857	Tom
+11888	Tom
+11897	Tom
+11904	Thomas
+11958	Thomas
+11962	Walters
+11978	Thomas Sawyer
+12071	Thomas
+12167	Thomas
+12255	Tom
+12276	Walters
+12325	Thomas
+12333	Tom
+12365	David And
+12367	Goliah
+12436	Polly
+12440	Tom
+12442	Sid
+12444	Mary
+12449	Tom
+12522	Douglass
+12576	Ward
+12579	Riverson
+12655	Willie Mufferson
+12733	Tom
+13048	Sprague
+13534	Tom
+13671	Tom
+13925	Tom
+14160	Tom
+14529	Tom Sawyer
+14596	Tom Sawyer
+14646	Tom
+14897	Sid
+14902	Tom
+14921	Sid
+14923	Tom
+14950	Sid
+14954	Tom
+14964	Sid
+14977	Tom
+14983	Sid
+15004	Tom
+15006	Tom
+15011	Sid
+15015	Tom
+15019	Tom
+15030	Tom
+15039	Tom
+15053	Tom
+15063	Sid
+15079	Tom
+15121	Tom
+15147	Sid
+15156	Tom
+15168	Tom
+15184	Tom
+15198	Sid
+15221	Tom
+15234	Tom
+15249	Sid
+15259	Sid
+15262	Sid
+15290	Sid
+15298	Tom
+15324	Sid
+15338	Tom
+15377	Sid
+15379	Mary
+15409	Tom
+15411	Tom
+15491	Tom
+15625	Mary
+15644	Tom
+15725	Tom
+15727	Tom
+15774	Tom
+15824	Tom
+15931	Tom Sawyer
+15953	Tom
+15963	Huckleberry Finn
+15972	Huckleberry
+16022	Tom
+16065	Huckleberry
+16157	Huckleberry
+16307	Tom
+16350	Huck
+16414	Ben Rogers
+16434	Huck
+16515	Bob Tanner
+16532	Jeff Thatcher
+16536	Jeff
+16538	Johnny Baker
+16542	Johnny
+16544	Jim Hollis
+16548	Jim
+16550	Ben Rogers
+16554	Ben
+16615	Bob Tanner
+16620	Huck
+16836	Bob Tanner
+16895	Huck
+17061	Huck
+17099	Joe Harper
+17248	Huck
+17256	Mother Hopkins
+17273	Becuz
+17287	Tom
+17300	Pap
+17392	Pap
+17413	Becuz
+17430	Hucky
+17451	Hoss Williams
+17523	Lem
+17579	Hays
+17589	Dern
+17765	Becuz
+17799	Huck
+17817	Tom
+17851	Tom
+17868	Huckleberry
+17877	Tom
+17906	Tom
+17978	Thomas Sawyer
+17982	Tom
+18020	Tom
+18084	Huckleberry Finn
+18136	Huckleberry Finn
+18148	Thomas Sawyer
+18299	Tom
+18399	Tom
+18416	Tom
+18430	Tom
+18548	Tom
+18668	Tom
+18716	Tom
+18770	Becky Thatcher
+18784	Thomas Sawyer
+18800	Tom
+18809	Tom
+18820	Tom
+18849	Tom
+18993	Tom
+19121	Tom
+19136	Tom
+19243	Tom
+19387	Tom
+19490	Tom
+19505	Tom
+19516	Tom
+19539	Joe Harper
+19558	Joe
+19583	Tom
+19606	Joe
+19701	Tom
+19710	Joe
+19781	Joe
+19827	Tom
+19836	Joe
+19851	Tom
+19876	Joe
+19887	Tom
+19907	Joe
+19975	Joe Harper
+20049	Tom
+20057	Joe
+20141	Tom
+20144	Becky Thatcher
+20264	Tom
+20266	Becky
+20301	Tom
+20450	Tom
+20565	Ben Rogers
+20571	Becky
+20790	Becky
+20806	Becky
+20809	Tom
+20897	Tom
+20922	Becky
+20967	Tom
+20989	Tom
+21001	Becky
+21031	Becky
+21071	Tom
+21086	Becky
+21137	Tom
+21253	Amy Lawrence
+21261	Tom
+21273	Tom
+21295	Tom
+21305	Becky
+21323	Tom
+21331	Tom
+21359	Tom
+21483	Tom
+21511	Becky
+21532	Becky
+21538	Becky
+21550	Tom
+21585	Becky
+21602	Tom
+21626	Becky
+21660	Tom
+21665	Tom
+21810	Douglas
+21975	Jimmy Hodges
+22131	Tom
+22506	Tom Sawyer
+22587	Barlow
+22663	Tom
+22797	Tom
+23162	Tom
+23272	Joe Harper
+23282	Tom
+23284	Tom
+23304	Guisborne
+23328	Tom
+23363	Robin Hood
+23443	Tom
+23479	Tom
+23553	Guy of
+23555	Guisborne
+23582	Joe
+23596	Joe
+23652	Joe
+23684	Robin Hood
+23707	Tom
+23709	Robin Hood
+23733	Joe
+23757	Tom
+23769	Robin Hood
+23871	Tom
+23873	Sid
+23888	Sid
+23893	Tom
+23945	Sid
+24057	Tom
+24094	Tom
+24246	Huckleberry Finn
+24429	Tom
+24533	Tom
+24570	Huckleberry
+24614	Tom
+24625	Hoss Williams
+24645	Tom
+24658	Williams
+24670	Hoss
+24692	Tom
+24706	Tom
+24724	Tom
+24767	Tom
+24799	Tom
+24866	Tom
+24917	Tom
+24932	Tom
+24964	Huckleberry
+24984	Tom
+25037	Huck
+25059	Muff Potter
+25164	Huck
+25177	Joe
+25263	Robinson
+25265	Potter
+25268	Joe
+25483	Potter
+25535	Injun Joe
+25579	Injun Joe
+25722	Potter
+25775	Joe
+25789	Potter
+25826	Williams
+25831	Potter
+25868	Potter
+25908	Injun Joe
+25965	Potter
+25989	Potter
+26046	Joe
+26056	Joe
+26071	Joe
+26107	Potter
+26163	Joe
+26179	Joe
+26198	Joe
+26206	Joe
+26337	Joe
+26354	Joe
+26366	Joe
+26379	Joe
+26406	Joe
+26441	Muff Potter
+26471	Joe
+26492	Potter
+26541	Potter
+26763	Tom
+26781	Huckleberry
+26851	Tom
+26870	Robinson
+26897	Tom
+26900	Tom
+26928	Injun Joe
+26970	Huck
+26979	Muff Potter
+26997	Tom
+27010	Huck
+27012	Muff Potter
+27046	Injun Joe
+27073	Tom
+27099	Tom
+27159	Muff Potter
+27191	Tom
+27206	Tom
+27256	Tom
+27363	Tom
+27464	Huck Finn
+27467	Tom Sawyer
+27495	Huckleberry
+27501	Tom
+27532	Tom
+27590	Tom
+27624	Tom
+27645	Huckleberry
+27721	Tom
+27725	Huckleberry
+27863	Tom
+27879	Huck
+27885	Tom
+27904	Tom
+27914	Bull Harbison
+27923	Harbison
+27930	Tom
+27938	Harbison
+27955	Harbison
+27970	Tom
+28020	Huckleberry
+28027	Tom
+28030	Tom
+28058	Huck
+28071	Tom
+28082	Huck
+28099	Tom
+28160	Sid
+28200	Tom
+28215	Huckleberry
+28225	Tom Sawyer
+28262	Tom
+28271	Hucky
+28286	Hucky
+28347	Tom
+28379	Tom
+28395	Huck
+28474	Hucky
+28497	Tom
+28505	Joe
+28508	Tom
+28566	Tom
+28598	Muff Potter
+28673	Potter
+28681	Potter
+28712	Tom
+28722	Johnny Miller
+28781	Gracie Miller
+28841	Muff Potter
+28864	Huck
+28874	Tom
+28912	Sid
+28925	Tom
+28928	Sid
+29083	Tom
+29165	Tom
+29224	Sid
+29255	Joe Harper
+29494	Muff Potter
+29513	Potter
+29532	Potter
+29551	Potter
+29630	Tom
+29805	Tom
+29822	Joe
+29900	Tom
+29966	Potter
+30062	Potter
+30080	Injun Joe
+30090	Joe
+30117	Potter
+30173	Joe
+30190	Tom
+30327	Potter
+30357	Joe
+30395	Joe
+30460	Joe
+30528	Muff Potter
+30536	Tom
+30560	Sid
+30564	Tom
+30586	Tom
+30615	Tom
+30651	Sid
+30716	Tom
+30737	Polly
+30744	Tom
+30783	Mary
+30794	Sid
+30798	Tom
+30834	Sid
+30870	Tom
+30888	Sid
+30896	Tom
+30910	Tom
+30934	Sid
+30937	Tom
+30968	Tom
+30981	Sid
+30988	Tom
+31006	Sid
+31028	Tom
+31043	Tom
+31113	Tom
+31126	Joe
+31209	Tom
+31235	Becky Thatcher
+31243	Tom
+31641	Tom
+31729	Tom
+31807	Tom
+31891	Tom
+31947	Tom
+32041	Sid
+32058	Tom
+32101	Tom
+32132	Tom
+32146	Peter
+32150	Peter
+32165	Peter
+32215	Peter
+32220	Tom
+32231	Peter
+32315	Polly
+32363	Tom
+32373	Tom
+32453	Tom
+32488	Tom
+32519	Polly
+32527	Tom
+32536	Polly
+32654	Polly
+32710	Tom
+32725	Tom
+32729	Tom
+32740	Tom
+32773	Peter
+32803	Tom
+32838	Tom
+32914	Jeff Thatcher
+32921	Tom
+32938	Jeff
+32941	Tom
+32956	Becky
+32968	Tom
+33037	Tom
+33111	Becky Thatcher
+33192	Becky
+33233	Tom
+33387	Meadow Lane
+33477	Joe Harper
+33507	Tom
+33551	Joe
+33566	Joe
+33574	Tom
+33702	Joe
+33735	Tom
+33833	Jackson
+33862	Huckleberry Finn
+33997	Tom
+34040	Tom
+34069	Tom
+34096	Tom Sawyer
+34119	Joe Harper
+34128	Tom
+34170	Tom
+34458	Tom
+34462	Huck
+34468	Joe
+34473	Tom
+34496	Luff
+34872	Jackson
+35212	Joe
+35223	Tom
+35253	Hucky
+35263	Huckleberry
+35322	Tom
+35367	Joe
+35414	Joe
+35453	Tom
+35530	Huck
+35572	Huck
+35598	Huck
+35734	Huck
+35746	Tom
+35814	Joe
+35830	Tom
+35878	Joe
+35888	Huck
+35897	Huck
+36308	Tom
+36409	Joe
+36411	Huck
+36514	Tom
+36583	Tom
+36683	Tom
+36768	Tom
+36809	Tom
+36952	Tom
+37071	Huck
+37118	Joe
+37125	Tom
+37127	Huck
+37157	Joe
+37273	Huck
+37649	Joe
+37661	Tom
+37674	Huckleberry
+37691	Tom
+37861	Tom
+37876	Huck
+37886	Bill Turner
+37956	Joe
+37983	Tom
+38017	Huck
+38039	Tom
+38073	Tom
+38120	Joe
+38128	Huck
+38154	Tom
+38409	Tom
+38411	Joe
+38455	Joe
+38483	Tom
+38489	Huck
+38499	Tom
+38548	Huck
+38558	Joe
+38562	Tom
+38669	Joe
+38768	Tom
+39020	Tom
+39056	Tom
+39123	Polly
+39125	Sid
+39127	Mary
+39130	Joe Harper
+39156	Tom
+39227	Tom
+39263	Sid
+39266	Tom
+39309	Aunt Polly
+39379	Joe
+39463	Harper
+39475	Tom
+39485	Sid
+39501	Sid
+39505	Tom
+39529	Tom
+39557	Harper
+39637	Joe
+39695	Harper
+39713	Tom
+39742	Tom
+39797	Tom
+39818	Mary
+40099	Tom
+40103	Harper
+40142	Polly
+40154	Sid
+40156	Mary
+40158	Sid
+40163	Mary
+40173	Polly
+40179	Tom
+40607	Joe
+40613	Tom
+40617	Huck
+40642	Tom
+40689	Huck
+40713	Tom
+40746	Tom
+40771	Tom
+41153	Joe
+41155	Huck
+41161	Tom
+41261	Tom
+41327	Joe
+41359	Huck
+41365	Tom
+41481	Tom
+41500	Joe
+41545	Joe
+41557	Tom
+41588	Joe
+41691	Joe
+41714	Huck
+41741	Huck
+41752	Huck
+41781	Joe
+41807	Tom
+41832	Huck
+41847	Huck
+41872	Tom
+41883	Joe
+41898	Huck
+41900	Joe
+41921	Joe
+41931	Tom
+41941	Huck
+41943	Huck
+41967	Tom
+41990	Tom
+42015	Tom
+42035	Huck
+42048	Tom
+42092	Huck
+42098	Tom
+42139	Tom
+42319	Tom
+42338	Tom
+42349	Joe
+42365	Huck
+42434	Tom
+42470	Joe
+42511	Tom
+42526	Huck
+42541	Huck
+42548	Huck
+42564	Huck
+42575	Tom
+42595	Huck
+42597	Bob Tanner
+42603	Johnny Miller
+42607	Jeff Thatcher
+42620	Huck
+42638	Huck
+42671	Tom
+42674	Huck
+42692	Joe
+42709	Tom
+42723	Jeff Thatcher
+42730	Jeff Thatcher
+42765	Johnny Miller
+42772	Johnny Miller
+42788	Joe
+42796	Johnny Miller
+42824	Joe
+42873	Joe
+42988	Tom
+43133	Joe
+43142	Tom
+43160	Joe
+43181	Tom
+43218	Huck
+43227	Huck
+43301	Huck
+43338	Joe
+43628	Tom
+44333	Tom
+44850	Becky Thatcher
+45000	Tom
+45003	Joe
+45023	Tom
+45035	Joe
+45255	Tom Sawyer
+45429	Polly
+45434	Sid
+45436	Mary
+45442	Harper
+45769	Tom
+45774	Joe
+45778	Huck
+45808	Polly
+45810	Mary
+45833	Huck
+45865	Tom
+45888	Huck
+45914	Polly
+45985	Tom Sawyer
+46042	Tom
+46088	Tom
+46183	Polly
+46185	Mary
+46190	Tom
+46213	Polly
+46230	Tom
+46312	Tom
+46316	Mary
+46336	Tom
+46340	Aunt Polly
+46384	Tom
+46396	Aunt Polly
+46450	Mary
+46456	Tom
+46482	Sid
+46488	Sid
+46500	Tom
+46551	Tom
+46577	Tom
+46645	Sid
+46653	Mary
+46691	Joe Harper
+46761	Tom
+46772	Tom
+46814	Tom
+46847	Tom
+46890	Mary
+46918	Sid
+46937	Tom
+47000	Sereny Harper
+47034	Tom
+47101	Tom
+47136	Harper
+47144	Joe
+47173	Tom
+47199	Tom
+47204	Sid
+47223	Sid
+47230	Sid
+47234	Mary
+47242	Tom
+47251	Tom
+47340	Harper
+47343	Joe
+47354	Peter
+47401	Harper
+47433	Tom
+47458	Tom
+47560	Tom
+47611	Sid
+47620	Sid
+47644	Milum
+47653	Tom
+47755	Sid
+47757	Mary
+47759	Tom
+47787	Harper
+47793	Tom
+47798	Sid
+47843	Tom
+47998	Tom
+48020	Joe
+48102	Tom
+48110	Becky Thatcher
+48164	Tom
+48318	Tom
+48325	Tom
+48331	Amy Lawrence
+48379	Tom
+48390	Mary Austin
+48437	Peters
+48617	Tom
+48625	Amy Lawrence
+48670	Grace Miller
+48683	Sally Rogers
+48698	Susy Harper
+48703	Joe
+48728	Tom
+48730	Amy
+48733	Tom
+48743	Amy
+48747	Becky
+48861	Tom
+48866	Amy
+48878	Becky
+48918	Alfred Temple
+48956	Tom
+48970	Becky
+49000	Amy
+49016	Tom
+49029	Amy
+49098	Becky Thatcher
+49144	Amy
+49151	Tom
+49181	Tom
+49244	Tom
+49374	Tom
+49388	Amy
+49405	Becky
+49411	Alfred
+49421	Tom
+49466	Tom
+49487	Alfred
+49556	Alfred
+49623	Alfred
+49660	Tom Sawyer
+49668	Tom
+49696	Tom
+49725	Becky
+49759	Tom
+49764	Tom
+49793	Tom
+49872	Tom
+49906	Sereny Harper
+49939	Joe
+49955	Tom
+49988	Sereny Harper
+50021	Tom
+50223	Tom
+50225	Tom
+50262	Tom
+50290	Tom
+50362	Tom
+50520	Tom
+50539	Tom
+50564	Tom
+50612	Tom
+50654	Tom
+50837	Tom
+50873	Polly
+50880	Tom
+50907	Becky Thatcher
+50942	Becky
+51002	Thomas Sawyer
+51022	Tom
+51122	Becky
+51148	Tom
+51164	Alfred Temple
+51167	Tom
+51196	Dobbins
+51328	Becky
+51431	Tom Sawyer
+51446	Becky
+51492	Tom Sawyer
+51542	Tom Sawyer
+51641	Tom
+51707	Dobbins
+51736	Dobbins
+51818	Becky Thatcher
+51832	Tom
+51869	Tom
+51892	Tom
+51917	Becky
+51968	Tom
+51984	Becky
+52005	Tom
+52039	Tom
+52041	Becky
+52087	Alfred Temple
+52134	Tom
+52224	Dobbins
+52277	Dobbins
+52299	Tom
+52304	Becky
+52405	Tom
+52422	Becky
+52514	Benjamin Rogers
+52531	Joseph Harper
+52541	Tom
+52576	Amy Lawrence
+52587	Gracie Miller
+52596	Susan Harper
+52612	Becky Thatcher
+52615	Tom
+52639	Tom
+52687	Tom
+52715	Tom
+52751	Becky
+52783	Dobbins
+52835	Tom
+52844	Alfred Temple
+52852	Becky
+52888	Becky
+52899	Tom
+52981	Dobbins
+53561	Mary
+53588	Tom Sawyer
+53685	Tom
+54533	Tallassee
+54752	Franklin
+55033	Daniel Webster
+55548	Tom
+55624	Frazer
+55656	Tom
+55719	Tom
+55751	Tom
+55786	Tom
+55839	Tom
+55894	Tom
+55896	Joe Harper
+55943	Tom
+55948	Benton
+56061	Becky Thatcher
+56117	Tom
+56193	Tom
+56217	Joe Harper
+56234	Ben Rogers
+56252	Jim Hollis
+56298	Huckleberry Finn
+56513	Tom
+56570	Jim Hollis
+56599	Joe Harper
+56602	Huck Finn
+56618	Tom
+56626	XXIII
+56657	Tom
+56743	Huck
+56787	Huck
+56793	Huck
+56860	Tom Sawyer
+56883	Tom
+56893	Huck
+56997	Huck
+57016	Muff Potter
+57019	Muff Potter
+57022	Muff Potter
+57193	Huck
+57224	Tom
+57275	Tom
+57428	Potter
+57477	Potter
+57557	Muff
+57565	Tom
+57570	Huck
+57799	Muff Potter
+57815	Tom
+57861	Huck
+57894	Tom
+57923	Potter
+57941	Joe
+57967	Tom
+58048	Potter
+58084	Joe
+58153	Muff Potter
+58261	Potter
+58277	Potter
+58289	Potter
+58324	Potter
+58382	Potter
+58458	Potter
+58572	Thomas Sawyer
+58590	Potter
+58601	Tom
+58631	Thomas Sawyer
+58650	Tom
+58654	Joe
+58746	Joe
+58756	Williams
+58825	Joe
+58883	Tom
+58976	Tom
+59069	Muff Potter
+59073	Injun Joe
+59168	Muff Potter
+59208	Tom
+59229	Joe
+59257	Huck
+59269	Tom
+59289	Huck
+59307	Joe
+59337	Tom
+59373	Huck
+59385	Muff Potter
+59390	Tom
+59410	Tom
+59414	Joe
+59467	Joe
+59549	Tom
+59609	Tom
+59618	Joe Harper
+59629	Ben Rogers
+59641	Huck Finn
+59646	Huck
+59650	Tom
+59665	Huck
+59669	Huck
+59712	Huck
+59747	Huck
+59984	Tom
+60045	Jackson
+60130	Tom
+60178	Huck
+60284	Huck
+60314	Tom
+60427	Richard
+60431	Richard
+60479	Tom
+60598	Tom
+60608	Huck
+60753	Tom
+60798	Tom
+60878	Tom
+60965	Tom
+61050	Huck
+61117	Huck
+61197	Tom
+61261	Huck
+61289	Huck
+61650	Tom
+61660	Huck
+61730	Huck
+61848	Huck
+61892	Tom
+61952	Tom
+61966	Huck
+61980	Tom
+62012	Tom
+62045	Tom
+62113	Tom
+62124	Huck
+62242	Tom
+62261	Becuz
+62483	Tom
+62493	Huck
+62507	Tom
+62518	Tom
+62551	Huck
+62588	Huck
+62657	Huck
+62718	Huck
+62769	Robin Hood
+62772	Huck
+62780	Robin Hood
+62880	Huck
+62994	Robin Hood
+63017	Robin Hood
+63127	Tom
+63473	Tom
+63482	Huck
+63577	Huck
+63796	Joe
+63807	Joe
+64018	Joe
+64109	Injun Joe
+64182	Tom
+64194	Huck
+64212	Tom
+64215	Huck
+64221	Tom
+64306	Joe
+64577	Injun Joe
+64707	Joe
+64814	Joe
+64868	Joe
+64945	Injun Joe
+64954	Murrel
+64978	Joe
+65071	Nance
+65279	Joe
+65323	Joe
+65398	Joe
+65527	Joe
+65576	Tom
+65578	Huck
+65660	Injun Joe
+65760	Tom
+65773	Huck
+65784	Huck
+65822	Tom
+65826	Tom
+65838	Tom
+65864	Tom
+66176	Huck
+66178	Huck
+66200	Tom
+66204	Huck
+66234	Huck
+66250	Tom
+66313	Huck
+66403	Tom
+66519	Huck
+66537	Tom
+66571	Lem
+66622	Huck
+66629	Tom
+66641	Huck
+66793	Huck
+66814	Tom
+66830	Tom
+66920	Joe
+67056	Huck
+67088	Tom
+67120	Huck
+67132	Tom
+67134	Huck
+67196	Tom
+67212	Huck
+67238	Huck
+67272	Tom
+67300	Huck
+67367	Tom
+67397	Huck
+67401	Tom
+67420	Huck
+67453	Tom
+67462	Tom
+67490	Huck
+67564	Tom
+67596	Huck
+67651	Tom
+67659	Huck
+67753	Caesar
+67768	Tom
+67772	Huck
+67779	Joe
+67888	Tom
+67898	Huck
+67938	Injun Joe
+68006	Huck
+68032	Tom
+68046	Injun Joe
+68063	Huck
+68082	Huck
+68090	Joe
+68123	Tom
+68129	Huck
+68142	Joe
+68281	Huck
+68324	Tom
+68374	Ben Rogers
+68392	Uncle Jake
+68400	Jake
+68434	Tom
+68548	Tom
+68561	Thatcher
+68575	Joe
+68588	Becky
+68636	Becky
+68664	Tom
+68697	Tom
+68718	Huck
+68731	Becky
+68771	Thatcher
+68847	Sid
+68857	Mary
+68869	Thatcher
+68872	Becky
+68912	Susy Harper
+68942	Tom
+68945	Becky
+68964	Joe Harper
+68979	Douglas
+69020	Becky
+69124	Douglas
+69135	Tom
+69162	Tom
+69165	Huck
+69201	Douglas
+69616	McDougal
+69743	Tom Sawyer
+69944	Huck
+70090	Huck
+70195	Tom
+70245	Huck
+70340	Huck
+70388	Huck
+70498	Huck
+70564	Douglas
+70600	Joe
+70650	Huck
+70678	Douglas
+70740	Joe
+71214	Huck
+71469	Huckleberry Finn
+71516	Huck
+71575	George
+71646	Huck
+71687	Huck
+71723	Huck
+71779	Huck
+71798	Huck Finn
+71869	Huck
+71956	Huck
+72475	Huck
+72511	Huck
+72571	Huck
+72648	Huck
+72884	Huck
+73002	Huck
+73178	Huck
+73209	Joe
+73363	Huck
+73423	Huck
+73483	Huck
+73553	Huck
+73663	Huck
+73827	Tom
+73856	Huck
+73889	Douglas
+74208	Thatcher
+74215	Harper
+74231	Becky
+74251	Becky
+74281	Thatcher
+74293	Aunt Polly
+74306	Polly
+74313	Thatcher
+74318	Harper
+74334	Tom
+74366	Thatcher
+74388	Harper
+74406	Joe Harper
+74413	Tom
+74432	Joe
+74485	Tom
+74487	Becky
+74530	Thatcher
+74535	Polly
+74646	Thatcher
+74704	Thatcher
+74716	Thatcher
+74757	Huck
+74785	Douglas
+74839	Huck
+75029	Thatcher
+75206	Huck
+75248	Huck
+75306	Tom Sawyer
+75402	Huck
+75433	Tom Sawyer
+75443	Tom Sawyer
+75480	Tom
+75482	Becky
+75546	Tom
+75548	Becky
+75685	Tom
+75698	Becky
+75732	Becky
+75939	Tom
+75954	Becky
+75976	Becky
+76022	Tom
+76092	Becky
+76123	Becky
+76161	Becky
+76176	Tom
+76204	Tom
+76331	Tom
+76336	Becky
+76453	Becky
+76486	Tom
+76536	Tom
+76574	Tom
+76583	Becky
+76594	Becky
+76644	Tom
+76676	Becky
+76689	Tom
+76700	Becky
+76739	Tom
+76741	Tom
+76788	Tom
+76850	Tom
+77000	Tom
+77002	Becky
+77021	Becky
+77033	Tom
+77120	Becky
+77134	Tom
+77162	Becky
+77166	Tom
+77197	Becky
+77205	Tom
+77273	Becky
+77324	Tom
+77347	Becky
+77370	Tom
+77402	Becky
+77482	Tom
+77506	Tom
+77521	Becky
+77537	Tom
+77551	Tom
+77579	Becky
+77585	Tom
+77593	Tom
+77611	Becky
+77621	Tom
+77659	Tom
+77684	Tom
+77689	Becky
+77696	Tom
+77715	Becky
+77723	Tom
+77734	Becky
+77747	Becky
+77763	Becky
+77786	Becky
+77794	Tom
+77810	Becky
+77814	Tom
+77820	Becky
+77854	Tom
+77879	Tom
+77896	Tom
+77939	Becky
+77943	Tom
+77957	Becky
+77983	Becky
+77985	Tom
+78007	Thatcher
+78010	Becky
+78015	Harper
+78086	Becky
+78097	Tom
+78137	Tom
+78153	Becky
+78170	Tom
+78238	Tom
+78270	Tom
+78301	Tom
+78307	Becky
+78345	Tom
+78355	Becky
+78425	Tom
+78483	Tom
+78501	Becky
+78542	Tom
+78604	Becky
+78607	Tom
+78636	Tom
+78700	Tom
+78721	Joe
+78724	Tom
+78758	Tom
+78761	Joe
+78797	Tom
+78840	Joe
+78849	Becky
+78904	Tom
+78943	Joe
+78950	Becky
+78991	Tom
+79044	Tom
+79202	Thatcher
+79252	Polly
+79419	Thatcher
+79433	Thatcher
+79463	Thatcher
+79496	Tom
+79535	Becky
+79647	Becky
+79748	Tom
+79831	Thatcher
+79885	Tom
+79887	Becky
+79915	Tom
+79938	Becky
+79961	Tom
+79964	Huck
+80016	Douglas
+80027	Tom
+80070	Tom
+80082	Huck
+80099	Tom
+80111	Thatcher
+80116	Tom
+80125	Becky
+80133	Tom
+80155	Tom
+80179	Tom
+80237	Tom
+80273	Tom
+80293	Tom
+80302	Joe
+80331	McDougal
+80347	Tom Sawyer
+80356	Thatcher
+80379	Joe
+80425	Tom
+80499	Joe
+80596	Joe
+80808	Troy
+80820	Christ
+80976	McDougal
+80981	Joe
+81007	Joe
+81091	Joe
+81146	Joe
+81204	Tom
+81206	Huck
+81217	Huck
+81222	Tom
+81231	Douglas
+81238	Tom
+81263	Huck
+81353	Tom
+81373	Huck
+81435	Joe
+81460	Injun Joe
+81503	Huck
+81511	Tom
+81531	Huck
+81568	Tom
+81572	Huck
+81588	Huck
+81597	Tom
+81612	Huck
+81621	Huck
+81631	Tom
+81644	Tom
+81662	Huck
+81715	Huck
+81748	Huck
+81853	Tom
+81880	Huck
+81899	Huck
+81947	Tom
+82045	Tom
+82116	Huck
+82143	Huck
+82154	Tom
+82176	Huck
+82245	Joe Harper
+82248	Ben Rogers
+82274	Tom Sawyer
+82287	Huck
+82297	Tom
+82528	Tom
+82578	Tom
+82615	Tom
+82626	Huck
+82646	Becky
+82687	Tom
+82725	Tom
+82736	Huck
+82778	Tom
+82814	Injun Joe
+82821	Huck
+82824	Huck
+82841	Tom
+82866	Joe
+82883	Huck
+82919	Tom
+82945	Tom
+82950	Huck
+82971	Huck
+82982	Joe
+83011	Tom
+83051	Tom
+83066	Huck
+83156	Tom
+83209	Huck
+83215	Tom
+83221	Huck
+83283	Tom
+83287	Huck
+83291	Tom
+83295	Barlow
+83317	Huck
+83325	Huck
+83353	Tom
+83416	Huck
+83421	Tom
+83436	Huck
+83499	Huck
+83518	Tom
+83522	Huck
+83565	Lem
+83582	Tom
+83676	Huck
+83681	Huck
+83759	Huck
+83841	Tom
+83854	Huck
+83865	Huck
+83869	Tom
+83936	Benny Taylor
+84027	Huck
+84029	Tom Sawyer
+84094	Tom
+84179	Douglas
+84183	Huck
+84201	Jones
+84223	Huck
+84284	Huck
+84296	Tom
+84300	Douglas
+84305	Jones
+84346	Polly
+84348	Sid
+84350	Mary
+84398	Polly
+84411	Tom
+84427	Jones
+84431	Tom
+84451	Huck
+84522	Huck
+84530	Huck
+84533	Jones
+84573	HUCK
+84577	Tom
+84639	Tom
+84668	Sid
+84672	Tom
+84689	Mary
+84722	Siddy
+84810	Jones
+84870	Jones
+84873	Huck
+84887	Huck
+84898	Sid
+84915	Jones
+84938	Sid
+84949	Sid
+84978	Sid
+85004	Huck
+85059	Tom
+85061	Sid
+85134	Jones
+85179	Huck
+85240	Huck
+85281	Huck
+85311	Tom
+85327	Huck
+85365	Tom
+85370	Huck
+85411	Tom
+85431	Huck
+85442	Tom
+85469	Tom
+85482	Polly
+85489	Tom
+85515	Huck
+85552	Tom
+85595	Jones
+85690	Tom
+85693	Huck
+85802	Tom
+85804	Huck
+85892	Douglas
+85894	Huck
+85905	Thatcher
+85910	Tom
+86005	Thatcher
+86012	Tom
+86032	Becky
+86042	Tom
+86066	Tom
+86121	George Washington
+86130	Becky
+86162	Tom
+86167	Thatcher
+86171	Tom
+86191	Tom
+86225	Huck Finn
+86239	Douglas
+86436	Tom Sawyer
+86462	Huck
+86524	Tom
+86545	Huck
+86569	Tom
+86587	Tom
+86667	Tom
+86807	Huck
+86811	Tom
+86937	Tom
+87009	Tom
+87046	Tom
+87050	Tom
+87111	Tom
+87194	Huck
+87255	Tom
+87332	Tom
+87340	Huck
+87370	Tom
+87385	Huck
+87405	Huck
+87418	Tom
+87475	Tom
+87496	Tom
+87511	Tom
+87515	Huck
+87547	Tom Sawyer
+87564	Huck
+87578	Huck
+87633	Tom
+87640	Huck
+87667	Huck
+87674	Tom
+87814	Tom
+87878	Tom
+87936	Tom

@@ -1,0 +1,3592 @@
+31	Stella
+50	Marie
+124	M. de
+126	Guersaint
+136	Abbe Pierre
+138	Froment
+178	Lourdes
+273	Marie
+284	Mon Dieu
+558	Lourdes
+617	Pierre
+701	M. de
+703	Guersaint
+797	Hyacinthe
+829	Monsieur l'Abbe
+836	Pierre
+887	Hyacinthe
+1048	Raymonde
+1073	Madame Volmar
+1312	Hyacinthe
+1397	Marie
+1407	Pierre
+1688	Claire des
+1690	Anges
+1813	Hyacinthe
+1883	Pierre
+1885	Marie
+1911	Marie
+1990	Pierre
+2197	Vincent
+2220	Rose
+2332	Virgin
+2522	Rose
+2653	Madame Vincent
+2674	Lourdes
+2856	Lourdes
+2878	Madame Vincent
+2938	Pierre
+2943	Marie
+3054	Lourdes
+3310	Pierre
+3353	Monsieur l'Abbe
+3404	Marie
+3440	Pierre
+3507	M. de
+3509	Guersaint
+3582	Marie
+3589	Hyacinthe
+3665	Lourdes
+3700	Jesus
+3762	M. de
+3764	Guersaint
+3841	Sabathier
+4037	Lourdes
+4052	Pierre
+4071	Monsieur
+4076	M. Sabathier
+4099	Lourdes
+4141	M. Sabathier
+4161	Pierre
+4391	M. Sabathier
+4400	Virgin
+4546	Les Aubrais
+4568	Hyacinthe
+4585	Domine
+4651	Pierre
+4659	Marie
+4751	La Grivotte
+4773	M. Sabathier
+4834	Marie
+5002	Virgin
+5192	Marie
+5202	Isidore
+5332	Christ
+5381	Marthe
+5441	La Grivotte
+5502	Hyacinthe
+5551	Madame Vetu
+5583	Lourdes
+5708	Madame de
+5710	Jonquiere
+5729	Hyacinthe
+5734	La Grivotte
+5914	Madame de
+5916	Jonquiere
+5947	Marie
+6027	Elise Rouquet
+6074	Lourdes
+6077	Marie
+6151	Marie
+6218	Pierre
+6221	Marie
+6235	Elise Rouquet
+6280	Powerful Virgin
+6315	Hyacinthe
+6339	Jesus
+6346	Jesus
+6349	Jesus
+6354	Jesus
+6360	Jesus
+6373	Virgin
+6400	Marie
+6408	Elise Rouquet
+6433	Isidore
+6519	Marie
+6539	Hyacinthe
+6607	Marthe
+6610	Isidore
+6639	Marthe
+6829	Hyacinthe
+6847	Marthe
+6941	Hyacinthe
+7031	Dieu
+7048	Massias
+7105	Francois
+7202	Marie
+7247	Pierre
+7471	Marie
+7511	Rose
+7546	Madame Sabathier
+7580	Isidore
+7617	La Grivotte
+7642	Madame Vetu
+7648	Elise Rouquet
+7700	Hyacinthe
+7812	Pierre
+8027	Lourdes
+8116	Pierre
+8262	Pierre
+8326	Hyacinthe
+8385	Bernadette
+8445	MARIE
+8458	Abbe Pierre
+8460	Froment
+8693	Michel Froment
+8753	Guillaume
+8842	Pierre
+8946	Pierre
+9084	Guillaume
+9193	Pierre
+9200	Marie de
+9202	Guersaint
+9221	M. de
+9223	Guersaint
+9230	Norman
+9365	Blanche
+9367	Marie
+9420	Pierre
+9422	Marie
+9721	Pierre
+9785	Rose
+9794	La Grivotte
+9808	Hyacinthe
+9851	Pierre
+10234	Marie
+10403	Marie
+10549	Marie
+10639	Marie
+10648	Blanche
+10716	Pierre
+10811	Marie
+10848	Marie
+11170	Marie
+11245	Pierre
+11300	M. Sabathier
+11316	Isidore
+11328	Madame Vetu
+11365	Pierre
+11372	Madame de
+11374	Jonquiere
+11416	Hyacinthe
+11494	Pierre
+11850	Guillaume
+11938	Pierre
+11943	Guillaume
+12170	Guillaume
+12199	Pierre
+12219	Guillaume
+12377	Pierre
+12461	Chassaigne
+12510	Madame Froment
+12748	Chassaigne
+12808	Michel Froment
+12832	Pierre
+13886	Pierre
+14196	Lourdes
+14215	Bernadette
+14249	Pierre
+14257	Chassaigne
+14269	Michel Froment
+14283	Bernadette
+14313	Pierre
+14381	Lourdes
+14504	Bernadette
+14528	Pierre
+14538	Chassaigne
+14603	Pierre
+14680	Marie
+14696	Marie
+14848	Pierre
+14962	Marie
+15004	M. de
+15006	Guersaint
+15108	Blanche
+15140	Blanche
+15177	Marie
+15181	Marie
+15436	Pierre
+15484	Lourdes
+15794	Lourdes
+15852	Lourdes
+15922	Pierre
+15934	Marie
+15974	Bernadette
+16003	Marie
+16162	Lourdes
+16167	Pierre
+16190	Marie
+16356	Pierre
+16405	De Beauclair
+16439	Marie
+16464	M. de
+16466	Guersaint
+16556	Lourdes
+16705	Pierre
+16729	Beauclair
+16857	Marie
+16883	Pierre
+16938	Lourdes
+17013	Marie
+17044	M. de
+17046	Guersaint
+17114	Blanche
+17140	Blanche
+17259	Pierre
+17298	Hyacinthe
+17402	Vincent
+17408	M. Sabathier
+17416	Isidore
+17418	La Grivotte
+17422	Madame Vetu
+17440	Marie
+17465	Elise Rouquet
+17553	Hyacinthe
+17693	Claire des
+17695	Anges
+17703	Massias
+17781	Pierre
+17830	Hyacinthe
+17835	Monsieur l'Abbe
+17856	Pierre
+17868	Marie
+17953	M. de
+17955	Guersaint
+17973	Pierre
+18017	La Grivotte
+18035	Madame de
+18037	Jonquiere
+18046	Raymonde
+18049	Madame Volmar
+18052	Madame Desagneaux
+18101	M. Sabathier
+18129	Marthe
+18226	Madame Vetu
+18267	Elise Rouquet
+18307	Madame Vincent
+18316	Rose
+18353	Pierre
+18545	Lourdes
+18613	Pierre
+18697	Saint-Francois
+18747	Pierre
+18833	Pierre
+18846	Monsieur l'Abbe
+18883	Saint-Francois
+18943	Hyacinthe
+18959	Monsieur Ferrand
+19076	Hyacinthe
+19109	Ferrand
+19367	Ferrand
+19427	Lourdes
+19461	Monsieur Ferrand
+19548	Marie
+19553	Saint-Francois
+19570	Pierre
+19627	Sister Hyacinthe
+19651	Ferrand
+19715	Hyacinthe
+19745	Claire des
+19747	Anges
+19764	Massias
+19769	Mon Dieu
+19781	Saint-Francois
+19859	Claire des
+19861	Anges
+19911	Hyacinthe
+19931	Massias
+19980	Massias
+20008	Father Massias
+20014	Sainte-Radegonde
+20052	Sainte-Radegonde
+20078	Lourdes
+20082	Massias
+20131	Agnes
+20139	Radegonde
+20178	Jean
+20180	Duc de
+20182	Berry
+20248	Christ
+20254	Radegonde
+20293	Claire
+20304	Hyacinthe
+20363	Massias
+20397	Claire des
+20399	Anges
+20426	Ferrand
+20445	Hyacinthe
+20472	Monsieur Ferrand
+20486	Massias
+20632	Raymonde de
+20634	Jonquiere
+20700	La Grivotte
+20727	Raymonde
+20733	Madame Volmar
+20798	Madame de
+20800	Jonquiere
+20846	Raymonde
+20856	Ferrand
+20871	La Grivotte
+20875	Marthe
+20883	Isidore
+20972	M. Sabathier
+20996	Ferrand
+21048	Marie
+21102	Madame Vetu
+21149	Vincent
+21161	Rose
+21233	Elise Rouquet
+21406	Pierre
+21414	Marie
+21417	M. de
+21419	Guersaint
+21571	Pierre
+21579	Monsieur l'Abbe
+21624	Vigneron
+21658	Gustave
+21660	Lourdes
+21743	Vigneron
+21778	Gustave
+21885	M. Vigneron
+21898	Pierre
+21931	Gustave
+22118	Hyacinthe
+22171	Massias
+22180	Gustave
+22184	M. Vigneron
+22265	Madame Chaise
+22299	M. Vigneron
+22330	Gustave
+22389	Madame Vigneron
+22414	Madame Chaise
+22489	Pierre
+22500	Monsieur l'Abbe
+22601	Ferrand
+22607	La Grivotte
+22622	Pierre
+22769	Raymonde
+22776	Madame Volmar
+22905	Young Madame
+22907	Desagneaux
+23077	Raymonde
+23193	Madame Volmar
+23214	Madame Volmar
+23374	Lourdes
+23432	Madame de
+23434	Jonquiere
+23525	Raymonde
+23666	Raymonde
+23744	Pierre
+23761	Madame de
+23763	Jonquiere
+23803	Madame Volmar
+23830	Madame Volmar
+23979	Pierre
+24014	Madame Volmar
+24023	Monsieur l'Abbe
+24066	Lourdes
+24139	Pierre
+24216	Lourdes
+24299	Raymonde
+24322	Madame Desagneaux
+24325	Madame Volmar
+24361	Pierre
+24386	Monsieur le
+24388	Cure
+24441	Abbe Judaine
+24549	Lourdes
+25138	Abbe Judaine
+25201	Pierre
+25212	Madame Jousseur
+25347	Lourdes
+25367	Pierre
+25418	Abbe Judaine
+25596	Vignerons
+25627	Gustave
+25662	Madame Vincent
+25683	Madame Vetu
+25706	Elise Rouquet
+25745	Marie
+25792	Pierre
+25801	Marie
+25844	Ferrand
+25857	Hyacinthe
+25879	Massias
+25898	Claire des
+25900	Anges
+25908	Monsieur Ferrand
+25971	Lourdes
+26044	Hyacinthe
+26070	Monsieur Ferrand
+26132	Claire des
+26134	Anges
+26142	Massias
+26157	Sainte-Radegonde
+26226	Hyacinthe
+26245	Massias
+26253	Pierre
+26441	Hyacinthe
+26563	Christe
+26583	Massias
+26816	Massias
+26833	Hyacinthe
+26948	La Grivotte
+26965	M. Sabathier
+26978	Hyacinthe
+27018	Brother Isidore
+27025	Marthe
+27034	Marie
+27094	Hyacinthe
+27127	Pierre
+27129	Marie
+27172	Hyacinthe
+27182	Sophie
+27214	Sophie
+27340	Virgin
+27371	Hyacinthe
+27405	Pierre
+27408	Sophie
+27526	Pierre
+27535	Sophie
+27586	Monsieur l'Abbe
+27616	Sainte-Radegonde
+27646	Lourdes
+27709	Pierre
+27712	Sophie Couteau
+27715	Monsieur
+27808	Monsieur
+27940	Sophie
+27950	Hyacinthe
+28187	Marie
+28207	Pierre
+28237	Madame de
+28239	Jonquiere
+28288	Virgin
+28307	Sophie
+28384	Hyacinthe
+28396	Sophie
+28479	Monsieur Rivoire
+28534	Lourdes
+28543	Blessed Virgin
+28673	Monsieur Rivoire
+28801	Hyacinthe
+28836	Sophie
+28942	Madame la
+28944	Comtesse
+28988	Pierre
+29105	Madame de
+29107	Jonquiere
+29125	Sophie
+29149	Pierre
+29232	Sophie
+29354	Monsieur l'Abbe
+29380	Pierre
+29477	Marie
+29510	Madame Vincent
+29527	M. Sabathier
+29543	La Grivotte
+29549	Isidore
+29564	Elise Rouquet
+29618	Sophie
+29720	Marie
+29740	M. de
+29742	Guersaint
+29792	Pierre
+29818	M. de
+29820	Guersaint
+29866	Sophie
+29952	Hyacinthe
+30000	Ruffec
+30032	Christi
+30067	M. Sabathier
+30074	Sophie
+30086	M. de
+30088	Guersaint
+30132	Pierre de
+30134	Rudder
+30154	M. Sabathier
+30297	M. Sabathier
+30307	Louis Bouriette
+30327	Bouriette
+30465	M. de
+30467	Guersaint
+30491	Francois Macary
+30758	Rizan
+30972	Madame Rizan
+31072	Rose
+31118	Lourdes
+31149	Lucie Druon
+31232	Lourdes
+31279	Lourdes
+31326	Lucie
+31330	Lucie
+31403	Madame Vincent
+31541	Madame Vetu
+31557	Antoinette Thardivail
+31649	Lourdes
+31764	La Grivotte
+31873	Lourdes
+32065	Isidore
+32097	Marthe
+32105	Dorothee
+32110	Saint-Sauveur
+32118	Dorothee
+32220	Dorothee
+32243	Lourdes
+32331	Virgin
+32398	Elise Rouquet
+32515	Celestine Dubois
+32572	Lourdes
+32694	Celestine
+32717	Virgin
+32922	Marie
+32974	Joachine Dehaut
+33137	Joachine
+33167	M. de
+33169	Guersaint
+33224	Pierre
+33255	Marie
+33359	Pierre
+33417	Pierre
+33466	Marie
+33602	Pierre
+33688	Hyacinthe
+33871	Aurelie Bruneau
+33903	Louise Pourchet
+33932	Mary
+33976	Hermann
+33994	Mademoiselle de
+33996	Pontbriant
+34102	Delannoy
+34164	Marie Louise
+34166	Delpon
+34221	Marie Vachier
+34264	Georges Hanquet
+34285	Leonie Charton
+34354	Pierre Delannoy
+34481	Delannoy
+34570	Lourdes
+34585	Delannoy
+34647	Anne
+34782	Margaret Gehier
+34831	Philomene Simonneau
+34836	Vendeenne
+34907	Mademoiselle Montagnon
+35002	Marie Souchet
+35034	Marie Jarlaud
+35182	Rose Duval
+35231	Fromond
+35264	Marie Moreau
+35293	Lourdes
+35324	Hyacinthe
+35395	Marguerite Coupel
+35429	Madame de
+35431	la Riviere
+35508	Julie Jadot
+35553	Anna Catry
+35755	Sophie
+35782	Mustapha
+36437	Mystical Rose
+36709	Hyacinthe
+36763	Pierre
+36799	Lourdes
+36985	Justiciar
+37162	Sophie Couteau
+37602	Pierre
+37643	Virgin
+37657	Madame Vincent
+37663	Rose
+37697	M. Sabathier
+37701	M. de
+37703	Guersaint
+37770	Madame de
+37772	Jonquiere
+37788	Elise Rouquet
+37805	La Grivotte
+37813	Isidore
+37863	Hyacinthe
+37898	Marie
+37902	Pierre
+37989	Pierre
+37997	Marie
+38030	Pierre
+38266	V. BERNADETTE
+38323	Hyacinthe
+38535	Hyacinthe
+38551	Lamothe
+38586	Lamothe
+38721	Marie
+38728	Monsieur l'Abbe
+38756	Bernadette
+38816	Hyacinthe
+38832	Pierre
+38864	M. de
+38866	Guersaint
+38943	Pierre
+39038	Lourdes
+39138	Francois Soubirous
+39154	Louise
+39161	Marie
+39189	Lourdes
+39192	Marie
+39199	Bernadette
+39238	Louise Soubirous
+39264	Marie
+39273	Jeanne Abadie
+39329	Pierre
+39410	Bernadette
+39459	Marie
+39535	Joan
+39541	Joan of
+39543	Arc
+39570	Pierre
+39673	Pierre
+39731	Chassaigne
+39808	Marie
+39852	Bernadette
+39870	Madame Lagues
+39918	Lourdes
+40053	Bernadette
+40322	Bernadette
+40594	Bernadette
+40736	Jesus
+40749	Blessed Virgin
+40780	Bernadette
+40831	Bernadette
+40913	Bernadette
+40998	Renaud
+41006	Bayard
+41022	Orlanda
+41046	Roland
+41048	Renaud
+41077	Clarisse
+41080	King of
+41082	Aquitaine
+41102	Bernadette
+41363	Bernadette
+41692	Bernadette
+41757	Abbe Ader
+41812	Bernadette
+41868	Anne
+41924	John
+41974	Bernadette
+42043	Bernadette
+42096	M. Barbet
+42124	Abbe Ader
+42148	Bernadette
+42218	Bernadette
+42268	Melanie
+42275	Maximin
+42354	Blessed Virgin
+42360	Melanie
+42362	Maximin
+42429	Bernadette
+42540	Melanie Mathieu
+42549	Maximin Giraud
+42602	Abbe Deleon
+42605	Abbe Cartellier
+42651	Bernadette
+42784	Abbe Ader
+42912	Bernadette
+42938	Lourdes
+42995	Pierre
+43005	Hyacinthe
+43044	Lamothe
+43112	Marie
+43202	Pierre
+43292	Hyacinthe
+43335	Marie
+43349	M. de
+43351	Guersaint
+43389	Hyacinthe
+43443	Pierre
+43493	Lourdes
+43523	Soubirous
+43652	Bernadette
+43659	Marie
+43665	Jeanne
+43853	Marie
+43855	Jeanne
+43863	Bernadette
+44164	Dieu
+44317	Marie
+44319	Jeanne
+44351	Lourdes
+44361	Bernadette
+44507	Bernadette
+44676	Bernadette
+44920	Bernadette
+44980	Virgin
+45055	Ader
+45080	Pierre
+45147	Bernadette
+45289	Pierre
+45357	Bernadette
+45487	Lady
+45569	Melanie
+45571	Maximin
+45587	Bernadette
+45740	Bernadette
+45854	Bernadette
+45894	Pierre
+45921	Bernadette
+46096	Bernadette
+46267	Bernadette
+46321	Immaculate Virgin
+46354	Virgin
+46372	Bernadette
+46426	Mother
+46435	Pierre
+46441	Bernadette
+46512	Abbe Peyramale
+46519	Lourdes
+46623	Abbe Ader
+46648	Bernadette
+46786	Lourdes
+46789	Bernadette
+47059	Pierre
+47068	Lourdes
+47115	Bernadette
+47190	Lourdes
+47233	Rue de
+47235	la Grotte
+47241	Rue du
+47243	Bois
+47371	Bagneres
+47418	Rue Basse
+47515	Lourdes
+47549	Christian
+47633	Bernadette
+47760	Bourriette
+47768	Justin Bouhohorts
+47789	Virgin
+47862	Bernadette
+47902	Pierre
+47932	Hyacinthe
+47987	Morceux
+47997	Mont de
+47999	Marsan
+48003	Hyacinthe
+48145	Hyacinthe
+48159	Madame de
+48161	Jonquiere
+48243	Pierre
+48255	M. de
+48257	Guersaint
+48280	Marie
+48411	Pierre
+48463	Bernadette
+48680	Landes
+48727	Riscle
+48894	Lourdes
+48905	Lourdes
+48954	Hyacinthe
+49032	Madame de
+49034	Jonquiere
+49134	Hyacinthe
+49170	Dieu
+49309	Hyacinthe
+49417	Stella
+49433	Marie
+49437	Pierre
+49510	Marie
+49558	Lourdes
+49579	Bernadette
+49646	Maria
+49671	Maria
+49695	Maria
+49718	Maria
+49741	Maria
+49766	Maria
+49891	Father Fourcade
+49903	Lourdes
+49985	Bonamy
+50023	Fourcade
+50261	Fourcade
+50292	Fourcade
+50337	Fourcade
+50570	Fourcade
+50651	Bonamy
+50666	Dargeles
+50693	Bishop
+50697	Lourdes
+50741	Sens
+50792	Father Capdebarthe
+50852	Dargeles
+50954	Fourcade
+51052	Bonamy
+51097	Fourcade
+51469	Baron Suire
+51499	Berthaud
+51518	Berthaud
+51535	Berthaud
+51552	Father Fourcade
+51610	Berthaud
+51635	Gerard de
+51637	Peyrelongue
+51682	Legitimist
+51786	Lourdes
+51838	Berthaud
+51894	M. Thiers
+51900	MacMahon
+51919	M. Grevy
+51939	Gerard
+51996	Gerard de
+51998	Peyrelongue
+52096	Lourdes
+52194	Berthaud
+52206	Mademoiselle Lemercier
+52253	Berthaud
+52270	Raymonde
+52272	Mademoiselle de
+52274	Jonquiere
+52353	Mademoiselle de
+52355	Jonquiere
+52423	Gerard
+52478	Berthaud
+52521	Mademoiselle de
+52523	Jonquiere
+52571	Baron Suire
+52714	Gerard
+52730	Abbe des
+52732	Hermoises
+52798	Lourdes
+52885	Gerard
+53041	Bonamy
+53046	Fourcade
+53170	Berthaud
+53174	Gerard
+53199	Baron Suire
+53265	Father Fourcade
+53269	Bonamy
+53377	Bernadette
+53418	Lourdes
+53658	Hyacinthe
+53675	Claire des
+53677	Anges
+53697	Ferrand
+53708	Father Fourcade
+53735	Baron Suire
+53865	Ferrand
+53868	Saint-Francois
+53901	Hyacinthe
+53920	Marie
+53957	Abbe Froment
+54004	M. Sabathier
+54008	Isidore
+54021	Madame de
+54023	Jonquiere
+54030	La Grivotte
+54039	Vetu
+54050	Hyacinthe
+54077	Sophie Couteau
+54080	Elise Rouquet
+54097	Madame Vincent
+54270	Jesus
+54272	Mary
+54366	M. Vigneron
+54370	Madame Vigneron
+54384	Gustave
+54468	Hyacinthe
+54475	Elise Rouquet
+54478	Sophie Couteau
+54489	Ferrand
+54494	Claire des
+54496	Anges
+54542	Madame Vincent
+54609	Madame Vincent
+54690	Madame Vincent
+54769	Vincent
+54857	Vincent
+54910	Vincent
+55048	Berthaud
+55052	Gerard
+55086	Raymonde
+55153	Monsieur Gerard
+55155	de Peyrelongue
+55159	Raymonde
+55201	Lourdes
+55205	Gerard
+55212	Berthaud
+55251	Raymonde
+55293	Madame de
+55295	Jonquiere
+55321	Madame Volmar
+55384	Dieulafay
+55394	Madame Desagneaux
+55506	Abbe Judaine
+55559	Berthaud
+55714	Madame Jousseur
+55717	Madame Dieulafay
+55722	Madame de
+55724	Jonquiere
+55735	Berthaud
+55737	Gerard
+55787	Gerard
+55793	Raymonde
+55796	Berthaud
+55798	Madame de
+55800	Jonquiere
+55865	Raymonde
+55872	Madame Volmar
+55930	Berthaud
+55932	Gerard
+55949	M. Sabathier
+56055	La Grivotte
+56076	Madame Vetu
+56308	Fourcade
+56323	Bonamy
+56339	Berthaud
+56391	Marie
+56399	M. de
+56401	Guersaint
+56403	Pierre
+56433	Gerard
+56436	Pierre
+56486	Pierre
+56490	Marie
+56897	Marie
+56900	Pierre
+57006	M. Sabathier
+57012	Lourdes
+57233	Lourdes
+57301	M. Sabathier
+57371	M. Sabathier
+57511	Dieu
+57596	M. Sabathier
+57613	Abbe Judaine
+57772	Marie
+57816	Marie
+57942	La Grivotte
+57949	Gerard
+57951	M. Sabathier
+57959	Baron Suire
+57962	Berthaud
+57995	Marie
+57999	Pierre
+58016	M. de
+58018	Guersaint
+58032	Abbe des
+58034	Hermoises
+58082	M. de
+58084	Guersaint
+58205	M. de
+58207	Guersaint
+58234	Pierre
+58241	Marie
+58386	Marie
+58390	M. de
+58392	Guersaint
+58511	Fourcade
+58861	Lourdes
+58959	Baron Suire
+59155	M. Sabathier
+59206	Isidore
+59249	M. Sabathier
+59376	Baron Suire
+59465	Sainte-Honorine Ward
+59482	Raymonde
+59518	Raymonde
+59532	Madame Desagneaux
+59592	Hyacinthe
+59639	Madame de
+59641	Jonquiere
+59697	Hyacinthe
+59710	Claire des
+59712	Anges
+59742	Madame Desagneaux
+59822	Madame Desagneaux
+59893	Sainte-Rosalie Ward
+60060	Lourdes
+60180	Volmar
+60185	Madame Desagneaux
+60248	Madame Volmar
+60470	Hyacinthe
+60474	Ferrand
+60478	Saint-Francois
+60504	Madame de
+60506	Jonquiere
+60594	Monsieur l'Abbe
+60625	Ferrand
+60831	Sister Hyacinthe
+61168	Marie
+61177	Pierre
+61180	Gerard
+61233	M. de
+61235	Guersaint
+61270	Pierre
+61321	Madame de
+61323	Jonquiere
+61364	Hyacinthe
+61413	Pierre
+61530	Pierre
+61666	Elise Rouquet
+61722	La Grivotte
+61730	Hyacinthe
+61733	Claire des
+61735	Anges
+61757	Madame Desagneaux
+61904	Madame de
+61906	Jonquiere
+62012	Madame Desagneaux
+62090	Sophie Couteau
+62165	Abbe Judaine
+62176	Sainte-Honorine Ward
+62218	Monsieur le
+62220	Cure
+62277	La Grivotte
+62421	Abbe Judaine
+62462	Blessed Virgin
+62495	Marie
+62608	Madame Vetu
+62678	Madame Vetu
+62704	Madame de
+62706	Jonquiere
+62725	Hyacinthe
+62727	Madame Desagneaux
+62790	Elise Rouquet
+62868	Sophie
+62880	Abbe Judaine
+62949	Pierre
+62953	Marie
+63031	Pierre
+63773	Bernadette
+64041	Pierre
+64054	Plateau de
+64056	la Merlasse
+64081	Marie
+64388	Gers
+64468	Bartres
+64476	Serre de
+64478	Julos
+64714	Sainte Clarissa
+64815	Marie
+64817	Pierre
+64914	Bernadette
+65373	Pierre
+65375	Marie
+65588	Maria
+65649	Pierre
+65651	Marie
+65690	Marie
+65693	Pierre
+65785	Massias
+65976	Pierre
+65982	Marie
+66070	Vignerons
+66076	Gustave
+66128	M. Sabathier
+66132	Isidore
+66137	Madame Vetu
+66145	Elise Rouquet
+66149	La Grivotte
+66160	Pierre
+66181	Madame Vincent
+66195	Rose
+66260	Marie
+66270	Virgin
+66302	Pierre
+66466	Pierre
+66717	Father Massias
+66781	Father Massias
+66798	Fourcade
+66814	Baron Suire
+66826	Fourcade
+66845	Abbe Judaine
+66853	Fourcade
+66898	Fourcade
+66926	Father Massias
+67060	Lourdes
+67083	Fourcade
+67364	Fourcade
+67586	Massias
+67668	Pierre
+67710	Pierre
+67734	M. de
+67736	Guersaint
+68048	Pierre
+68089	Lourdes
+68389	Pierre
+68396	Lourdes
+68407	Doctor Chassaigne
+68492	Pierre
+68546	Lourdes
+68682	Chassaigne
+68700	Marguerite
+68855	Lourdes
+68858	Marguerite
+69039	Lourdes
+69084	Pierre
+69286	Pierre
+69294	Lourdes
+69298	M. de
+69300	Guersaint
+69386	Bernadette
+69497	Bernadette
+69588	Pierre
+69693	Chassaigne
+69749	Marguerite
+70426	Pierre
+70604	Pierre
+70704	Chassaigne
+70924	Pierre
+70929	Marie
+71005	Lourdes
+71145	M. de
+71147	Guersaint
+71177	Marie
+71182	Pierre
+71241	M. de
+71243	Guersaint
+71254	Pierre
+71317	du Rosaire
+71352	Marie
+71374	Pierre
+71413	Pierre
+71459	Lourdes
+71524	Marie
+71530	Raymonde
+71613	Raymonde
+71666	Marie
+71715	Pierre
+71917	Madame Vincent
+71954	Christ
+72043	Pierre
+72128	La Grivotte
+72310	Pierre
+72316	Madame Vetu
+72397	Vincent
+72477	Blessed Virgin
+72493	Madame Vetu
+72547	Capuchin
+72574	Pierre
+72578	Madame Vincent
+72733	Pierre
+72779	Elise Rouquet
+72904	Gerard
+72910	M. Sabathier
+72918	Pierre
+72954	Pierre
+72971	Gerard
+73076	Pierre
+73127	Pierre
+73133	Isidore
+73251	Monsieur l'Abbe
+73267	M. Sabathier
+73270	Pierre
+73293	Marquis de
+73295	Salmon-Roquebert
+73297	M. de
+73299	Guersaint
+73337	Marquis
+73379	Lourdes
+73480	Pierre
+73521	M. Sabathier
+73543	Marquis
+73615	Pierre
+73621	M. Sabathier
+73787	M. Sabathier
+74033	M. Sabathier
+74036	Pierre
+74039	Marquis
+74148	Pierre
+74179	M. Sabathier
+74291	Pierre
+74372	M. Sabathier
+74460	Pierre
+74463	Gustave Vigneron
+74491	Madame Chaise
+74550	Fourcade
+74553	Massias
+74639	Baron Suire
+74651	Berthaud
+74742	M. Sabathier
+74758	Gustave
+74832	Pierre
+74836	Marquis de
+74838	Salmon-Roquebert
+74901	Massias
+74923	Fourcade
+75033	Berthaud
+75045	Baron Suire
+75056	Fourcade
+75145	Berthaud
+75222	Fourcade
+75233	Massias
+75315	Pierre
+75577	Massias
+75613	Capuchin
+75642	Pierre
+75656	Marquis
+75669	Berthaud
+75791	Fourcade
+75801	Massias
+75915	Gustave
+76069	Marquis de
+76071	Salmon-Roquebert
+76083	Pierre
+76161	Vigneron
+76163	Madame Chaise
+76186	M. Vigneron
+76214	Pierre
+76231	Marie
+76267	Gerard
+76307	Pierre
+76469	Marie
+76554	Marie
+76709	Pierre
+76712	Marie
+76734	Gerard
+76741	Raymonde
+76770	Raymonde
+76794	Marie
+76801	Gerard
+76841	Berthaud
+76854	Gerard
+76859	Mademoiselle
+76865	Raymonde
+76909	Marie
+76966	Pierre
+77010	Marie
+77074	Pierre
+77095	Chassaigne
+77176	Pierre
+77270	M. Chassaigne
+77384	Pierre
+77585	Bonamy
+77593	Chassaigne
+77619	Pierre
+77695	Pierre
+77814	Pierre
+77829	Father Dargeles
+78066	Bonamy
+78129	Lourdes
+78166	M. Bonamy
+78625	Pierre
+78676	Bonamy
+78825	Bonamy
+78968	Bonamy
+79191	M. Zola
+79205	Bonamy
+79469	Bonamy
+79562	Raboin
+79600	Raboin
+79675	Raboin
+79686	Bonamy
+79752	Lourdes
+79861	Lourdes
+79908	Bonamy
+80026	Virgin
+80136	Bonamy
+80145	Sophie
+80177	Pierre
+80181	Sophie Couteau
+80216	Bonamy
+80289	Sophie
+80360	Monsieur Rivoire
+80414	Lourdes
+80424	Blessed Virgin
+80485	Bonamy
+80505	Sophie
+80520	Monsieur Rivoire
+80586	Sophie
+80708	Sophie
+80714	Bonamy
+80823	Virgin
+80848	Bonamy
+80858	Blessed Virgin
+80921	Mon Dieu
+81293	Bonamy
+81357	Sophie Couteau
+81371	Elise Rouquet
+81434	Pierre
+81539	Chassaigne
+81565	Pierre
+81725	Bonamy
+81729	Elise Rouquet
+81791	La Grivotte
+81864	Fourcade
+81957	Pierre
+82044	Bonamy
+82071	La Grivotte
+82192	Bonamy
+82460	Dargeles
+82489	Lourdes
+82512	Pierre
+82515	Chassaigne
+82620	M. Chassaigne
+82685	Lourdes
+82798	Pierre
+83281	Bonamy
+83519	Pierre
+83781	Bonamy
+83797	Pierre
+83962	Raboin
+84057	Bonamy
+84072	Raboin
+84135	Pierre
+84309	Pierre
+84410	Pierre
+84426	Raboin
+84448	Bonamy
+84458	Pierre
+84519	Chassaigne
+84769	Chassaigne
+84885	Marie de
+84887	Guersaint
+85017	Pierre
+85029	Beauclair
+85132	Bonamy
+85143	La Grivotte
+85153	Dargeles
+85258	Pierre
+85263	Chassaigne
+85292	La Grivotte
+85439	Pierre
+85530	La Grivotte
+85662	Abbe Judaine
+85884	Chassaigne
+85886	Pierre
+86130	Abbe Judaine
+86140	Pierre
+86168	Lazarus
+86174	Lazarus
+86626	Pierre
+86633	Abbe Judaine
+86657	Chassaigne
+86669	Marie
+86696	M. de
+86698	Guersaint
+86751	Cirque de
+86753	Gavarnie
+86761	Marie
+86771	M. de
+86773	Guersaint
+86777	Pierre
+86855	Pierre
+86866	M. de
+86868	Guersaint
+86923	V. BERNADETTE
+86934	M. de
+86936	Guersaint
+86950	Pierre
+86973	Marie
+87007	Sainte-Honorine Ward
+87058	Pierre
+87117	Abbe Judaine
+87162	Pierre
+87165	Madame de
+87167	Jonquiere
+87176	Marie
+87226	Marie
+87232	Pierre
+87265	Madame de
+87267	Jonquiere
+87329	Pierre
+87369	Virgin
+87396	Marie
+87742	Pierre
+87744	Raymonde
+87781	Madame de
+87783	Jonquiere
+87841	Madame Desagneaux
+87851	Hyacinthe
+87906	Madame Volmar
+87921	Madame de
+87923	Jonquiere
+88176	Monsieur Ferrand
+88210	Isidore
+88252	Hyacinthe
+88292	Monsieur Sabathier
+88305	Monsieur Ferrand
+88314	Brother Isidore
+88330	Pierre
+88345	Marie
+88394	Pierre
+88420	Elise Rouquet
+88459	Madame Vetu
+88549	La Grivotte
+89016	Pierre
+89029	Marie
+89122	the Virgin
+89252	Marie
+89707	Pierre
+89711	Marie
+89742	Hyacinthe
+89786	Monsieur
+89804	Marie
+89818	Pierre
+89842	Bernadette
+90012	Pierre
+90048	Bernadette
+90054	Abbe Peyramale
+90061	Lourdes
+90064	Monseigneur Laurence
+90128	Pierre
+90151	Bernadette
+90274	Bernadette
+90315	Lourdes
+90390	Bernadette
+90505	Lourdes
+90533	Bourriette
+90539	Bouhohort
+90566	Blaise Maumus
+90569	Bernade Soubies
+90573	Auguste Bordes
+90576	Blaisette Soupenne
+90579	Benoite Cazeaux
+90631	Virgin
+90825	M. Zola
+90833	Lourdes
+90840	Bernarde Loubie
+90994	Lourdes
+91076	Bernadette
+91275	Virgin
+91293	Pierre
+91297	Bernadette
+91355	Marie
+91501	Bernadette
+91523	Pierre
+91793	Lourdes
+91865	Virgin
+91878	Virgin
+91933	Abby Peyramale
+91940	Lourdes
+91977	Bernadette
+92183	Bernadette
+92214	Bernadette
+92239	Bishop
+92241	Monseigneur Laurence
+92444	Monseigneur Laurence
+92472	Thomas
+92697	Bernadette
+93596	Virgin
+93880	Sainte-Honorine Ward
+93891	Pierre
+93914	Herod
+93916	La Grivotte
+94034	Hyacinthe
+94044	Madame de
+94046	Jonquiere
+94130	Pierre
+94137	Elise Rouquet
+94172	Abbe Judaine
+94189	Marie
+94201	Virgin
+94265	Pierre
+94330	Pierre
+94484	Monseigneur Laurence
+94651	Monseigneur Laurence
+95104	Eugenie
+95138	Bishop
+95281	Lourdes
+95320	Lourdes
+95443	Bishop
+95516	Baron Massy
+95550	Lourdes
+95564	Bernadette
+95598	Monseigneur Laurence
+95631	Virgin
+95671	Lourdes
+95757	Virgin
+95785	Abbe Peyramale
+95792	Lourdes
+95841	Bernadette
+95894	Queen of
+95896	the Angels
+95949	Lourdes
+96148	Pierre
+96187	Abbe Judaine
+96202	Marie
+96220	Pierre
+96381	Virgin
+96402	Abbe Judaine
+96497	Pierre
+96624	Abbe Judaine
+96639	Pierre
+96649	Hyacinthe
+96808	Marie
+96828	La Grivotte
+96882	Marie
+96944	Pierre
+96999	Abbe Judaine
+97002	Pierre
+97036	Madame de
+97038	Jonquiere
+97044	Hyacinthe
+97083	Bernadette
+97189	M. de
+97191	Guersaint
+97255	Pierre
+97333	M. de
+97335	Guersaint
+97348	Pierre
+97417	Marie
+97421	M. de
+97423	Guersaint
+97465	Pierre
+97521	M. de
+97523	Guersaint
+97658	Pierre
+97831	Marie
+97844	M. de
+97846	Guersaint
+97858	Pierre
+97975	Abbe des
+97977	Hermoises
+98031	M. de
+98033	Guersaint
+98083	Pierre
+98223	M. de
+98225	Guersaint
+98361	Monsieur Majeste
+98457	M. de
+98459	Guersaint
+98482	Pierre
+98531	Monsieur l'Abbe
+98541	Madame Chaise
+98554	Monsieur
+98556	Madame Vigneron
+98561	Gustave
+98581	Lourdes
+98591	Pierre
+98606	M. Vigneron
+98779	M. de
+98781	Guersaint
+98804	Pierre
+98896	M. de
+98898	Guersaint
+98917	Volmar
+99023	Madame Desagneaux
+99038	Pierre
+99154	M. de
+99156	Guersaint
+99184	Pierre
+99229	M. Vigneron
+99317	M. de
+99319	Guersaint
+99333	M. de
+99335	Guersaint
+99367	Pierre
+99462	Marie
+99491	Gavarnie
+99543	Pierre
+99640	Virgin
+99776	Pierre
+99813	Fourcade
+99828	M. de
+99830	Guersaint
+99839	Pierre
+99887	M. de
+99889	Guersaint
+99917	Lourdes
+99935	Pierre
+99956	Vignerons
+99963	Gustave
+100005	Vigneron
+100019	M. Vigneron
+100104	M. Vigneron
+100198	Gustave
+100239	Gustave
+100362	Pierre
+100381	M. Vigneron
+100576	M. Vigneron
+100618	Pierre
+100620	M. de
+100622	Guersaint
+100874	Nevers
+100896	Lourdes
+100976	Pierre
+101003	Majeste
+101074	Lourdes
+101129	Majeste
+101233	Pierre
+101298	Majeste
+101326	Pierre
+101426	Monsieur l'Abbe
+101566	Lourdes
+101631	Majeste
+101708	Monsieur l'Abbe
+101747	Dieu
+101786	Pierre
+102047	Pierre
+102049	M. de
+102051	Guersaint
+102185	Madame Majeste
+102272	Majeste
+102459	Majeste
+102494	Pierre
+102670	Monsieur l'Abbe
+102732	Lourdes
+102874	Mademoiselle Apolline
+102915	Gerard de
+102917	Peyrelongue
+102952	Abbe des
+102954	Hermoises
+102987	Madame Majeste
+103014	Bernadette
+103027	Bernadette
+103036	Pierre
+103038	M. de
+103040	Guersaint
+103049	Majeste
+103053	Bernadette
+103063	Apolline
+103105	M. de
+103107	Guersaint
+103149	Majeste
+103185	Pierre
+103441	Pierre
+103729	M. de
+103731	Guersaint
+103792	Pierre
+103969	M. de
+103971	Guersaint
+103996	Pierre
+104031	Madame Vigneron
+104034	Madame Chaise
+104049	M. Vigneron
+104054	Gustave
+104150	M. Vigneron
+104327	Madame Chaise
+104336	Gustave
+104375	M. Vigneron
+104414	Gustave
+104471	Gustave
+104574	Madame Vigneron
+104596	Gustave
+104802	M. de
+104804	Guersaint
+104808	Pierre
+104834	Pierre
+105160	M. Vigneron
+105205	Sauvageot
+105246	Madame Vigneron
+105292	Vigneron
+105379	Gustave
+105441	Virgin
+105533	Gustave
+105551	M. de
+105553	Guersaint
+105600	Gustave
+105808	M. Vigneron
+105869	M. de
+105871	Guersaint
+105912	Pierre
+106040	Pierre
+106042	M. de
+106044	Guersaint
+106159	M. de
+106161	Guersaint
+106214	Pierre
+106273	Mesdames Desagneaux
+106276	Raymonde de
+106278	Jonquiere
+106285	Gerard de
+106287	Peyrelongue
+106345	Madame Desagneaux
+106377	Gerard
+106397	Raymonde
+106455	M. Berthaud
+106471	Raymonde
+106490	Pierre
+106492	M. de
+106494	Guersaint
+106677	de Guersaint
+106742	Raymonde
+106775	M. de
+106777	Guersaint
+106782	Pierre
+106824	Raymonde
+106828	Gerard
+107147	Madame de
+107149	Jonquiere
+107184	Raymonde
+107253	Gerard
+107430	Gerard
+107518	Gerard
+107669	Lourdes
+107859	Gerard
+107959	Berthaud
+107996	Madame Desagneaux
+108029	Berthaud
+108065	Gerard
+108067	Raymonde
+108111	Marquis de
+108113	Salmon-Roquebert
+108155	Berthaud
+108163	Marquis
+108210	Marquis
+108281	Marquis
+108348	M. de
+108350	Guersaint
+108376	Pierre
+108380	Baron Suire
+108438	Marie
+108484	Pierre
+108536	Fourcade
+108539	Madame de
+108541	Jonquiere
+108709	Berthaud
+108806	Gerard
+108810	Raymonde
+108815	M. de
+108817	Guersaint
+108819	Pierre
+108843	Madame Desagneaux
+108866	Gerard
+108941	M. de
+108943	Guersaint
+108967	Raymonde
+108969	Gerard
+108986	du Rosaire
+109238	Gerard
+109480	Raymonde
+109482	Madame Desagneaux
+109488	M. de
+109490	Guersaint
+109568	Pierre
+109652	Gerard
+109717	Raymonde
+110006	Raymonde
+110008	Madame Desagneaux
+110039	M. de
+110041	Guersaint
+110063	Pierre
+110189	Madame Desagneaux
+110202	Gerard
+110307	Lourdes
+110316	O. L.
+110318	of Lourdes
+110432	Gerard
+110470	Pierre
+110535	Pierre
+110576	Lourdes
+110647	Gerard
+110672	Capdebarthe
+110741	Laurence
+110874	Pierre
+111279	Gerard
+111297	Pierre
+111436	Monsieur
+111725	Gerard
+111734	Raymonde
+111768	Madame Desagneaux
+111801	Pierre
+111823	Gerard
+111862	Lourdes
+111864	Raymonde
+111871	Gerard
+111897	M. de
+111899	Guersaint
+112015	Lourdes
+112143	Madame Desagneaux
+112154	Madame Jousseur
+112247	Madame Desagneaux
+112334	Raymonde
+112340	Madame Dieulafay
+112378	Gerard
+112451	Pierre
+112560	Pierre
+112659	Lourdes
+112794	Berthe
+112895	Madame Desagneaux
+112974	Madame Desagneaux
+113000	Raymonde
+113029	Pierre
+113039	Gerard
+113046	Raymonde
+113078	Gerard
+113089	M. de
+113091	Guersaint
+113094	Pierre
+113142	Marie
+113180	Abbe des
+113182	Hermoises
+113218	Lourdes
+113290	Gavarnie
+113417	Pierre
+113581	Abbe des
+113583	Hermoises
+113725	Pierre
+113802	Lourdes
+113875	M. de
+113877	Guersaint
+113891	Rue Basse
+113898	Pierre
+114062	M. de
+114064	Guersaint
+114149	Laurence
+114153	Bernadette
+114171	Bernadette
+114177	Soubirous
+114220	Rue Basse
+114223	Pierre
+114314	M. de
+114316	Guersaint
+114318	Pierre
+114392	Lourdes
+114517	M. de
+114519	Guersaint
+114534	Cazaban
+114657	Cazaban
+114682	Pierre
+114804	M. de
+114806	Guersaint
+114873	Cazaban
+114927	Pierre
+114945	M. de
+114947	Guersaint
+115052	M. de
+115054	Guersaint
+115242	Lourdes
+115557	Pierre
+115572	M. de
+115574	Guersaint
+115724	Cazaban
+115747	M. de
+115749	Guersaint
+116006	Pierre
+116035	Lourdes
+116038	Lourdes
+116051	Lourdes
+116112	Bernadette
+116186	Pierre
+116190	Cazaban
+116215	M. de
+116217	Guersaint
+116290	Gavarnie
+116369	Lourdes
+116451	Lourdes
+116473	Cazaban
+116512	Pierre
+116566	M. de
+116568	Guersaint
+116682	Lourdes
+116735	Marie
+116764	Baron Suire
+116770	Fourcade
+116791	Sister Hyacinthe
+116889	Marie
+116901	Mon Dieu
+116989	Marie
+117055	Hyacinthe
+117067	Pierre
+117225	Marie
+117244	Monsieur l'Abbe
+117270	Pierre
+117313	M. de
+117315	Guersaint
+117448	Pierre
+117522	Marie
+117570	M. de
+117572	Guersaint
+117593	Pierre
+117612	Pierre
+117756	M. de
+117758	Guersaint
+117826	Pierre
+117883	Lourdes
+118108	Pierre
+118112	Marie
+118144	M. de
+118146	Guersaint
+118174	Pierre
+118185	Marie
+118290	Marie
+118492	M. de
+118494	Guersaint
+118501	Pierre
+118908	Bernadette
+119027	M. de
+119029	Guersaint
+119056	Marie
+119081	Pierre
+119160	Pierre
+119177	M. de
+119179	Guersaint
+119202	Marie
+119326	M. de
+119328	Guersaint
+119365	Pierre
+119383	Marie
+119417	Marie
+119478	M. de
+119480	Guersaint
+119496	Marie
+119632	M. de
+119634	Guersaint
+119717	Marie
+119754	Pierre
+119774	M. de
+119776	Guersaint
+119791	Pierre
+120040	Pierre
+120147	Madame Vincent
+120161	Rose
+120251	Lourdes
+120303	Pierre
+120315	Monsieur l'Abbe
+120393	Monsieur
+120557	Rose
+120601	Monsieur l'Abbe
+120651	Pierre
+120745	Pierre
+120748	Marie
+120871	M. de
+120873	Guersaint
+121029	M. de
+121031	Guersaint
+121094	Marie
+121102	Pierre
+121208	Pierre
+121210	Marie
+121458	Pierre
+121462	Marie
+121532	Virgin
+121592	Bernadette
+121636	Pierre
+121664	Marie
+121993	Marie
+122014	Mon Dieu
+122025	Pierre
+122098	La Grivotte
+122179	Madame Vigneron
+122193	Gustave
+122234	Elise Rouquet
+122259	Sophie Couteau
+122351	Pierre
+122353	Marie
+122406	Pierre
+122440	Marie
+122515	Pierre
+122555	Bernadette
+122655	Pierre
+122657	Marie
+122665	M. de
+122667	Guersaint
+122915	Marie
+123024	M. de
+123026	Guersaint
+123033	Pierre
+123052	Pierre
+123101	Pierre
+123118	Marie
+123339	Pierre
+123482	Pierre
+123550	Marie
+123560	Blanche
+123613	Marie
+123621	Lourdes
+123652	Marie
+123654	Pierre
+123782	Lourdes
+123843	Marie
+124213	Pierre
+124375	Pierre
+124522	Pierre
+124572	Marie
+124717	Pierre
+124808	Pierre
+124839	Marie
+125276	Pierre
+125278	Marie
+125301	Lourdes
+125388	Pierre
+125390	Marie
+125589	Marie
+125594	Pierre
+125655	Pierre
+125716	Pierre
+126053	Pierre
+126131	Monsieur l'Abbe
+126172	Baron Suire
+126236	Monsieur l'Abbe
+126450	Pierre
+126686	Baron Suire
+126852	Pierre
+127076	Baron Suire
+127575	Monsieur l'Abbe
+127623	Monsieur l'Abbe
+127636	Pierre
+127687	Pierre
+127712	Baron Suire
+127752	Pierre
+127920	Pierre
+128079	Pierre
+128220	Pierre
+128380	Brittany
+128804	Baron Suire
+128916	Pierre
+129006	Pierre
+129373	Baron Suire
+129381	Marie
+129415	Marie
+129419	Pierre
+129463	Marie
+129633	Marie
+129760	Marie
+129777	Marie
+129780	Marie
+129901	Pierre
+129991	Marie
+130015	Pierre
+130067	Pierre
+130397	Pierre
+130424	Madame Vincent
+130442	Rose
+130450	Monsieur l'Abbe
+130745	Pierre
+131038	Pierre
+131236	Pierre
+131336	Pierre
+131409	Pierre
+131845	Pierre
+131926	Pierre
+131973	Pierre
+132308	Marie
+132459	Pierre
+132468	Marie
+132492	Marie
+132539	Marie
+132692	Pierre
+132739	Pierre
+133021	Virgin
+133069	Baron Suire
+133162	Guillaume
+133278	Guillaume
+133411	Marie
+133524	Pierre
+133612	Baron Suire
+133691	Pierre
+133695	Marie
+133919	Pierre
+133923	Marie
+133994	Madame Vincent
+134007	Rose
+134236	Virgin
+134256	O Virgin
+134345	Rose
+134381	O Virgin
+134392	O Virgin
+134508	Virgin
+134590	Pierre
+134594	Madame Vincent
+134681	Marie
+134683	Pierre
+134728	Pierre
+134776	Little Rose
+134864	Bonamy
+134872	Pierre
+135006	Pierre
+135082	Pierre
+135333	Chassaigne
+135381	Pierre
+135492	M. Chassaigne
+135654	Pierre
+135823	Chassaigne
+135839	Pierre
+136061	Bernadette
+136064	Pierre
+136082	Bernadette
+136189	Lourdes
+136197	Bernadette
+136215	Pierre
+136234	Bernadette
+136403	Bernadette
+136477	Bernadette
+136518	Nevers
+136895	Chassaigne
+136942	Pierre
+137039	Bernadette
+137221	Bernadette
+137409	Bernadette
+137476	Pierre
+137484	Bernadette
+137590	Bernadette
+137875	Pierre
+137882	Lourdes
+137898	Gildard
+137993	Chassaigne
+138068	Bernadette
+138074	Lourdes
+138282	Pierre
+138316	Lourdes
+138464	Bernadette
+138491	Laurence
+138656	Pierre
+138772	Bernadette
+138973	Gildard
+138980	Lourdes
+139164	Bernadette
+139171	Pierre
+139235	Abbe Peyramale
+139273	Bernadette
+139331	Abbe Peyramale
+139338	Lourdes
+139422	Bernadette
+139500	Bernadette
+139719	Abbe Peyramale
+139732	Virgin
+139735	Bernadette
+139791	Virgin
+140003	Abbe Peyramale
+140032	Monseigneur Laurence
+140036	Bishop
+140049	Father Sempe
+140070	Sempe
+140112	Lourdes
+140205	Bishop
+140227	Abbe Peyramale
+140232	Sempe
+140272	Bishop
+140342	Lourdes
+140382	Abbe Peyramale
+140572	Bernadette
+140756	Abbe Peyramale
+140869	Monseigneur Jourdan
+140876	Monseigneur Laurence
+140879	Bishop
+140920	Father Sempe
+141000	Abbe Peyramale
+141132	Sempe
+141231	Abbe Peyramale
+141383	Sempe
+141464	Sempe
+141534	Sempe
+141623	Lourdes
+141628	Bernadette
+141635	Abbe Peyramale
+141816	Abbe Peyramale
+141974	Peyramale
+142001	Bishop
+142073	Abbe Peyramale
+142329	Abbe Peyramale
+142344	Sempe
+142384	Lourdes
+142537	Bernadette
+142549	Sempe
+142630	Virgin
+142741	Abbe Peyramale
+142756	Bernadette
+142796	Chassaigne
+142850	Pierre
+142948	Bernadette
+142952	Abbe Peyramale
+142970	Pierre
+143153	Lourdes
+143165	Pierre
+143168	Chassaigne
+143523	Chassaigne
+143527	Pierre
+143561	Pierre
+143698	M. de
+143700	Guersaint
+143706	Gavarnie
+143726	Pierre
+143770	Abbe Peyramale
+143786	Bernadette
+143873	Lourdes
+143907	Abbe Peyramale
+143958	Bernadette
+144005	Marie
+144040	Madame de
+144042	Jonquiere
+144160	Sainte-Honorine Ward
+144172	Madame Vetu
+144194	Marie
+144312	Madame de
+144314	Jonquiere
+144328	Marie
+144447	Marie
+144515	Madame de
+144517	Jonquiere
+144607	Pierre
+144737	Madame de
+144739	Jonquiere
+144820	Hyacinthe
+145155	Hyacinthe
+145198	Abbe Judaine
+145260	Madame Desagneaux
+145269	Madame de
+145271	Jonquiere
+145274	Marie
+145295	Hyacinthe
+145396	Hyacinthe
+145541	Sophie
+145587	Sophie Couteau
+145751	Sophie
+145791	Sophie
+145831	Madame Vetu
+145842	Madame Desagneaux
+145857	Marie
+145892	Ferrand
+145906	Hyacinthe
+146027	Bonamy
+146115	Virgin
+146443	Ferrand
+146462	Ferrand
+146497	Hyacinthe
+146504	Abbe Judaine
+146536	Isidore
+146631	Monsieur Ferrand
+146645	Sainte-Honorine Ward
+146758	Isidore
+146761	Monsieur Sabathier
+146878	Hyacinthe
+147093	Lourdes
+147255	Ferrand
+147260	Isidore
+147264	Marthe
+147409	Ferrand
+147520	Ferrand
+147706	Hyacinthe
+147760	Madame Vetu
+147768	Ferrand
+147821	Lourdes
+147942	Madame Vetu
+147958	Madame Desagneaux
+147986	Ferrand
+148136	Hyacinthe
+148167	Madame de
+148169	Jonquiere
+148176	Madame Desagneaux
+148212	Sophie
+148257	Hyacinthe
+148313	Ferrand
+148322	Madame Vetu
+148350	Marie
+148446	Ferrand
+148448	Marie
+148509	Hyacinthe
+148557	Ferrand
+148590	Lourdes
+149020	Madame Vetu
+149428	Ferrand
+149610	Madame Vetu
+149619	Ferrand
+149709	Hyacinthe
+149745	Monsieur Ferrand
+149807	La Grivotte
+149810	Elise Rouquet
+149821	La Grivotte
+149859	Ferrand
+149904	Elise Rouquet
+149960	Bonamy
+149964	Ferrand
+150087	La Grivotte
+150170	Hyacinthe
+150183	Madame Vetu
+150254	Ferrand
+150280	Hyacinthe
+150302	Raymonde
+150317	Raymonde
+150445	Madame de
+150447	Jonquiere
+150465	Raymonde
+150606	God
+150620	Lourdes
+150778	Raymonde
+150790	Gerard
+150858	M. Berthaud
+150877	Lourdes
+150884	Madame de
+150886	Jonquiere
+150939	Hyacinthe
+150943	Madame Vetu
+150949	Raymonde
+150956	Madame Desagneaux
+150998	Volmar
+151032	Madame Volmar
+151038	Madame de
+151040	Jonquiere
+151064	Ferrand
+151071	Hyacinthe
+151147	La Grivotte
+151187	La Grivotte
+151214	Madame Vetu
+151333	Elise Rouquet
+151383	Marie
+151501	Ferrand
+151543	Hyacinthe
+151596	Madame Vetu
+151938	Madame de
+151940	Jonquiere
+151986	Madame Vetu
+152006	Sophie Couteau
+152033	La Grivotte
+152043	Elise Rouquet
+152092	Marie
+152187	Ferrand
+152222	Hyacinthe
+152350	Fourcade
+152437	Baron Suire
+152451	Berthaud
+152525	Berthaud
+152587	Gerard
+152815	Gerard
+153337	Baron Suire
+153348	Berthaud
+153350	Berthaud
+153378	Berthaud
+153478	Gerard
+153488	Raymonde
+153519	Berthaud
+153550	Gerard
+153561	Berthaud
+153566	Raymonde
+153606	Berthaud
+153679	Berthaud
+154019	Berthaud
+154280	Berthaud
+154413	Mary
+154439	Mary
+154478	Mary
+154488	Mary
+154524	Powerful Virgin
+154533	Powerful Virgin
+154598	Berthaud
+154677	Lourdes
+154980	Lourdes
+155389	Mary
+155420	Mary
+155530	M. Sabathier
+155814	Isidore
+155869	M. Sabathier
+155881	Virgin
+156000	M. Sabathier
+156059	Madame Sabathier
+156179	M. Sabathier
+156507	Vigneron
+156523	Gustave
+156576	M. Vigneron
+156742	Madame Chaise
+156752	Gustave
+156809	Gustave
+156830	Raymonde
+156979	Lourdes
+157020	Gustave
+157081	M. Vigneron
+157171	Abbe Judaine
+157192	M. Vigneron
+157218	Monsieur
+157233	Abbe Judaine
+157307	M. Vigneron
+157312	Madame Dieulafay
+157408	Madame Jousseur
+157670	M. Vigneron
+157732	Vigneron
+157763	Abbe Judaine
+157772	Massias
+157859	Fourcade
+157951	Mary
+157953	Jesus
+157961	Massias
+158156	Marthe
+158159	Isidore
+158445	Madame Sabathier
+158462	Massias
+158472	Marthe
+158481	Isidore
+158528	Lourdes
+158692	Brother Isidore
+159011	Marthe
+159037	Madame Sabathier
+159186	Marthe
+159235	Marthe
+159282	Madame Sabathier
+159411	M. Sabathier
+159471	Vignerons
+159524	Madame Jousseur
+159542	M. Dieulafay
+159564	Abbe Judaine
+159569	M. Vigneron
+159680	Massias
+159707	Jesus
+159711	David
+159730	Jesus
+159734	David
+159770	Jesus
+159774	David
+159785	Jesus
+159789	David
+159800	Jesus
+159804	David
+159818	Jesus
+159822	David
+159846	Fourcade
+160219	David
+160232	David
+160239	Berthaud
+160262	Baron Suire
+160308	Gerard
+160311	Raymonde
+160408	Gerard
+160459	Isidore
+160473	Virgin
+160586	MARIE
+160592	Abbe Judaine
+160609	Virgin
+160638	Lourdes
+160703	Berthaud
+160824	Berthaud
+160897	Abbe Judaine
+160965	Monsieur
+161097	Pierre
+161102	Marie
+161317	Pierre
+161377	Marie
+161410	Pierre
+161471	Pierre
+161852	Pierre
+161890	Berthaud
+161925	Marie
+161987	Pierre
+162030	Marie
+162080	Pierre
+162085	M. de
+162087	Guersaint
+162130	Pierre
+162361	Pierre
+162603	Father Massias
+162617	Pierre
+162625	Jesus
+162637	Massias
+162640	Fourcade
+162951	Pierre
+163411	Pierre
+163452	Marie
+163491	Lourdes
+163551	Pierre
+163562	Beauclair
+163598	Pierre
+163699	Beauclair
+163712	Pierre
+163757	Beauclair
+163773	Beauclair
+163931	Beauclair
+164159	Pierre
+164206	Jesus
+164210	David
+164224	Beauclair
+164397	Beauclair
+164401	Marie
+164457	Pierre
+164491	Lourdes
+164582	David
+164593	David
+164660	Berthaud
+164925	Abbe Judaine
+164938	Berthaud
+165057	Massias
+165177	Massias
+165224	Jesus
+165240	Jesus
+165257	Jesus
+165323	Jesus
+165382	Massias
+165405	Fourcade
+165476	Jesus
+165493	Abbe Judaine
+165559	Jesus
+165572	Jesus
+165585	Jesus
+165590	Christ
+165661	Berthaud
+165754	Jesus
+165943	Lourdes
+165952	Pierre
+165959	Marie
+166124	Pierre
+166437	Pierre
+166519	Fourcade
+166527	Massias
+166611	Abbe Judaine
+166666	Marie
+166748	Pierre
+166917	Pierre
+166992	Abbes
+167007	Father Dargeles
+167028	Bonamy
+167033	Elise Rouquet
+167144	Dargeles
+167186	Marie
+167191	Pierre
+167224	Elise Rouquet
+167288	Pierre
+167298	Chassaigne
+167343	Bonamy
+167346	Marie de
+167348	Guersaint
+167350	Marie de
+167352	Guersaint
+167365	Raboin
+167572	Pierre
+167575	Monsieur l'Abbe
+167588	Mademoiselle de
+167590	Guersaint
+167656	Beauclair
+167675	Pierre
+167720	Bonamy
+167753	Dargeles
+167767	Pierre
+167780	Mon Dieu
+167794	Marie
+167899	Lourdes
+167971	Pierre
+167980	Beauclair
+168023	Holy Virgin
+168158	Pierre
+168164	Beauclair
+168207	Raboin
+168213	Marie
+168259	Bonamy
+168522	Marie
+168594	Bonamy
+168672	Monsieur l'Abbe
+168703	Pierre
+168727	Beauclair
+168768	Bonamy
+168772	Dargeles
+168816	Monsieur l'Abbe
+168849	Pierre
+168893	Marie
+168994	Pierre
+169038	Marie
+169215	Abbe Judaine
+169224	Marie
+169318	Marie
+169407	Pierre
+169416	Father Massias
+169423	Fourcade
+169495	Pierre
+169543	Massias
+169564	Jesus
+169571	Jesus
+169652	Jesus
+169659	Jesus
+169669	Marie
+169802	Berthaud
+169966	Abbe Judaine
+170112	Berthaud
+170353	Berthaud
+170466	Abbe Judaine
+170659	Lourdes
+170993	Marie
+171069	Virgin
+171226	Marie
+171228	Pierre
+171237	Massias
+171301	Pierre
+171309	Berthaud
+171420	Berthaud
+171425	Pierre
+171455	Lourdes
+171609	Pierre
+171692	Marie
+171753	Virgin
+171969	Pierre
+171971	Pierre
+172106	Pierre
+172180	Marie
+172324	Massias
+172361	Abraham
+172380	Abraham
+172446	Marie
+172514	Abbe Judaine
+172527	Marie
+173042	Lourdes
+173079	Gers
+173144	Abbe Judaine
+173189	Le Buala
+173193	Serre de
+173195	Julos
+173248	Gers
+173408	Abbe Judaine
+173422	Marie
+173452	Madame de
+173454	Jonquiere
+173458	Raymonde
+173528	Raymonde
+173613	Marie
+173641	Madame de
+173643	Jonquiere
+173650	Raymonde
+173691	Pierre
+173694	Massias
+173729	Marie
+173849	Abbe Judaine
+173889	Marie
+173902	Raymonde
+173913	Father Massias
+173954	Pierre
+173956	Berthaud
+174007	Pierre
+174337	Lourdes
+174362	Lyons
+174379	Lorraine
+174410	Jesus
+174563	Virgin
+174567	Bernadette
+175211	Pierre
+175280	Marie
+175395	Massias
+175434	Berthaud
+175486	Le Puy
+175494	Le Puy
+175497	Lourdes
+175531	Abbe Judaine
+175589	Pierre
+175600	Marie
+175606	Raymonde
+175654	Chassaigne
+175929	Pierre
+176050	Marie
+176164	Marie
+176301	Beauclair
+176418	Marie
+176478	Blessed Virgin
+176657	Pierre
+176694	Marie
+176941	Pierre
+176962	Marie
+177291	Marie
+177469	Virgin
+177535	Pierre
+177782	Mary
+177841	Paul
+177843	Anna
+177848	Lourdes
+177869	Mary
+177883	Mary
+177888	Antoinette
+178046	Mary
+178129	Pierre
+178401	Pierre
+178885	Pierre
+178926	Chassaigne
+178945	Bernadette
+178949	Abbe Peyramale
+179085	Pierre
+179192	Marie
+179230	Abbe Judaine
+179304	Chassaigne
+179307	Pierre
+179338	Bernadette
+179585	Pierre
+179665	M. Chassaigne
+179709	Pierre
+180114	Pierre
+180157	Monsieur Chassaigne
+180184	Monsieur
+180234	Pierre
+180322	Pierre
+180417	Pierre
+180502	Dieu
+180533	Pierre
+180575	Chassaigne
+180600	Pierre
+180616	Monsieur l'Abbe
+180631	Bernadette
+180636	Lourdes
+180768	Bernadette
+180822	Pierre
+180937	Chassaigne
+180966	Pierre
+181064	Bernadette
+181294	Bernadette
+181302	Lourdes
+181435	Bernadette
+181458	Lourdes
+181476	Bernadette
+181500	Virgin
+181554	Pierre
+181581	Marie
+181932	Pierre
+181974	Chassaigne
+182038	Bernadette
+182102	Bernadette
+182208	Bernadette
+182246	Lourdes
+182314	Lourdes
+182555	Bernadette
+182719	Chassaigne
+182732	Bernadette
+182996	Pierre
+183088	Pierre
+183175	Chassaigne
+183227	Lourdes
+183231	Bernadette
+183284	Pierre
+183513	Pierre
+183609	Pierre
+183735	Chassaigne
+183781	Abbe Peyramale
+183829	Father Sempe
+183836	Lourdes
+183930	Lourdes
+183937	Bernadette
+184497	Lourdes
+184575	Lourdes
+184889	Basilica
+184898	Lourdes
+184920	Pierre
+184926	Chassaigne
+184952	Pierre
+185013	Pierre
+185382	Pierre
+185385	Chassaigne
+185529	Pierre
+186051	Chassaigne
+186239	Sempe
+186258	Bishop
+186435	Lourdes
+186574	Bernadette
+186581	Pierre
+186916	Chassaigne
+187202	Pius IX.
+187285	Bernadette
+187292	Lourdes
+187360	Chassaigne
+187366	Pierre
+187383	Pierre
+187500	Pierre
+187991	Lourdes
+187998	Bernadette
+188203	Pierre
+188294	Bernadette
+188340	Bernadette
+188397	Pierre
+188423	Marie
+188460	M. de
+188462	Guersaint
+188488	Marie
+188511	M. de
+188513	Guersaint
+188541	Pierre
+188676	Pierre
+188707	M. de
+188709	Guersaint
+188867	Volmar
+188888	Pierre
+188926	Monsieur l'Abbe
+188941	M. de
+188943	Guersaint
+188957	Pierre
+188978	M. Vigneron
+188989	Monsieur l'Abbe
+189048	Madame Chaise
+189099	Monsieur
+189156	Monsieur l'Abbe
+189168	Pierre
+189213	M. Vigneron
+189335	Gustave
+189444	M. Vigneron
+189463	Vigneron
+189514	Pierre
+189571	Gustave
+189699	Lourdes
+189872	Madame Vigneron
+189894	Monsieur l'Abbe
+189956	Vigneron
+190002	Monsieur l'Abbe
+190055	Monsieur l'Abbe
+190132	Pierre
+190187	Gustave
+190226	Madame Vigneron
+190266	M. Vigneron
+190355	Gustave
+190424	M. Vigneron
+190584	M. Vigneron
+190725	Madame Vigneron
+190768	Monsieur Vigneron
+190850	Lourdes
+190897	M. Vigneron
+190970	Les Billottes
+191021	Gustave
+191107	M. Vigneron
+191143	Gustave
+191212	M. Vigneron
+191601	M. Vigneron
+191643	Madame Vigneron
+191678	Gustave
+191771	Pierre
+191779	M. Vigneron
+191803	Monsieur
+191847	Pierre
+191876	M. de
+191878	Guersaint
+191914	M. de
+191916	Guersaint
+191944	Pierre
+191967	Madame Volmar
+192019	Lourdes
+192024	Pierre
+192043	Monsieur l'Abbe
+192046	Monsieur
+192160	Monsieur l'Abbe
+192448	Monsieur l'Abbe
+192778	Monsieur l'Abbe
+192890	Monsieur l'Abbe
+192959	Pierre
+193200	Pierre
+193233	Monsieur l'Abbe
+193291	Monsieur l'Abbe
+193428	Pierre
+193505	Lourdes
+193666	Pierre
+193771	Marie
+193783	Hyacinthe
+193886	Pierre
+194014	Marie
+194027	Hyacinthe
+194040	Monsieur l'Abbe
+194073	Marie
+194105	Pierre
+194124	Marie
+194324	Marie
+194328	Pierre
+194382	Pierre
+194483	Marie
+194560	Hyacinthe
+194565	Monsieur l'Abbe
+194583	M. de
+194585	Guersaint
+194594	Marie
+194623	Pierre
+194628	M. de
+194630	Guersaint
+194668	Marie
+194724	Hyacinthe
+194763	Marie
+194810	Hyacinthe
+194820	M. de
+194822	Guersaint
+194841	Pierre
+194919	Gavarnie
+194943	Saint-Sauveur
+194999	M. de
+195001	Guersaint
+195035	Abbe des
+195037	Hermoises
+195095	Marie
+195335	Virgin
+195369	Mary
+195401	Mary
+195403	Jesus
+195535	Jesus
+195542	O Holy
+195544	Mother of
+195546	Jesus
+195645	Pierre
+195744	Hyacinthe
+195846	M. de
+195848	Guersaint
+195858	Marie
+195950	Hyacinthe
+196056	Monsieur de
+196058	Guersaint
+196104	Marie
+196163	Pierre
+196194	Marie
+196243	Lourdes
+196306	M. de
+196308	Guersaint
+196335	Cirque de
+196337	Gavarnie
+196531	M. de
+196533	Guersaint
+196562	Monsieur Vigneron
+196593	Gustave
+196599	Pierre
+196702	Madame Volmar
+196811	Monsieur de
+196813	Guersaint
+196824	Marie
+196880	Marie
+196969	Blessed Virgin
+197032	Lourdes
+197080	M. de
+197082	Guersaint
+197092	Pierre
+197252	Majeste
+197317	Madame Majeste
+197371	Lourdes
+197451	Majeste
+197481	Mademoiselle
+197489	Lourdes
+197549	Madame Majeste
+197592	Marie
+197604	Pierre
+197618	M. de
+197620	Guersaint
+197748	Marie
+197768	Raymonde
+197803	Raymonde
+198052	M. de
+198054	Guersaint
+198069	Pierre
+198079	Marie
+198232	Pierre
+198242	Marie
+198307	Lourdes
+198365	Marie
+198592	Marie
+198771	M. de
+198773	Guersaint
+198776	Pierre
+198819	Gavarnie
+198861	Pierre
+198999	Pierre
+199020	Monsieur
+199176	M. de
+199178	Guersaint
+199191	Gavarnie
+199240	M. de
+199242	Guersaint
+199285	Cazaban
+199470	Cazaban
+199473	M. de
+199475	Guersaint
+199546	Pierre
+199577	Monsieur
+199985	Cazaban
+200346	Pierre
+200484	Pierre
+200489	Cazaban
+200546	Lourdes
+200667	M. de
+200669	Guersaint
+200734	Pierre
+200808	Cazaban
+200893	M. de
+200895	Guersaint
+200976	M. de
+200978	Guersaint
+201018	Cazaban
+201029	M. de
+201031	Guersaint
+201099	Pierre
+201148	Monsieur
+201172	M. de
+201174	Guersaint
+201232	Pierre
+201244	Marie
+201419	Monsieur l'Abbe
+201422	Lourdes
+201440	Pierre
+201459	M. de
+201461	Guersaint
+201465	Marie
+201591	Pierre
+201699	Joseph
+201714	Bernadette
+201733	Pierre
+201738	Marie
+201748	M. de
+201750	Guersaint
+201840	Marie
+201943	Bernadette
+202046	Pierre
+202064	Lourdes
+202113	Virgin
+202227	La Salette
+202241	Lourdes
+202245	La Salette
+202283	Lourdes
+202308	Bernadette
+202391	Lourdes
+202421	Lourdes
+202444	Pierre
+202654	Lourdes
+202735	Rue Basse
+202795	Pierre
+202801	Bernadette
+202838	M. de
+202840	Guersaint
+202862	Marie
+202900	Bernadette
+202967	Majeste
+202988	Pierre
+203093	Lourdes
+203111	Lourdes
+203487	M. de
+203489	Guersaint
+203523	Bernadette
+203567	Pierre
+203575	Bernadette
+203718	Bernadette
+203835	Roch
+203838	Joseph
+203850	Mary
+203872	M. de
+203874	Guersaint
+203926	Marie
+203957	Majeste
+204015	Lourdes
+204087	Lourdes
+204244	Marie
+204291	M. de
+204293	Guersaint
+204295	Pierre
+204452	Apolline
+204455	Marie
+204466	Madame Majeste
+204558	Marie
+204600	M. de
+204602	Guersaint
+204636	Apolline
+204676	M. de
+204678	Guersaint
+204688	Blanche
+204720	Pierre
+204751	Lourdes
+204767	Blanche
+204771	Marie
+204793	M. de
+204795	Guersaint
+204806	Marie
+204820	Blanche
+205080	Bernadette
+205251	Blessed Virgin
+205305	Lourdes
+205311	M. de
+205313	Guersaint
+205364	Pierre
+205530	Lourdes
+205710	Pierre
+205850	M. de
+205852	Guersaint
+205945	Lourdes
+206003	Pierre
+206011	Lourdes
+206043	Marie
+206114	Blanche
+206199	M. de
+206201	Guersaint
+206329	Pierre
+206336	Bernadette
+206402	Marie
+206531	Marie
+206556	Monsieur
+206619	Pierre
+206743	Duchene
+206785	Monsieur l'Abbe
+206798	M. de
+206800	Guersaint
+206823	Cirque de
+206825	Gavarnie
+206936	Abbe des
+206938	Hermoises
+206956	Pierre
+206961	Bernadette
+207007	Madame Majeste
+207026	Apolline
+207051	Bernadette
+207078	Apolline
+207101	Lourdes
+207242	Bernadette
+207347	Madame Majeste
+207352	Pierre
+207364	Bernadette
+207396	Abbe des
+207398	Hermoises
+207504	Pierre
+207521	Bernadette
+207564	Marie
+207657	Lourdes
+208060	Baron Suire
+208096	Gavarnie
+208106	Berthaud
+208108	Gerard
+208229	Baron Suire
+208237	Berthaud
+208239	Gerard
+208267	Fourcade
+208283	Massias
+208289	Bonamy
+208318	Massias
+208340	Blessed Virgin
+208348	Mademoiselle Marie
+208350	de Guersaint
+208486	Fourcade
+208626	Father Massias
+208883	Berthaud
+209080	Pierre
+209101	Marie
+209137	M. de
+209139	Guersaint
+209250	Hyacinthe
+209252	Claire des
+209254	Anges
+209263	Pierre
+209278	M. Sabathier
+209288	Marie
+209338	Chassaigne
+209355	Marie
+209360	Pierre
+209511	Pierre
+209522	Madame Volmar
+209528	Madame de
+209530	Jonquiere
+209559	Raymonde
+209617	Pierre
+209626	Madame Volmar
+209732	Madame Desagneaux
+209774	Berthaud
+209776	Gerard
+209836	Berthaud
+209842	Mademoiselle Raymonde
+209848	Gerard
+209869	Lourdes
+209916	Raymonde
+209924	Berthaud
+209934	Gerard
+209937	Raymonde
+210014	Raymonde
+210052	Madame de
+210054	Jonquiere
+210098	Berthaud
+210100	Gerard
+210124	Raymonde
+210200	Madame Desagneaux
+210243	Madame Volmar
+210293	Madame Volmar
+210320	Pierre
+210371	Ferrand
+210392	Saint-Francois
+210440	Hyacinthe
+210443	Claire des
+210445	Anges
+210476	Hyacinthe
+210514	Ferrand
+210525	Saint-Francois
+210588	Hyacinthe
+210635	Monsieur Ferrand
+210709	Madame de
+210711	Jonquiere
+210720	Claire des
+210722	Anges
+210725	Hyacinthe
+210820	Pierre
+210849	Marie
+210861	M. de
+210863	Guersaint
+210889	M. Vigneron
+210904	Gustave
+210912	Monsieur l'Abbe
+210969	Pierre
+210983	Gustave
+211108	Vigneron
+211119	Gustave
+211230	Pierre
+211353	Gustave
+211405	Pierre
+211412	Monsieur l'Abbe
+211472	Lourdes
+211485	M. Vigneron
+211597	Madame Vigneron
+211634	Gustave
+211739	Gustave
+212047	Pierre
+212072	Berthaud
+212076	Fourcade
+212321	Fourcade
+212408	Massias
+212431	Bonamy
+212592	Madame Dieulafay
+212801	Abbe Judaine
+212877	Pierre
+213001	Virgin
+213144	Blessed Virgin
+213296	Lourdes
+213325	Pierre
+213332	M. de
+213334	Guersaint
+213336	Marie
+213365	Hyacinthe
+213368	Claire des
+213370	Anges
+213389	Gerard
+213394	M. Sabathier
+213401	Pierre
+213420	Gerard
+213483	Madame Sabathier
+213508	Pierre
+213654	Pierre
+213974	Blessed Virgin
+214232	Lourdes
+214678	La Grivotte
+214694	Elise Rouquet
+214697	Sophie Couteau
+214722	Hyacinthe
+214774	Pierre
+214789	M. de
+214791	Guersaint
+214793	Marie
+214797	Abbe Judaine
+214845	M. de
+214847	Guersaint
+214955	Marie
+214972	Pierre
+215019	Pierre
+215059	Lourdes
+215069	Marie
+215126	Chassaigne
+215250	Lourdes
+215295	Dieu
+215300	Abbe Judaine
+215319	M. de
+215321	Guersaint
+215323	Marie
+215393	Abbe Judaine
+215396	M. Chassaigne
+215405	Monsieur
+215439	Abbe Judaine
+215451	M. de
+215453	Guersaint
+215456	Marie
+215458	Pierre
+215575	Abbe Judaine
+215783	Abbe Judaine
+215907	Chassaigne
+216123	Abbe Judaine
+216578	Lazarus
+216621	Abbe Judaine
+216695	Pierre
+216801	Marie
+216913	Chassaigne
+216993	Abbe Judaine
+217014	Marie
+217166	Marie
+217350	Chassaigne
+217354	Marie
+217433	Abbe Judaine
+217459	Marie
+217463	Pierre
+217465	M. de
+217467	Guersaint
+217486	Bonamy
+217494	Fourcade
+217499	Mademoiselle de
+217501	Guersaint
+217534	Fourcade
+217580	M. de
+217582	Guersaint
+217684	Pierre
+217697	M. Dieulafay
+217708	Marie
+217826	Abbe Judaine
+217849	Massias
+217866	Fourcade
+217873	Bonamy
+217880	Gerard
+217882	Berthaud
+217889	Raymonde
+217966	Pierre
+217969	Marie
+217975	M. Vigneron
+218043	Marie
+218053	Pierre
+218063	Chassaigne
+218092	M. Chassaigne
+218198	Baron Suire
+218277	Hyacinthe
+218286	La Grivotte
+218289	Elise Rouquet
+218293	Sophie Couteau
+218337	Madame Vincent
+218351	Hyacinthe
+218365	Ferrand
+218386	Vincent
+218412	Pierre
+218641	Virgin
+218821	Fourcade
+218831	Bonamy
+218853	Berthaud
+218855	Gerard
+218858	Baron Suire
+218869	Chassaigne
+218871	M. Vigneron
+218909	Vigneron
+218911	Gustave
+218924	Raymonde
+218936	Marie
+218944	Lourdes
+219006	MARIE
+219234	M. de
+219236	Guersaint
+219239	Pierre
+219261	Marie
+219366	Marie
+219386	Sophie
+219402	Isidore
+219406	Marthe
+219436	Hyacinthe
+219462	Elise Rouquet
+219468	Sophie
+219473	La Grivotte
+219720	Hyacinthe
+219789	Jesus
+219839	Marie
+219903	Pierre
+219938	Madame Vincent
+220098	Rose
+220183	Rose
+220188	Rose
+220299	Pierre
+220301	Marie
+220419	Lourdes
+220422	Lourdes
+220429	Lourdes
+221132	Marie
+221160	Vincent
+221206	Lourdes
+221308	Hyacinthe
+221348	Riscle
+221424	Madame Vincent
+221491	Hyacinthe
+221500	Claire des
+221502	Anges
+221547	Madame de
+221549	Jonquiere
+221657	La Grivotte
+221683	Madame de
+221685	Jonquiere
+221743	Elise Rouquet
+221815	Sophie Couteau
+221908	M. de
+221910	Guersaint
+221933	M. Sabathier
+221941	Marie
+222004	Madame Vincent
+222100	Pierre
+222102	M. de
+222104	Guersaint
+222111	M. Sabathier
+222192	Lourdes
+222328	Monsieur l'Abbe
+222335	Bernadette
+222507	Lourdes
+222553	Pierre
+222711	Lourdes
+222789	M. de
+222791	Guersaint
+222849	Pierre
+222864	Chassaigne
+222986	Bonamy
+223096	M. Sabathier
+223117	Lourdes
+223225	Hyacinthe
+223238	Jesus
+223245	Jesus
+223248	Jesus
+223253	Jesus
+223259	Jesus
+223317	Saint-Francois
+223385	Morceux
+223395	Hyacinthe
+223483	Lamothe
+223608	Pierre
+223616	La Grivotte
+223728	Hyacinthe
+223735	La Grivotte
+223904	La Grivotte
+223969	Pierre
+224025	Pierre
+224175	Pierre
+224183	Chassaigne
+224192	Bonamy
+224240	La Grivotte
+224298	Madame Vincent
+224353	Elise Rouquet
+224426	Pierre
+224566	La Grivotte
+224588	Lamothe
+224591	Hyacinthe
+224596	La Grivotte
+224687	Sophie
+224811	Sophie
+224830	Hyacinthe
+224855	Hyacinthe
+225021	Sophie
+225068	Madame de
+225070	Jonquiere
+225125	Sophie Couteau
+225128	Elise Rouquet
+225167	Vincent
+225183	Hyacinthe
+225202	La Grivotte
+225373	Pierre
+225382	Marie
+225416	M. de
+225418	Guersaint
+225438	Pierre
+225547	Pierre
+225551	Marie
+225753	Lourdes
+225777	Marie
+225839	Lourdes
+226149	Pierre
+226195	Lourdes
+226565	Pierre
+226567	Marie
+226571	Hyacinthe
+226587	Marie
+226590	Pierre
+226693	Pierre
+226718	Lourdes
+226884	Blanche
+227055	Blanche
+227076	Blanche
+227104	Pierre
+227219	Pierre
+227248	Marie
+227355	Pierre
+227363	Marie
+227500	M. de
+227502	Guersaint
+227647	Marie
+227652	Pierre
+227724	Pierre
+227780	Marie
+227850	Pierre
+227968	Pierre
+228024	Marie
+228091	Abbe Judaine
+228147	Marie
+228292	Marie
+228788	Marie
+228817	Marie
+229048	Hyacinthe
+229223	Marie
+229228	Pierre
+229355	Pierre
+229991	Sophie Couteau
+230018	Claire des
+230020	Anges
+230071	Hyacinthe
+230274	M. de
+230276	Guersaint
+230335	Hyacinthe
+230341	La Grivotte
+230401	Elise Rouquet
+230447	Pierre
+230449	Marie
+230616	M. Sabathier
+230660	Lourdes
+230690	Madame Vincent
+230698	Virgin
+230705	La Grivotte
+230735	M. de
+230737	Guersaint
+230830	Hyacinthe
+230904	BERNADETTE
+230979	Hyacinthe
+231005	Monsieur l'Abbe
+231013	Bernadette
+231053	Les Aubrais
+231100	Lourdes
+231230	Beaugency
+231232	Les Aubrais
+231265	Les Aubrais
+231309	Pierre
+231312	Marie
+231331	Lourdes
+231334	Hyacinthe
+231381	Bernadette
+231393	Pierre
+231476	Bernadette
+231478	Lourdes
+231535	Blessed Virgin
+231717	Saint-Gildard
+231788	Marie-Bernard
+232168	Bishop
+232201	Catholics
+232259	Saint-Gildard
+232645	Bernadette
+233067	Bernadette
+233123	Bartres
+233428	Bernadette
+233432	Lourdes
+234000	New Lourdes
+234021	Virgin
+234327	Bernadette
+234338	Bartres
+234366	Bartres
+234747	Bernadette
+235213	Jesus
+235242	Jesus
+235389	Marie-Bernard
+235408	Virgin
+235418	Angel
+235422	Virgin
+235428	Virgin
+235452	Jesus
+235560	Virgin
+235709	Bernadette
+235753	Marie-Bernard
+235770	Marie-Bernard
+235819	Solomon
+236712	Bernadette
+236896	Lourdes
+236898	Bernadette Soubirous
+236902	Marie-Bernard
+237087	Bernadette Soubirous
+237092	Lourdes
+237101	Gildard
+237136	Pierre
+237175	Marie
+237183	Elise Rouquet
+237186	La Grivotte
+237214	M. Sabathier
+237238	M. de
+237240	Guersaint
+237263	Madame Vincent
+237303	Madame de
+237305	Jonquiere
+237336	Hyacinthe
+237400	O Virgin
+237413	Pierre
+237481	Juvisy
+237546	Bernadette
+237581	Bernadette
+237652	Lourdes
+237737	Lourdes
+237836	Pierre
+237871	Abbe Judaine
+238051	Marie
+238256	Lourdes
+238283	Bernadette
+238361	Pierre
+238572	Lourdes
+238737	Pierre
+238787	Chassaigne
+238835	Lourdes
+239237	Pierre
+239393	Lourdes
+239476	Pierre
+239662	Pierre
+239796	Fourcade
+239851	Lourdes
+239982	Pierre
+240049	Bernadette
+240060	Chassaigne
+240252	Pierre
+240259	Guillaume
+240325	Pierre
+240329	Guillaume
+240361	Pierre
+240375	Guillaume
+240430	Pierre
+240675	Pierre
+240885	Pierre
+240940	Elise Rouquet
+240961	La Grivotte
+240989	Marie
+240993	Madame Vincent
+241006	M. de
+241008	Guersaint
+241031	Hyacinthe
+241366	Lourdes
+241377	Bernadette

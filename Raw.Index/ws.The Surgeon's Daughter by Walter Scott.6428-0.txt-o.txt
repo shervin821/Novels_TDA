@@ -1,0 +1,1318 @@
+91	SAMUEL JOHNSON
+106	Levett
+110	Gideon Gray
+511	Burger
+513	Leonora
+853	Gideon Gray
+1036	Gray
+1152	Jean Watson
+1202	Gray
+1233	Doctor Gray
+1246	Lucina
+1354	Gideon Gray
+1357	M. A.
+1359	Surgeon
+1452	Luckie Simson
+1458	Auld Peg
+1460	Tamson
+1468	Mair
+1471	Alison Jaup
+1564	Gray
+1578	Peg Tamson
+1581	Jean Simson
+1585	Alison Jaup
+1673	Luckie Simson
+1759	Peg Thompson
+1790	Alison Jaup
+1794	Luckie Simson
+2816	Gray
+2892	Jean
+3134	Luckie Simson
+3157	Peg Thomson
+3168	Bet Jamieson
+3185	Luckie Jaup
+3400	Goodriche
+3442	Goodriche
+3449	Gray
+3556	Goodriche
+3642	Goodriche
+3706	Gray
+3776	Richard
+3836	Middlemas
+3845	Richard Middlemas
+3854	Matthew Middlemas
+3871	Middlemas
+3897	Gray
+3968	Gray
+3977	Middleton
+4043	Gray
+4125	Gray
+4239	Middlemas
+4306	Gray
+4424	Gray
+4431	Middlemas
+4660	Gray
+4704	Goodriche
+4743	Middlemas
+4777	Gray
+4856	Gray
+5031	Gray
+5135	Gray
+5183	Monsieur
+5188	Monsieur
+5195	Gray
+5237	Gray
+5407	Gray
+5598	Gray
+5736	Gray
+5773	Gray
+5868	Gray
+6016	Lawford
+6034	Peg Thomson
+6080	Gray
+6093	Lucky Simson
+6110	Kite
+6131	Jamieson
+6148	Gray
+6219	Richard Tresham
+6294	Moncada
+6302	Matthias de
+6304	Moncada
+6323	Gray
+6427	Gray
+6506	Luckie Simson
+6533	Gray
+6754	Gray
+6769	Lawford
+6843	Gray
+6977	Lawford
+7017	Gray
+7032	Lawford
+7068	Moncada
+7077	Lawford
+7155	Gray
+7191	Lawford
+7220	Gray
+7237	George
+7308	Lady Ogilvy
+7311	Lady Macintosh
+7314	Flora Macdonald
+7366	Gideon
+7415	Moncada
+7500	Lawford
+7502	Gray
+7580	Moncada
+7636	Moncada
+7761	Alcalde
+7772	Lawford
+7774	Gray
+7792	Zilia Moncada
+7829	Lawford
+7842	Gray
+7956	Zilia de
+7958	Moncada
+7972	Gray
+8050	Moncada
+8082	Gideon
+8124	Moncada
+8127	Lawford
+8138	Gray
+8168	Gray
+8258	Moncada
+8310	Gray
+8386	Lawford
+8455	Signor Matthias
+8457	Moncada
+8477	Gray
+8506	Gray
+8533	Lawford
+8548	Gray
+8557	Gray
+8573	Tresham
+8626	Gray
+8741	Lawford
+8744	Moncada
+8793	Moncada
+8839	Gray
+9032	Gray
+9070	Lawford
+9128	Lawford
+9183	Townclerk
+9238	Gray
+9347	Lawford
+9372	Gray
+9425	Gray
+9454	Ye
+9574	Gray
+9606	Simson
+9664	Moncada
+9670	Lawford
+9693	Gray
+9728	Gray
+9780	Gray
+9831	Gideon
+9846	Moncada
+9866	Tresham
+9916	Lawford
+10074	Gray
+10128	Gray
+10181	Gideon
+10209	Gray
+10429	Menie
+10624	Gideon
+10638	Richard Middlemas
+10762	Richard
+10768	Jamieson
+10836	Gray
+10905	Richard Middlemas
+10944	Dick
+10960	Gray
+11096	Richard
+11111	Gray
+11142	Middlemas
+11178	Marion
+11187	Richard
+11221	Menie
+11277	Menie
+11281	Dick Middlemas
+11316	Richard
+11348	Gray
+11357	Moncada
+11481	Gray
+11512	Lawford
+11519	Richard
+11559	Moncada
+11571	Gray
+11586	Gray
+11628	Gray
+11673	Gray
+11690	Moncada
+11707	Gideon
+11733	Lawford
+11779	Gray
+11796	Gray
+11825	Moncada
+11839	Richard
+11890	Richard
+11911	Moncada
+11976	Gray
+12264	Gideon
+12313	Gray
+12330	Richard Middlemas
+12389	Jamieson
+12413	Jamieson
+12680	Richard
+12786	Jamieson
+12900	William Wallace
+12904	Robin Hood
+12921	Jamieson
+13024	Gray
+13038	Richard
+13140	Moncada
+13146	Richard Middlemas
+13169	Richard
+13200	Gideon Gray
+13218	Jamieson
+13322	Richard
+13363	Gideon
+13397	Richard
+13512	Gray
+13538	Stevenlaw
+13560	Tom Hillary
+13571	Lawford
+13585	Middlemas
+13588	Tom Hillary
+13716	Dick
+13720	Gray
+13724	Tom Hillary
+13742	Tom Hillary
+13778	Tom Hillary
+13835	Tom Hillary
+13868	Moncada
+13971	Gray
+14256	Dick
+14349	Richard
+14385	Gray
+14489	Tom Hillary
+14521	Middlemas
+14525	Jamieson
+14531	Menie
+14571	Menie
+14575	Richard
+14581	Richard
+14614	Menie
+14634	Jamieson
+14651	Richard
+14661	Menie
+14665	-- Haud
+14670	Miss Menie
+14686	Menie
+14711	Dick Middlemas
+14726	Jamieson
+14734	Menie Gray
+14856	Gray
+14927	Jamieson
+14987	Gray
+15051	Gray
+15100	Richard Middlemas
+15248	Gray
+15357	Tom Hillary
+15403	Middlemas
+15432	Tom Hillary
+15437	Richard
+15440	Tom Hillary
+15499	Tom Hillary
+15568	Richard Middlemas
+15589	Hillary
+15697	Richard Middlemas
+15704	Stevenlaw
+15719	Richard
+15748	Menie
+15790	Menie
+15848	Menie
+15853	Gray
+15866	Richard
+15891	Middlemas
+15996	Gray
+16018	Gideon
+16043	Richard
+16086	Richard Middlemas
+16131	Lawford
+16194	Gray
+16279	Gray
+16282	Moncada
+16316	Gray
+16330	Gray
+16352	Richard Middlemas
+16402	Tam Hillary
+16415	Gray
+16431	Tam Hillary
+16438	Tam Hillarys
+16443	Dick Middlemas
+16451	Dick
+16462	Tom
+16475	DICK
+16483	Gray
+16491	Richard Middlemas
+16502	Adam Hartley
+16599	Hartley
+16788	McFittoch
+16837	Gray
+16845	Hartley
+16858	McFittoch
+16863	Richard
+16898	Hartley
+16916	Hartley
+16957	Richard Middlemas
+16960	Adam Hartley
+17052	Adam Hartley
+17074	Saxon
+17127	Richard
+17278	Richard
+17286	Adam
+17303	Gray
+17373	Gray
+17466	Hartley
+17551	Dick Middlemas
+17575	Menie
+17635	Adam Hartley
+17662	Dick Middlemas
+17772	Menie Gray
+17947	Gray
+18000	Hunter
+18093	Gray
+18144	Laird
+18152	Louponheight
+18224	Laird
+18282	Hartley
+18309	Hartley
+18321	Laird
+18352	Menie Gray
+18396	Laird
+18476	Laird
+18538	Dick
+18621	-- Ye
+18628	Dick Middlemas
+18656	Middlemas
+18680	McFittoch
+18738	Dick Middlemas
+18818	Billy Bewick
+18941	Gray
+18970	Hartley
+19000	Richard Middleman
+19019	Menie
+19037	Dick Middlemas
+19040	Hartley
+19062	Hartley
+19078	Dick
+19116	Hartley
+19183	Maddie MacFudgeon
+19219	Hartley
+19284	Middlemas
+19308	Hartley
+19338	Middlemas
+19351	Adam
+19364	Gray
+19400	Hartley
+19448	Middlemas
+19504	Gray
+19548	Adam Hartley
+19596	Hartley
+19623	Richard
+19645	Hartley
+19699	Hartley
+19814	Gray
+20035	Hartley
+20142	Menie Gray
+20206	Jamieson
+20234	Gideon
+20355	Hartley
+20380	Middlemas
+20449	Gray
+20451	Richard Middlemas
+20462	Moncada
+20498	Richard
+20551	Gray
+20589	Richard
+20602	Moncada
+20671	Moncada
+20689	Stevenlaw
+20693	Adam Hartley
+20729	Dick Middlemas
+20791	Middlemas
+20795	Hartley
+20849	Hartley
+20859	Richard
+20882	Gray
+20886	Hartley
+20914	Middlemas
+20923	Gray
+21006	Gray
+21014	Middlemas
+21052	Carse
+21063	Hartley
+21071	Hartley
+21106	Menie Gray
+21139	Richard
+21209	Leah
+21229	Rachel
+21267	Hartley
+21290	Middlemas
+21313	Hartley
+21317	Gray
+21345	Middlemas
+21349	Hartley
+21379	Middlemas
+21411	Middlemas
+21427	Gray
+21489	Hartley
+21513	Menie Gray
+21661	Richard Middlemas
+21797	Middlemas
+21827	Middlemas
+21831	Hartley
+21884	Middlemas
+21949	Middlemas
+21953	Hartley
+21998	Gray
+22052	Middlemas
+22227	Hartley
+22229	Richard
+22343	Menie Gray
+22351	Dick Middlemas
+22414	Gray
+22463	Gray
+22489	Hartley
+22522	Adam
+22540	Richard
+22544	Hartley
+22568	Gray
+22731	Richard
+22753	Menie Gray
+22847	Hartley
+22859	Richard
+22991	Hartley
+23020	Adam
+23024	Richard
+23127	Menie
+23193	Adam
+23226	Hartley
+23240	Gray
+23310	Middlemas
+23554	Adam
+23579	Menie
+23687	Menie
+23732	Richard Middlemas
+23737	Hartley
+23814	Gray
+23974	Middlemas
+23992	Adam Hartley
+24019	Hartley
+24040	Middlemas
+24099	Menie Gray
+24127	Moncada
+24298	Middlemas
+24318	Tom Hillary
+24351	Lawford
+24391	Gray
+24720	Hillary
+24779	Lawford
+25141	Hillary
+25225	Gray
+25287	Lawford
+25298	Hillary
+25354	Richard Middlemas
+25370	Hillary
+25422	Hillary
+25556	Fata Morgana
+25627	Middlemas
+25682	Richard
+25707	Moncada
+25738	Jamieson
+25841	Menie Gray
+25861	Menie
+25894	Hartley
+25910	Menie Gray
+26076	Menie
+26114	Hartley
+26241	Hillary
+26492	Richard
+26567	Tom Hillary
+26700	Dick
+26755	Dick
+26798	Middlemas
+26820	Dick
+26884	Middlemas
+26905	Miss Green
+26933	Richard
+26944	Gray
+27024	Richard
+27031	Benedict
+27115	Dick
+27294	Tapeitout
+27366	Dick Middlemas
+27459	Dick Middlemas
+27508	Richard
+27630	Gad
+27685	Dick Middlemas
+27689	Dick
+27765	Middlemas
+27777	Menie Gray
+27890	Menie Gray
+27972	Menie
+27993	Richard
+28094	Hartley
+28109	Richard
+28133	Richard
+28242	Richard
+28319	Richard Middlemas
+28403	Hartley
+28473	Gideon
+28522	Richard
+28670	Middlemas
+28734	Gray
+28848	Gray
+28865	Middlemas
+28885	Gray
+28959	Menie
+29013	Gray
+29044	Menie Gray
+29066	Richard
+29173	Menie Gray
+29234	Jamieson
+29304	Richard Middlemas
+29384	Hillary
+29444	Menie Gray
+29498	Stevenlaw
+29509	Menie
+29558	Dick Middlemas
+29573	Menie
+29620	Gideon Gray
+29631	Gray
+29671	Menie
+29716	MILTON
+29771	Hillary
+29886	Richard
+29968	Hillary
+29972	Richard
+29986	Cadet Middlemas
+30049	Middlemas
+30146	Middlemas
+30160	Wight
+30247	Hillary
+30321	Ryde
+30332	Richard
+30444	Hillary
+30553	Middlemas
+30589	Middlemas
+30614	Duncan
+30915	Richard Middlemas
+31081	Lawford
+31092	Town-Clerk
+31162	Middlemas
+31474	Pugg
+31720	Middlemas
+32061	Seelencooper
+32219	Seelencooper
+32295	Abraham
+32338	Richard Middlemas
+32507	Middlemas
+32561	Middlemas
+32566	Tom Hillary
+32747	Middlemas
+32762	Seelencooper
+32822	Seelencooper
+32897	Tom
+32926	Richard
+33057	Richard
+33124	Middlemas
+33180	Richard
+33192	Seelencooper
+33243	Richard Middlemas
+33390	Middlemas
+33508	Annon
+33531	Richard
+33551	Adam Hartley
+33635	Earl Percy
+33715	Hillary
+33726	Hartley
+33823	Hartley
+33962	Hartley
+34045	Seelencooper
+34248	Seelencooper
+34300	Richard
+34394	Hartley
+34458	Hartley
+34576	Hyder Ali
+34884	Seelencooper
+34978	Hartley
+35033	Witherington
+35142	Ryde
+35243	Witherington
+35355	Seelencooper
+35428	Witherington
+35780	Lancelot
+35813	Reuben
+35838	Hartley
+36000	Gideon Gray
+36014	Witherington
+36016	Hartley
+36071	Hartley
+36094	Witherington
+36102	Hartley
+36166	Witherington
+36206	Hartley
+36291	Hartley
+36354	Hartley
+36435	Hartley
+36477	Hartley
+36520	Lancelot
+36546	Hippocrates
+36548	Hartley
+36638	Witherington
+36677	Middlemas
+36704	Gray
+36708	Richard
+36725	Hartley
+36771	Witherington
+36856	Reuben
+36862	Hartley
+36895	Hartley
+36956	Witherington
+37038	Witherington
+37042	Hartley
+37196	Hartley
+37244	Hartley
+37297	Hartley
+37404	Kite
+37497	Hartley
+37526	Tom Hillary
+37568	Tom Hillary
+37603	Hartley
+37653	Hillary
+37684	Hartley
+37753	Tom Hillary
+37813	Witherington
+37830	Hartley
+37891	Witherington
+37958	Hartley
+37977	Gideon Gray
+37987	Hartley
+37992	Gray
+38003	Hartley
+38024	Witherington
+38129	Hartley
+38175	Hartley
+38191	Witherington
+38287	Hartley
+38312	Witherington
+38340	Hartley
+38345	Witherington
+38401	Hartley
+38444	Lopez
+38455	Hartley
+38488	Richard Middlemas
+38507	Hartley
+38531	Middlemas
+38536	Witherington
+38549	Hartley
+38714	Hartley
+38745	Hartley
+38817	Richard
+38904	Tom Hillary
+38942	Witherington
+38965	Tom Hillary
+39160	Hillary
+39164	Hartley
+39177	Middlemas
+39192	Witherington
+39206	Gray
+39282	Richard Middlemas
+39294	Witherington
+39365	Hartley
+39388	Witherington
+39398	Hartley
+39459	Ryde
+39463	Hartley
+39474	Witherington
+39503	Richard Middlemas
+39539	Middlemas
+39577	Hartley
+39599	Hartley
+40031	Richard
+40200	Zilia
+40277	Witherington
+40468	Witherington
+40482	Middlemas
+40499	Witherington
+40558	Middlemas
+40589	Middlemas
+40601	Hartley
+40617	Middlemas
+40637	Middlemas
+40658	Hartley
+40686	Middlemas
+40706	Richard
+40734	Witherington
+40778	Hartley
+40840	Zilia
+40871	Hartley
+40937	Hillary
+40943	Hillary
+40953	St. Giles
+41041	Richard Middlemas
+41093	Dick Middlemas
+41197	Witherington
+41295	Richard
+41341	Richard
+41549	Hartley
+41579	Middlemas
+41761	Zilia Moncada
+41858	Richard Tresham
+41874	Hartley
+42004	Witherington
+42080	Reuben
+42151	Middlemas
+42299	Hartley
+42373	Hartley
+42472	Witherington
+42510	Hartley
+42642	Adam Hartley
+42700	Hartley
+42763	Hartley
+42828	Hartley
+42843	Witherington
+42904	Hartley
+42966	Witherington
+42994	Hartley
+43138	Adam Hartley
+43150	Ryde
+43230	Hartley
+43267	Hartley
+43276	Middlemas
+43311	Richard
+43353	Adam
+43388	Witherington
+43393	Hartley
+43416	Richard
+43444	Dulberry
+43484	Middlemas
+43543	Middlemas
+43619	Hartley
+43623	Richard
+43681	Moncada
+43717	Richard
+43729	Richard
+43747	Hartley
+43850	Adam
+43991	Hartley
+44163	Tresham
+44166	Witherington
+44176	Gray
+44293	Middlemas
+44337	Moncada
+44377	Gray
+44428	Hartley
+44459	Richard Middlemas
+44471	Adam Hartley
+44494	Hartley
+44541	Middlemas
+44582	Moncada
+44586	Gray
+44680	Moncada
+44726	Hartley
+44742	Tom Hillary
+44748	Middlemas
+44780	Hartley
+44798	Lawford
+44824	Lawford
+44830	Middlemas
+44838	Hartley
+44904	Middlemas
+44921	Middlemas
+44945	Witherington
+45022	Richard
+45046	Hartley
+45053	Hartley
+45106	Zilia Moncada
+45147	Richard Tresham
+45164	Charles Edward
+45226	Moncada
+45237	Zilia
+45267	Tresham
+45272	Moncada
+45300	Moncada
+45321	Tresham
+45403	Zilia
+45433	Gray
+45470	Charles Edward
+45476	Moncada
+45503	Moncada
+45622	Tresham
+45656	Witherington
+45698	Moncada
+45735	Witherington
+45748	Tresham
+45769	Witherington
+45991	Moncada
+46166	Witherington
+46182	Hartley
+46253	Richard Middlemas
+46258	Hartley
+46300	Hartley
+46530	Hartley
+46660	Hartley
+46731	Richard
+46774	Hartley
+46889	Middlemas
+46906	Hartley
+46990	Hartley
+47074	Middlemas
+47080	Hartley
+47138	Hartley
+47182	Hartley
+47308	Hartley
+47336	Moncada
+47366	Middlemas
+47370	Hartley
+47385	Middlemas
+47431	Hartley
+47452	Middlemas
+47625	Middlemas
+47656	Hartley
+47703	Witherington
+47791	Hartley
+47874	Rumour
+47888	Hartley
+47896	Middlemas
+47958	Hartley
+48040	Hartley
+48098	Hartley
+48400	Middlemas
+48418	Middlemas
+48464	Middlemas
+48526	Middlemas
+48611	Hartley
+48710	Hartley
+48764	Moslemah
+48766	Hindoos
+48821	Fakir
+48837	Cara Razi
+48860	Barak el
+48862	Hadgi
+48909	Hartley
+48935	Cara Razi
+49122	Feringis
+49125	Franks
+49132	Hindoos
+49170	Hartley
+49201	Moullah
+49330	Barak el
+49332	Hadgi
+49335	Moullah
+49373	Hartley
+49447	Hartley
+49458	Salam Alaikum
+49541	Salam Alaikum
+49546	Hartley
+49580	Salam Alaikum
+49589	Fakir
+49666	Fakir
+49681	Hartley
+49698	Fakir
+49736	Fakir
+49759	Gehazi
+49781	Saleth
+49804	Hartley
+49821	Mussulman
+49954	Barak
+49995	Barak el
+49997	Hadgi
+50018	Hartley
+50029	Hyder Ali
+50049	Prince
+50089	Prince
+50099	Hindostan
+50140	Barak el
+50142	Hadgi
+50215	Nawaub
+50268	Hyder Ali
+50270	Khan Bohander
+50314	Fakir
+50364	Hartley
+50414	Hartley
+50437	Hartley
+50514	Barak el
+50516	Hadgi
+50518	Hartley
+50565	Nawaub
+50616	Hartley
+50662	Barak
+50672	Hartley
+50751	Hartley
+50837	Hartley
+50902	Hartley
+51245	Hartley
+51280	Zenobia
+51284	Hartley
+51359	Lally
+51371	Montreville
+51443	Hartley
+51495	Major Mercer
+51499	Quartermaster Calder
+51504	Hartley
+51525	Mercer
+51646	Gray
+51716	Hartley
+51772	Montreville
+51836	Hartley
+51859	Hartley
+51873	Hartley
+51913	Hartley
+51988	Butler
+52026	Butler
+52065	Gad
+52081	Teucer
+52108	Montreville
+52143	Mother Montreville
+52165	Butler
+52260	Hyder Naig
+52479	Hartley
+52518	Butler
+52531	Mercer
+52551	Tresham
+52555	Middlemas
+52673	Rumour
+52681	Jack Ward
+52717	Hartley
+52806	Montreville
+52866	Hartley
+52960	Butler
+52962	Mercer
+52971	Butler
+53039	Esdale
+53065	Hartley
+53103	Esdale
+53128	Begum Montreville
+53149	Hartley
+53169	Esdale
+53304	Hartley
+53329	Esdale
+53395	Middlemas
+53413	Hartley
+53432	Esdale
+53509	Hartley
+53520	Esdale
+53538	Middlemas
+53580	Hartley
+53615	Tippoo
+53667	Hyder Naig
+53795	Hartley
+53802	Capstern
+53818	Begum Montreville
+53856	Capstern
+53859	Menie Gray
+53864	Scotchwoman
+53873	Duffer
+53887	Capstern
+53962	Hartley
+53984	Menie Gray
+53998	Hartley
+54147	Hartley
+54283	Hartley
+54358	Hartley
+54395	Montreville
+54402	Menie
+54451	Monsieur
+54492	Gray
+54599	Hartley
+54697	Gray
+54710	Menie
+54782	Hartley
+54797	Hartley
+54813	Hartley
+54843	Menie Gray
+54859	Hartley
+54918	Hartley
+54944	Hartley
+55050	Hartley
+55090	Menie
+55096	Miss Gray
+55138	Menie
+55196	Richard Middlemas
+55201	Hartley
+55221	Menie
+55247	Hartley
+55289	Hartley
+55296	Hartley
+55301	Menie Gray
+55360	Hartley
+55417	Hartley
+55422	Middlemas
+55497	Hartley
+55558	Menie Gray
+55596	Hartley
+55607	Richard
+55641	Hartley
+55653	Gray
+55746	Hartley
+55922	Middlemas
+56002	Hyder Ali
+56065	Duffer
+56084	Montreville
+56135	Middlemas
+56285	Hartley
+56307	Hartley
+56363	Middlemas
+56479	Hartley
+56494	-- Nay
+56621	Menie
+56672	Hartley
+56734	Middlemas
+56810	Montreville
+56827	Hartley
+56918	Hartley
+56959	Hartley
+56983	Hartley
+57050	Adam Hartley
+57117	Hartley
+57193	Hartley
+57320	Madame Montreville
+57333	Hartley
+57335	Menie
+57400	Sadoc
+57464	Hartley
+57506	Sadoc
+57534	Adela
+57676	Adela
+57750	Richard Middlemas
+57779	Cottah
+57792	Middlemas
+57801	Madame Montreville
+57956	Middlemas
+58059	Middlemas
+58354	Nizam
+58379	Killedar
+58409	Sadoc
+58463	Mootee Mahul
+58528	Middlemas
+58576	Middlemas
+58653	Richard
+58679	Begum Montreville
+58793	-- Ho
+58851	Adela Montreville
+59129	Dubash
+59216	Tippoo
+59235	Menie Gray
+59386	Paupiah
+59408	Nawaub
+59415	Tippoo
+59437	Tippoo
+59449	Feringi
+59463	Middlemas
+59507	Tippoo
+59570	Begum Mootee
+59572	Mahul
+59590	Bukshee
+59633	Smith
+59653	Paupiah
+59743	Paupiah
+59775	Paupiah
+59782	Middlemas
+59787	Begum
+59795	Paupiah
+59808	Middlemas
+59862	Paupiah
+59927	Smith
+59957	Paupiah
+59974	Begum
+60152	Tippoo
+60249	Fairscribe
+60266	Bramin Dubash
+60288	Begum
+60312	Menie Gray
+60326	Hartley
+60360	Tippoo
+60397	Hartley
+60418	Paupiah
+60429	Hindoo
+60442	Begum
+60468	Hartley
+60528	Begum
+60540	Hartley
+60549	Paupiah
+60566	Bramin
+60642	Esdale
+60648	Hartley
+60674	Dubash
+60722	Esdale
+60791	Paupiah
+60807	Hartley
+60836	Esdale
+60876	Esdale
+60937	Hartley
+60946	Hartley
+61091	Dubash
+61104	Adam Hartley
+61160	Barak el
+61162	Hadgi
+61166	Hartley
+61174	Esdale
+61180	Fakir
+61233	Hartley
+61273	Hartley
+61280	Esdale
+61355	Hartley
+61435	Esdale
+61667	Hartley
+61675	Vakeel
+61755	Hartley
+61818	Dowrah
+61892	Smith
+62019	Ulla
+62264	Hartley
+62516	Sadhu
+62553	Sadhu
+62595	Sadhu Sing
+62655	Sadhu
+62697	Sadhu
+62756	Mora
+62824	Mora
+62895	Hartley
+63002	Begum
+63042	Begum Mootee
+63044	Mahul
+63070	Prince Tippoo
+63105	Hartley
+63113	Seringapatam
+63155	Begum
+63173	Peon
+63178	Begum
+63265	Houri
+63275	Begum
+63304	Hartley
+63406	Barak
+63456	Fakir Barak
+63543	Vakeel
+63559	Fakir
+63594	Feringi Sahib
+63619	Hartley
+63630	Fakir
+63668	Barak el
+63670	Hadgi
+63692	Hartley
+63795	Fakir Barak
+63814	Fakir
+63846	Hartley
+63938	Vakeel
+63944	Dewan
+63968	Prince Tippoo
+63997	Hartley
+64018	Nawaub
+64062	Dewan
+64074	Tippoo
+64103	Hartley
+64142	Hartley
+64159	Barak
+64198	Hartley
+64284	THOMAS CAMPBELL
+64310	Hartley
+64420	Hartley
+64476	Hartley
+64557	Fakir
+64565	Hartley
+64610	Hartley
+64631	Barak el
+64633	Hadgi
+64637	Fakir
+64675	Hartley
+64681	Salam Alaikum
+64751	Hartley
+64782	Barak
+64788	Barak
+64819	Scheik Hali
+64821	ben Khaledoun
+64834	Hartley
+64846	Barak
+64878	Fakir
+64907	Tippoo
+64929	Nawaub
+64938	Fakir
+64978	Hartley
+64998	Fakir
+65047	Nawaub Khan
+65049	Hyder Ali
+65051	Behauder
+65057	Tippoo
+65069	Hartley
+65079	Barak
+65147	Fatima
+65317	Fakir
+65332	Barak
+65336	Hartley
+65357	Barak
+65372	Scheick Hali
+65381	Hartley
+65392	Feringi
+65401	Kafr
+65407	Nawaub Behander
+65421	Hartley
+65454	Fakir
+65497	Khan
+65504	Vakeel
+65543	Barak
+65563	Hartley
+65580	Salam
+65606	Khan
+65656	Barak
+65725	Dewan
+65754	Hartley
+65877	Vakeel
+65966	Tippoo
+66019	Begum Mootee
+66021	Mahul
+66070	Begum
+66104	Nawaub
+66116	Begum
+66138	Tippoo
+66169	Hartley
+66243	Hartley
+66307	Hartley
+66350	Fakir
+66444	Hartley
+66538	Hartley
+66721	Tippoo
+66744	Begum
+66922	Begum
+66962	Begum
+67097	Tippoo
+67331	Tippoo
+67436	Tippoo
+67825	Tippoo
+67849	Begum
+67882	Tippoo
+67922	Richard Middlemas
+67927	Begum
+67931	Bukshee
+68094	Menie Gray
+68111	Begum
+68116	Tippoo
+68147	Middlemas
+68150	Begum
+68233	Tippoo Saib
+68252	Begum
+68331	Richard Middlemas
+68353	Hyder Ali
+68357	Hartley
+68360	Madras Vakeel
+68373	Hartley
+68382	Montreville
+68406	Tippoo
+68451	Begum
+68480	Prince
+68488	Begum
+68490	Mootee Mahul
+68504	Giamschid
+68605	Hartley
+68612	Fakir
+68617	Barak
+68751	Begum
+68884	Fakir
+68927	Tippoo
+68933	Fakir
+68966	Seyd
+68983	Fakir
+69079	Hyder Ali
+69081	Khan Behauder
+69137	Tippoo
+69184	Nawaub
+69210	Solomon ben
+69212	David
+69272	Tippoo
+69340	Begum
+69370	Richard Middlemas
+69386	Hartley
+69399	Belash Cassim
+69407	Hartley
+69431	Vakeel
+69434	Hakim Hartley
+69471	Nawaub
+69514	Feringi
+69577	Tippoo
+69617	Killedar
+69623	Middlemas
+69928	Feringi
+70094	Tippoo
+70151	Hyder Ali
+70176	Begum
+70234	Hakim Hartley
+70297	Begum
+70315	Hyder Ali
+70322	Nawaub
+70328	Hartley
+70335	Vakeel
+70389	Paupiah
+70396	Hyder Ali
+70556	Hartley
+70638	Nawaub
+70672	Begum Mootee
+70674	Mahul
+70746	Menie Gray
+70754	Hartley
+70835	Hartley
+70905	Hartley
+71058	MR. CROFTANGRY
+71076	Dingley
+71107	Dean Swift
+71178	Fairscribe
+71206	Chrystal Croftangry
+71371	Fairscribe
+71428	Katie Fairscribe
+71462	Katie
+71645	Croftangry
+71808	Croftangry
+71830	Katie
+71885	Katie
+72042	Croftangry
+72079	Paisley
+72104	Mackerris

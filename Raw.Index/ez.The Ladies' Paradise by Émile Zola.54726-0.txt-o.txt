@@ -1,0 +1,3267 @@
+2	I. Denise
+48	Jean
+96	Baudu
+125	Jean
+161	Denise
+407	Jove
+411	Jean
+427	Denise
+441	Cornaille
+542	Rue Neuve-Saint-Augustin
+587	Denise
+655	Jean
+689	Denise
+865	Denise
+923	Baudu
+928	Pépé
+1340	Denise
+1354	Jean
+1411	Denise
+1732	Jean
+1804	Denise
+2005	Denise
+2027	Jean
+2113	Louis XIV
+2146	Denise
+2251	Jean
+2263	Denise
+2310	Baudu
+2325	Denise
+2415	Hauchecorne
+2425	Monsieur Baudu
+2430	Denise
+2467	Denise
+2483	Denise
+2487	Jean
+2504	Baudu
+2620	Cornaille
+2632	Jean
+2716	Valognes
+2722	Jean
+2740	Denise
+2743	Jean
+2773	Pépé
+2808	Jean
+2906	Baudu
+3098	Elizabeth
+3100	Geneviève
+3112	Denise
+3234	Baudu
+3357	Denise
+3364	Pépé
+3374	Jean
+3502	Madame Baudu
+3516	Denise
+3594	Valognes
+3637	Baudu
+3697	Baudu
+3699	Geneviève
+3778	Denise
+3900	Geneviève
+3928	Baudu
+4073	Jean
+4082	Denise
+4173	Madame Baudu
+4176	Geneviève
+4199	Jean
+4224	Madame Gras
+4255	Denise
+4310	Geneviève
+4322	Baudu
+4403	Denise
+4414	Pépé
+4446	Madame Baudu
+4449	Geneviève
+4460	Denise
+4529	Jean
+4707	Baudu
+4754	Denise
+4884	Denise
+4912	Baudu
+4916	Jean
+4977	Denise
+5155	Colomban
+5193	Aristide Finet
+5201	Désirée
+5207	Hauchecorne
+5211	Baudu
+5232	Hauchecorne
+5236	Elizabeth
+5252	Colomban
+5356	Colomban
+5471	Denise
+5562	Geneviève
+5650	Denise
+5673	Colomban
+5687	Geneviève
+5858	Denise
+5870	Geneviève
+5897	Baudu
+5946	Pépé
+5967	Jean
+5978	Geneviève
+6088	Denise
+6111	Vinçard
+6114	Pépé
+6122	Jean
+6134	Denise
+6202	Denise
+6270	Denise
+6531	Denise
+6759	Madame Baudu
+6815	Geneviève
+6821	Colomban
+6859	Baudu
+6995	Denise
+7002	Madame Baudu
+7011	Pépé
+7029	Jean
+7054	Baudu
+7060	Rue Gaillon
+7128	Vinçard
+7167	Baudu
+7169	Denise
+7171	Vinçard
+7210	Denise
+7235	Lyons
+7238	Denise
+7241	Vinçard
+7249	Robineau
+7326	Robineau
+7365	Vinçard
+7383	Vabre
+7408	Vabre
+7418	Gaujean
+7501	Robineau
+7545	Bouthemont
+7564	Robineau
+7671	Vinçard
+7726	Monsieur Baudu
+7741	Denise
+7744	Vinçard
+7782	Vinçard
+7832	Denise
+7839	Robineau
+7883	Baudu
+7907	Denise
+7942	Robineau
+8013	Lhomme
+8037	Denise
+8071	Gaujean
+8073	Robineau
+8078	Vinçard
+8108	Robineau
+8146	Baudu
+8181	Rue de
+8183	la Michodière
+8207	Denise
+8225	Bourras
+8279	Denise
+8328	Louis XIV
+8426	Bourras
+8438	Baudu
+8477	Baudu
+8560	Bourras
+8579	Baudu
+8617	Denise
+8628	Baudu
+8634	Pépé
+8647	Jean
+8724	Vinçard
+8729	Madame Baudu
+8745	Denise
+8792	Denise
+8802	Baudu
+8804	Geneviève
+8837	Madame Baudu
+8854	Denise
+8899	Baudu
+8935	Octave Mouret
+9021	Madame Hédouin
+9040	Caroline
+9044	Madame Baudu
+9157	Denise
+9227	Madame Baudu
+9232	Mouret
+9277	Deleuze
+9289	Caroline
+9300	Charles Hédouin
+9315	Mouret
+9339	Deleuze
+9346	Caroline
+9351	Mouret
+9402	Baudu
+9408	Caroline
+9491	Denise
+9533	Madame Baudu
+9546	Geneviève
+9587	Pépé
+9600	Jean
+9614	Baudu
+9632	Mouret
+9933	Colomban
+10005	Baudu
+10146	Baudu
+10420	Denise
+10444	Baudu
+10543	Mouret
+10551	Bédoré
+10624	Vanpouille Brothers
+10650	Mouret
+10661	Madame Baudu
+10687	Rue Neuve-Saint-Augustin
+10692	Quinette
+10725	Baudu
+10737	Mouret
+10786	Baudu
+10812	Vinçard
+10827	Vinçard
+11076	Elbeuf
+11168	Desforges
+11181	Madame Marty
+11195	Colomban
+11239	Madame Baudu
+11264	Denise
+11528	Baudu
+11798	Jean
+11814	Baudu
+11861	Denise
+12382	Denise
+12702	Denise
+12759	Colomban
+12780	Baudu
+12787	Madame Baudu
+12806	Denise
+12859	Denise
+12873	Jean
+13063	Denise
+13407	Denise
+13461	Rue Port-Mahon
+13605	Rue Saint-Roch
+13627	Mouret
+13744	Madame Hédouin
+13839	Mouret
+13879	Mouret
+13900	Bourdoncle
+13925	Bourdoncle
+13950	Mouret
+14038	Mouret
+14051	Bourdoncle
+14157	Bourdoncle
+14183	Bon Marché
+14248	Mouret
+14328	Bourdoncle
+14365	Mouret
+14436	Madame Desforges
+14481	Bourdoncle
+14527	Mouret
+14548	Mouret
+14603	Bourdoncle
+14644	Mouret
+14704	Bourdoncle
+14783	Mouret
+14796	Bourdoncle
+14844	Mouret
+15017	Mouret
+15055	Bourdoncle
+15147	Mouret
+15177	Desforges
+15247	Mouret
+15370	Bourdoncle
+15409	Mouret
+15522	Mouret
+15697	Bourdoncle
+15725	Mouret
+15810	Mouret
+15908	Bouthemont
+15917	Bourdoncle
+16034	Lyons
+16088	Mouret
+16133	Mouret
+16297	Mouret
+16617	Bouthemont
+16643	Bouthemont
+16675	Bourdoncle
+16716	Mouret
+16733	Bourdoncle
+16750	Bouthemont
+16771	Gaujean
+16801	Bouthemont
+16804	Lyons
+16954	Mouret
+17005	Bourdoncle
+17152	Mouret
+17527	Mouret
+17537	Bourdoncle
+17570	Bouthemont
+17574	Lyons
+17596	Gaujean
+17624	Mouret
+17631	Gaujean
+17703	Bouthemont
+17753	Mouret
+17801	Bourdoncle
+17863	Mouret
+18050	Mouret
+18142	Campion
+18154	Bourdoncle
+18157	Mouret
+18183	Campion
+18220	Mouret
+18245	Albert
+18447	Mouret
+18460	Levasseur
+18506	Bourdoncle
+18617	Mouret
+18670	Mouret
+18721	Lhomme
+18845	Mouret
+18847	Bourdoncle
+18881	Mouret
+18945	Mouret
+18954	Albert Lhomme
+18978	Madame Aurélie
+19044	Mouret
+19082	Bourdoncle
+19089	Bourdoncle
+19107	Monsieur Albert
+19112	Bourdoncle
+19163	Joseph
+19175	Albert
+19186	Madame Aurélie
+19191	Albert
+19210	Joseph
+19242	Joseph
+19246	Bourdoncle
+19283	Lhomme
+19439	Rue Cuvier
+19545	Albert
+19557	Mouret
+19573	Bourdoncle
+19600	Lhomme
+19604	Albert
+19717	Madame Lhomme
+19817	Mouret
+19833	Lhomme
+19860	Beethoven
+19864	Mozart
+19883	Bourdoncle
+19918	Mouret
+19993	Bourdoncle
+20026	Liénard
+20167	Mignot
+20259	Mouret
+20317	Bourdoncle
+20387	Mignot
+20412	Mouret
+20414	Bourdoncle
+20442	Jouve
+20453	Constantine
+20765	Hutin
+20834	Favier
+20919	Robineau
+20944	Hutin
+20948	Robineau
+20981	Robineau
+20998	Hutin
+21036	Favier
+21048	Favier
+21119	Mouret
+21140	Robineau
+21161	Robineau
+21174	Mouret
+21188	Bourdoncle
+21248	Robineau
+21268	Hutin
+21304	Mouret
+21467	Hutin
+21535	Mouret
+21569	Bourdoncle
+21571	Robineau
+21591	Denise
+21887	Mouret
+21929	Hutin
+21931	Favier
+21948	Mouret
+21957	Robineau
+21988	Denise
+22049	Favier
+22061	Favier
+22082	Denise
+22112	Hutin
+22231	Denise
+22251	Hutin
+22334	Hutin
+22338	Favier
+22460	Denise
+22511	Mademoiselle Vadon
+22518	Madame Aurélie
+22550	Mademoiselle Prunaire
+22571	Denise
+22689	Madame Frédéric
+22719	Denise
+22816	Denise
+22901	Mdlle
+22908	Vadon
+22937	Denise
+22997	Clara Prunaire
+23008	Vivet
+23068	Marguerite Vadon
+23156	Clara
+23284	Mademoiselle Vadon
+23391	Lhomme
+23576	Denise
+23656	Madame Aurélie
+23689	Denise
+23801	Denise
+23846	Mademoiselle Prunaire
+23863	Jouve
+23877	Clara
+23884	Mouret
+23890	Bourdoncle
+23934	Madame Aurélie
+23937	Denise
+23994	Bourdoncle
+24001	Albert
+24069	Mouret
+24075	Denise
+24082	Madame Aurélie
+24108	Bourdoncle
+24160	Mouret
+24199	Denise
+24302	Denise
+24319	Madame Aurélie
+24339	Denise Baudu
+24363	Mouret
+24404	Bourdoncle
+24486	Denise
+24536	Madame Aurélie
+24555	Mouret
+24657	Cornaille
+24668	Denise
+24757	Baudu
+24766	Mouret
+24777	Baudu
+24804	Denise
+24897	Mouret
+24913	Clara
+24922	Marguerite
+24926	Madame Aurélie
+24935	Mouret
+25063	Denise
+25071	Mouret
+25151	Mouret
+25213	Madame Hédouin
+25253	Madame Aurélie
+25298	Jouve
+25345	Denise
+25375	Madame Aurélie
+25381	Mouret
+25383	Bourdoncle
+25411	Clara
+25418	Marguerite
+25440	Denise
+25529	Mouret
+25544	Hutin
+25735	Crevecœur
+25800	Denise Baudu
+25808	Henri Deloche
+25844	Deloche
+25854	Denise
+25869	Madame Desforges
+25944	Mouret
+25955	Madame Desforges
+26115	Baron Hartmann
+26126	Desforges
+26172	Baron Hartmann
+26293	Mouret
+26329	Baron Hartmann
+26455	Mouret
+26465	Henriette
+26522	Desforges
+26596	Monsieur Mouret
+26612	Mouret
+26627	Louis XVI
+26698	Madam Bourdelais
+26728	Henriette
+26793	Luc
+26830	Madame Desforges
+26853	Henriette
+26933	Guibal
+27024	Madame de
+27026	Boves
+27096	Blanche
+27208	Monsieur Mouret
+27224	Mouret
+27270	Marty
+27356	Henriette
+27412	Mouret
+27481	Marty
+27541	Lycée Bonaparte
+27595	Valentine
+27705	Lycée Bonaparte
+27769	Monsieur de
+27771	Boves
+27773	Monsieur de
+27775	Vallagnosc
+27827	Madame Desforges
+27901	Paul
+27910	Mouret
+27912	Vallagnosc
+27919	Madame Desforges
+28034	Monsieur de
+28036	Boves
+28086	Paul
+28093	Mouret
+28214	Paul
+28372	Mouret
+28464	Paul
+28606	Mouret
+28715	Vallagnosc
+28752	Mouret
+28895	Vallagnosc
+28932	Mouret
+29231	Henriette
+29306	Vallagnosc
+29367	Mouret
+29497	Mouret
+29708	Mouret
+29848	Vallagnosc
+29858	Mouret
+29872	Paul
+29963	Vallagnosc
+29990	Mademoiselle de
+29992	Boves
+29998	Blanche
+30040	Paul
+30102	Boves
+30136	Madame de
+30138	Boves
+30238	Mouret
+30258	Vallagnosc
+30289	Mouret
+30295	Monsieur de
+30297	Boves
+30305	Guibal
+30429	Madame Guibal
+30517	Mouret
+30525	Vallagnosc
+30542	Blanche
+30546	Madame Desforges
+30558	Henriette
+30755	Madame Desforges
+30765	Monsieur Octave
+30767	Mouret
+30792	Baron Hartmann
+30854	Henriette
+30873	Mouret
+30882	Henriette
+30934	Mouret
+30984	Henriette
+31062	Paul
+31083	Monsieur de
+31085	Vallagnosc
+31107	Mouret
+31116	Baron Hartmann
+31252	Mouret
+31298	Rue du
+31300	Dix-Décembre
+31311	Rue de
+31313	la Michodière
+31370	Baron Hartmann
+31606	Henriette
+31642	Henriette
+31687	Hôtel Duvillard
+31716	Mouret
+31750	Monsieur le
+31752	Baron
+32160	Baron Hartmann
+32253	Mouret
+32286	Henriette
+32322	Mouret
+32413	Mouret
+32533	Monsieur de
+32535	Boves
+32605	Madame de
+32607	Boves
+32651	Madame Marty
+32662	Baron Hartmann
+32668	Mouret
+33110	Mouret
+33120	Madame Guibal
+33132	Alençon
+33150	Madame de
+33152	Boves
+33183	Madame Desforges
+33246	Mouret
+33615	Mouret
+33629	Baron Hartmann
+33704	Madame de
+33706	Boves
+33775	Madame Bourdelais
+33819	Guibal
+33821	Henriette
+33824	Blanche
+33890	Mouret
+34165	Mouret
+34373	Bourdoncle
+34406	Mouret
+34566	Monsieur Mouret
+34569	Monsieur Mouret
+34588	Madame de
+34590	Boves
+34615	Monsieur Mouret
+34686	Mouret
+34781	Monsieur de
+34783	Boves
+34816	Monsieur Marty
+34887	Mouret
+34907	Henriette
+34964	Madame Guibal
+34968	Blanche
+34984	Madame de
+34986	Boves
+35007	Henriette
+35045	Henriette
+35212	Madame Bourdelais
+35288	Marty
+35325	Guibal
+35381	Madame Bourdelais
+35421	Henriette
+35458	Mouret
+35658	Baron Hartmann
+35668	Mouret
+35705	Madame Bourdelais
+35778	Henriette
+35804	Monsieur Mouret
+35846	Mouret
+35854	Madame Sauveur
+36039	Madame Desforges
+36085	Henriette
+36145	Madame Bourdelais
+36154	Madame de
+36156	Boves
+36189	Blanche
+36237	Monsieur de
+36239	Boves
+36259	Madame Guibal
+36282	Blanche
+36346	Monsieur de
+36348	Boves
+36394	Madame Guibal
+36549	Mouret
+36789	Madame Bourdelais
+37010	Madame Guibal
+37016	Monsieur Marty
+37072	Mouret
+37196	Mouret
+37257	Mouret
+37329	Monsieur Mouret
+37332	Monsieur Mouret
+37461	Marty
+37479	Henriette
+37626	Henriette
+37635	Mouret
+37736	Mouret
+37740	Vallagnosc
+37848	Mouret
+38259	Mouret
+38362	Baudu
+38458	Jouve
+38546	Mouret
+38570	Levant
+38691	Karamanian
+38859	Koula
+39011	Denise
+39179	Denise
+39324	Clara
+39349	Marguerite
+39428	Marguerite
+39440	Clara
+39445	Denise
+39496	Madame Aurélie
+39765	Madame Aurélie
+39768	Denise
+39814	Denise
+39863	Clara
+39944	Mademoiselle Cugnot
+39955	Clara
+39958	Marguerite
+39975	Mademoiselle Cugnot
+39990	Denise
+40048	Denise
+40064	Madame Aurélie
+40166	Denise
+40323	Jean
+40418	Deloche
+40483	Madame Frédéric
+40533	Marguerite
+40542	Clara
+40568	Madame Aurélie
+40608	Denise
+40641	Marguerite
+40643	Clara
+40756	Boutarel
+40763	Albi
+40793	Madame Aurélie
+40832	Denise
+40836	Clara
+40900	Denise
+40904	Madame Aurélie
+41102	Pépé
+41104	Jean
+41168	Madame Boutarel
+41184	Clara
+41206	Denise
+41343	Denise
+41419	Mouret
+41679	Madame Boutarel
+41714	Mouret
+41722	Madame Aurélie
+42139	Mouret
+42330	Mouret
+42360	Favier
+42364	Hutin
+42395	Favier
+42454	Robineau
+42459	Bouthemont
+42585	Hutin
+42614	Jove
+42627	Favier
+42735	Favier
+42740	Hutin
+42804	Bouthemont
+42854	Robineau
+42863	Favier
+42885	Hutin
+42952	Norman
+42962	Favier
+43047	Hutin
+43108	Robineau
+43119	Monsieur Hutin
+43125	Monsieur Hutin
+43151	Hutin
+43182	Robineau
+43185	Hutin
+43262	Monsieur Favier
+43271	Favier
+43293	Hutin
+43410	Hutin
+43412	Favier
+43495	Favier
+43533	Hutin
+43563	Favier
+43579	Hutin
+43597	Hutin
+43719	Monsieur Mouret
+43723	Mouret
+44059	Mouret
+44137	Jouve
+44158	Mouret
+44164	Paul de
+44166	Vallagnosc
+44244	Paul
+44263	Hutin
+44265	Favier
+44373	Favier
+44440	Favier
+44454	Hutin
+44471	Madame Desforges
+44497	Mignot
+44514	Mignot
+44639	Favier
+44657	Hutin
+44738	Mignot
+44768	Desforges
+44828	Mignot
+45036	Mignot
+45056	Madame Desforges
+45093	Mignot
+45119	Madame Desforges
+45325	Liénard
+45398	Mademoiselle Fanny
+45448	Liénard
+45452	Madame Desforges
+45487	Liénard
+45763	Liénard
+45789	Madame Desforges
+45802	Madame Marty
+45811	Valentine
+45931	Madame Marty
+45971	Valentine
+45990	Madame Desforges
+46004	Marty
+46132	Hutin
+46136	Mouret
+46403	Madame Desforges
+46408	Madame Bourdelais
+46495	Madame Bourdelais
+46580	Madame Desforges
+46645	Albert
+46727	Albert
+46753	Joseph
+46819	Desforges
+46988	Madame Desforges
+47008	Marty
+47040	Bouthemont
+47044	Madame Desforges
+47145	Henriette
+47153	Favier
+47166	Hutin
+47214	Hutin
+47218	Madame Desforges
+47245	Madame Boutarel
+47271	Favier
+47332	Bouthemont
+47351	Hutin
+47353	Madame Boutarel
+47357	Robineau
+47492	Madame Desforges
+47545	Hutin
+47568	Madame Desforges
+47612	Madame Marty
+47717	Madame Guibal
+47836	Hutin
+47885	Madame Guibal
+47922	Madame Desforges
+47954	Madame Marty
+47976	Hutin
+48024	Marty
+48028	Madame Desforges
+48087	Mignot
+48089	Hutin
+48121	Robineau
+48309	Hutin
+48317	Henriette
+48333	Mouret
+48380	Vallagnosc
+48680	Hutin
+48711	Henriette
+48715	Mouret
+48723	Vallagnosc
+48783	Hutin
+48844	Madame de
+48846	Boves
+48852	Blanche
+48860	Deloche
+48867	Hutin
+49003	Deloche
+49088	Blanche
+49117	Hutin
+49146	Madame Marty
+49172	Madame de
+49174	Boves
+49227	Blanche
+49333	Jouve
+49367	Madame de
+49369	Boves
+49404	Hutin
+49527	Mademoiselle Vadon
+49532	Hutin
+49549	Mademoiselle Vadon
+49658	Hutin
+49791	Hutin
+49799	Denise
+49829	Hutin
+49948	Hutin
+50009	Madame Marty
+50013	Denise
+50070	Cornaille
+50117	Madame Desforges
+50124	Mouret
+50164	Henriette
+50195	Denise
+50233	Mademoiselle Vadon
+50248	Marguerite
+50298	Madame Marty
+50373	Marty
+50412	Marguerite
+50429	Madame Aurélie
+50433	Denise
+50452	Denise
+50538	Marguerite
+50564	Denise
+50568	Mouret
+50574	Vallagnosc
+50576	Bourdoncle
+50607	Vallagnosc
+50648	Bourdoncle
+50703	Mouret
+50713	Desforges
+50736	Denise
+50746	Marguerite
+50816	Madame Aurélie
+50867	Denise
+50894	Desforges
+50940	Mouret
+51011	Denise
+51055	Marguerite
+51070	Clara
+51133	Denise
+51154	Denise
+51211	Madame Desforges
+51215	Mouret
+51251	Mouret
+51330	Denise
+51356	Denise
+51409	Denise
+51511	Pauline Cugnot
+51570	Denise
+51648	Desforges
+51667	Mouret
+51673	Vallagnosc
+51678	Madame de
+51680	Boves
+51698	Marguerite
+51735	Desforges
+51772	Guibal
+52063	Liénard
+52313	Hutin
+52315	Favier
+52338	Favier
+52349	Hutin
+52419	Mouret
+52511	Baron Hartmann
+52525	Mouret
+52601	Bourdoncle
+52620	Bourdoncle
+52649	Lhomme
+52810	Lhomme
+52814	Mouret
+52871	Denise
+53116	Denise
+53126	Madame Aurélie
+53152	Mouret
+53174	Bourdoncle
+53257	Denise
+53317	Denise
+53456	Mouret
+53576	Mouret
+53866	Mouret
+53909	Denise
+54386	Marguerite
+54388	Clara
+54424	Madame Aurélie
+54436	Denise
+54503	Madame Frédéric
+54710	Mouret
+54720	Bourdoncle
+54754	Jouve
+54828	Joseph
+54832	Denise
+54854	Clara
+54881	Marguerite
+54890	Denise
+54894	Jean
+55046	Denise
+55162	Jean
+55311	Denise
+55362	Pépé
+55561	Jean
+55626	Pépé
+55679	Madame Aurélie
+55717	Pépé
+55754	Pépé
+55817	Madame Aurélie
+55847	Denise
+55936	Judy
+55947	Jean
+56008	Denise
+56130	Denise
+56346	Denise
+56360	Pauline Cugnot
+56404	Pauline
+56415	Denise
+56452	Denise
+56576	Denise
+56662	Denise
+56681	Pauline
+56698	Pauline
+56733	Denise
+56770	Denise
+56786	Pauline
+56849	Denise
+56888	Pauline
+56944	Cugnot
+57160	Denise
+57192	Pauline
+57226	Denise
+57306	Denise
+57314	Jean
+57342	Pauline
+57398	Denise
+57407	Monsieur Bourdoncle
+57432	Jouve
+57546	Denise
+57648	Pauline
+57662	Marguerite
+57678	Pauline
+57716	Denise
+57759	Pauline
+57858	Denise
+58003	Bon Marché
+58021	Denise
+58081	Pauline
+58124	Baugé
+58150	Denise
+58158	Pauline
+58215	Denise
+58226	Pépé
+58294	Pauline
+58337	Denise
+58522	Denise
+58562	Clara
+58595	Prunaire
+58614	Marguerite
+58659	Madame Frédéric
+58822	Rue Neuve-Saint-Augustin
+58876	Denise
+58885	Colomban
+58909	Elbeuf
+58930	Denise
+58950	Geneviève
+58992	Marguerite
+58995	Marguerite
+59021	Colomban
+59028	Clara
+59073	Rue Louis-le-Grand
+59086	Clara
+59097	Denise
+59162	Geneviève
+59180	Denise
+59214	Pauline
+59218	Baugé
+59562	Denise
+59569	Albert Lhomme
+59682	Clara
+59781	Deloche
+59790	Denise
+59816	Madame Aurélie
+59836	Deloche
+59906	Denise
+59925	Hutin
+60007	Mouret
+60139	Denise
+60179	Hutin
+60340	Favier
+60350	Hutin
+60412	Hutin
+60572	Mademoiselle Laure
+60579	Hutin
+60621	Denise
+60706	Denise
+60723	Marguerite
+60725	Clara
+60794	Denise
+60806	Pauline
+60964	Clara
+60974	Marguerite
+60988	Madame Frédéric
+61006	Denise
+61064	Mouret
+61136	Albert
+61219	Mignot
+61237	Albert
+61250	Albert
+61303	Mouret
+61309	Bourdoncle
+61367	Denise
+61401	Pauline
+61487	Denise
+61646	Lhomme
+61660	Albert
+61731	Madame Aurélie
+61742	Albert
+61809	Denise
+61837	Pauline
+61874	Baugé
+61916	Pauline
+61920	Denise
+61956	Pauline
+61998	Denise
+62108	Baugé
+62135	Denise
+62235	Pauline
+62311	Denise
+62343	Pauline
+62364	Denise
+62403	Baugé
+62481	Pauline
+62541	Denise
+62650	Pauline
+62677	Monsieur Lhomme
+62696	Pauline
+62722	Lhomme
+62809	Pauline
+62907	Clara
+63017	Baugé
+63025	Lhomme
+63039	Pauline
+63093	Lhomme
+63170	Baugé
+63174	Denise
+63304	Denise
+63307	Pauline
+63355	Baugé
+63425	Pauline
+63581	Denise
+63636	Baugé
+63647	Pauline
+63666	Denise
+63719	Baugé
+63829	Pauline
+63834	Monsieur Hutin
+63843	Baugé
+63885	Denise
+63889	Hutin
+64197	Pauline
+64225	Monsieur Albert
+64235	Lhomme
+64279	Pauline
+64318	Denise
+64425	Hutin
+64493	Hutin
+64560	Baugé
+64580	Hutin
+64616	Pauline
+64638	Monsieur Hutin
+64654	Denise
+64707	Hutin
+64755	Hutin
+64765	Hutin
+64767	Baugé
+64820	Baugé
+64885	Liénard
+64890	Hutin
+64903	Pauline
+64911	Baugé
+64977	Hutin
+65042	Favier
+65114	Robineau
+65152	Liénard
+65221	Baugé
+65231	Denise
+65266	Hutin
+65283	Liénard
+65294	Hutin
+65309	Baugé
+65319	Denise
+65445	Denise
+65462	Monsieur Deloche
+65483	Pauline
+65485	Baugé
+65583	Denise
+65585	Deloche
+65757	Deloche
+65987	Hutin
+66042	Deloche
+66497	Pauline of
+66499	Denise
+66563	Valognes
+66566	Pauline
+66568	Baugé
+66584	Deloche
+66622	Denise
+66645	Baugé
+66650	Pauline
+66668	Denise
+66699	Baugé
+66727	Denise
+66800	Denise
+66807	Pauline
+66819	Denise
+66847	Mouret
+66893	Denise
+67285	Joseph
+67528	Deloche
+67585	Mouret
+67588	Denise
+67913	Denise
+68013	Mouret
+68021	Bourdoncle
+68735	Mignot
+68762	Liénard
+68789	Bourdoncle
+68814	Albert
+68847	Madame Aurélie
+68857	Denise
+69126	Denise
+69152	Pauline
+69176	Denise
+69279	Clara
+69333	Marguerite
+69394	Denise
+69466	Clara
+69495	Mademoiselle Baudu
+69567	Deloche
+69583	Denise
+69675	Denise
+69733	Jean
+69837	Jean
+69927	Denise
+69946	Robineau
+70018	Jean
+70121	Pauline
+70147	Denise
+70204	Bourdoncle
+70246	Jean
+70317	Pauline
+70321	Jean
+70351	Pépé
+70386	Robineau
+70399	Robineau
+70423	Pauline
+70460	Pauline
+70492	Jouve
+70567	Jouve
+70622	Denise
+70624	Pauline
+70666	Pauline
+70674	Monsieur Robineau
+70686	Denise
+70892	Denise
+70896	Favier
+70911	Madame Boutarel
+70972	Favier
+70974	Madame Boutarel
+70987	Hutin
+71013	Hutin
+71109	Favier
+71112	Hutin
+71194	Favier
+71221	Hutin
+71257	Denise
+71274	Robineau
+71314	Hutin
+71321	Robineau
+71325	Favier
+71347	Robineau
+71365	Hutin
+71373	Denise
+71481	Hutin
+71502	Favier
+71506	Robineau
+71580	Favier
+71596	Monsieur Robineau
+71637	Denise
+71649	Madame Aurélie
+71706	Robineau
+71729	Robineau
+71775	Vinçard
+71790	Hutin
+71817	Robineau
+71975	Hutin
+71979	Favier
+71983	Favier
+72003	Robineau
+72055	Robineau
+72096	Hutin
+72102	Bouthemont
+72191	Robineau
+72250	Bouthemont
+72302	Hutin
+72304	Favier
+72434	Hutin
+72500	Favier
+72511	Hutin
+72550	Hutin
+72624	Favier
+72729	Hutin
+72757	Favier
+72874	Hutin
+72946	Hutin
+73010	Favier
+73264	Robineau
+73271	Hutin
+73303	Hutin
+73373	Favier
+73415	Deloche
+73475	Favier
+73493	Hutin
+73495	Deloche
+73557	Mouret
+73559	Bourdoncle
+73643	Mignot
+73645	Liénard
+73680	Mouret
+73695	Mignot
+73716	Liénard
+73733	Mouret
+73833	Hutin
+73890	Robineau
+73929	Hutin
+73955	Favier
+74081	Hutin
+74127	Robineau
+74181	Favier
+74199	Bouthemont
+74210	Mouret
+74212	Bourdoncle
+74246	Mouret
+74249	Bouthemont
+74281	Robineau
+74297	Bouthemont
+74306	Bourdoncle
+74410	Hutin
+74462	Favier
+74469	Bourdoncle
+74479	Mouret
+74527	Bouthemont
+74529	Denise
+74564	Bourdoncle
+74605	Mouret
+74645	Robineau
+74685	Favier
+74702	Jove
+74706	Hutin
+74714	Robineau
+74728	Bourdoncle
+74732	Mouret
+74794	Robineau
+74799	Gaujean
+74845	Robineau
+74854	Mouret
+74899	Bouthemont
+74976	Robineau
+74980	Bouthemont
+75021	Robineau
+75044	Mouret
+75065	Hutin
+75067	Favier
+75129	Robineau
+75175	Hutin
+75237	Victor
+75365	Deloche
+75441	Hutin
+75554	Hutin
+75556	Favier
+75562	Denise
+75567	Monsieur Robineau
+75610	Denise
+75644	Robineau
+75694	Denise
+75810	Pauline
+75825	Denise
+75843	Clara
+75919	Clara
+76013	Pauline
+76060	Pierre
+76130	Clara
+76165	Denise
+76267	Pauline
+76304	Denise
+76388	Denise
+76396	Jean
+76398	Clara
+76507	Denise
+76624	Pauline
+76637	Jouve
+76729	Clara
+76744	Denise
+76746	Pauline
+76795	Denise
+76819	Robineau
+76833	Jouve
+76913	Monsieur Jouve
+76960	Pauline
+76988	Denise
+77019	Monsieur Jouve
+77099	Pauline
+77116	Jouve
+77209	Jouve
+77367	Denise
+77388	Robineau
+77477	Denise
+77541	Deloche
+77583	Jean
+77652	Denise
+77720	Jean
+77770	Denise
+77909	Denise
+77994	Campion
+78009	Jean
+78030	Denise
+78111	Jean
+78138	Denise
+78308	Jean
+78386	Pépé
+78622	Jouve
+78653	Jean
+78673	Jean
+78705	Jouve
+78747	Denise
+78769	Jean
+78812	Jouve
+78973	Robineau
+78983	Jouve
+79003	Monsieur Mouret
+79007	Monsieur Bourdoncle
+79010	Monsieur Robineau
+79038	Mouret
+79041	Robineau
+79084	Monsieur Jouve
+79089	Mouret
+79105	Bourdoncle
+79189	Denise
+79244	Mouret
+79284	Madame Aurélie
+79294	Mademoiselle Baudu
+79332	Denise
+79370	Bourdoncle
+79437	Marguerite
+79439	Clara
+79469	Denise
+79491	Jouve
+79627	Mouret
+79798	Mouret
+79885	Pauline
+79887	Deloche
+79947	Denise
+79962	Robineau
+80034	Denise
+80088	Robineau
+80154	Hutin
+80156	Favier
+80170	Clara
+80172	Marguerite
+80191	Deloche
+80193	Pauline
+80219	Denise
+80264	Bourdoncle
+80275	Mouret
+80284	Denise
+80399	Campion
+80424	Bourdoncle
+80439	Mouret
+80472	Mouret
+80532	Denise
+80651	Gaillon
+80659	Rue Louis-le-Grand
+80671	Rue Saint-Roch
+80944	Baudu
+81074	Hôtel Duvillard
+81143	Denise
+81211	Denise
+81325	Bourras
+81391	Denise
+81515	Bourras
+81531	Denise
+81640	Denise
+81661	Ernestine
+81820	Bourras
+81928	Bon Marché
+82014	Pépé
+82055	Jean
+82160	Jean
+82168	Pépé
+82215	Denise
+82219	Bourras
+82386	Denise
+82551	Denise
+82618	Hutin
+82685	Mouret
+82749	Denise
+82841	Pauline
+82896	Deloche
+83032	Uncle Baudu
+83101	Clara
+83109	Clara
+83121	Denise
+83220	Clara
+83226	Denise
+83251	Pépé
+83316	Bourras
+83421	Bourras
+83478	Denise
+83694	Denise
+83895	Denise
+83905	Pépé
+84292	Denise
+84464	Denise
+84620	Denise
+84790	Denise
+85031	Denise
+85149	Bourras
+85246	Denise
+85362	Deloche
+85386	Robineau
+85400	Robineau
+85420	Vinçard
+85452	Gaujean
+85465	Gaujean
+85517	Lyons
+85554	Gaujean
+85566	Dumonteil
+85640	Dumonteil
+85680	Denise
+85684	Madame Robineau
+85755	Denise
+85762	Robineau
+85841	Denise
+85935	Denise
+86037	Denise
+86087	Madame Robineau
+86116	Denise
+86187	Gaujean
+86281	Dumonteil
+86338	Robineau
+86522	Robineau
+86542	Gaujean
+86588	Lyons
+86737	Robineau
+86746	Denise
+86806	Robineau
+86820	Gaujean
+86887	Denise
+87004	Gaujean
+87006	Denise
+87129	Robineau
+87200	Robineau
+87215	Denise
+87331	Lyons
+87391	Robineau
+87427	Gaujean
+87499	Robineau
+87512	Denise
+87551	Gaujean
+87847	Madame Robineau
+87973	Robineau
+87995	Robineau
+88142	Mouret
+88160	Bourdoncle
+88211	Robineau
+88253	Mouret
+88276	Gaujean
+88280	Lyons
+88332	Mouret
+88348	Robineau
+88357	Mouret
+88427	Mouret
+88448	Robineau
+88508	Robineau
+88535	Gaujean
+88637	Madame de
+88639	Boves
+88696	Robineau
+88821	Mouret
+88871	Madame de
+88873	Boves
+88983	Madame de
+88985	Boves
+89246	Denise
+89365	Pépé
+89505	Jean
+89604	Denise
+89628	Denise
+89635	Pauline
+89645	Rue Saint-Roch
+89656	Pauline
+89705	Denise
+89722	Colomban
+89732	Clara
+89742	Denise
+89818	Monsieur Bourras
+89830	Hôtel Duvillard
+89901	Mouret
+89955	Bourras
+89969	Hôtel Duvillard
+90046	Bourras
+90198	Mouret
+90293	Denise
+90296	Bourras
+90451	Bourras
+90610	Bourras
+90647	Bourras
+90777	Denise
+90839	Denise
+90862	Pépé
+90915	Hutin
+90927	Mouret
+90948	Madame Desforges
+91166	Marguerite
+91168	Clara
+91172	Mouret
+91278	Denise
+91417	Robineau
+91463	Gaujean
+91481	Denise
+91670	Bourras
+91835	Mouret
+91911	Denise
+91958	Baudu
+92079	Desforges
+92090	Denise
+92111	Henriette
+92194	Mouret
+92199	Denise
+92356	Bourras
+92374	Mouret
+92523	Mouret
+92621	Denise
+92666	Bourras
+92676	Mouret
+92817	Baudu
+92827	Bourras
+92957	Baudu
+93047	Denise
+93147	Monsieur Baudu
+93185	Baudu
+93195	Denise
+93258	Denise
+93300	Pépé
+93322	Denise
+93347	Geneviève
+93435	Baudu
+93602	Napoleon III
+93692	Mouret
+93702	Baron Hartmann
+93790	Bourras
+93814	Denise
+93817	Pépé
+93821	Baudu
+93838	Hôtel Duvillard
+93841	Baudu
+93942	Baudu
+93960	Denise
+94025	Geneviève
+94079	Denise
+94106	Madame Baudu
+94148	Denise
+94183	Pépé
+94215	Baudu
+94223	Jean
+94237	Denise
+94335	Denise
+94409	Denise
+94480	Geneviève
+94484	Denise
+94680	Madame Baudu
+94684	Denise
+94698	Robineau
+94731	Baudu
+94940	Madame Baudu
+95059	Pépé
+95091	Baudu
+95393	Baudu
+95400	Denise
+95628	Baudu
+95748	Baudu
+95782	Denise
+95803	Geneviève
+95898	Baudu
+95937	Geneviève
+95975	Madame Baudu
+96070	Baudu
+96072	Colomban
+96087	Baudu
+96106	Denise
+96126	Geneviève
+96271	Denise
+96284	Geneviève
+96422	Denise
+96470	Denise
+96518	Geneviève
+96621	Denise
+96636	Geneviève
+96641	Clara
+96656	Geneviève
+96759	Denise
+96807	Geneviève
+96879	Denise
+96898	Geneviève
+96961	Denise
+97013	Geneviève
+97179	Denise
+97356	Baudu
+97373	Denise
+97406	Colomban
+97430	Jean
+97441	Jean
+97553	Madame Baudu
+97573	Geneviève
+97587	Colomban
+97609	Baudu
+97656	Denise
+97665	Geneviève
+98164	Baudus
+98327	Baudu
+98395	Quinette
+98440	Rue Gaillon
+98499	Piot
+98501	Rivoire
+98526	Deslignières
+98590	Mouret
+98829	Mouret
+98879	Robineau
+98887	Denise
+99079	Baudu
+99188	Baudu
+99293	Lhommes
+99398	Albert
+99478	Colomban
+99491	Clara
+99497	Madame Baudu
+99563	Elisabeth
+99567	Baudu
+99822	Albert
+99838	Baudu
+99878	Baudu
+100084	Colomban
+100271	Baudu
+100402	Hauchecorne
+100463	Geneviève
+100603	Colomban
+100684	Baudu
+100837	Baudu
+101187	Colomban
+101231	Baudu
+101392	Madame Baudu
+101504	Madame Baudu
+101544	Baudu
+101603	Geneviève
+101654	Baudu
+101663	Geneviève
+101740	Denise
+101787	Gaujean
+101826	Denise
+101862	Robineau
+101897	Mouret
+101900	Robineau
+101925	Bourras
+101930	Denise
+101953	Bourras
+102060	Hôtel Duvillard
+102232	Denise
+102241	Bourras
+102410	Denise
+102535	Denise
+102540	Robineau
+102552	Mouret
+102571	Deloche
+102655	Clara Prunaire
+102688	Monsieur Mouret
+102722	Denise
+102836	Deloche
+102884	Robineau
+102996	Geneviève
+103149	Denise
+103193	Geneviève
+103233	Denise
+103352	Monsieur Mouret
+103400	Denise
+103488	Geneviève
+103511	Geneviève
+103598	Geneviève
+103629	Colomban
+103638	Geneviève
+103658	Baudu
+103692	Denise
+103755	Geneviève
+103789	Baudu
+103894	Baudu
+103929	Madame Bourdelais
+104141	Denise
+104191	Denise
+104196	Geneviève
+104369	Denise
+104435	Baudu
+104466	Denise
+105066	Mouret
+105395	Mouret
+105660	Mouret
+106007	Mouret
+106283	Mouret
+106515	Mouret
+106563	Bourdoncle
+106605	Mouret
+106648	Mouret
+106782	Bourdoncle
+106802	Mouret
+106883	Bourdoncle
+107000	Bourdoncle
+107009	Mouret
+107047	Denise
+107051	Bourdoncle
+107082	Denise
+107124	Mouret
+107135	Denise
+107166	Marguerite
+107168	Clara
+107174	Jouve
+107202	Mouret
+107232	Deloche
+107238	Pauline
+107245	Mouret
+107271	Denise
+107303	Pauline
+107321	Clara
+107340	Madame Desforges
+107355	Denise
+107363	Mouret
+107403	Mouret
+107466	Mouret
+107503	Mouret
+107567	Bourdoncle
+107574	Denise
+107638	Mouret
+107761	Hutin
+107763	Mignot
+107843	Mouret
+108055	Madame de
+108057	Boves
+108061	Blanche
+108081	Valentine
+108245	Madame de
+108247	Boves
+108250	Blanche
+108311	Valentine
+108539	Madame de
+108541	Boves
+108731	Madame de
+108733	Boves
+108963	Madame de
+108965	Boves
+108970	Blanche
+109159	Madame de
+109161	Boves
+109199	Jouve
+109270	Madame de
+109272	Boves
+109289	Valentine
+109338	Mouret
+109414	Valentine
+109475	Madame Marty
+109530	Marty
+109801	Mignot
+109874	Mignot
+110013	Madame de
+110015	Boves
+110095	Madame Bourdelais
+110106	Bourdelais
+110127	Madeleine
+110131	Edmond
+110135	Lucien
+110365	Marty
+110398	Madame Bourdelais
+110432	Valentine
+110502	Madame Bourdelais
+110621	Madame Bourdelais
+110648	Marty
+110650	Valentine
+110707	Madeleine
+110709	Edmond
+110712	Lucien
+110965	Madame Bourdelais
+111000	Guibal
+111034	Madame Bourdelais
+111220	Madame Bourdelais
+111238	Monsieur de
+111240	Boves
+111242	Paul de
+111244	Vallagnosc
+111269	Madame Guibal
+111292	Paul
+111306	Mouret
+111379	Guibal
+111407	Paul
+111420	Mouret
+111426	Boves
+111434	Rue de
+111436	Richelieu
+111553	Mouret
+111555	Paul
+111652	Mouret
+111740	Moniteur
+111743	Monsieur de
+111745	Boves
+111777	Madame Bourdelais
+111806	Mouret
+111828	Madame Desforges
+112176	Madame Desforges
+112469	Madame Desforges
+112669	Desforges
+112715	Albert Lhomme
+112758	Joseph
+112887	Bouthemont
+112898	Desforges
+112911	Mouret
+112960	Mouret
+112962	Clara
+113025	Bouthemont
+113097	Favier
+113246	Hutin
+113248	Favier
+113305	Hutin
+113343	Robineau
+113379	Favier
+113394	Hutin
+113398	Monsieur Bouthemont
+113560	Louis XIV
+113569	Madame Desforges
+113576	Favier
+113587	Bouthemont
+113649	Denise
+113672	Madame Boutarel
+113708	Favier
+113714	Madame Desforges
+113719	Hutin
+113734	Mademoiselle
+113745	Denise
+113806	Madame Desforges
+113869	Desforges
+113878	Denise
+113974	Desforges
+114100	Desforges
+114229	Mouret
+114298	Paul
+114430	Denise
+114432	Madame Desforges
+114511	Vallagnosc
+114522	Mouret
+114710	Vallagnosc
+114742	Mouret
+114815	Jouve
+114877	Jouve
+114907	Mouret
+114929	Denise
+114931	Henriette
+114997	Henriette
+115015	Denise
+115063	Madame Frédéric
+115134	Clara
+115142	Mouret
+115150	Marguerite
+115158	Madame Aurélie
+115187	Madame Frédéric
+115233	Denise of
+115235	Madame Desforges
+115306	Denise
+115314	Madame Desforges
+115374	Clara
+115380	Marguerite
+115433	Denise
+115453	Desforges
+115533	Denise
+115584	Denise
+115678	Denise
+115708	Desforges
+115720	Madame Aurélie
+115736	Denise
+115787	Madame Aurélie
+115790	Madame Desforges
+115821	Denise
+115845	Madame Desforges
+115868	Marty
+115990	Madame Desforges
+116001	Marty
+116015	Valentine
+116022	Denise
+116024	Marguerite
+116045	Marguerite
+116146	Marguerite
+116152	Madame Marty
+116163	Clara
+116169	Madame Desforges
+116178	Monsieur Mouret
+116207	Denise
+116242	Madame Desforges
+116261	Denise
+116307	Mouret
+116324	Denise
+116335	Henriette
+116378	Madame Marty
+116392	Marguerite
+116421	Denise
+116479	Marguerite
+116510	Desforges
+116575	Mouret
+116609	Pauline
+116614	Marguerite
+116627	Pauline
+116637	Desforges
+116649	Denise
+116803	Denise
+116820	Madame Desforges
+116926	Mouret
+117056	Denise
+117137	Madame Desforges
+117152	Madame Guibal
+117174	Madame Guibal
+117346	Madame Guibal
+117431	Madame Guibal
+117500	Madame Marty
+117572	Denise
+117584	Madame Desforges
+117618	Denise
+117681	Desforges
+117698	Valentine
+117716	Madame Guibal
+117856	Denise
+117923	Madeleine
+117933	Edmond
+117946	Lucien
+117961	Madame Desforges
+117982	Madame Bourdelais
+118046	Mouret
+118056	Vallagnosc
+118058	Monsieur de
+118060	Boves
+118124	Monsieur de
+118126	Boves
+118136	Guibal
+118150	Vallagnosc
+118170	Denise
+118190	Mouret
+118202	Madame Desforges
+118252	Monsieur de
+118254	Boves
+118256	Vallagnosc
+118362	Deloche
+118389	Vallagnosc
+118398	Madame de
+118400	Boves
+118416	Mademoiselle Blanche
+118522	Vallagnosc
+118529	Monsieur de
+118531	Boves
+118663	Vallagnosc
+118715	Madame Guibal
+118746	Desforges
+118770	Mouret
+118778	Jouve
+118817	Madame de
+118819	Boves
+118869	Jouve
+118984	Mouret
+118994	Jouve
+119013	Vallagnosc
+119502	Madame Desforges
+119522	Denise
+119533	Mouret
+119547	Monsieur de
+119549	Boves
+119561	Madame Guibal
+119564	Madame de
+119566	Boves
+119570	Blanche
+119688	Madame Marty
+119816	Mouret
+119836	Marty
+119943	Hutin
+119945	Favier
+119947	Mignot
+119953	Pauline
+119955	Denise
+120196	Denise
+120226	Mouret
+120317	Denise
+120533	Lhomme
+120570	Albert
+120657	Lhomme
+120706	Mouret
+120713	Lhomme
+120846	Lhomme
+120848	Albert
+120856	Mouret
+120880	Denise
+121052	Bourdoncle
+121085	Denise
+121150	Denise
+121198	Madame Aurélie
+121354	Denise
+121484	Baudu
+121508	Madame Gras
+121512	Jean
+121583	Denise
+121612	Mouret
+121838	Hutin
+121927	Denise
+121965	Pauline
+122035	Denise
+122050	Mouret
+122178	Powell
+122213	Denise
+122258	Pauline
+122306	Denise
+122344	Pauline
+122364	Denise
+122403	Denise
+122456	Mouret
+122471	Pauline
+122483	Denise
+122574	Denise
+122593	Pauline
+122635	Denise
+122681	Pauline
+122700	M. Mouret
+122709	Clara
+122721	Madame Desforges
+122733	Denise
+122769	Clara
+122776	Madame Desforges
+122808	Denise
+122841	Baugé
+122847	Bon Marché
+122867	Bourdoncle
+122901	Denise
+122904	Pauline
+122928	Baugé
+122940	Monsieur Mouret
+122947	Monsieur Mouret
+122968	Denise
+122998	Pauline
+123037	Dagobert
+123081	Denise
+123116	Pauline
+123212	Denise
+123255	Madame Aurélie
+123316	Denise
+123377	Denise
+123413	Denise
+123520	Denise
+123599	Denise
+123639	Marguerite
+123647	Clara
+123663	Denise
+123689	Mouret
+123692	Clara
+123721	Denise
+123762	Denise
+123990	Marguerite
+123992	Denise
+124026	Madame Aurélie
+124047	Denise
+124079	Aurélie
+124164	Denise
+124173	Joseph the
+124175	messenger
+124209	Marguerite
+124277	Lhomme
+124283	Joseph
+124315	Denise
+124326	Clara
+124568	Marguerite
+124574	Denise
+124601	Clara
+124751	Mademoiselle Baudu
+124761	Clara
+124810	Mignot
+124876	Clara
+124944	Mignot
+124956	Lhomme
+125001	Marguerite
+125010	Mignot
+125060	Albert
+125085	Mignot
+125169	Mademoiselle Vadon
+125200	Marguerite
+125206	Lhomme
+125276	Clara
+125288	Joseph
+125327	Madame Desforges
+125333	Mouret
+125357	Fontenailles
+125411	Mouret
+125518	Mademoiselle de
+125520	Fontenailles
+125557	Joseph
+125612	Joseph
+125619	Clara
+125636	Mademoiselle de
+125638	Fontenailles
+125678	Marguerite
+125717	Madame Aurélie
+125793	Clara
+125864	Mademoiselle Prunaire
+125879	Mouret
+125881	Bourdoncle
+125904	Clara
+125959	Denise
+125981	Madame Aurélie
+126003	Denise
+126020	Mouret
+126175	Mouret
+126181	Denise
+126189	Pauline
+126202	Deloche
+126213	Liénard
+126258	Deloche
+126271	Pauline
+126283	Mouret
+126300	Denise
+126342	Pauline
+126378	Liénard
+126458	Liénard
+126463	Deloche
+126481	Deloche
+126493	Hutin
+126730	Liénard
+126739	Deloche
+126765	Favier
+126781	Denise
+126903	Monsieur Hutin
+126937	Mouret
+126956	Liénard
+126972	Favier
+126992	Hutin
+127037	Albert Lhomme
+127094	Bouthemont
+127110	Favier
+127179	Hutin
+127254	Favier
+127323	Favier
+127387	Bouthemont
+127412	Mignot
+127434	Albert
+127472	Mignot
+127487	Bouthemont
+127511	Monsieur Hutin
+127581	Favier
+127630	Hutin
+127663	Robineau
+127718	Hutin
+127725	Favier
+127771	Bouthemont
+127782	Favier
+127860	Hutin
+127869	Favier
+127920	Bouthemont
+127967	Hutin
+128008	Favier
+128024	Hutin
+128063	Hutin
+128110	Hutin
+128122	Favier
+128171	Bouthemont
+128189	Favier
+128345	Favier
+128385	Deloche
+128387	Liénard
+128400	Mignot
+128471	Mignot
+128489	Deloche
+128491	Liénard
+128500	Favier
+128538	Favier
+128755	Favier
+128792	Mignot
+128942	Favier
+128969	Mignot
+129186	Mignot
+129190	Favier
+129257	Mignot
+129299	Mouret
+129379	Mignot
+129517	Favier
+129553	Deloche
+129641	Baugé
+129688	Mignot
+129854	Liénard
+129866	Mignot
+129887	Bavoux
+130055	Favier
+130151	Favier
+130167	Mignot
+130228	Favier
+130276	Deloche
+130288	Favier
+130310	Deloche
+130360	Favier
+130401	Deloche
+130460	Favier
+130490	Deloche
+130551	Mignot
+130604	Mignot
+130618	Deloche
+130781	Liénard
+130799	Pauline
+130849	Liénard
+130877	Deloche
+131046	Deloche
+131071	Baugé
+131091	Pauline
+131149	Denise
+131177	Pauline
+131192	Baugé
+131239	Denise
+131252	Baugé
+131256	Deloche
+131279	Denise
+131291	Pauline
+131296	Liénard
+131306	Denise
+131358	Pauline
+131389	Denise
+131480	Pauline
+131484	Denise
+131704	Denise
+131710	Madame Aurélie
+131713	Marguerite
+131746	Denise
+131935	Madame Aurélie
+131949	Denise
+131990	Mademoiselle de
+131992	Fontenailles
+132037	Clara
+132055	Joseph
+132084	Denise
+132102	Mademoiselle de
+132104	Fontenailles
+132170	Mouret
+132186	Denise
+132261	Mouret
+132304	Clara
+132313	Marguerite
+132370	Lhomme
+132372	Joseph
+132383	Jouve
+132393	Madame Aurélie
+132426	Monsieur Mouret
+132436	Denise
+132477	Mouret
+132508	Mademoiselle de
+132510	Fontenailles
+132551	Mademoiselle de
+132553	Fontenailles
+132570	Joseph
+132585	Clara
+132645	Mouret
+132654	Madame Aurélie
+132720	Marguerite
+132768	Denise
+132770	Mouret
+132799	Mouret
+132813	Denise
+132978	Denise
+133046	Pauline
+133067	Madame Aurélie
+133075	Marguerite
+133084	Lhomme
+133150	Mouret
+133192	Denise
+133324	Jouve
+133379	Clara
+133389	Mademoiselle de
+133391	Fontenailles
+133401	Denise
+133408	Mouret
+133423	Denise
+133451	Denise
+133887	Clara
+134018	Madame Aurélie
+134087	Bourdoncle
+134090	Mouret
+134106	Jouve
+134159	Mouret
+134164	Bourdoncle
+134189	Mouret
+134204	Bouthemont
+134245	Madame Aurélie
+134512	Madame Aurélie
+134582	Monsieur Mouret
+134653	Denise
+134730	Clara
+134740	Pauline
+134752	Deloche
+134770	Bourdoncle
+134778	Mouret
+134804	Denise
+134869	Favier
+134899	Hutin
+134961	Denise
+135151	Mouret
+135194	Denise
+135218	Bouthemont
+135237	Louis XVI
+135328	Mouret
+135360	Henriette
+135386	Bouthemont
+135419	Henriette
+135578	Hutin
+135606	Mouret
+135627	Henriette
+135650	Bourdoncle
+135655	Bourdoncle
+135708	Madame Desforges
+135758	Madame Aurélie
+135763	Denise
+135793	Mouret
+135800	Bouthemont
+135841	Gascon
+135948	Clara
+135957	Mouret
+135960	Denise
+136044	Henriette
+136127	Mouret
+136200	Bouthemont
+136340	Bon Marché
+136563	Madame Desforges
+136692	Henriette
+136715	Monsieur Mouret
+136718	Monsieur de
+136720	Vallagnosc
+136722	Henriette
+136781	Monsieur de
+136783	Vallagnosc
+136833	Mouret
+136960	Vallagnosc
+136962	Mouret
+137008	Henriette
+137082	Bouthemont
+137106	Henriette
+137118	Vallagnosc
+137124	Madame de
+137126	Boves
+137141	Mouret
+137198	Baron Hartmann
+137203	Henriette
+137296	Henriette
+137370	Vallagnosc
+137372	Mouret
+137393	Bouthemont
+137431	Madame Marty
+137491	Henriette
+137531	Henriette
+137569	Mouret
+137615	Madame Marty
+137622	Sauveur
+137693	Monsieur Mouret
+137714	Mouret
+137750	Bouthemont
+137849	Madame de
+137851	Boves
+137877	Madame Marty
+137908	Henriette
+137971	Henriette
+137983	Madame Guibal
+138048	Lycée Bonaparte
+138124	Henriette
+138142	Henriette
+138152	Monsieur Marty
+138175	Monsieur Mouret
+138192	Vallagnosc
+138198	Mouret
+138249	Madame de
+138251	Boves
+138370	Baron Hartmann
+138379	Henriette
+138384	Mouret
+138467	Madame Desforges
+138593	Denise
+138694	Mouret
+138722	Baron Hartmann
+138725	Mouret
+138770	Madame Marty
+138783	Henriette
+138786	Mouret
+138898	Mouret
+138910	Bouthemont
+138982	Bon Marché
+139098	Madame de
+139100	Boves
+139240	Henriette
+139262	Mouret
+139322	Henriette
+139335	Denise
+139346	Mouret
+139384	Madame Marty
+139413	Henriette
+139416	Baron Hartmann
+139442	Monsieur Mouret
+139490	Mouret
+139529	Mouret
+139554	Rue de
+139556	la Michodière
+139799	Mouret
+139803	Baron Hartmann
+139930	Mouret
+140290	Mouret
+140409	Mouret
+140507	Mouret
+140556	Vallagnosc
+140616	Mouret
+140676	Mouret
+140723	Mouret
+140842	Vallagnosc
+140872	Mouret
+141017	Henriette
+141019	Mouret
+141062	Denise
+141087	Mouret
+141187	Monsieur de
+141189	Vallagnosc
+141213	Mouret
+141238	Madame Desforges
+141262	Monsieur Mouret
+141265	Monsieur Mouret
+141297	Monsieur Mouret
+141404	Mouret
+141418	Vallagnosc
+141434	Henriette
+141444	Denise
+141540	Henriette
+141587	Denise
+141651	Desforges
+141663	Mouret
+141735	Henriette
+141749	Mouret
+141752	Denise
+141811	Monsieur Mouret
+141818	Henriette
+141829	Denise
+141857	Henriette
+141891	Mouret
+142008	Denise
+142071	Madame Desforges
+142117	Mouret
+142170	Mouret
+142201	Denise
+142260	Desforges
+142280	Mouret
+142425	Denise
+142444	Mouret
+142519	Henriette
+142531	Denise
+142708	Denise
+142824	Henriette
+142870	Denise
+142908	Henriette
+143011	Henriette
+143016	Monsieur Mouret
+143038	Denise
+143050	Monsieur Mouret
+143088	Mouret
+143132	Henriette
+143204	Denise
+143252	Mouret
+143291	Henriette
+143394	Henriette
+143498	Mouret
+143597	Henriette
+143671	Mouret
+143680	Vallagnosc
+143751	Vallagnosc
+143760	Mouret
+143779	Mouret
+143931	Vallagnosc
+143985	Mouret
+144161	Vallagnosc
+144271	Mouret
+144277	Mademoiselle de
+144279	Boves
+144364	Guibal
+144430	Mouret
+144442	Vallagnosc
+144457	Mouret
+144519	Mouret
+144555	Madame de
+144557	Boves
+144603	Bouthemont
+144615	Mouret
+144726	Madame Marty
+144730	Henriette
+144765	Madame Desforges
+144781	Madame de
+144783	Boves
+144797	Monsieur Mouret
+144810	Henriette
+144817	Monsieur Mouret
+144953	Madame de
+144955	Boves
+145006	Madame Marty
+145029	Mouret
+145049	Bon Marché
+145095	Mouret
+145180	Henriette
+145200	Monsieur Mouret
+145206	Mademoiselle de
+145208	Fontenailles
+145215	Madame Marty
+145241	Mouret
+145282	Madame de
+145284	Boves
+145333	Vallagnosc
+145378	Mouret
+145430	Madame de
+145432	Boves
+145513	Madame Desforges
+145527	Mouret
+145598	Bouthemont
+145606	Mouret
+145625	Henriette
+145718	Baron Hartmann
+145730	Bouthemont
+145874	Henriette
+145908	Mouret
+145957	Baron Hartmann
+145975	Henriette
+146053	Baron Hartmann
+146078	Mouret
+146286	Clara Prunaire
+146293	Denise
+146298	Colomban
+146316	Marguerite
+146371	Marguerite
+146392	Clara
+146431	Denise
+146449	Geneviève
+146491	Clara
+146494	Mademoiselle Prunaire
+146534	Clara
+146541	Denise
+146589	Marguerite
+146620	Denise
+146624	Pauline
+146657	Denise
+146672	Pauline
+146713	Pauline
+146733	Bourdoncle
+146789	Baugé
+146809	Jouve
+146842	Denise
+146858	Jouve
+146894	Denise
+146913	Pauline
+146979	Denise
+147040	Mouret
+147066	Denise
+147072	Bourdoncle
+147133	Mouret
+147170	Bourdoncle
+147269	Mouret
+147279	Bourdoncle
+147413	Monsieur Jouve
+147417	Bourdoncle
+147437	Jouve
+147566	Denise
+147582	Hutin
+147599	Deloche
+147654	Bourdoncle
+147672	Deloche
+147679	Denise
+147778	Mouret
+148563	Denise
+149394	Denise
+149571	Campion
+149902	Levasseur
+150550	Mouret
+150636	Lhomme
+150702	Mouret
+150755	Bourdoncle
+150797	Mouret
+150828	Hutin
+150842	Deloche
+150876	Mouret
+150961	Bouthemont
+150984	Mouret
+151136	Hutin
+151138	Deloche
+151200	Mignot
+151249	Mignot
+151314	Mouret
+151421	Mouret
+151437	Mignot
+151467	Mouret
+151529	Mignot
+151550	Mouret
+151641	Bourdoncle
+151661	Mouret
+151679	Mignot
+151714	Albert Lhomme
+151719	Mignot
+151743	Albert
+151923	Mignot
+151944	Albert
+151997	Albert
+152123	Mignot
+152133	Albert
+152171	Mouret
+152234	Hutin
+152237	Favier
+152291	Mouret
+152306	Favier
+152380	Monsieur Hutin
+152389	Monsieur Hutin
+152394	Monsieur Hutin
+152458	Favier
+152516	Monsieur Hutin
+152521	Mouret
+152605	Hutin
+152610	Hutin
+152616	Denise
+152634	Mouret
+152664	Hutin
+152695	Mouret
+152740	Hutin
+152750	Favier
+152799	Favier
+152868	Hutin
+152958	Hutin
+152982	Denise
+153028	Deloche
+153046	Jouve
+153087	Bourdoncle
+153098	Jouve
+153311	Denise
+153315	Deloche
+153445	Deloche
+153496	Denise
+153619	Deloche
+153664	Briquebec
+153691	Denise
+153826	Deloche
+154060	Mademoiselle Denise
+154065	Deloche
+154311	Bourdoncle
+154314	Jouve
+154528	Denise
+154558	Deloche
+154826	Mouret
+154838	Jouve
+154957	Mouret
+155132	Jouve
+155160	Mouret
+155237	Bourdoncle
+155239	Jouve
+155246	Deloche
+155251	Denise
+155263	Mouret
+155416	Mademoiselle
+155564	Denise
+155700	Mouret
+155772	Hutin
+155822	Jouve
+155874	Denise
+156409	Clara
+156422	Bouthemont
+156842	Mouret
+156953	Denise
+156960	Madame Hédouin
+156987	Mouret
+157027	Denise
+157193	Denise
+157237	Madame Aurélie
+157280	Denise
+157399	Madame Aurélie
+157402	Denise
+157484	Denise
+157530	Marguerite
+157542	Clara
+157569	Denise
+157581	Jouve
+157594	Hutin
+157610	Bourdoncle
+157643	Mouret
+157672	Mouret
+157711	Denise
+157803	Clara
+157852	Geneviève
+157891	Denise
+158159	Louis XV
+158205	Denise
+158279	Mouret
+158327	Norman
+158726	Mouret
+158900	Denise
+158930	Mouret
+158940	Lhomme
+158975	Lhomme
+159037	Bourdoncle
+159245	Denise
+159271	Denise
+159274	Mouret
+159615	Denise
+159628	Pauline
+159676	Pauline
+159716	Bourdoncle
+159762	Bourdoncle
+159797	Mouret
+159816	Denise
+159825	Bourdoncle
+159892	Denise
+159900	Pauline
+159964	Baugé
+159997	Denise
+160036	Pauline
+160106	Pauline
+160176	Pauline
+160214	Pauline
+160219	Denise
+160240	Denise
+160285	Pauline
+160386	Pauline
+160485	Denise
+160586	Mouret
+160760	Mouret
+160775	Denise
+160906	Mouret
+160972	Denise
+160991	Mademoiselle Geneviève
+161043	Denise
+161054	Geneviève
+161066	Clara
+161183	Colomban
+161192	Denise
+161198	Madame Baudu
+161300	Denise
+161311	Madame Baudu
+161507	Finet
+161566	Madame Baudu
+161655	Denise
+161710	Baudu
+161808	Denise
+162243	Denise
+162312	Geneviève
+162374	Madame Baudu
+162447	Madame Baudu
+162563	Geneviève
+162592	Baudu
+162685	Denise
+162687	Geneviève
+162905	Denise
+162992	Denise
+163016	Geneviève
+163051	Denise
+163071	Geneviève
+163193	Denise
+163215	Clara
+163282	Denise
+163313	Geneviève
+163385	Denise
+163421	Denise
+163490	Denise
+163514	Geneviève
+163568	Geneviève
+163623	Denise
+163734	Baudu
+163760	Denise
+163798	Geneviève
+163939	Denise
+164051	Geneviève
+164087	Piot
+164259	Denise
+164265	Jean
+164274	Bourras
+164307	Jean
+164382	Madame Gras
+164409	Denise
+164435	Bourras
+164462	Vigouroux
+164528	Denise
+164667	Bourras
+164740	Denise
+164812	Baudu
+164831	Jean
+164858	Robineau
+165026	Denise
+165092	Bourras
+165194	Baudu
+165234	Denise
+165392	Denise
+165424	Bourras
+165470	Robineau
+165514	Piot
+165598	Naud
+165628	Madame Chadeuil
+165719	Denise
+165747	Rue Blanche
+165855	Rue Blanche
+166149	Bourras
+166194	Denise
+166225	Monsieur Bourras
+166373	Jean
+166469	Bourras
+166471	Denise
+166521	Denise
+166554	Jean
+166622	Denise
+166677	Pépé
+166685	Denise
+166865	Pépé
+166876	Denise
+166885	Mouret
+166944	Bourras
+166971	Mouret
+167046	Denise
+167064	Mouret
+167192	Denise
+167232	Mouret
+167247	Bourdoncle
+167290	Mouret
+167516	Mouret
+167677	Denise
+167823	Bourras
+168105	Mouret
+168172	Madame Desforges
+168186	Baron Hartmann
+168197	Clara
+168312	Denise
+168315	Mouret
+168333	Bourras
+168392	Geneviève
+168458	Denise
+168474	Gaillon
+168823	Denise
+168891	Monsieur Robineau
+168940	Robineau
+169009	Denise
+169011	Robineau
+169072	Denise
+169086	Madame Robineau
+169196	Denise
+169317	Robineau
+169353	Denise
+169364	Madame Robineau
+169409	Monsieur Gaujean
+169547	Gaujean
+169580	Denise
+169660	Monsieur Robineau
+169747	Denise
+169795	Madame Robineau
+169851	Robineau
+169941	Denise
+170031	Madame Robineau
+170086	Robineau
+170170	Gaujean
+170243	Lhomme
+170257	Robineau
+170287	Denise
+170355	Denise
+170366	Madame Robineau
+170716	Denise
+170821	Gaujean
+170873	Denise
+170885	Robineau
+170920	Gaujean
+170950	Robineau
+170984	Baudu
+171013	Gaujean
+171030	Robineau
+171032	Denise
+171061	Gaujean
+171074	Robineau
+171128	Hutin
+171135	Lyons
+171147	Denise
+171254	Denise
+171265	Monsieur Mouret
+171299	Baudu
+171379	Baudu
+171525	Madame Baudu
+171609	Vanpouille
+171634	Bédoré
+171661	Deslignières
+171667	Piot
+171669	Rivoire
+171698	Quinette
+171700	Mademoiselle Tatin
+171729	Robineau
+171772	Naud
+171801	Baudu
+171830	Bourras
+171845	Denise
+171883	Jean
+171928	Mouret
+171964	Bourras
+171974	Baudu
+172006	Bourras
+172038	Mouret
+172244	Monsieur Bourras
+172249	Denise
+172403	Ernestine
+172482	Bourras
+172719	Monsieur Bourras
+172724	Denise
+172781	Bourras
+172826	Monsieur Bourras
+172927	Denise
+173075	Denise
+173381	Denise
+173647	Denise
+173692	Baudu
+173782	Denise
+173809	Madame Baudu
+173861	Denise
+173979	Denise
+174164	Mouret
+174303	Rue de
+174305	Choiseul
+174768	Bourras
+174813	Baudu
+175066	Rue de
+175068	la Michodière
+175711	Bouthemont
+175850	Mouret
+175934	Madame Desforges
+175946	Baron Hartmann
+175988	Madeleine
+176067	Mouret
+176269	Madame de
+176271	Boves
+176277	Blanche
+176279	Madame Guibal
+176393	Madame Guibal
+176417	Monsieur de
+176419	Boves
+176480	Madame Guibal
+176502	Madame de
+176504	Boves
+176537	Blanche
+176548	Paul
+176576	Vallagnosc
+176629	Desforges
+176656	Madame Guibal
+176684	Henriette
+176748	Monsieur Mouret
+176794	Mademoiselle de
+176796	Fontenailles
+176800	Joseph
+176812	Madame de
+176814	Boves
+176937	Monsieur Marty
+176990	Madame Guibal
+177023	Henriette
+177909	Mouret
+178348	Madame de
+178350	Boves
+178372	Jouve
+178436	Madame Guibal
+178478	Mouret
+178571	Madame Desforges
+178661	Madame de
+178663	Boves
+178667	Monsieur Mouret
+178683	Madame Desforges
+178719	Madame Desforges
+178735	Mouret
+178760	Madame Guibal
+178772	Madame de
+178774	Boves
+178804	Blanche
+178818	Jouve
+178886	Denise
+178930	Mouret
+179092	Denise
+179229	Mouret
+179385	Mouret
+179731	Denise
+179740	Mouret
+179802	Mouret
+179831	Denise
+179903	Madame Hédouin
+179944	Bourdoncle
+180026	Denise
+180166	Denise
+180175	Bourdoncle
+180184	Mouret
+180228	Mouret
+180275	Bourdoncle
+180286	Denise
+180354	Mouret
+180550	Mouret
+180676	Denise
+180815	Madeleine
+180817	Edmond
+180819	Lucien
+180838	Denise
+180928	Denise
+180979	Jean
+181039	Denise
+181122	Pépé
+181140	Jean
+181186	Denise
+181199	Madame Bourdelais
+181278	Jean
+181342	Jean
+181359	Pépé
+181471	Jean
+181543	Jean
+181569	Denise
+181582	Mouret
+181621	Bourdoncle
+181659	Mouret
+181680	Denise
+181721	Mouret
+181786	Pépé
+181899	Mouret
+181975	Bourdoncle
+181998	Denise
+182041	Denise
+182054	Jean
+182171	Clara
+182192	Marguerite
+182251	Albert
+182341	Bourdoncle
+182397	Denise
+182465	Denise
+182530	Denise
+182532	Marguerite
+182614	Denise
+182644	Mouret
+182671	Mademoiselle
+182688	Denise
+182709	Jean
+182747	Thérèse
+182802	Madame Boutarel
+182902	Monsieur Boutarel
+182998	Monsieur Boutarel
+183041	Boutarel
+183064	Denise
+183374	Jean
+183391	Pauline
+183399	Denise
+183475	Pauline
+183479	Denise
+183534	Pauline
+183551	Jean
+183592	Mademoiselle de
+183594	Fontenailles
+183599	Joseph
+183638	Pauline
+183644	Denise
+183669	Denise
+183694	Jean
+183729	Liénard
+183745	Mignot
+183768	Denise
+183992	Denise
+183997	Baugé
+184140	Denise
+184170	Jean
+184172	Pépé
+184269	Jean
+184277	Pépé
+184324	Denise
+184336	Mouret
+184338	Bourdoncle
+184366	Desforges
+184369	Guibal
+184373	Henriette
+184387	Mouret
+184391	Denise
+184433	Mouret
+184440	Denise
+184467	Denise
+184489	Henriette
+184492	Mademoiselle de
+184494	Fontenailles
+184502	Madame Guibal
+184679	Favier
+184859	Favier
+184862	Hutin
+184953	Hutin
+185061	Favier
+185092	Hutin
+185142	Robineau
+185165	Favier
+185207	Denise
+185255	Jove
+185259	Hutin
+185293	Favier
+185368	Madame Desforges
+185371	Madame Guibal
+185397	Henriette
+185499	Bouthemont
+185522	Madame Guibal
+185544	Hutin
+185583	Henriette
+185619	Madame Desforges
+185624	Madame Guibal
+185648	Valentine
+185780	Marty
+185937	Louis XV
+186051	Monsieur Marty
+186056	Madame Desforges
+186068	Madame Marty
+186367	Kingbirds
+186406	Valentine
+186416	Madame Guibal
+186503	Desforges
+186824	Mouret
+186984	Madame Desforges
+187037	Madame Marty
+187057	Madame Guibal
+187151	Madame de
+187153	Boves
+187159	Henriette
+187166	Vallagnosc
+187366	Alençon
+187394	Madame de
+187396	Boves
+187456	Alençon
+187511	Jouve
+187518	Madame de
+187520	Boves
+187649	Alençon
+187677	Blanche
+187703	Madame de
+187705	Boves
+187739	Blanche
+187757	Jouve
+187880	Deloche
+187926	Blanche
+187974	Bourdoncle
+187992	Mouret
+188022	Jouve
+188088	Mouret
+188313	Bourdoncle
+188357	Jouve
+188374	Bourdoncle
+188727	Bourdoncle
+188729	Jouve
+188764	Bourdoncle
+188953	Jouve
+189047	Bourdoncle
+189152	Bourdoncle
+189161	Jouve
+189250	Blanche
+189273	Jouve
+189305	Vallagnosc
+189512	Bourdoncle
+189519	Mouret
+189616	Vallagnosc
+189701	Mouret
+189740	Mouret
+189764	Vallagnosc
+189859	Mouret
+189945	Vallagnosc
+189981	Madame de
+189983	Boves
+189987	Bourdoncle
+190004	Mouret
+190032	Blanche
+190045	Mouret
+190126	Denise
+190528	Mouret
+190857	Marty
+190905	Vallagnosc
+190912	Blanche
+190968	Mouret
+190976	Madame Desforges
+190988	Guibal
+191043	Mouret
+191469	Mouret
+191739	Lhomme
+191781	Joseph
+192023	Mouret
+192030	Lhomme
+192092	Mouret
+192137	Lhomme
+192238	Bourdoncle
+192266	Mouret
+192319	Mouret
+192391	Bourdoncle
+192420	Mouret
+192511	Bourdoncle
+192530	Denise
+192560	Mouret
+192563	Denise
+192576	Deloche
+192637	Denise
+192815	Mouret
+192866	Denise
+192896	Monsieur Mouret
+193068	Denise
+193253	Monsieur Mouret
+193294	Mouret
+193315	Denise

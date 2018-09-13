@@ -1,0 +1,2545 @@
+4	Walter Elliot
+139	Walter Elliot
+155	Elizabeth
+159	James Stevenson
+184	Elizabeth
+192	Anne
+209	Mary
+233	Walter
+256	Mary
+268	Charles
+274	Charles Musgrove
+367	Charles II
+375	Elizabeths
+400	Kellynch Hall
+412	Walter
+425	William Walter
+427	Elliot
+437	Walter
+449	Walter Elliot
+534	Walter Elliot
+589	Elliot
+617	Elliot
+783	Lady Elliot
+813	Walter
+837	Lady Elliot
+865	Russell
+918	Walter
+933	Walter
+994	Elizabeth
+1051	Mary
+1062	Charles Musgrove
+1066	Anne
+1116	Anne
+1119	Lady Russell
+1139	Lady Russell
+1150	Anne
+1166	Anne Elliot
+1269	Elizabeth
+1272	Mary
+1299	Elizabeth
+1360	Elizabeth
+1367	Elliot
+1380	Walter
+1408	Elizabeth
+1443	Anne haggard
+1446	Mary
+1466	Lady Russell
+1478	Elizabeth
+1555	Lady Russell
+1806	William Walter
+1808	Elliot
+1888	Lady Elliot
+1894	Walter
+1940	Elizabeth
+1948	Elliot
+1976	Elizabeth
+2072	Elliot
+2090	Walter
+2140	Tattersall
+2167	Elliot
+2188	Walter
+2208	Elliot
+2223	Elizabeth
+2258	Walter Elliot
+2415	Elizabeth Elliot
+2544	Shepherd
+2564	Walter
+2576	Lady Elliot
+2637	Walter Elliot
+2734	Elizabeth
+2802	Anne
+2836	Walter
+2847	Elizabeth
+2911	Walter
+2983	Mr Shepherd
+2995	Lady Russell
+3047	Shepherd
+3067	Walter
+3101	Lady Russell
+3128	Russell
+3199	Walter
+3344	Walter
+3374	Anne
+3384	Walter
+3433	Elizabeth
+3459	Anne
+3501	Walter
+3506	Anne
+3561	Lady Russell
+3601	Elizabeth
+3604	Kellynch Hall
+3627	Walter Elliot
+3779	Anne
+3847	Lady Russell
+3894	Elizabeth
+3925	Lady Russell
+3933	Anne
+3948	Russell
+4043	Shepherd
+4054	Walter
+4119	Walter
+4148	Walter
+4180	Walter
+4183	Kellynch Hall
+4238	Anne
+4260	Lady Russell
+4297	Anne
+4334	Walter
+4345	Shepherd
+4423	Lady Russell
+4441	Lady Russell
+4457	Walter
+4459	Elizabeth
+4477	Russell
+4484	Anne
+4497	Walter
+4509	Anne
+4526	Walter
+4539	Anne
+4602	Russell
+4665	Anne
+4710	Walter
+4766	Walter
+4773	Kellynch Hall
+4799	Walter
+4816	Shepherd
+4834	Walter
+4908	Russell
+4922	Walter
+4933	Elizabeth
+4955	Shepherd
+5015	Elliot
+5033	Lady Russell
+5053	Lady Russell
+5063	Elizabeth
+5080	Elizabeth
+5128	Anne
+5164	Elizabeth
+5180	Elizabeth
+5199	Russell
+5244	Mrs Clay
+5249	Lady Russell
+5289	Elliot
+5312	Walter
+5370	Walter
+5406	Walter
+5423	Walter
+5466	Shepherd
+5490	Walter
+5557	Walter
+5625	John Shepherd
+5650	Walter Elliot
+5757	Walter
+5823	Mrs Clay
+5827	Mrs Clay
+5846	Mrs Clay
+5908	Walter
+5959	Miss Elliot
+5981	Walter
+6088	Elliot
+6134	Shepherd
+6164	Walter
+6195	Walter Elliot
+6208	John Shepherd
+6217	Anne
+6285	Anne
+6295	Shepherd
+6313	Walter
+6516	St Ives
+6543	St Ives
+6550	Baldwin
+6625	Basil Morley
+6636	Basil
+6642	Baldwin
+6695	Baldwin
+6771	Baldwin
+6780	Walter
+6784	Mrs Clay
+7103	Shepherd
+7111	Walter
+7140	Croft
+7187	Croft
+7253	Shepherd
+7257	Walter
+7286	Shepherd
+7342	Shepherd
+7368	Croft
+7373	Walter
+7380	Shepherd
+7397	Anne
+7457	Walter
+7478	Shepherd
+7486	Croft
+7573	Walter
+7618	Shepherd
+7673	Shepherd
+7730	Mrs Croft
+7808	Walter
+7890	Penelope
+7910	Mrs Croft
+7917	Mrs Clay
+7924	Miss Elliot
+7945	Shepherd
+7960	Trent
+8073	Wentworth
+8080	Anne
+8083	Shepherd
+8089	Wentworth
+8096	Wentworth
+8113	Walter
+8147	Wentworth
+8155	Wentworth
+8182	Wentworth
+8217	Shepherd
+8224	Crofts
+8231	Walter
+8303	Walter Elliot
+8322	Walter
+8340	Walter
+8394	Croft
+8413	Walter
+8443	Croft
+8495	Croft
+8565	Walter Elliot
+8581	Elizabeth
+8623	Shepherd
+8641	Anne
+8709	Wentworth
+8726	Frederick Wentworth
+8803	Anne
+8932	Walter
+8987	Lady Russell
+9006	Anne Elliot
+9095	Anne Elliot
+9171	Wentworth
+9276	Anne
+9279	Lady Russell
+9329	Lady Russell
+9365	Anne
+9405	Lady Russell
+9607	Anne
+9737	Frederick Wentworth
+9829	Lady Russell
+9837	Charles Musgrove
+9862	Walter
+9874	Lady Russell
+9885	Anne
+9924	Anne
+9935	Lady Russell
+9965	Anne
+10020	Anne
+10033	Anne
+10056	Lady Russell
+10337	Anne Elliot
+10420	Wentworth
+10532	Lady Russell
+10545	Elizabeth
+10580	Croft
+10584	Kellynch Hall
+10701	Mrs Croft
+10724	Mary
+10776	Lady Russell
+10785	Mary
+10812	Mrs Croft
+10819	Anne
+10831	Lady Russell
+10939	Walter
+10956	Shepherd
+11010	Shepherd
+11038	Walter
+11181	Walter
+11207	Lady Russell
+11212	Anne
+11301	Anne
+11385	Mary
+11410	Anne
+11479	Anne
+11483	Mary
+11488	Elizabeth
+11498	Anne
+11539	Anne
+11587	Mary
+11591	Lady Russell
+11603	Anne
+11610	Lady Russell
+11639	Lady Russell
+11665	Mrs Clay
+11676	Walter
+11678	Elizabeth
+11697	Lady Russell
+11727	Anne
+11731	Clay
+11740	Anne
+11752	Anne
+11773	Lady Russell
+11835	Mrs Clay
+11897	Anne
+11932	Elizabeth
+11978	Elizabeth
+12005	Mrs Clay
+12100	Mrs Clay
+12154	Mrs Clay
+12175	Mrs Clay
+12253	Mrs Clay
+12269	Anne
+12292	Elizabeth
+12350	Anne
+12368	Elizabeth
+12394	Walter
+12397	Elliot
+12400	Mrs Clay
+12415	Walter
+12438	Anne
+12477	Russell
+12554	Mrs Croft
+12575	Anne
+12585	Anne
+12599	Russell
+12603	Uppercross
+12761	Anne
+12778	Kellynch
+12817	Mary
+12846	Mary
+12849	Anne
+12985	Anne
+13043	Anne
+13140	Lady Russell
+13163	Anne
+13178	Charles
+13282	Charles
+13292	Walter
+13312	Anne
+13358	Musgrove
+13403	Musgroves
+13463	Anne
+13487	Mary
+13539	Lady Russell
+13576	Kellynch
+13645	Mackenzie
+13658	Elizabeth
+13663	Lady Russell
+13713	Mary
+13908	Mrs Musgrove
+13935	Musgrove
+13952	Henrietta
+13954	Louisa
+13983	Anne
+13991	Mary
+14109	Anne
+14192	Anne
+14391	Mrs Musgrove
+14438	Charles
+14441	Henrietta
+14443	Louisa
+14520	Anne
+14632	Anne
+14675	Musgroves
+14678	Mary
+14685	Anne
+14868	Mrs Musgrove
+14875	Anne
+14878	Walter
+14963	Mary
+15020	Lady Russell
+15025	Musgroves
+15162	Mary
+15170	Elizabeth
+15243	Charles Musgrove
+15297	Anne
+15302	Lady Russell
+15400	Anne
+15484	Mary
+15561	Mary
+15568	Anne
+15589	Mary
+15594	Charles
+15694	Mary
+15705	Charles
+15718	Mary
+15725	Charles
+15748	Anne
+15775	Mary
+15841	Mrs Musgrove
+15851	Anne
+15860	Anne
+15867	Mrs Charles
+15935	Mrs Charles
+15961	Anne
+15982	Mrs Charles
+16059	Mary
+16063	Musgrove
+16140	Jemima
+16180	Mrs Musgrove
+16219	Anne
+16240	Mrs Charles
+16289	Charles
+16336	Mary
+16341	Mrs Musgrove
+16395	Anne
+16461	Mary
+16551	Anne
+16639	Mary
+16724	Mrs Musgrove
+16758	Musgroves
+16891	Mrs Musgrove
+17047	Anne
+17086	Mrs Musgrove
+17105	Anne
+17138	Anne
+17199	Mary
+17232	Kellynch
+17253	Crofts
+17267	Mary
+17303	Charles
+17331	Anne
+17352	Crofts
+17391	Mrs Croft
+17398	Anne
+17405	Mary
+17456	Mrs Croft
+17579	Anne
+17640	Mrs Croft
+17675	Mrs Croft
+17714	Anne
+17748	Mrs Croft
+17766	Mrs Croft
+17776	Wentworth
+17804	Mrs Croft
+17812	Edward
+17817	Frederick
+17862	Mary
+17871	Mrs Croft
+17947	Anne
+18060	Musgrove
+18090	Mary
+18099	Louisa
+18177	Richard
+18215	Crofts
+18242	Wentworth
+18282	Wentworth
+18295	Richard
+18360	Richard
+18398	Musgroves
+18516	Richard
+18529	Dick Musgrove
+18596	Frederick Wentworth
+18716	Mrs Musgrove
+18735	Wentworth
+18826	Musgrove
+18883	Wentworth
+18917	Wentworth
+18932	Clifton
+18961	Anne
+19030	Dick
+19046	Dick
+19128	Wentworth
+19138	Musgrove
+19179	Musgrove
+19202	Wentworth
+19233	Anne
+19264	Wentworth
+19272	Musgrove
+19291	Mary
+19405	Anne
+19561	Robinson
+19644	Wentworth
+19833	Wentworth
+19837	Charles
+19871	Musgrove
+19901	Wentworth
+19962	Anne
+19981	Charles Musgrove
+20012	Wentworth
+20063	Charles
+20120	Robinson
+20128	Charles Musgrove
+20206	Wentworth
+20327	Anne
+20350	Mary
+20354	Charles
+20401	Anne
+20467	Charles
+20536	Charles
+20665	Robinson
+20677	Mary
+20750	Charles
+20841	Jemima
+20861	Charles
+20881	Charles
+20933	Charles
+20940	Mrs Musgrove
+20961	Mary
+21036	Charles
+21060	Jemima
+21082	Charles
+21094	Wentworth
+21115	Anne
+21122	Charles
+21201	Anne
+21219	Mary
+21238	Charles
+21282	Anne
+21286	Anne
+21300	Anne
+21340	Anne
+21383	Anne
+21557	Frederick Wentworth
+21698	Wentworth
+21725	Charles
+21770	Charles Musgrove
+21794	Charles
+21807	Anne
+21889	Mary
+21891	Anne
+21899	Charles
+21926	Wentworth
+21933	Mary
+21940	Wentworth
+21957	Charles
+21976	Wentworth
+21989	Mary
+22010	Anne
+22037	Charles
+22056	Wentworth
+22074	Mary
+22087	Musgroves
+22114	Charles
+22160	Anne
+22198	Mary
+22412	Musgroves
+22428	Mary
+22433	Wentworth
+22441	Anne
+22451	Henrietta
+22484	Mary
+22519	Anne
+22614	Frederick Wentworth
+22673	Frederick Wentworth
+22723	Anne Elliot
+22900	Musgroves
+22926	Anne Elliot
+22957	Sophia
+23048	Anne Elliot
+23156	Wentworth
+23158	Anne Elliot
+23176	Musgrove
+23343	Anne
+23460	Mrs Croft
+23471	Anne
+23578	Musgroves
+23638	Anne
+23706	Mrs Musgrove
+23725	Anne
+23753	Anne
+23763	Mrs Musgrove
+23807	Musgroves
+23849	Wentworth
+24105	Wentworth
+24194	Wentworth
+24198	Louisa
+24441	Asp
+24473	Wentworth
+24502	Anne
+24513	Musgroves
+24541	Mrs Musgrove
+24573	Charles
+24590	Wentworth
+24618	Dick
+24635	Wentworth
+24643	Charles
+24647	Wentworth
+24657	Dick
+24680	Charles
+24713	Wentworth
+24810	Harville
+24883	Mrs Musgrove
+24922	Wentworth
+24933	Dick Musgrove
+24970	Richard
+24980	Mrs Musgrove
+25025	Wentworth
+25044	Wentworth
+25068	Anne
+25076	Musgrove
+25144	Mrs Musgrove
+25209	Mrs Musgrove
+25224	Mrs Musgrove
+25235	Mrs Musgrove
+25268	Anne
+25286	Wentworth
+25417	Wentworth
+25454	Frederick
+25467	Mary Grierson
+25672	Frederick
+25755	Anne
+25817	Mrs Harville
+25857	Sophia
+25877	Harville
+25950	Frederick
+26005	Mrs Harville
+26153	Wentworth
+26238	Mrs Musgrove
+26241	Mrs Croft
+26297	Cork
+26337	Mrs Musgrove
+26378	Mrs Croft
+26552	Croft
+26640	Mrs Croft
+26645	Mrs Musgrove
+26676	Musgrove
+26711	Anne
+26770	Wentworth
+26831	Henrietta
+26833	Louisa
+26895	Anne
+26991	Elliot
+27131	Anne
+27159	Wentworth
+27163	Kellynch
+27282	Edward
+27294	Uppercross
+27332	Mrs Croft
+27390	Wentworth
+27419	Charles Hayter
+27438	Wentworth
+27445	Charles Hayter
+27467	Henrietta
+27479	Wentworth
+27553	Wentworth
+27556	Musgrove
+27558	Mrs Hayter
+27584	Hayter
+27599	Musgrove
+27619	Hayters
+27656	Uppercross
+27736	Charles
+27740	Henrietta
+27766	Henrietta
+27773	Henrietta
+27780	Henrietta
+27788	Wentworth
+27795	Cousin Charles
+27812	Wentworth
+27822	Anne
+27827	Henrietta
+27833	Louisa
+27863	Mrs Musgrove
+27942	Wentworth
+27954	Musgroves
+27959	Charles Hayter
+27967	Anne
+27989	Charles
+27993	Louisa
+27995	Mary
+27997	Henrietta
+28013	Charles
+28033	Wentworth
+28084	Wentworth
+28124	Mary
+28151	Wentworth
+28167	Henrietta
+28178	Henrietta
+28185	Frederick
+28187	Lady Wentworth
+28213	Mary
+28217	Henrietta
+28226	Charles Hayter
+28365	Charles Hayter
+28380	Musgrove
+28406	Charles Hayter
+28430	Mary
+28447	Henrietta
+28450	Charles
+28542	Charles
+28550	Henrietta
+28584	Winthrop
+28633	Henrietta
+28639	Charles Hayter
+28649	Louisa
+28653	Wentworth
+28664	Charles
+28673	Mary
+28675	Anne
+28695	Henrietta
+28697	Charles Hayter
+28724	Wentworth
+28751	Charles Hayter
+28770	Wentworth
+28773	Louisa
+28777	Henrietta
+28791	Henrietta
+28799	Charles
+28850	Musgrove
+28865	Anne
+28892	Charles
+28901	Wentworth
+28926	Wentworth
+28966	Henrietta
+28968	Louisa
+28971	Louisa
+28973	Henrietta
+28995	Charles Hayter
+29031	Henrietta
+29051	Charles Hayter
+29121	Wentworth
+29186	Shirley
+29243	Charles Hayter
+29288	Shirley
+29296	Shirley
+29323	Louisa
+29331	Henrietta
+29349	Louisa
+29368	Shirley
+29380	Wentworth
+29384	Henrietta
+29449	Shirley
+29466	Louisa
+29483	Anne
+29490	Wentworth
+29507	Charles
+29524	Anne Elliot
+29548	Musgroves
+29553	Mrs Musgrove
+29607	Anne
+29650	Wentworth
+29756	Charles Hayter
+29770	Wentworth
+29773	Wentworth
+29780	Anne
+29809	Wentworth
+29825	Charles Hayter
+29849	Wentworth
+29972	Charles
+30020	Walter
+30046	Walter
+30050	Charles Hayter
+30076	Walter
+30081	Charles
+30089	Walter
+30152	Wentworth
+30180	Charles
+30281	Mary
+30285	Musgroves
+30340	Charles Hayter
+30348	Wentworth
+30369	Wentworth
+30381	Walter
+30400	Wentworth
+30413	Charles Hayter
+30490	Anne
+30534	Louisa
+30562	Wentworth
+30606	Charles Hayter
+30616	Henrietta
+30627	Anne
+30674	Wentworth
+30714	Charles Hayter
+30747	Charles Hayter
+30790	Musgrove
+30800	Mrs Musgrove
+30826	Mary
+30839	Henrietta
+30854	Anne
+30859	Charles Hayter
+30870	Charles Musgrove
+30874	Wentworth
+30916	Musgroves
+30946	Mary
+30957	Mary
+30996	Anne
+31057	Mary
+31078	Musgroves
+31132	Mary
+31247	Anne
+31296	Musgroves
+31308	Anne
+31459	Wentworth
+31467	Musgroves
+31510	Louisa
+31513	Henrietta
+31515	Louisa
+31539	Louisa
+31562	Wentworth
+31663	Louisa
+31761	Anne
+31845	Winthrop
+31861	Winthrop
+31943	Winthrop
+31966	Winthrop
+31998	Mary
+32007	Winthrop
+32033	Henrietta
+32043	Charles
+32060	Mary
+32069	Charles Musgrove
+32080	Louisa
+32098	Charles
+32242	Charles
+32251	Henrietta
+32284	Louisa
+32311	Henrietta
+32313	Mary
+32327	Wentworth
+32384	Anne
+32406	Louisa
+32410	Mary
+32441	Louisa
+32444	Wentworth
+32472	Mary
+32487	Louisa
+32522	Anne
+32557	Mary
+32573	Louisa
+32592	Anne
+32610	Wentworth
+32612	Louisa
+32647	Louisa
+32668	Anne
+32768	Henrietta
+33170	Louisa Musgrove
+33206	Anne
+33208	Louisa
+33232	Louisa
+33278	Louisa
+33283	Mary
+33311	Elliot
+33323	Elliot
+33331	Charles
+33334	Anne
+33345	Anne
+33355	Wentworth
+33391	Henrietta
+33410	Mary
+33441	Lady Russell
+33453	Charles
+33463	Lady Russell
+33472	Anne
+33484	Anne
+33549	Wentworth
+33583	Mary
+33635	Charles
+33637	Henrietta
+33647	Charles Hayter
+33657	Anne
+33666	Wentworth
+33715	Henrietta
+33727	Charles Hayter
+33756	Louisa
+33759	Wentworth
+33835	Anne
+33841	Charles
+33843	Mary
+33854	Charles
+33860	Charles
+33878	Mary
+33921	Mary
+33946	Anne
+34040	Croft
+34120	Mary
+34137	Louisa
+34183	Wentworth
+34208	Elliot
+34219	Mrs Croft
+34268	Anne
+34324	Wentworth
+34590	Frederick
+34607	Sophy
+34669	Miss Elliot
+34728	Mrs Croft
+34737	Elliot
+34812	Frederick
+34830	Kellynch
+34871	Mrs Croft
+34884	Anne
+34974	Anne
+35016	Lady Russell
+35028	Anne
+35050	Kellynch
+35078	Wentworth
+35181	Mary
+35183	Lady Russell
+35199	Wentworth
+35229	Lady Russell
+35233	Wentworth
+35258	Lady Russell
+35308	Charles
+35363	Wentworth
+35402	Harville
+35416	Harville
+35445	Harville
+35465	Wentworth
+35553	Wentworth
+35585	Louisa
+35652	Charles
+35654	Mary
+35656	Anne
+35658	Henrietta
+35660	Louisa
+35664	Wentworth
+35686	Musgrove
+35811	Musgrove
+35820	Charles
+35829	Wentworth
+36312	Wentworth
+36335	Harvilles
+36339	Wentworth
+36377	Louisa
+36387	Wentworth
+36414	Mrs Harville
+36420	Benwick
+36429	Benwick
+36446	Wentworth
+36524	Harville
+36567	Fanny Harville
+36589	Wentworth
+36603	Benwick
+36607	Fanny Harville
+36672	Harvilles
+36692	Benwick
+36701	Harville
+36757	Benwick
+36770	Benwick
+36781	Anne
+36863	Harville
+36896	Wentworth
+36899	Benwick
+36947	Harville
+36953	Wentworth
+36969	Mrs Harville
+37016	Wentworth
+37062	Wentworth
+37094	Wentworth
+37129	Anne
+37208	Anne
+37243	Harville
+37330	Harville
+37339	Anne
+37390	Harville
+37420	Benwick
+37495	Anne
+37510	Louisa
+37648	Anne
+37663	Wentworth
+37728	Harville
+37761	Benwick
+37804	Wentworth
+37806	Harville
+37838	Anne
+37848	Benwick
+37896	Anne
+38043	Marmion
+38071	Giaour
+38312	Benwick
+38374	Anne
+38444	Anne
+38446	Henrietta
+38526	Henrietta
+38570	Shirley
+38657	Anne
+38680	Mrs Shirley
+38747	Mrs Shirley
+38861	Anne
+38933	Anne
+39006	Shirley
+39059	Henrietta
+39071	Lady Russell
+39082	Shirley
+39089	Lady Russell
+39157	Anne
+39161	Henrietta
+39181	Henrietta
+39197	Musgrove
+39231	Louisa
+39234	Wentworth
+39254	Louisa
+39335	Anne
+39427	Wentworth
+39479	Anne Elliot
+39486	Louisa
+39505	Anne
+39660	Anne
+39745	Charles Musgrove
+39763	Anne
+39816	Wentworth
+39826	Anne
+39840	Musgroves
+39882	Wentworth
+39910	Elliot
+39945	Crewkherne
+39997	Mary
+40011	Elliot
+40018	Charles
+40020	Anne
+40036	Elliot
+40052	Anne
+40060	Elliot
+40093	Kellynch
+40138	Mary
+40152	Walter Elliot
+40190	Anne
+40248	Elliot
+40272	Elliot
+40351	Wentworth
+40380	Mary
+40384	Anne
+40395	Elliot
+40448	Kellynch
+40481	Mary
+40506	Anne
+40552	Mary
+40561	Elliot
+40589	Anne
+40636	Elizabeth
+40648	Elliot
+40661	Mary
+40680	Elizabeth
+40683	Anne
+40699	Mrs Harville
+40703	Benwick
+40749	Anne
+40752	Benwick
+40794	Scott
+40797	Byron
+40840	Benwick
+40845	Harville
+40852	Elliot
+40921	Anne
+40956	Harville
+41097	Wentworth
+41183	James
+41189	Miss Elliot
+41200	Anne
+41255	Mrs Harville
+41348	Louisa
+41401	Mrs Harville
+41413	Benwick
+41435	Anne
+41438	Benwick
+41445	Byron
+41534	Louisa
+41544	Wentworth
+41721	Wentworth
+41765	Mary
+41789	Henrietta
+41812	Benwick
+41814	Anne
+41842	Wentworth
+41871	Anne
+41916	Benwick
+41920	Charles
+41939	Louisa
+41955	Anne
+41965	Wentworth
+41997	Anne
+42032	Anne
+42038	Benwick
+42047	Benwick
+42086	Benwick
+42139	Wentworth
+42141	Anne
+42144	Charles
+42156	Louisa
+42203	Anne
+42221	Henrietta
+42239	Mary
+42243	Charles
+42251	Wentworth
+42263	Anne
+42265	Anne
+42269	Charles
+42294	Wentworth
+42340	Wentworth
+42359	Musgrove
+42441	Henrietta
+42461	Anne
+42468	Charles
+42515	Harvilles
+42520	Benwick
+42560	Harville
+42632	Louisa
+42635	Mrs Harville
+42669	Louisa
+42703	Henrietta
+42715	Louisa
+42736	Mary
+42883	Wentworth
+42885	Anne
+42940	Louisa
+42990	Louisa
+43023	Harvilles
+43054	Benwick
+43142	Musgrove
+43155	Mrs Harville
+43161	Mrs Harville
+43221	Charles
+43223	Henrietta
+43227	Wentworth
+43276	Mrs Musgrove
+43329	Wentworth
+43366	Musgrove
+43376	Charles
+43399	Mrs Harville
+43427	Henrietta
+43460	Louisa
+43535	Anne
+43541	Louisa
+43565	Musgrove
+43570	Wentworth
+43603	Mrs Harville
+43615	Charles Musgrove
+43632	Anne
+43644	Anne
+43767	Louisa
+43777	Mrs Harville
+43802	Mrs Musgrove
+43837	Wentworth
+43841	Charles Musgrove
+43864	Musgrove
+43890	Louisa
+43895	Wentworth
+43924	Mary
+43959	Anne
+43961	Anne
+43967	Louisa
+43983	Henrietta
+43996	Anne
+44003	Charles
+44055	Mary
+44057	Anne
+44061	Anne
+44090	Charles
+44099	Benwick
+44136	Henrietta
+44141	Shirley
+44154	Elliot
+44169	Louisa
+44182	Benwick
+44235	Wentworth
+44296	Charles
+44307	Anne
+44326	Louisa
+44345	Emma
+44348	Henry
+44355	Louisa
+44431	Anne
+44478	Henrietta
+44518	Henrietta
+44615	Louisa
+44618	Anne
+44707	Anne
+44777	Henrietta
+44813	Anne
+44822	Wentworth
+44885	Mrs Musgrove
+45027	Anne
+45080	Mrs Musgrove
+45104	Louisa
+45118	Charles
+45166	Harvilles
+45182	Mrs Harville
+45196	Mary
+45202	Mary
+45215	Mary
+45236	Benwick
+45269	Mrs Harville
+45279	Charles
+45348	Charles
+45435	Louisa
+45441	Sarah
+45448	Mrs Musgrove
+45451	Henrietta
+45455	Anne
+45480	Charles Hayter
+45489	Louisa
+45536	Wentworth
+45543	Anne
+45586	Anne
+45654	Louisa
+45679	Mrs Harville
+45702	Anne
+45807	Louisa
+45894	Anne Elliot
+45940	Lady Russell
+46077	Anne
+46081	Kellynch
+46085	Lady Russell
+46155	Lady Russell
+46175	Anne
+46184	Lady Russell
+46191	Anne
+46259	Kellynch
+46311	Lady Russell
+46341	Mrs Clay
+46349	Anne
+46367	Louisa Musgrove
+46393	Benwick
+46412	Mrs Clay
+46424	Lady Russell
+46471	Russell
+46519	Wentworth
+46528	Anne
+46538	Lady Russell
+46553	Lady Russell
+46577	Louisa
+46591	Lady Russell
+46633	Anne Elliot
+46646	Louisa Musgrove
+46681	Anne
+46696	Louisa
+46705	Lady Russell
+46732	Mrs Croft
+46743	Anne
+46771	Anne
+46852	Crofts
+46918	Kellynch Hall
+46951	Lady Russell
+46971	Anne
+47049	Mrs Croft
+47123	Wentworth
+47140	Anne
+47198	Elliot
+47303	Musgrove
+47371	Elliot
+47387	Croft
+47398	Lady Russell
+47404	Anne
+47629	Anne
+47712	Walter
+47721	Shepherd
+47813	Elliot
+47862	Sophy
+47903	Anne
+47951	Miss Elliot
+47960	Mrs Croft
+48071	Russell
+48073	Mrs Croft
+48139	Russell
+48151	Anne
+48155	Wentworth
+48193	Charles
+48195	Mary
+48205	Mrs Musgrove
+48210	Anne
+48254	Louisa
+48354	Mrs Musgrove
+48358	Mrs Harville
+48388	Harvilles
+48425	Mary
+48455	Charles Hayter
+48472	Harvilles
+48485	Mrs Harville
+48490	Mrs Musgrove
+48627	Anne
+48631	Benwick
+48633	Mary
+48640	Charles
+48647	Benwick
+48688	Charles
+48806	Benwick
+48809	Charles
+48817	Mary
+48838	Anne
+48872	Lady Russell
+48901	Mary
+48908	Mary
+48922	Benwick
+48934	Elliot
+48942	Anne
+48958	Anne
+48995	Charles
+49003	Mary
+49011	Charles
+49018	Anne
+49030	Anne
+49046	Charles
+49139	Henrietta
+49148	Elliot
+49159	Mary
+49196	Elliot
+49209	Mary
+49228	Harville
+49246	Lady Russell
+49264	Benwick
+49271	Lady Russell
+49297	Charles
+49330	Kellynch
+49420	Lady Russell
+49428	Anne
+49439	Lady Russell
+49451	Anne
+49457	Mary
+49499	Benwick
+49579	Mary
+49583	Anne
+49588	Lady Russell
+49624	Anne
+49628	Charles
+49635	Russell
+49643	Lady Russell
+49671	Mary
+49710	Lady Russell
+49718	Russell
+49799	Mary
+49835	Russell
+49842	Mary
+49856	Elliot
+49868	Lady Russell
+49910	Mary
+49923	Elliot
+49930	Wentworth
+49933	Anne
+49957	Louisa
+49985	Louisa
+50056	Benwick
+50065	Charles
+50072	Benwick
+50081	Kellynch
+50089	Lady Russell
+50092	Anne
+50099	Benwick
+50106	Russell
+50123	Anne
+50159	Benwick
+50173	Charles
+50192	Lady Russell
+50227	Mrs Harville
+50246	Henrietta
+50249	Louisa
+50266	Russell
+50268	Anne
+50277	Anne
+50283	Uppercross
+50292	Henrietta
+50295	Louisa
+50298	Charles Hayter
+50303	Wentworth
+50330	Mrs Musgrove
+50335	Harvilles
+50431	Charles
+50433	Mary
+50447	Musgrove
+50456	Lady Russell
+50497	Anne
+50520	Louisa
+50530	Mrs Musgrove
+50535	Anne
+50602	Louisa
+50635	Harvilles
+50652	Wentworth
+50679	Lady Russell
+50736	Lady Russell
+50823	Mrs Musgrove
+50855	Anne
+50943	Kellynch
+50945	Elizabeth
+50960	Elliot
+50987	Elizabeth
+51034	Lady Russell
+51048	Elliot
+51060	Mary
+51111	Anne
+51132	Elliot
+51160	Lady Russell
+51176	Walter
+51204	Elizabeth
+51214	Anne
+51309	Mrs Clay
+51331	Anne
+51398	Anne
+51427	Kellynch
+51547	Anne
+51620	Elizabeth
+51687	Elliot
+51690	Anne
+51699	Elliot
+51742	Walter
+51944	Elliot
+51988	Walter
+52074	Wallis
+52093	Walter
+52124	Elliot
+52149	Wallis
+52153	Elliot
+52219	Elliot
+52223	Walter
+52263	Walter
+52274	Elizabeth
+52296	Elliot
+52350	Anne
+52428	Elliot
+52463	Walter
+52536	Elizabeth
+52580	Elizabeth
+52602	Elliot
+52658	Elizabeth
+52665	Elizabeth
+52677	Mrs Clay
+52696	Elliot
+52704	Anne
+52734	Elliot
+52766	Walter
+52839	Elliot
+52847	Walter
+52864	Walter
+52891	Elliot
+52915	Elliot
+52933	Wallis
+52946	Elliot
+52959	Wallis
+52982	Elliot
+53016	Walter
+53020	Mrs Wallis
+53256	Wallis
+53289	Wallis
+53294	Walter
+53308	Mrs Clay
+53315	Wallis
+53326	Wallis
+53337	Mary
+53343	Walter
+53437	Anne
+53492	Elliot
+53536	Elliot
+53541	Mrs Clay
+53558	Mr Elliot
+53583	Anne
+53663	Walter
+53672	Elliot
+53692	Mary
+53696	Anne
+53707	Elliot
+54081	Musgrove
+54218	Anne
+54293	Walter
+54295	Elizabeth
+54319	Mr Elliot
+54322	Lady Russell
+54393	Elliot
+54408	Anne
+54435	Anne
+54453	Elliot
+54459	Elizabeth
+54472	Mrs Clay
+54527	Mrs Clay
+54537	Anne
+54552	Elizabeth
+54647	Mrs Wallis
+54652	Mrs Wallis
+54683	Anne
+54689	Mrs Clay
+54695	Elizabeth
+54751	Anne
+54816	Gowland
+54869	Gowland
+54875	Gowland
+54882	Mrs Clay
+54914	Elizabeth
+54936	Anne
+54963	Elizabeth
+54980	Lady Russell
+54984	Russell
+55018	Anne
+55071	Elliot
+55121	Anne
+55133	Elliot
+55295	Wallis
+55300	Lady Russell
+55338	Elliot
+55344	Mrs Clay
+55353	Anne
+55379	Lady Russell
+55398	Elliot
+55408	Russell
+55418	Elliot
+55482	Anne
+55499	Elizabeth
+55503	Russell
+55518	Elizabeth
+55537	Anne
+55560	Elizabeth
+55578	Elliot
+55591	Elliot
+55622	Anne
+55856	Viscountess Dalrymple
+55889	Dalrymples
+55892	Anne
+55915	Anne
+55977	Lady Dalrymple
+56001	Walter
+56065	Walter
+56106	Lady Elliot
+56134	Dalrymples
+56177	Russell
+56180	Elliot
+56198	Lady Dalrymple
+56230	Lady Russell
+56273	Walter
+56308	Russell
+56311	Elliot
+56375	Dowager Viscountess
+56377	Dalrymple
+56383	Carteret
+56409	Lady Dalrymple
+56422	Anne
+56428	Dalrymple
+56466	Lady Dalrymple
+56492	Carteret
+56522	Lady Russell
+56544	Anne
+56554	Elliot
+56594	Anne
+56607	Elliot
+56712	Anne
+56861	Anne
+57003	Walter Elliot
+57025	Anne
+57090	Walter Elliot
+57233	Mrs Clay
+57251	Anne
+57272	Mrs Clay
+57305	Walter
+57307	Elizabeth
+57318	Anne
+57368	Hamilton
+57371	Mrs Smith
+57393	Anne
+57444	Hamilton
+57497	Hamilton
+57523	Anne
+57679	Elliot
+57682	Mrs Smith
+57686	Anne
+57722	Lady Russell
+57742	Mrs Smith
+57751	Anne
+57813	Anne
+57861	Hamilton
+57923	Anne
+57926	Mrs Smith
+58008	Anne
+58024	Mrs Smith
+58149	Anne
+58268	Anne
+58301	Mrs Smith
+58530	Mrs Smith
+58679	Rooke
+58760	Rooke
+58841	Anne
+58979	Mrs Smith
+59090	Anne
+59140	Mrs Smith
+59165	Mrs Rooke
+59186	Mrs Wallis
+59227	Mrs Wallis
+59255	Anne
+59289	Walter
+59291	Elizabeth
+59293	Mrs Clay
+59308	Lady Dalrymple
+59316	Anne
+59347	Lady Dalrymple
+59408	Anne
+59429	Elizabeth
+59435	Walter
+59451	Anne Elliot
+59461	Mrs Smith
+59466	Mrs Smith
+59508	Anne Elliot
+59649	Lady Russell
+59658	Elizabeth
+59671	Anne
+59692	Mrs Smith
+59719	Walter
+59723	Henry Russell
+59756	Elliot
+59760	Mrs Smith
+59782	Mrs Smith
+59807	Anne Elliot
+59829	Mrs Smith
+59837	Mrs Clay
+59859	Anne
+59911	Mrs Smith
+59937	Anne
+59976	Walter
+59978	Elizabeth
+60015	Russell
+60018	Elliot
+60022	Elliot
+60030	Wallis
+60034	Lady Russell
+60050	Anne
+60064	Lady Russell
+60088	Elliot
+60132	Elliot
+60161	Lady Russell
+60171	Anne
+60211	Lady Russell
+60222	Elliot
+60234	Anne
+60283	Anne
+60332	Anne
+60367	Lady Russell
+60392	Elliot
+60449	Elliot
+60468	Anne
+60478	Lady Russell
+60509	Lady Elliot
+60607	Anne
+60626	Anne
+60690	Elliot
+60701	Kellynch
+60725	Russell
+60747	Elliot
+60766	Anne
+60776	Elliot
+60781	Anne
+60794	Elliot
+60840	Elliot
+61067	Elliot
+61107	Anne
+61185	Elliot
+61239	Mrs Clay
+61264	Russell
+61298	Elliot
+61320	Anne
+61343	Anne
+61370	Mary
+61389	Henrietta
+61397	Louisa
+61430	Mary
+61448	Mrs Croft
+61485	Walter
+61537	Croft
+61555	Anne
+61595	Anne
+61658	Mrs Musgrove
+61732	Harville
+61764	Mrs Musgrove
+61829	Charles Hayter
+61851	Henrietta
+61860	Louisa
+61882	Louisa
+61904	Mrs Musgrove
+61953	Elliot
+62003	Mrs Clay
+62009	Elizabeth
+62097	Charles
+62150	Charles
+62164	Mary
+62183	Jemima
+62259	Louisa
+62290	Mrs Croft
+62379	Louisa
+62397	Harvilles
+62426	Benwick
+62461	Louisa
+62478	Musgrove
+62503	Harville
+62536	Mrs Musgrove
+62567	Wentworth
+62574	Charles Hayter
+62579	Musgrove
+62587	Benwick
+62593	Harville
+62612	Louisa
+62622	Mrs Harville
+62639	Charles
+62643	Wentworth
+62658	Louisa
+62679	Benwick
+62691	Charles
+62721	Louisa Musgrove
+62736	Mary
+62764	Benwick
+62766	Louisa Musgrove
+62817	Walter
+62823	Crofts
+62848	Elliot
+62864	Mary
+62868	Elizabeth
+62913	Walter
+62930	Elizabeth
+62947	Croft
+62979	Walter
+62985	Croft
+62999	Elizabeth
+63011	Laura Place
+63029	Lady Dalrymple
+63108	Crofts
+63118	Walter
+63120	Elizabeth
+63130	Mrs Clay
+63145	Mrs Charles
+63147	Musgrove
+63155	Anne
+63173	Charles
+63177	Wentworth
+63190	Louisa
+63245	Benwick
+63247	Louisa Musgrove
+63254	Louisa Musgrove
+63268	Benwick
+63326	Henrietta
+63343	Louisa
+63359	Benwick
+63369	Anne
+63387	Mary
+63433	Mary
+63483	Louisa
+63514	Scott
+63517	Byron
+63540	Louisa Musgrove
+63625	Wentworth
+63650	Wentworth
+63671	Anne
+63692	Wentworth
+63756	Louisa Musgrove
+63763	Benwick
+63774	Crofts
+63787	Walter
+63893	Mrs Croft
+63915	Anne
+63922	Lady Russell
+64035	Mrs Croft
+64050	Anne
+64056	Lady Russell
+64080	Croft
+64547	Brigden
+64654	Sophy
+64691	Archibald Drew
+64732	Archibald
+64741	Elliot
+64875	Anne
+64937	Mrs Croft
+65014	Musgrove
+65036	Anne
+65061	Louisa
+65070	Louisa Musgrove
+65113	Louisa
+65125	Frederick
+65207	Edward
+65220	Edward
+65241	Sophy
+65268	Musgrove
+65275	Frederick
+65280	James Benwick
+65285	James Benwick
+65300	Benwick
+65337	Benwick
+65346	Anne
+65376	James Benwick
+65473	Benwick
+65508	James Benwick
+65527	Sophy
+65534	Frederick
+65545	Frederick
+65552	Anne
+65582	Benwick
+65649	Frederick
+65679	Harville
+65703	Anne
+65729	Wentworth
+65736	Mrs Croft
+65757	Louisa Musgrove
+65818	Anne
+65831	Frederick
+65884	Wentworth
+65930	Benwick
+66059	Anne
+66108	Frederick
+66137	Sophy
+66175	Musgrove
+66195	Miss Elliot
+66213	Croft
+66219	Anne
+66228	Wentworth
+66233	Wentworth
+66242	Mrs Croft
+66256	Anne
+66265	Elliot
+66272	Mrs Clay
+66308	Elliot
+66319	Dalrymple
+66334	Anne
+66337	Mrs Clay
+66344	Molland
+66349	Elliot
+66352	Lady Dalrymple
+66371	Lady Dalrymple
+66412	Carteret
+66442	Elliot
+66478	Anne
+66488	Elliot
+66499	Mrs Clay
+66524	Anne
+66546	Elliot
+66548	Anne
+66579	Elliot
+66582	Mrs Clay
+66592	Elliot
+66600	Anne
+66614	Mrs Clay
+66634	Anne
+66651	Wentworth
+66725	Elliot
+66741	Clay
+66776	Wentworth
+66842	Wentworth
+67048	Anne
+67102	Louisa
+67147	Louisa
+67170	Wentworth
+67193	Anne
+67197	Elizabeth
+67208	Elizabeth
+67211	Elizabeth
+67258	Dalrymple
+67265	Elliot
+67317	Lady Dalrymple
+67324	Elliot
+67329	Elliot
+67355	Wentworth
+67363	Anne
+67543	Elliot
+67566	Elliot
+67571	Wentworth
+67595	Anne
+67715	Wentworth
+67725	Elliot
+67781	Atkinson
+67815	Anne Elliot
+67873	Elliot
+67875	Anne
+67883	Anne
+67959	Lady Russell
+67967	Mrs Clay
+67979	Wentworth
+68110	Lady Russell
+68138	Lady Russell
+68141	Louisa Musgrove
+68147	Benwick
+68157	Russell
+68177	Wentworth
+68197	Anne
+68284	Lady Russell
+68313	Lady Russell
+68374	Lady Russell
+68411	Russell
+68465	Lady Russell
+68512	Alicia
+68595	Anne
+68701	Anne
+68747	Lady Dalrymple
+68768	Wentworth
+68814	Elizabeth
+68820	Lady Russell
+68846	Mrs Smith
+68882	Mrs Smith
+68918	Anne
+68923	Mrs Smith
+68988	Anne
+69020	Walter
+69027	Mrs Clay
+69046	Lady Dalrymple
+69082	Wentworth
+69087	Anne
+69166	Anne
+69199	Elizabeth
+69219	Wentworth
+69261	Elizabeth
+69482	Benwick
+69672	Anne
+69723	Louisa Musgrove
+69857	Fanny Harville
+69924	Anne
+70067	Louisa
+70155	Anne
+70225	Anne
+70381	Dalrymple
+70383	Lady Dalrymple
+70403	Walter
+70415	Dalrymple
+70423	Elliot
+70426	Wallis
+70456	Anne
+70468	Wentworth
+70514	Louisa
+70613	Wentworth
+70703	Russell
+70766	Elizabeth
+70768	Anne Elliot
+70775	Elizabeth
+70792	Viscountess Dalrymple
+70811	Anne
+70823	Anne
+70853	Anne
+70946	Louisa Musgrove
+70965	Benwick
+71191	Anne
+71201	Elliot
+71214	Wallis
+71225	Elliot
+71238	Wallis
+71246	Anne
+71329	Elliot
+71517	Anne Elliot
+71593	Elliot
+71705	Elliot
+71747	Anne
+71823	Anne Elliot
+71847	Anne
+71868	Wentworth
+71873	Wentworth
+71883	Elliot
+71901	Anne Elliot
+71987	Lady Dalrymple
+72000	Walter
+72019	Lady Dalrymple
+72052	Wentworth
+72055	Wentworth
+72069	Croft
+72078	Walter
+72084	Anne
+72096	Wentworth
+72220	Elliot
+72285	Anne
+72307	Lady Russell
+72320	Elliot
+72333	Lady Russell
+72344	Wentworth
+72357	Lady Russell
+72373	Anne
+72446	Anne
+72470	Wentworth
+72501	Wallis
+72509	Elliot
+72513	Elizabeth
+72515	Miss Carteret
+72545	Anne
+72583	Larolles
+72588	Larolles
+72649	Wentworth
+72736	Lady Russell
+72760	Wentworth
+72789	Anne
+72868	Anne
+72877	Elliot
+72897	Carteret
+72914	Anne
+72971	Wentworth
+73016	Anne
+73060	Elliot
+73070	Wentworth
+73153	Elliot
+73164	Anne
+73176	Mrs Smith
+73192	Elliot
+73204	Elliot
+73308	Wentworth
+73323	Wentworth
+73385	Anne
+73454	Anne
+73506	Mrs Smith
+73537	Anne
+73568	Mrs Smith
+73624	Elliot
+73680	Mary Maclean
+73718	Lady Dalrymple
+73761	Dalrymple
+73862	Anne
+73946	Anne
+74017	Anne
+74035	Mrs Smith
+74091	Anne
+74120	Wentworth
+74136	Mrs Smith
+74142	Elliot
+74162	Elliot
+74166	Anne
+74212	Elliot
+74228	Mrs Smith
+74294	Mrs Smith
+74325	Elliot
+74354	Elliot
+74398	Anne
+74416	Elliot
+74453	Elliot
+74486	Mrs Smith
+74532	Elliot
+74578	Elliot
+74589	Anne
+74627	Elliot
+74641	Mrs Smith
+74789	Elliot
+74803	Wallis
+74813	Wallis
+74819	Mrs Smith
+74823	Elliot
+74864	Mrs Smith
+74871	Elliot
+74984	Elliot
+74997	Elliot
+75058	Anne
+75147	Mrs Smith
+75219	Elliot
+75243	Elliot
+75249	Elliot
+75276	Mrs Smith
+75286	Elliot
+75320	Anne
+75333	Mrs Smith
+75343	Elliot
+75385	Mrs Smith
+75510	Mrs Rooke
+75514	Rooke
+75563	Elliot
+75606	Anne
+75633	Mrs Smith
+75643	Anne
+75660	Elliot
+75764	Elliot
+75837	Elliot
+75862	Elliot
+75869	Mrs Smith
+75888	Anne
+75906	Mrs Smith
+75923	Elliot
+76043	Elliot
+76103	Elliot
+76213	Anne
+76331	Elliot
+76356	Elliot
+76457	Charles
+76511	Elliot
+76517	Anne
+76619	Mrs Smith
+76629	Walter
+76782	Anne
+76850	Elliot
+76857	Elliot
+76861	Mrs Smith
+77055	Elliot
+77072	Anne
+77088	Elliot
+77108	Anne Elliot
+77137	Elliot
+77144	Anne
+77197	Elliot
+77219	Mrs Smith
+77323	Elliot
+77420	Elliot
+77478	Elliot
+77506	Kellynch
+77608	Mrs Smith
+77617	Anne
+77628	Elliot
+77683	Mary
+77724	Anne
+77752	Mrs Smith
+77806	Elliot
+77898	Elliot
+77934	Charles Smith
+77939	Tunbridge Wells
+77958	Dear Smith
+78031	Walter
+78058	Kellynch
+78135	Elliot
+78146	Walter
+78185	Elliot
+78197	Anne
+78203	Mrs Smith
+78252	Mark
+78267	Anne
+78387	Mrs Smith
+78406	Elliot
+78498	Wallis
+78503	Wallis
+78565	Elliot
+78570	Wallis
+78580	Wallis
+78602	Wallis
+78669	Mrs Rooke
+78708	Mrs Smith
+78722	Elliot
+78788	Mrs Smith
+78977	Mrs Smith
+79026	Anne Elliot
+79112	Elliot
+79115	Walter
+79171	Walter
+79180	Lady Elliot
+79190	Elliot
+79202	Mrs Smith
+79209	Anne
+79246	Wallis
+79275	Elliot
+79292	Elliot
+79313	Wallis
+79346	Elliot
+79439	William
+79550	Wallis
+79568	Mrs Wallis
+79583	Elliot
+79628	Walter
+79630	Mrs Clay
+79695	Anne
+79761	Elliot
+79834	Mrs Smith
+79840	Mrs Clay
+79894	Mrs Wallis
+79920	Elliot
+79930	Mrs Clay
+79938	Mrs Wallis
+79951	Rooke
+80008	Walter
+80051	Lady Elliot
+80055	Mrs Wallis
+80073	Anne
+80117	Elliot
+80144	Elliot
+80150	Mrs Smith
+80162	Anne
+80216	Mrs Smith
+80252	Elliot
+80266	Elliot
+80278	Mrs Smith
+80301	Anne
+80344	Mr Smith
+80389	Elliot
+80526	Elliot
+80557	Elliot
+80570	Mr Smith
+80583	Elliot
+80631	Anne
+80647	Mrs Smith
+80698	Anne
+80759	Anne
+80871	Elliot
+80992	Anne
+80998	Elliot
+81077	Anne
+81089	Elliot
+81096	Anne
+81151	Elliot
+81153	Anne
+81161	Mrs Smith
+81194	Mrs Smith
+81324	Anne
+81367	Lady Russell
+81397	Lady Russell
+81430	Anne
+81442	Mrs Smith
+81454	Anne
+81479	Elliot
+81498	Wentworth
+81580	Russell
+81645	Mrs Smith
+81658	Mrs Smith
+81695	Lady Russell
+81744	Lady Russell
+81779	Elliot
+81829	Elizabeth
+81845	Clay
+81890	Anne
+81903	Elizabeth
+81963	Walter
+81984	Elliot
+81999	Mrs Clay
+82012	Anne
+82023	Elliot
+82079	Elliot
+82083	Mrs Clay
+82110	Penelope
+82162	Anne
+82210	Mrs Clay
+82218	Elliot
+82248	Sir Walter
+82258	Anne
+82267	Elliot
+82333	Mrs Smith
+82681	Elizabeth
+82694	Mrs Clay
+82709	Anne
+82729	Elliot
+82748	Lady Russell
+82768	Mrs Clay
+82801	Mrs Clay
+82827	Elizabeth
+82887	Russell
+82966	Walter
+83068	Anne
+83081	Elliot
+83117	Charles Musgrove
+83137	Anne
+83191	Walter
+83193	Elizabeth
+83220	Mrs Musgrove
+83227	White Hart
+83240	Walter
+83242	Elizabeth
+83245	Mary
+83258	Anne
+83263	Charles
+83291	Mary
+83315	Mrs Musgrove
+83318	Henrietta
+83322	Harville
+83365	Harville
+83398	Charles
+83406	Mrs Harville
+83427	Mary
+83497	Henrietta
+83532	Harville
+83537	Mary
+83556	Mrs Harville
+83564	Benwick
+83569	Musgrove
+83571	Louisa
+83575	Anne
+83589	Henrietta
+83622	Charles
+83630	Mary
+83638	Charles Hayter
+83719	Louisa
+83732	Charles
+83791	Charles Hayter
+83814	Charles
+83839	Anne
+84014	Mary
+84020	Henrietta
+84043	Winthrop
+84073	Charles Hayter
+84095	Mrs Musgrove
+84100	Anne
+84168	Louisa
+84239	Benwick
+84258	Anne
+84437	Charles
+84449	Anne
+84518	Mary
+84612	Elizabeth
+84628	Mrs Musgrove
+84698	Elizabeth
+84732	Alicia
+84763	Mrs Musgrove
+84851	Elizabeth
+84870	Mary
+84883	Elliot
+84889	Lady Dalrymple
+84893	Carteret
+84915	Elliot
+84924	Mrs Musgrove
+84934	Anne
+84938	Charles
+84940	Mary
+84948	Henrietta
+84956	Lady Russell
+84979	Anne
+85002	White Hart
+85031	Mrs Musgrove
+85043	Anne
+85051	Henrietta
+85084	Mrs Musgrove
+85114	Anne
+85182	Charles
+85191	Mrs Musgrove
+85196	Louisa
+85200	Henrietta
+85221	Mary
+85257	Mary
+85325	Anne
+85358	Mrs Musgrove
+85362	Charles
+85367	Harville
+85589	Anne
+85593	Mary
+85658	Elliot
+85667	Anne
+85677	Elliot
+85710	Wentworth
+85741	Mary
+85774	Elliot
+85779	Anne
+85788	Anne
+85867	Anne
+85871	Mary
+85908	Elliot
+85924	Mary
+85933	Anne
+85953	Elliot
+85970	Clay
+86013	Elliot
+86071	Charles
+86158	Wentworth
+86160	Anne
+86188	Mrs Musgrove
+86204	Henrietta
+86213	Mary
+86224	Charles
+86264	Lady Dalrymple
+86272	Elliot
+86304	Charles
+86356	Charles
+86410	Charles
+86464	Elliot
+86483	Elliot
+86513	Charles
+86563	Elliot
+86574	Anne
+86580	Wentworth
+86603	Charles
+86607	Charles
+86609	Mary
+86681	Musgrove
+86692	Charles
+86722	Anne
+86741	Henrietta
+86754	Anne
+86762	Anne
+86805	Mary
+86898	Charles
+86925	Wentworth
+86959	Anne
+87042	Anne
+87100	Anne
+87128	Henrietta
+87165	Anne
+87183	Henrietta
+87258	Walter
+87260	Miss Elliot
+87272	Anne
+87344	Wentworth
+87352	Elizabeth
+87372	Elizabeth
+87454	Elliot
+87484	Wentworth
+87491	Elizabeth
+87524	Wentworth
+87541	Walter
+87543	Elizabeth
+87578	Anne
+87688	Elizabeth
+87695	Mary
+87705	Wentworth
+87723	Anne
+87786	Anne
+87888	Elizabeth
+87890	Mrs Clay
+87941	Wentworth
+88028	Mrs Clay
+88038	Elliot
+88082	Mrs Clay
+88101	Anne
+88147	Walter
+88174	Miss Elliot
+88185	Elliot
+88215	Thornberry
+88332	Anne
+88336	Mrs Smith
+88355	Elliot
+88408	Elliot
+88474	White Hart
+88507	Mrs Musgrove
+88512	Mrs Croft
+88517	Harville
+88520	Wentworth
+88527	Mary
+88529	Henrietta
+88561	Mrs Musgrove
+88648	Wentworth
+88662	Harville
+88703	Mrs Musgrove
+88707	Mrs Croft
+88738	Anne
+88754	Harville
+88778	Musgrove
+88782	Hayter
+88796	Hayter
+88805	Musgrove
+88818	Hayter
+88879	Musgrove
+88893	Mrs Croft
+88913	Anne
+88939	Mrs Musgrove
+88973	Charles Hayter
+88982	Henrietta
+89045	Mrs Croft
+89098	Mrs Musgrove
+89187	Mrs Croft
+89244	Anne
+89284	Wentworth
+89356	Anne
+89379	Harville
+89403	Anne
+89525	Wentworth
+89539	Harville
+89589	Benwick
+89623	Elliot
+89750	Wentworth
+89794	Anne
+89841	Harville
+90037	Anne
+90056	Harville
+90089	Benwick
+90190	Anne
+90344	Harville
+90359	Wentworth
+90382	Anne
+90439	Harville
+90488	Anne
+90511	Elliot
+90571	Benwick
+90821	Harville
+91056	Anne
+91254	Harville
+91295	Mrs Croft
+91304	Frederick
+91352	Anne
+91367	Frederick
+91385	Frederick
+91398	Wentworth
+91434	Harville
+91446	Harville
+91483	Mrs Croft
+91490	Wentworth
+91520	Anne
+91543	Harville
+91636	Anne
+91664	Mrs Musgrove
+91732	Benwick
+91769	Mrs Musgrove
+92199	Charles
+92201	Mary
+92204	Henrietta
+92339	Mrs Musgrove
+92364	Sarah
+92378	Charles
+92413	Wentworth
+92449	Mrs Musgrove
+92479	Anne
+92530	Anne
+92589	Harville
+92592	Wentworth
+92621	Harville
+92692	Charles
+92698	Harville
+92705	Anne
+92722	Harville
+92736	Wentworth
+92745	Anne
+92798	Harville
+92805	Charles
+92900	Wentworth
+92925	Anne
+92971	Charles
+92976	Wentworth
+93004	Wentworth
+93015	Belmont
+93045	Anne
+93156	Winthrop
+93198	Charles
+93461	Elliot
+93572	Harville
+93768	Elliot
+93784	Harville
+93799	Louisa Musgrove
+93833	Louisa
+93861	Louisa
+93985	Louisa
+94027	Harville
+94034	Harville
+94216	Louisa
+94291	Kellynch
+94306	Edward
+94356	Anne
+94410	Anne
+94465	Louisa
+94476	Benwick
+94708	Elliot
+94897	Anne
+95131	Anne
+95212	Anne
+95370	Anne
+95411	Elliot
+95435	Dalrymple
+95453	Mrs Clay
+95487	Harville
+95498	Lady Russell
+95515	Mrs Croft
+95537	Wentworth
+95824	Lady Russell
+96243	Wentworth
+96246	Anne Elliot
+96308	Walter
+96314	Elizabeth
+96325	Wentworth
+96415	Walter
+96425	Anne
+96463	Wentworth
+96516	Walter
+96558	Lady Russell
+96561	Anne
+96564	Lady Russell
+96576	Elliot
+96594	Wentworth
+96600	Lady Russell
+96636	Wentworth
+96666	Elliot
+96711	Lady Russell
+96773	Lady Russell
+96814	Anne
+96819	Anne
+96865	Mary
+96902	Anne
+96929	Wentworth
+96938	Benwick
+96940	Charles Hayter
+96960	Anne
+96991	Anne
+97016	Wentworth
+97029	Anne
+97065	Elliot
+97094	Anne
+97100	Elliot
+97119	Walter
+97214	Mrs Clay
+97242	Walter
+97286	Walter
+97304	William
+97313	Walter
+97315	Elizabeth
+97380	Anne
+97390	Russell
+97396	Wentworth
+97540	Lady Russell
+97543	Mrs Smith
+97560	Lady Russell
+97614	Mrs Smith
+97635	Anne
+97670	Wentworth
+97742	Mrs Smith
+97835	Anne
+97845	Anne
+97860	Wentworth
+97933	Finis

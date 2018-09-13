@@ -1,0 +1,4615 @@
+5	Emma Woodhouse
+138	Taylor
+142	Woodhouse
+163	Emma
+180	Taylor
+230	Emma
+240	Taylor
+258	Emma
+342	Taylor
+348	Taylor
+366	Emma
+446	Weston
+501	Taylor
+596	Isabella
+716	Emma
+728	Weston
+740	Taylor
+805	Woodhouse
+924	Isabella
+962	Hartfield
+1028	Taylor
+1042	Emma
+1162	Taylor
+1197	Taylor
+1231	Emma
+1272	Taylor
+1289	Weston
+1313	Weston
+1340	Taylor
+1502	James
+1542	Weston
+1564	Weston
+1571	James
+1616	Hannah
+1624	Hannah
+1630	James
+1661	James
+1767	Taylor
+1781	James
+1812	Emma
+1870	Knightley
+1904	Isabella
+1963	Hartfield
+1983	Woodhouse
+1989	Knightley
+2008	Isabella
+2024	Woodhouse
+2037	Knightley
+2235	Taylor
+2249	Woodhouse
+2264	Taylor
+2275	Emma
+2327	Emma
+2373	Woodhouse
+2411	Knightley
+2432	Knightley
+2465	Knightley
+2481	Emma Woodhouse
+2503	Emma
+2541	Emma
+2551	Knightley
+2564	Taylor
+2598	Emma
+2684	Emma
+2700	Knightley
+2711	Taylor
+2730	Emma
+2747	Emma
+2758	Knightley
+2790	Taylor
+2805	Taylor
+2852	Taylor
+2878	Emma
+2926	Weston
+2941	Knightley
+3033	Weston
+3045	Weston
+3090	Weston
+3112	Weston
+3176	Taylor
+3210	Mitchell
+3272	Knightley
+3358	Taylor
+3361	Weston
+3524	Weston
+3557	Hartfield
+3571	Weston
+3581	Taylor
+3614	Emma
+3631	Woodhouse
+3677	Elton
+3681	Elton
+3686	Elton
+3778	Elton
+3797	Elton
+3861	Knightley
+3889	Knightley
+3915	Emma
+3959	Weston
+4049	Weston
+4068	Churchill
+4078	Churchill
+4118	Churchill
+4167	Churchill
+4191	Weston
+4323	Weston
+4327	Churchill
+4332	Weston
+4437	Churchill
+4467	Frank
+4658	Taylor
+4682	Taylor
+4872	Frank
+4953	Weston
+5043	Frank Churchill
+5134	Perry
+5141	Bates
+5148	Bates
+5159	Frank Churchill
+5204	Weston
+5219	Frank Churchill
+5225	Weston
+5239	Woodhouse
+5246	Woodhouse
+5277	Weston
+5400	Emma
+5423	Emma
+5497	Weston
+5534	Weston
+5564	Emma
+5588	Taylor
+5632	Woodhouse
+5647	Taylor
+5663	Taylor
+5683	Woodhouse
+5804	Perry
+5814	Perry
+5832	Woodhouse
+5887	Woodhouse
+5940	Weston
+5949	Woodhouse
+5958	Woodhouse
+6094	Knightley
+6104	Emma
+6153	Emma
+6172	Knightley
+6177	Elton
+6207	Woodhouse
+6245	Bates
+6249	Goddard
+6262	Hartfield
+6276	Woodhouse
+6283	James
+6305	Bates
+6389	Bates
+6602	Woodhouse
+6613	Goddard
+6727	Goddard
+6842	Woodhouse
+6883	Emma
+6926	Weston
+7002	Goddard
+7017	Smith
+7028	Smith
+7036	Emma
+7078	Harriet Smith
+7098	Goddard
+7184	Emma
+7227	Emma
+7258	Smith
+7302	Hartfield
+7409	Martin
+7412	Emma
+7425	Knightley
+7444	Knightley
+7712	Woodhouse
+7827	Bates
+7849	Serle
+7897	Bates
+7900	Emma
+7942	Goddard
+7980	Emma
+8016	Smith
+8025	Woodhouse
+8069	Woodhouse
+8088	Harriet Smith
+8107	Emma
+8143	Emma
+8159	Weston
+8199	Weston
+8226	Harriet Smith
+8277	Harriet
+8364	Harriet Smith
+8388	Weston
+8425	Weston
+8441	Harriet
+8456	Weston
+8465	Harriet
+8487	Harriet
+8511	Emma
+8540	Harriet
+8556	Goddard
+8568	Goddard
+8616	Martins
+8657	Emma
+8687	Martin
+8711	Goddard
+8740	Alderneys
+8746	Welch
+8753	Welch
+8760	Martin
+8882	Martin
+8919	Martin
+8980	Harriet
+8986	Martin
+8997	Harriet
+9164	Martin
+9235	Martin
+9239	Emma
+9259	Martin
+9268	Goddard
+9277	Goddard
+9283	Goddard
+9299	Nash
+9303	Prince
+9307	Richardson
+9317	Martin
+9500	Martin
+9908	Woodhouse
+9943	Martin
+10067	Martin
+10088	Harriet
+10233	Woodhouse
+10257	Harriet
+10280	Woodhouse
+10326	Martin
+10377	Martin
+10436	Martins
+10439	Elizabeth
+10487	Emma
+10533	Harriet
+10549	Martin
+10586	Emma
+10619	Robert Martin
+10667	Harriet
+10671	Harriet
+10694	Martin
+10716	Woodhouse
+10724	Harriet
+10744	Woodhouse
+10851	Miss Woodhouse
+10957	Harriet
+10979	Harriet
+11012	Martin
+11048	Martin
+11132	Knightley
+11147	Knightley
+11158	Knightley
+11169	Knightley
+11184	Martin
+11208	Knightley
+11229	Weston
+11232	Elton
+11236	Martin
+11281	Weston
+11289	Weston
+11314	Harriet
+11356	Martin
+11369	Weston
+11386	Harriet
+11548	Harriet
+11561	Emma
+11594	Elton
+11601	Knightley
+11605	Weston
+11637	Weston
+11669	Knightley
+11739	Elton
+11745	Elton
+11785	Harriet
+11847	Elton
+11857	Harriet
+11869	Elton
+11874	Elton
+11882	Emma
+11890	Harriet
+11971	Harriet
+11975	Hartfield
+11993	Elton
+12028	Harriet
+12039	Emma
+12102	Harriet
+12127	Harriet
+12215	Robert Martin
+12234	Elton
+12252	Weston
+12257	Knightley
+12265	Emma
+12267	Harriet Smith
+12318	Emma
+12321	Harriet
+12335	Harriet
+12341	Emma
+12384	Emma
+12387	Knightley
+12405	Weston
+12423	Weston
+12460	Emma
+12478	Knightley
+12555	Harriet Smith
+12566	Emma
+12580	Emma
+12614	Emma
+12732	Emma
+12758	Taylor
+12768	Harriet Smith
+12805	Weston
+12829	Emma
+12860	Knightley
+12904	Emma
+12944	Isabella
+12956	Emma
+13007	Knightley
+13022	Woodhouse
+13116	Emma
+13163	Weston
+13179	Taylor
+13203	Weston
+13246	Weston
+13281	Knightley
+13308	Emma
+13342	Harriet Smith
+13351	Harriet Smith
+13364	Emma
+13377	Emma
+13409	Emma
+13420	Harriet
+13431	Harriet
+13449	Hartfield
+13492	Emma
+13536	Emma
+13595	Emma
+13617	Emma
+13749	Emma
+13770	Knightley
+13847	Weston
+13860	Harriet Smith
+13879	Knightley
+13898	Emma
+13956	Emma
+13982	Emma
+13999	John
+14001	Isabella
+14003	John
+14005	Emma
+14017	Isabella
+14069	Knightley
+14093	Emma
+14115	Harriet Smith
+14151	Emma
+14205	Knightley
+14264	John Knightley
+14311	Emma
+14313	Isabella
+14345	Emma
+14364	Weston
+14434	Emma
+14492	Weston
+14528	Woodhouse
+14540	Emma
+14571	Weston
+14588	Emma
+14608	Knightley
+14640	Hartfield
+14644	Emma
+14653	Harriet
+14684	Elton
+14726	Harriet
+14744	Elton
+14774	Harriet
+14805	Harriet
+14833	Smith
+14899	Harriet
+14951	Elton
+15081	Harriet
+15094	Harriet
+15110	Harriet
+15151	Emma
+15249	Harriet
+15276	Elton
+15291	Miss Woodhouse
+15337	Weston
+15356	Emma
+15389	Harriet
+15405	Elton
+15417	Harriet
+15515	Elton
+15517	Harriet
+15591	Harriet
+15623	Emma
+15663	Harriet
+15878	Woodhouse
+15896	Emma
+15949	Weston
+15963	Weston
+16059	Henry
+16061	John
+16063	Bella
+16214	George
+16257	John Knightley
+16316	Weston
+16356	Isabella
+16461	Harriet
+16498	Elton
+16545	Emma
+16599	John Knightley
+16628	Harriet
+16670	Elton
+16762	Smith
+16767	Elton
+16773	Harriet
+16777	Emma
+16995	Elton
+17005	Harriet
+17016	Elton
+17098	Elton
+17113	Woodhouse
+17128	Weston
+17157	Smith
+17240	Emma
+17245	Knightley
+17247	Emma
+17261	Elton
+17332	Smith
+17349	Woodhouse
+17475	Elton
+17496	Smith
+17526	Smith
+17607	Isabella
+17629	Woodhouse
+17657	Elton
+17771	Elton
+17790	Emma
+17851	Emma
+17941	Harriet
+17953	Elton
+17963	Emma
+17970	Harriet
+18050	Goddard
+18055	Martin
+18111	Elizabeth
+18129	Martin
+18209	Miss Woodhouse
+18218	Emma
+18276	Harriet
+18289	Emma
+18387	Harriet
+18437	Emma
+18447	Harriet
+18598	Harriet
+18618	Harriet
+18688	Woodhouse
+18809	Harriet
+18822	Harriet
+18893	Harriet
+18904	Emma
+18952	Woodhouse
+18972	Harriet
+19011	Harriet
+19021	Emma
+19059	Harriet
+19258	Emma
+19286	Martin
+19316	Harriet
+19334	Harriet
+19336	Harriet
+19374	Harriet
+19405	Emma
+19425	Harriet
+19430	Woodhouse
+19470	Martin
+19488	Harriet
+19528	Harriet
+19557	Martin
+19599	Robert Martin
+19616	Harriet
+19678	-- Dear
+19680	Miss Woodhouse
+19708	Harriet
+19768	Hartfield
+19844	Harriet
+19957	Martin
+20070	Emma
+20171	Emma
+20204	Emma
+20302	Emma
+20345	Harriet
+20357	Emma
+20384	Elton
+20422	Harriet
+20460	Hartfield
+20473	Goddard
+20490	Nash
+20495	Nash
+20530	Harriet
+20536	Nash
+20613	Harriet
+20635	Elton
+20655	Martin
+20725	Emma
+20735	Elton
+20806	Elton
+20814	Harriet
+20898	Harriet
+20909	VIII Harriet
+20944	Emma
+20984	Goddard
+20999	Hartfield
+21016	Knightley
+21025	Woodhouse
+21027	Emma
+21031	Woodhouse
+21075	Knightley
+21081	Knightley
+21127	Knightley
+21145	Emma
+21184	Knightley
+21219	Emma
+21269	Knightley
+21348	Woodhouse
+21356	Knightley
+21379	Harriet
+21390	Emma
+21619	Harriet
+21631	Emma
+21741	Emma
+21750	Elton
+21758	Knightley
+21772	Elton
+21791	Harriet Smith
+21809	Robert Martin
+21850	Emma
+21858	Harriet
+22012	Robert Martin
+22207	Goddard
+22234	Knightley
+22238	Emma
+22261	Martin
+22354	Knightley
+22405	Emma
+22463	Harriet Smith
+22466	Robert Martin
+22510	Emma
+22553	Martin
+22569	Harriet
+22621	Knightley
+22661	Emma
+22673	Harriet Smith
+22691	Robert Martin
+23002	Emma
+23009	Harriet
+23032	Emma
+23057	Martin
+23132	Harriet
+23150	Martin
+23339	Robert Martin
+23353	Knightley
+23399	Goddard
+23417	Goddard
+23424	Goddard
+23486	Martins
+23516	Harriet Smith
+23519	Emma
+23521	Robert Martin
+23596	Emma
+23630	Martin
+23642	Harriet
+23644	Harriet
+23802	Harriet
+23911	Emma
+23975	Harriet
+23997	Harriet
+24080	Knightley
+24106	Harriet
+24177	Harriet Smith
+24265	Robert Martin
+24316	Goddard
+24332	Harriet Smith
+24374	Knightley
+24405	Robert Martin
+24573	Abbey-Mill
+24606	Harriet
+24623	Knightley
+24627	Robert Martin
+24650	Harriet Smith
+24656	Emma
+24768	Emma
+24800	Robert Martin
+24829	Harriet
+24877	Elton
+24893	Emma
+24906	Elton
+24911	Elton
+24979	Harriet
+25074	Emma
+25088	Elton
+25091	Harriet
+25112	Harriet
+25203	Emma
+25215	Emma
+25267	Knightley
+25301	Harriet
+25307	Harriet
+25330	Goddard
+25338	Harriet
+25364	Harriet
+25405	Knightley
+25437	Elton
+25445	Knightley
+25475	Knightley
+25536	Elton
+25549	Elton
+25579	Knightley
+25600	Knightley
+25659	Elton
+25661	Harriet
+25679	Martin
+25686	Elton
+25689	Nash
+25705	Perry
+25710	Goddard
+25720	Nash
+25729	Miss Nash
+25747	Elton
+25758	Elton
+25795	Perry
+25844	Elton
+25903	Perry
+25934	Elton
+25950	Nash
+25966	Elton
+26001	Elton
+26022	Elton
+26036	Knightley
+26043	Emma
+26066	Hartfield
+26134	Elton
+26173	Harriet
+26198	Emma
+26205	Martin
+26220	Elton
+26290	Harriet
+26316	Harriet
+26389	Nash
+26394	Goddard
+26406	Harriet
+26423	Woodhouse
+26434	Emma
+26446	Harriet
+26473	Woodhouse
+26548	Perry
+26577	Perry
+26626	Elton
+26793	Elton
+26849	Woodhouse
+26860	Smith
+26928	Emma
+26945	Smith
+26990	Emma
+26993	Harriet
+26996	Emma
+27041	Emma
+27050	Harriet
+27064	Harriet
+27077	Emma
+27230	Harriet
+27242	Harriet
+27262	Elton
+27305	Miss Smith
+27339	Harriet
+27373	Harriet
+27401	Knightley
+27483	Harriet
+27495	Woodhouse
+27532	Woodhouse
+27642	Woodhouse
+27664	Harriet
+27707	Smith
+27842	Harriet
+27876	Harriet
+27920	Emma
+27955	Elton
+28025	Harriet
+28054	Elton
+28085	Harriet
+28149	Hartfield
+28163	Harriet
+28183	Woodhouse
+28191	Woodhouse
+28197	Harriet
+28242	Elton
+28260	Harriet
+28298	Elton
+28448	Eltons
+28500	Elton
+28575	Hartfield
+28578	Shakespeare
+28592	Elton
+28646	Knightley
+28695	Nash
+28760	Nash
+28806	Cole
+28971	Elton
+29091	Harriet
+29186	Emma
+29197	Martin
+29208	Harriet
+29240	Woodhouse
+29318	Woodhouse
+29515	Harriet
+29581	Emma
+29670	Harriet
+29677	Harriet
+29820	Woodhouse
+30032	Emma
+30035	Emma
+30121	Kitty
+30219	Garrick
+30242	Kitty
+30257	Isabella
+30266	Catherine
+30387	John Knightley
+30399	Isabella
+30426	Taylor
+30479	Weston
+30486	Isabella
+30551	John Knightley
+30604	Knightley
+30645	Isabella
+30652	Hartfield
+30656	Woodhouse
+30662	Knightley
+30675	Isabella
+30700	Isabella
+30717	Emma
+30766	Isabella
+30790	Woodhouse
+30800	Emma
+30833	Harriet
+30887	Henry
+30889	John
+30922	Harriet
+30947	Henry
+30954	John
+30961	Henry
+30977	John
+31003	Isabella
+31008	Henry
+31069	Henry
+31109	Emma
+31171	John Knightley
+31327	Harriet
+31332	Emma
+31388	Woodhouse
+31429	Cole
+31458	Emma
+31551	Smith
+31579	Elton
+31608	Emma
+31643	Emma
+31699	Elton
+31793	Emma
+31846	Harriet
+31880	Emma
+31910	Vicarage Lane
+31945	Elton
+32037	-- Emma
+32060	-- Harriet
+32086	Nash
+32106	Emma
+32147	Harriet
+32179	Emma
+32193	Elton
+32264	Harriet
+32275	Miss Woodhouse
+32298	-- Emma
+32310	Harriet
+32398	Elton
+32589	Hartfield
+32640	Bates
+32655	Harriet
+32667	Bates
+32749	Harriet
+32904	Bates
+33016	Harriet
+33247	Bates
+33334	Jane Fairfax
+33345	Jane Fairfax
+33404	Jane Fairfax
+33431	Emma
+33563	Harriet
+33576	Harriet
+33637	Harriet
+33668	Emma
+33761	Elton
+33773	Emma
+33783	Harriet
+33859	Harriet
+33930	Elton
+33954	Emma
+34058	Harriet
+34195	Hartfield
+34302	Elton
+34308	Harriet
+34317	Emma
+34353	Elton
+34366	Emma
+34391	Cole
+34500	Harriet
+34618	Elton
+34654	Elton
+34721	Emma
+34757	Elton
+34856	Emma
+34891	Harriet
+34927	Emma
+34996	Elton
+35009	Emma
+35149	John Knightley
+35187	Hartfield
+35234	Woodhouse
+35251	Isabella
+35329	John Knightley
+35345	Hartfield
+35406	Hartfield
+35418	John Knightley
+35495	John Knightley
+35626	Wingfield
+35636	Perry
+35662	John Knightley
+35826	Isabella
+35829	Isabella
+35847	Isabella
+35920	Woodhouse
+35947	John Knightley
+35976	Emma
+36042	Woodhouse
+36086	Taylor
+36117	Emma
+36201	John Knightley
+36205	Emma
+36232	Weston
+36281	Isabella
+36293	Woodhouse
+36348	Weston
+36351	Weston
+36369	Isabella
+36386	Weston
+36408	Isabella
+36423	Taylor
+36440	Weston
+36474	John Knightley
+36536	Hartfield
+36545	Emma
+36567	Woodhouse
+36580	Weston
+36584	Weston
+36615	Weston
+36629	Weston
+36640	John Knightley
+36647	Weston
+36657	Emma
+36699	Isabella
+36716	Westons
+36785	Hartfield
+36794	Taylor
+36810	Weston
+36815	Weston
+36862	Henry
+36939	Taylor
+36951	John Knightley
+36979	Emma
+37037	Weston
+37174	Weston
+37217	F. C.
+37219	Weston Churchill
+37244	John Knightley
+37302	Weston
+37351	John Knightley
+37362	Weston
+37373	Henry
+37375	John
+37378	Weston
+37462	Emma
+37473	Weston
+37559	Knightley
+37572	Woodhouse
+37586	Isabella
+37591	Emma
+37627	Knightley
+37754	Hartfield
+37816	Emma
+38097	Emma
+38116	Emma
+38162	Emma
+38185	Knightley
+38237	Martin
+38294	John Knightley
+38306	George
+38369	Woodhouse
+38382	Isabella
+38407	Knightleys
+38420	Emma
+38478	John
+38598	John
+38638	Woodhouse
+38658	Isabella
+38749	Emma
+38760	Emma
+38777	Knightleys
+38866	Wingfield
+38896	Bella
+38915	Perry
+38977	Emma
+39025	Isabella
+39037	Perry
+39052	Perry
+39073	Perry
+39144	Perry
+39165	Perry
+39229	Bella
+39280	Wingfield
+39343	Bates
+39347	Emma
+39394	Bates
+39424	Bates
+39456	Bates
+39487	Wingfield
+39532	Perry
+39555	Perry
+39575	Wingfield
+39750	Wingfield
+39776	Hartfield
+39921	Wingfield
+39955	Knightley
+39985	John Knightley
+40012	John Knightley
+40068	Wingfield
+40078	Isabella
+40131	Emma
+40138	Graham
+40202	Isabella
+40207	Jane Fairfax
+40211	Jane Fairfax
+40240	Jane Fairfax
+40246	John Knightley
+40299	Emma
+40323	Campbell
+40343	Emma
+40347	Woodhouse
+40360	Harriet Smith
+40378	Harriet
+40380	Emma
+40388	Harriet
+40402	Jane Fairfax
+40417	Emma
+40598	Woodhouse
+40617	Emma
+40772	Perry
+40828	Wingfield
+40889	-- Perry
+40958	Perry
+41003	Perry
+41065	Perry
+41078	Emma
+41113	Perry
+41192	Perry
+41226	Perry
+41283	Knightley
+41302	John
+41427	Woodhouse
+41438	Perry
+41510	John Knightley
+41518	Hartfield
+41616	Weston
+41634	Woodhouse
+41711	Emma
+41727	Harriet
+41730	Harriet
+41733	Elton
+41737	Knightley
+41769	Woodhouse
+41796	Woodhouse
+41811	Harriet
+41840	Goddard
+41842	Emma
+41853	Emma
+41884	Goddard
+41893	Perry
+41899	Harriet
+41930	Emma
+41945	Goddard
+41959	Elton
+42007	Goddard
+42017	Elton
+42064	Hartfield
+42071	John Knightley
+42128	Emma
+42173	Goddard
+42175	Harriet
+42193	Elton
+42225	Perry
+42255	Perry
+42260	Emma
+42280	Goddard
+42417	Weston
+42426	Elton
+42485	Elton
+42547	Emma
+42614	Harriet
+42642	Weston
+42671	Elton
+42678	Elton
+42695	Elton
+42769	Harriet
+42844	Elton
+42863	Harriet
+42897	Harriet
+42911	Elton
+42939	Harriet
+42958	Goddard
+43024	John Knightley
+43045	Elton
+43082	Elton
+43091	Emma
+43145	Elton
+43160	John Knightley
+43202	Elton
+43218	Emma
+43242	Elton
+43298	Emma
+43336	Elton
+43415	Woodhouse
+43569	Emma
+43611	John Knightley
+43928	Emma
+44041	Elton
+44055	Emma
+44066	Elton
+44131	Goddard
+44202	Goddard
+44224	Smith
+44268	Emma
+44310	Perry
+44419	Emma
+44561	John Knightley
+44585	Elton
+44622	Woodhouse
+44715	John Knightley
+44751	Emma
+44766	Elton
+44773	Harriet
+44812	Weston
+44816	Weston
+44865	Weston
+44913	Emma
+44927	Knightley
+45032	John Knightley
+45070	Weston
+45076	Elton
+45085	John Knightley
+45092	Elton
+45099	John Knightley
+45110	-- Emma
+45142	Weston
+45222	Weston
+45291	Weston
+45304	Emma
+45317	Elton
+45341	Harriet
+45355	Woodhouse
+45377	Isabella
+45383	Emma
+45401	James
+45416	Weston
+45439	Emma
+45441	Emma
+45447	Elton
+45483	Harriet
+45560	Harriet
+45596	Weston
+45647	Harriet
+45690	Elton
+45709	Weston
+45729	Frank
+45770	Elton
+45798	Emma
+45817	Frank Churchill
+45837	Miss Taylor
+45903	Weston
+46001	Elton
+46054	Weston
+46068	Elton
+46074	Weston
+46136	Miss Smith
+46170	Frank
+46192	Emma
+46210	Frank Churchill
+46214	Smith
+46234	Weston
+46318	Weston
+46444	Frank
+46539	Frank
+46625	Emma
+46637	Weston
+46701	Frank
+46822	Emma
+46837	Weston
+46868	Weston
+46917	Weston
+46933	Weston
+46964	Churchill
+46982	Emma
+46987	Weston
+47003	Isabella
+47020	Knightley
+47033	Frank Churchill
+47079	Churchill
+47110	Churchill
+47116	Churchill
+47120	Isabella
+47198	Emma
+47206	Weston
+47216	Weston
+47233	Isabella
+47288	Woodhouse
+47341	Isabella
+47345	Emma
+47501	Weston
+47515	Emma
+47648	Weston
+47676	Enscombe
+47733	Churchill
+47792	Emma
+47859	Emma
+47895	Weston
+47942	Woodhouse
+47996	Weston
+48024	Elton
+48041	Weston
+48043	Emma
+48068	Emma
+48086	Frank Churchill
+48111	Harriet
+48218	Emma
+48259	Harriet
+48323	Perry
+48387	Harriet
+48414	Weston
+48442	Woodhouse
+48448	Goddard
+48456	Smith
+48537	Weston
+48563	Emma
+48566	Weston
+48678	Elton
+48692	John Knightley
+48739	Woodhouse
+48776	Woodhouse
+48814	Weston
+48816	Emma
+48953	Weston
+48987	Woodhouse
+49120	Emma
+49132	Woodhouse
+49171	James
+49255	Emma
+49391	Isabella
+49441	Isabella
+49445	Weston
+49454	Weston
+49459	Isabella
+49463	Emma
+49466	Emma
+49494	Knightley
+49636	Isabella
+49654	Emma
+49741	Knightley
+49743	Emma
+49812	Emma
+49853	Woodhouse
+49871	Knightley
+49874	Weston
+49931	Isabella
+49942	Emma
+49970	James
+49990	Isabella
+49997	John Knightley
+50020	Emma
+50034	Elton
+50092	Harriet
+50127	Weston
+50212	Elton
+50304	Elton
+50309	Harriet
+50418	Elton
+50441	Smith
+50466	Smith
+50472	Smith
+50511	Elton
+50547	Harriet
+50573	Elton
+50618	Smith
+50630	Smith
+50701	Elton
+50729	Smith
+50798	Elton
+50811	Smith
+50819	Smith
+50877	Miss Smith
+50886	Woodhouse
+50893	Smith
+50897	Woodhouse
+51002	Emma
+51040	Elton
+51063	Woodhouse
+51090	Emma
+51157	Harriet
+51197	Hartfield
+51229	Smith
+51270	Smith
+51272	-- Miss
+51274	Smith
+51357	Smith
+51367	Hartfield
+51454	Smith
+51565	Woodhouse
+51642	-- Emma
+51678	Hartfield
+51732	James
+51754	John Knightley
+51874	Emma
+51919	Harriet
+51951	Harriet
+52001	Harriet
+52025	Harriet
+52140	Harriet
+52284	Harriet
+52290	John Knightley
+52325	Knightley
+52333	Elton
+52348	Elton
+52384	Elton
+52436	Elton
+52583	Miss Woodhouse
+52586	Hartfield
+52789	Eltons
+52797	Hartfield
+52868	Elton
+52943	Emma
+52993	Elton
+53124	Harriet
+53194	Martin
+53315	William Coxe
+53326	William Coxe
+53377	Harriet
+53383	Harriet
+53454	Emma
+53522	Emma
+53567	Elton
+53591	Harriet
+53706	Woodhouse
+53791	Harriet
+53818	Elton
+53887	Knightley
+53903	Knightley
+53915	Elton
+54030	Harriet
+54037	Emma
+54050	John Knightley
+54074	Woodhouse
+54113	Isabella
+54118	Isabella
+54169	Elton
+54172	Woodhouse
+54187	Elton
+54255	Woodhouse
+54272	Woodhouse
+54285	Emma
+54293	Elton
+54439	Elton
+54485	Woodhouse
+54492	Emma
+54511	Harriet
+54561	Goddard
+54655	Harriet
+54672	Harriet
+54711	Emma
+54740	Harriet
+54748	Harriet
+54769	Elton
+54797	Woodhouse
+54827	Emma
+54854	Harriet
+54943	Harriet
+54966	Hartfield
+54992	Elton
+55036	Elton
+55048	Harriet
+55077	Elton
+55106	Harriet
+55141	Emma
+55183	Elton
+55211	Harriet
+55281	Harriet
+55293	Goddard
+55297	Elton
+55354	Emma
+55380	Frank Churchill
+55394	Weston
+55446	Weston
+55522	Weston
+55535	Frank
+55591	Weston
+55629	Emma
+55645	Frank Churchill
+55722	Weston
+55743	Knightley
+55847	Knightley
+55877	Weston
+55895	Knightley
+55985	Frank Churchill
+56093	Frank Churchill
+56175	Knightley
+56383	Enscombe
+56388	Churchill
+56431	Emma
+56465	Frank Churchill
+56519	Churchill
+56617	Emma
+56653	Knightley
+56679	Frank Churchill
+56744	Emma
+57005	Knightley
+57018	Frank Churchill
+57360	Emma
+57392	Weston
+57569	Weston
+57679	Emma
+57757	Knightley
+57868	Knightley
+57908	Frank Churchill
+58074	Knightley
+58164	Emma
+58195	Emma
+58262	Weston
+58293	Knightley
+58303	Emma
+58401	Emma
+58403	Harriet
+58414	Emma
+58424	Elton
+58434	Harriet
+58497	Elton
+58525	Bates
+58552	Bates
+58608	Knightley
+58702	Harriet
+58723	Jane Fairfax
+58737	Bates
+58795	Woodhouse
+58829	Woodhouse
+58904	Woodhouse
+58906	Miss Smith
+58924	Coles
+58934	Elton
+58944	Cole
+58949	Elton
+58955	Emma
+59037	Harriet
+59103	Jane Fairfax
+59107	Elton
+59116	Miss Bates
+59146	Elton
+59157	Cole
+59171	Cole
+59185	Jane
+59201	Jane
+59217	Cole
+59233	Jane
+59263	Jane
+59340	Emma
+59498	Jane
+59559	Jane
+59618	Hetty
+59741	Jane
+59802	Bates
+59809	Emma
+59832	Bates
+59868	Woodhouse
+59897	Woodhouse
+59904	Jane
+59910	Emma
+59954	Jane Fairfax
+59974	Bates
+60041	Jane
+60048	Jane
+60229	Campbell
+60429	Dixon
+60540	Jane
+60547	Dixon
+60591	Jane
+60603	Dixon
+60651	Jane
+60666	Campbell
+60681	Dixon
+60704	Campbell
+60750	Jane
+60776	Emma
+60782	Jane Fairfax
+60788	Dixon
+60839	Dixon
+60855	Campbell
+60929	Dixon
+60939	Campbell
+60960	Jane
+60970	Dixon
+60996	Jane
+61092	Dixon
+61125	Bates
+61145	Campbell
+61202	Dixon
+61210	Dixon
+61264	Campbell
+61286	Jane
+61491	Jane
+61505	Woodhouse
+61568	Jane
+61601	Jane
+61651	Jane
+61732	Jane
+61744	Perry
+61765	Jane
+61824	Jane
+61869	Emma
+61928	Bates
+61948	Bates
+61996	Jane Fairfax
+62013	Jane Fairfax
+62024	Bates
+62043	Jane Bates
+62208	Campbell
+62320	Jane
+62325	Jane
+62374	Campbell
+62392	Jane
+62397	Campbell
+62454	Campbell
+62505	Jane Fairfax
+62555	Campbell
+62672	Jane
+62741	Campbell
+62756	Jane
+62807	Miss Campbell
+62844	Dixon
+62870	Jane Fairfax
+62989	Campbell
+63341	Frank Churchill
+63351	Jane Fairfax
+63367	Emma
+63410	Jane Fairfax
+63421	Knightley
+63600	Jane Fairfax
+63661	Jane Fairfax
+63736	Emma
+63904	Jane Fairfax
+64011	Dixon
+64042	Emma
+64054	Dixon
+64158	Emma
+64224	Jane Fairfax
+64243	Knightley
+64258	Jane
+64360	Jane
+64370	Emma
+64499	Dixon
+64546	Emma
+64573	Dixon
+64594	Campbell
+64617	Frank Churchill
+64646	Emma
+64750	Churchill
+64762	Emma
+64770	Emma
+64787	Knightley
+64824	Woodhouse
+64858	Emma
+64869	Jane
+64895	Woodhouse
+64980	Emma
+65024	Emma
+65044	Hartfield
+65119	Knightley
+65238	Emma
+65326	Woodhouse
+65369	Bates
+65397	Bates
+65412	Jane Fairfax
+65443	Knightley
+65448	Emma
+65457	Emma
+65466	Emma
+65532	Knightley
+65555	Woodhouse
+65562	Bates
+65621	Emma
+65639	Hartfield
+65658	Emma
+65819	Serle
+65850	Emma
+65855	Knightley
+65955	Bates
+65974	Bates
+65983	Knightley
+66021	Woodhouse
+66047	Elton
+66055	Emma
+66065	Elton
+66108	Knightley
+66140	Bates
+66151	Knightley
+66163	Cole
+66206	Patty
+66212	Jane
+66223	Jane
+66252	Jane
+66272	Patty
+66302	Hawkins
+66312	Hawkins
+66319	Knightley
+66334	Cole
+66351	Hawkins
+66359	Cole
+66373	Elton
+66454	Woodhouse
+66471	Emma
+66551	Knightley
+66589	Emma
+66632	Hawkins
+66648	Elton
+66656	Emma
+66689	Woodhouse
+66722	Hartfield
+66734	Woodhouse
+66739	Bates
+66774	Jane
+66781	Elton
+66797	Jane
+66821	Elton
+66852	Emma
+66864	Knightley
+66871	Bates
+66899	Elton
+66919	Miss Woodhouse
+66938	Jane
+66955	Perry
+66958	Hawkins
+67017	Jane
+67021	Campbell
+67051	Campbell
+67063	Dixon
+67098	Elton
+67101	Hawkins
+67133	Perry
+67144	Woodhouse
+67207	Hawkins
+67222	Emma
+67268	Emma
+67332	Elton
+67335	Hawkins
+67344	Elton
+67348	Jane
+67378	Campbell
+67407	Woodhouse
+67412	Bates
+67422	Hawkins
+67446	Cole
+67461	Elton
+67514	Elton
+67520	Woodhouse
+67542	Smith
+67556	John Knightley
+67567	Jane
+67576	Dixon
+67579	John Knightley
+67648	Dixon
+67692	Campbell
+67755	Jane
+67786	Woodhouse
+67813	Cole
+67826	Jane
+67870	Goddard
+67912	Knightley
+67929	Jane
+67947	Elton
+67951	Hawkins
+67960	Emma
+68028	Elton
+68040	Harriet
+68042	Harriet
+68091	Bates
+68104	Emma
+68118	Goddard
+68153	Harriet
+68180	Woodhouse
+68209	Emma
+68224	Harriet
+68244	Goddard
+68277	Hartfield
+68466	Elizabeth Martin
+68475	Woodhouse
+68502	Elizabeth
+68613	Woodhouse
+68679	Woodhouse
+68799	Miss Woodhouse
+68944	Hartfield
+68956	Cole
+69014	Elizabeth
+69046	Woodhouse
+69082	Elizabeth
+69089	Woodhouse
+69105	Emma
+69162	Harriet
+69254	Harriet
+69266	Harriet
+69370	Harriet
+69404	Emma
+69414	Martins
+69463	Harriet
+69470	Elton
+69477	Elton
+69545	Hawkins
+69553	Martins
+69561	Emma
+69593	Harriet
+69598	Martins
+69639	Goddard
+69707	Hawkins
+69752	Elton
+69796	Elton
+69907	Woodhouse
+69912	Smith
+70047	Green
+70055	Brown
+70236	Cole
+70262	Emma
+70474	Emma
+70485	Elton
+70505	Harriet
+70514	Emma
+70531	Harriet
+70584	Harriet
+70600	Hawkins
+70730	Emma
+70807	Hawkins
+70814	Harriet
+70855	Harriet
+70884	Robert Martin
+70902	Harriet
+70935	Elton
+70949	Emma
+70962	Harriet
+71046	Elton
+71126	Hawkins
+71194	Harriet
+71198	Emma
+71209	Elton
+71214	Martins
+71229	Elton
+71242	Martin
+71260	Elizabeth Martin
+71266	Goddard
+71273	Harriet
+71315	Elton
+71350	Elton
+71367	Martins
+71384	Emma
+71402	Elizabeth Martin
+71481	Harriet
+71614	Harriet
+71621	Harriet
+71637	Goddard
+71664	Philip Elton
+71789	Emma
+71860	Smith
+71889	Martin
+71905	Harriet
+71924	Emma
+71950	Martin
+71987	Martin
+72000	Smith
+72102	Harriet
+72105	Emma
+72172	-- Emma
+72191	Harriet
+72219	Martins
+72320	Elton
+72323	Martins
+72373	Hartfield
+72383	Emma
+72467	Weston
+72498	Weston
+72655	Weston
+72698	Emma
+72749	Elton
+72759	Weston
+72815	Hartfield
+72825	Emma
+72851	Weston
+72880	Emma
+72935	Emma
+72960	Emma
+72969	Weston
+73003	Weston
+73016	Emma
+73033	James
+73070	Harriet
+73090	Frank Churchill
+73126	Emma
+73152	Weston
+73324	Weston
+73340	Weston
+73347	Frank
+73389	Frank Churchill
+73565	Weston
+73706	Emma
+73765	Hartfield
+73820	Emma
+73911	-- Highbury
+74062	Weston
+74152	Taylor
+74176	Taylor
+74180	Woodhouse
+74186	Woodhouse Miss
+74188	Taylor
+74282	Weston
+74295	Weston
+74302	Emma
+74386	Weston
+74406	Emma
+74482	Weston
+74666	Frank Churchill
+74728	Weston
+74757	Weston
+74844	Emma
+74893	Barnes
+74896	Bates
+74922	Bates
+74932	Bates
+75047	Frank
+75130	Emma
+75183	Jane Fairfax
+75261	Jane Fairfax
+75272	Woodhouse
+75451	Frank Churchill
+75485	Frank
+75500	Bates
+75549	Emma
+75592	Frank Churchill
+75600	Weston
+75695	-- Highbury
+75700	Weston
+75704	Hartfield
+75723	Emma
+75731	Weston
+75801	Weston
+75894	Emma
+75930	Hartfield
+75945	Hartfield
+75949	Woodhouse
+75984	Emma
+76100	Emma
+76149	Knightley
+76410	Woodhouse
+76555	Emma
+76565	Weston
+76684	Bateses
+76687	Emma
+76919	Weston
+76961	Emma
+77104	Emma
+77319	Weston
+77386	Woodhouse
+77641	Campbell
+77650	Campbell
+77705	Emma
+77710	Weston
+77722	Frank Churchill
+77763	Emma
+77825	Frank Churchill
+77835	Emma
+78046	Emma
+78054	Dixon
+78094	Dixon
+78097	Campbell
+78138	Campbell
+78182	Campbell
+78207	Emma
+78261	Dixon
+78289	Campbell
+78431	Dixon
+78843	Emma
+78922	Elton
+79026	Weston
+79080	Emma
+79157	Enscombe
+79188	Emma
+79194	Frank Churchill
+79363	Weston
+79403	Weston
+79449	Emma
+79466	Weston
+79685	Weston
+79709	Frank
+79744	Weston
+79841	Knightley
+79860	Emma
+79948	Weston
+79970	Emma
+79998	Coles
+80163	Hartfield
+80204	Emma
+80215	Donwell
+80218	Hartfield
+80258	Coles
+80312	Knightley
+80317	Weston
+80373	Weston
+80463	Harriet
+80492	Frank Churchill
+80644	Coles
+80696	Woodhouse
+80749	Goddard
+80754	Bates
+80766	Woodhouse
+80806	Emma
+80856	Emma
+80872	Cole
+80962	Emma
+80977	Knightley
+81016	Weston
+81029	Taylor
+81055	Weston
+81062	Taylor
+81085	Goddard
+81118	Woodhouse
+81132	Weston
+81148	Woodhouse
+81166	Goddard
+81175	Goddard
+81178	Emma
+81188	James
+81282	James
+81324	James
+81442	Weston
+81446	Emma
+81472	Woodhouse
+81500	Emma
+81543	Woodhouse
+81612	Weston
+81644	Perry
+81649	Cole
+81671	Cole
+81692	Emma
+81774	Weston
+81804	Goddard
+81917	Serle
+81936	VIII Frank
+81938	Churchill
+81962	Weston
+81973	Woodhouse
+82064	Emma
+82129	Knightley
+82305	Cole
+82320	Elton
+82342	Cole
+82353	Bates
+82358	Goddard
+82478	Cole
+82491	Knightley
+82496	Knightley
+82522	Emma
+82803	Emma
+82820	Knightley
+82932	Coles
+82948	Cox
+82970	Bates
+82977	Smith
+83004	Elton
+83009	Emma
+83040	Jane Fairfax
+83076	Emma
+83087	Cole
+83097	Bates
+83164	Bates
+83200	Bates
+83204	Jane
+83248	Campbell
+83278	Jane
+83334	Cole
+83380	Emma
+83423	Jane Fairfax
+83479	Cole
+83530	Jane Fairfax
+83572	Cole
+83658	Woodhouse
+83671	Woodhouse
+83696	Frank Churchill
+83822	Bates
+83908	Campbell
+83926	Dixon
+83931	Dixon
+83943	Dixon
+83991	Dixon
+84023	Dixon
+84030	Dixon
+84052	Dixon
+84111	Dixon
+84341	Dixon
+84485	Dixon
+84627	Emma
+84673	Dixon
+84761	Dixon
+84801	Campbell
+84830	Dixon
+84994	Emma
+85116	Jane Fairfax
+85125	Emma
+85136	Harriet
+85156	Elton
+85189	Emma
+85270	Campbell
+85274	Weston
+85288	Emma
+85364	Frank Churchill
+85386	Bates
+85406	Woodhouse
+85424	Emma
+85453	Miss Smith
+85518	Elton
+85521	Emma
+85591	Knightley
+85594	Cox
+85598	Cole
+85656	Emma
+85688	Enscombe
+85706	Enscombe
+85751	Churchill
+85815	Enscombe
+85988	Emma
+86058	Weston
+86147	Emma
+86164	Cole
+86168	Cole
+86184	Frank Churchill
+86343	Emma
+86403	Weston
+86435	Emma
+86474	Bates
+86552	Jane Fairfax
+86623	Weston
+86667	Bates
+86742	Knightley
+86865	Emma
+86880	Knightley
+86921	Jane Fairfax
+86956	Knightley
+86995	Weston
+87020	Bates
+87066	Knightley
+87068	Jane Fairfax
+87090	Knightley
+87092	Jane Fairfax
+87097	Emma
+87102	Weston
+87115	Knightley
+87119	Knightley
+87130	Henry
+87134	Donwell
+87143	Henry
+87146	Donwell
+87156	Knightley
+87187	Emma
+87216	Henry
+87231	Knightley
+87244	Henry
+87275	Henry
+87280	Knightley
+87303	Jane Fairfax
+87404	Bateses
+87411	Jane Fairfax
+87426	Weston
+87440	Jane Fairfax
+87510	Knightley
+87603	Emma
+87621	Jane Fairfax
+87633	Jane Fairfax
+87670	Weston
+87688	Jane
+87728	Bates
+87753	Jane
+87836	Emma
+87861	Knightley
+87868	Bates
+87946	Jane Fairfax
+88061	Knightley
+88121	Knightley
+88193	Emma
+88216	Cole
+88233	Weston
+88274	Knightley
+88280	Jane Fairfax
+88296	Emma
+88309	Weston
+88347	Cole
+88352	Woodhouse
+88362	Frank Churchill
+88376	Weston
+88397	Cole
+88415	Emma
+88489	Frank Churchill
+88557	Emma
+88612	Frank Churchill
+88636	Knightley
+88646	Emma
+88663	Weston
+88685	Knightley
+88712	John Knightley
+88717	Isabella
+88765	Jane Fairfax
+88773	Knightley
+88786	Knightley
+88792	Henry
+88802	Knightley
+88837	Weston
+88944	James
+89078	Campbell
+89085	Emma
+89093	Knightley
+89130	Jane
+89207	Frank Churchill
+89244	Knightley
+89278	Bates
+89289	Bates
+89320	Bates
+89327	Jane
+89361	Woodhouse
+89414	Weston
+89431	Frank Churchill
+89441	Emma
+89468	Emma
+89497	Knightley
+89521	Jane Fairfax
+89551	Jane
+89567	Emma
+89574	Henry
+89653	Bates
+89685	Weston
+89703	Frank Churchill
+89709	Emma
+89739	Emma
+89794	Coles
+89863	Jane Fairfax
+89868	Frank Churchill
+89934	Jane Fairfax
+89988	Harriet
+89995	Harriet
+90034	Harriet
+90119	Harriet
+90133	Jane Fairfax
+90174	Cole
+90184	Frank Churchill
+90209	Jane Fairfax
+90215	Harriet
+90334	Harriet
+90348	Emma
+90365	Elton
+90374	Martin
+90420	Anne Cox
+90461	Anne Cox
+90488	Nash
+90524	Harriet
+90532	Emma
+90547	Martins
+90561	Harriet
+90595	Emma
+90622	Perry
+90628	William Cox
+90638	Cole
+90775	Weston
+90788	Hartfield
+90804	Bates
+90825	Emma
+90860	Weston
+90898	Bates
+90945	Weston
+90960	Frank Churchill
+90983	Weston
+91030	Woodhouse
+91061	Woodhouse
+91092	Emma
+91124	Weston
+91147	Colonel Campbell
+91179	Weston
+91225	Emma
+91283	Weston
+91306	Hartfield
+91314	Hartfield
+91354	Hartfield
+91362	Weston
+91365	Bates
+91369	Emma
+91377	Harriet
+91456	Goddard
+91464	Ford
+91476	Goddard
+91494	Hartfield
+91504	Goddard
+91537	Hartfield
+91553	Ford
+91567	Harriet
+91572	Ford
+91601	Ford
+91631	Goddard
+91644	Miss Woodhouse
+91656	Hartfield
+91686	Hartfield
+91693	Ford
+91707	Harriet
+91725	Goddard
+91743	Weston
+91746	Bates
+91757	Woodhouse
+91799	Miss Smith
+91808	Smith
+91822	Weston
+91841	Bates
+91866	Jane
+91876	Woodhouse
+91891	Weston
+91915	Woodhouse
+91965	Frank Churchill
+91970	Woodhouse
+92034	Miss Woodhouse
+92114	Jane
+92125	John Saunders
+92162	Patty
+92179	Patty
+92209	Wallis
+92238	Wallis
+92295	Jane
+92390	Perry
+92415	Woodhouse
+92430	Woodhouse
+92446	Patty
+92455	Weston
+92472	Emma
+92482	Bates
+92505	Bates
+92515	Ford
+92542	Jane
+92567	Jane
+92595	Emma
+92635	Frank Churchill
+92712	Weston
+92852	Wallis
+92871	Woodhouse
+92884	Woodhouse
+92917	Knightley
+92980	Knightley
+92986	Jane
+93054	William Larkins
+93125	Jane
+93151	Jane
+93239	William Larkins
+93274	William Larkins
+93286	William Larkins
+93310	Patty
+93313	William
+93348	William
+93371	William
+93389	Hodges
+93424	Patty
+93449	Hodges
+93478	Patty
+93494	Knightley
+93517	Jane
+93536	Bates
+93541	Patty
+93576	Weston
+93590	Miss Woodhouse
+93610	Smith
+93617	Woodhouse
+93633	Smith
+93659	Bates
+93675	Frank Churchill
+93692	Jane Fairfax
+93728	Emma
+93783	Weston
+93925	Jane Fairfax
+93945	Emma
+93983	Emma
+94011	Jane
+94036	Weston
+94047	Emma
+94077	Campbell
+94083	Frank Churchill
+94090	Emma
+94161	Broadwood
+94171	Jane
+94185	Weston
+94204	Emma
+94302	Campbell
+94380	Campbell
+94446	Woodhouse
+94506	Bates
+94705	Emma
+94723	-- Cramer
+94814	Emma
+94836	Jane Fairfax
+94891	Jane Fairfax
+94915	-- Emma
+95052	Robin
+95055	Adair
+95070	Bates
+95079	Knightley
+95088	Knightley
+95184	Knightley
+95273	Bates
+95277	Knightley
+95303	Bates
+95349	Bates
+95374	Weston
+95376	Emma
+95384	Emma
+95413	Bates
+95449	Cole
+95464	Cole
+95502	Woodhouse
+95504	Miss Smith
+95557	Weston
+95560	Frank Churchill
+95656	Knightley
+95685	Woodhouse
+95688	Frank Churchill
+95718	Woodhouse
+95721	Frank Churchill
+95761	Weston
+95811	Knightley
+95824	-- Jane
+95880	Hodges
+95886	William Larkins
+95958	Knightley
+95985	Jane
+96031	Knightley
+96069	Woodhouse
+96090	Emma
+96125	Weston
+96145	Hartfield
+96238	Frank Churchill
+96261	Woodhouse
+96334	Frank Churchill
+96338	Woodhouse
+96354	Jane Fairfax
+96418	Weston
+96447	Cole
+96475	Weston
+96486	Weston
+96533	Smith
+96568	Cox
+96578	Knightley
+96592	Miss Smith
+96717	Gilbert
+96740	Gilbert
+96770	Weston
+96872	Emma
+96880	Weston
+96890	Woodhouse
+96942	Emma
+96944	-- Emma
+96961	Harriet
+96969	Weston
+97072	Weston
+97133	Frank Churchill
+97194	Emma
+97339	Woodhouse
+97410	Emma
+97548	Woodhouse
+97655	Woodhouse
+97707	Weston
+97813	Weston
+98004	Frank Churchill
+98042	Perry
+98063	Woodhouse
+98078	Perry
+98087	Perry
+98194	Churchill
+98235	Weston
+98239	Taylor
+98366	Weston
+98411	Emma
+98481	James
+98512	Stokes
+98551	Weston
+98556	Weston
+98580	Weston
+98593	Perry
+98613	Taylor
+98619	Emma
+98656	Perry
+98669	Emma
+98691	Perry
+98738	Isabella
+98750	Perry
+98758	Weston
+98769	Frank Churchill
+98788	Hartfield
+98849	Emma
+98894	Weston
+98931	Emma
+99199	Weston
+99214	Emma
+99230	Weston
+99284	Weston
+99334	Weston
+99394	Weston
+99473	Coles
+99492	Bates
+99507	Bates
+99541	Bates
+99557	Weston
+99583	Bates
+99587	Emma
+99621	Bates
+99642	Bates
+99660	Weston
+99682	Frank
+99689	Bates
+99729	Bates
+99794	Frank
+99863	Weston
+99953	Weston
+99956	Stokes
+99968	Frank
+100005	Bates
+100097	Emma
+100119	Weston
+100161	Emma
+100174	Frank Churchill
+100187	Weston
+100326	Emma
+100343	Knightley
+100399	Emma
+100488	William Larkins
+100557	Emma
+100577	Jane Fairfax
+100635	Woodhouse
+100677	Jane Fairfax
+100688	William Larkins
+100702	Weston
+100740	Knightley
+100762	Churchill
+100772	Churchill
+100860	Emma
+100867	Weston
+100919	Weston
+100976	Emma
+101081	Churchill
+101106	Emma
+101118	Emma
+101219	Emma
+101374	Woodhouse
+101437	Emma
+101502	Emma
+101582	Emma
+101652	Bates
+101658	Bates
+101709	Bates
+101790	Woodhouse
+101973	Hartfield
+101978	Hartfield
+102005	Emma
+102029	Woodhouse
+102056	Weston
+102153	Weston
+102233	Frank Churchill
+102251	Emma
+102370	Hartfield
+102557	Frank Churchill
+102562	Knightley
+102575	William Larkins
+102584	Knightley
+102646	Emma
+102679	Jane Fairfax
+102736	Jane
+102761	Emma
+102806	Frank Churchill
+102826	Weston
+103449	Weston
+103452	Emma
+103561	Weston
+103628	Woodhouse
+103730	Woodhouse
+103748	Emma
+103758	Harriet
+103787	Churchill
+103843	Weston
+103902	Harriet
+103924	Harriet
+103939	-- Harriet
+103985	Harriet
+104081	Harriet
+104108	Frank Churchill
+104115	Elton
+104138	Frank Churchill
+104144	Elton
+104169	Elton
+104189	Elton
+104202	Frank Churchill
+104207	Emma
+104224	Elton
+104227	Harriet
+104246	Weston
+104299	Harriet
+104319	Emma
+104323	Emma
+104336	Harriet
+104379	Harriet
+104396	Woodhouse
+104439	Eltons
+104445	Emma
+104465	Elton
+104469	Harriet
+104550	Harriet
+104566	Emma
+104577	Harriet
+104589	Elton
+104723	Harriet
+104762	Woodhouse
+104848	Woodhouse
+104875	Emma
+104882	Harriet
+104971	Isabella
+104992	-- Harriet
+105033	Jane Fairfax
+105036	-- Harriet
+105070	Emma
+105078	Elton
+105141	Emma
+105174	Harriet
+105258	Harriet
+105301	Emma
+105422	Emma
+105435	Elton
+105534	Elton
+105605	Woodhouse
+105609	Harriet
+105633	Woodhouse
+105663	Emma
+105754	Harriet
+105795	Hawkins
+105819	Harriet
+105849	Miss Woodhouse
+105890	Miss Woodhouse
+105960	Emma
+105976	Harriet
+105983	Hartfield
+105994	Elton
+106029	Elton
+106109	Elton
+106113	Harriet
+106140	Hawkins
+106193	Maple Grove
+106200	Suckling
+106209	Hartfield
+106217	Hartfield
+106235	Elton
+106300	Elton
+106368	Miss Woodhouse
+106448	Miss Woodhouse
+106487	Emma
+106504	Elton
+106628	Emma
+106699	Hartfield
+106781	Elton
+106801	Emma
+106827	Elton
+106953	Woodhouse
+106968	Suckling
+106981	Weston
+107013	Miss Woodhouse
+107115	Selina
+107259	Woodhouse
+107265	Woodhouse
+107310	Woodhouse
+107333	Perry
+107379	Woodhouse
+107428	Woodhouse
+107528	Partridge
+107571	Emma
+107587	Elton
+107610	Elton
+107641	Woodhouse
+107644	Hartfield
+107670	Elton
+107730	Elton
+107843	Woodhouse
+107932	E.
+108186	Emma
+108193	Elton
+108276	Miss Woodhouse
+108418	Selina
+108443	Jeffereys
+108445	Clara Partridge
+108459	Bird
+108462	James Cooper
+108493	Selina
+108540	Emma
+108559	Elton
+108569	Emma
+108595	Elton
+108635	Weston
+108688	Emma
+108699	Elton
+108738	Weston
+108744	Emma
+108786	Emma
+108813	Elton ;
+108815	`` Knightley
+108856	E.
+108868	Knightley
+108906	Knightley
+108944	Emma
+108968	Knightley
+108978	Knightley
+108992	Knightley
+109044	Knightley
+109098	Weston
+109131	Harriet
+109142	Frank Churchill
+109188	Frank Churchill
+109223	Eltons
+109324	Taylor
+109377	Elton
+109452	Elton
+109695	Emma
+109718	Elton
+109735	Emma
+109752	Elton
+109764	Elton
+109830	Hawkins
+109841	Elton
+109855	Elton
+109895	Woodhouse
+109925	Bates
+109957	Elton
+109974	Miss Woodhouse
+110005	Elton
+110020	Emma
+110069	Emma
+110080	Elton
+110086	Harriet
+110094	Emma
+110100	Harriet
+110127	Harriet
+110200	Woodhouse
+110224	Harriet
+110227	Elton
+110233	Jane Fairfax
+110301	Emma
+110320	Elton
+110329	Jane Fairfax
+110336	Woodhouse
+110343	Jane Fairfax
+110424	Jane Fairfax
+110440	Woodhouse
+110518	Jane Fairfax
+110536	Emma
+110565	Campbell
+110588	Woodhouse
+110711	Jane Fairfax
+110778	Woodhouse
+110853	Jane Fairfax
+110871	Wright
+110892	Jane Fairfax
+110982	Suckling
+110997	Jane Fairfax
+111165	Jane Fairfax
+111171	Emma
+111190	Dixon
+111211	Elton
+111215	Jane Fairfax
+111218	Jane Fairfax
+111234	Emma Woodhouse-ing
+111258	Emma
+111284	Woodhouse
+111291	Elton
+111315	Elton
+111321	Elton
+111330	Jane Fairfax
+111366	Bates
+111371	Elton
+111375	Jane
+111411	Elton
+111417	Emma
+111423	Jane Fairfax
+111432	Elton
+111446	Eltons
+111451	Eltons
+111533	Elton
+111563	Jane
+111613	Bates
+111622	Dixon
+111629	Jane
+111678	Emma
+111742	Eltons
+111775	Elton
+111778	Weston
+111783	Jane
+111802	Emma
+111859	Weston
+111864	Knightley
+111884	Elton
+111909	Emma
+111916	Elton
+111925	Emma
+111929	Weston
+111960	Elton
+111977	Elton
+111999	Weston
+112024	Elton
+112032	Bates
+112102	Elton
+112211	Elton
+112229	Elton
+112247	Jane Fairfax
+112254	Elton
+112289	Jane Fairfax
+112294	Emma
+112297	Henry
+112344	Emma
+112409	Knightley
+112464	Cole
+112479	-- Emma
+112487	Weston
+112548	Emma
+112571	Knightley
+112616	Jane Fairfax
+112691	Jane Fairfax
+112694	Jane
+112719	Knightley
+112734	Emma
+112776	Jane Fairfax
+112788	Jane Fairfax
+112815	Emma
+112841	Cole
+112898	Elton
+112919	Coles
+112945	Knightley
+112953	Cole
+112964	Jane Fairfax
+112977	Weston
+113000	Bates
+113016	Elton
+113024	Elton
+113114	Jane Fairfax
+113122	Knightley
+113205	Jane Fairfax
+113229	Weston
+113233	Emma
+113248	Knightley
+113251	Jane Fairfax
+113261	Emma
+113321	Elton
+113474	Maple Grove
+113515	Bates
+113518	Perry
+113521	Goddard
+113618	Emma
+113635	Eltons
+113668	Emma
+113678	Woodhouse
+113726	Eltons
+113735	Knightley
+113754	Harriet
+113778	Emma
+113783	Harriet
+113830	Woodhouse
+113848	Emma
+113909	Jane Fairfax
+113919	Weston
+113922	Knightley
+113929	Jane Fairfax
+113939	Knightley
+113950	Jane Fairfax
+113956	Elton
+114154	Woodhouse
+114178	Emma
+114285	Woodhouse
+114288	Emma
+114290	John Knightley
+114296	Weston
+114329	Woodhouse
+114365	Emma
+114381	John Knightley
+114418	Elton
+114442	Isabella
+114637	John Knightley
+114677	Henry
+114679	John
+114871	John Knightley
+115004	John Knightley
+115143	Woodhouse
+115392	Elton
+115400	Jane
+115405	Jane
+115461	Jane
+115510	Weston
+115536	Weston
+115677	Elton
+115715	E
+115766	Jane
+115788	Jane
+115846	Jane
+115888	Weston
+115909	Jane
+115942	Jane
+116006	Patty
+116023	Jane
+116046	John Knightley
+116266	John Knightley
+116332	Isabella
+116334	Emma
+116377	Emma
+116386	Isabella
+116388	Emma
+116396	Woodhouse
+116408	Weston
+116432	Emma
+116439	Weston
+116448	Weston
+116555	Weston
+116559	Emma
+116565	Frank Churchill
+116590	Knightley
+116654	Weston
+116695	Emma
+116727	Weston
+116768	Knightley
+116782	Frank Churchill
+116788	Knightley
+116799	Woodhouse
+116820	Elton
+116835	Woodhouse
+116872	Jane
+116883	Emma
+117014	Jane Fairfax
+117061	Emma
+117086	Elton
+117088	Jane Fairfax
+117097	Weston
+117112	Elton
+117119	Jane
+117147	Elton
+117193	Jane
+117213	Elton
+117330	Jane
+117339	Elton
+117403	Suckling
+117406	Bragge
+117451	Bragge
+117470	Campbell
+117482	Jane
+117556	Jane
+117576	Partridge
+117832	Suckling
+117859	Jane
+117951	Elton
+118271	Jane
+118309	Elton
+118371	Elton
+118416	Woodhouse
+118432	Emma
+118441	Jane
+118518	Woodhouse
+118571	-- Selina
+118726	Weston
+118744	Hartfield
+118773	Woodhouse
+118794	John Knightley
+118990	John Knightley
+119021	Weston
+119119	Weston
+119147	Frank
+119203	Emma
+119281	-- Anne
+119366	Frank
+119420	Emma
+119469	Weston
+119514	Emma
+119552	Weston
+119628	Woodhouse
+119631	Knightley
+119643	Weston
+119645	Emma
+119671	John Knightley
+119690	Elton
+119727	Weston
+119730	Elton
+119757	Frank Churchill
+119804	Elton
+119835	-- Frank
+119904	Weston
+119939	Weston
+119998	Weston
+120027	Elton
+120067	Churchill
+120082	Enscombe
+120162	Weston
+120182	Suckling
+120202	Bragge
+120226	Weston
+120233	Churchill
+120259	Frank
+120325	Frank
+120339	Elton
+120405	Selina
+120421	Churchill
+120430	Selina
+120465	Churchill
+120477	Churchill
+120490	Churchill
+120505	Elton
+120514	Weston
+120521	Selina
+120553	Churchill
+120570	Elton
+120632	Weston
+120638	Churchill
+120664	Frank
+120711	Elton
+120721	Churchill
+120740	Weston
+120748	Clifton
+120760	Enscombe
+120823	Maple Grove
+120867	Churchill
+120875	Selina
+121017	Weston
+121052	Weston
+121065	Elton
+121082	Frank
+121152	Weston
+121211	Elton
+121243	Weston
+121382	Weston
+121404	Churchill
+121548	Elton
+121649	Weston
+121685	Weston
+121711	Frank Churchill
+121773	Weston
+121795	Churchill
+121842	Elton
+121898	Churchill
+122077	Churchill
+122168	Weston
+122226	Suckling
+122245	Suckling
+122279	Suckling
+122300	Weston
+122323	Weston
+122327	Elton
+122332	Woodhouse
+122347	Emma
+122357	Knightley
+122365	Elton
+122396	John Knightley
+122424	Emma
+122516	Emma
+122537	Isabella
+122734	Isabella
+122745	Cole
+122819	Emma
+122822	Henry
+122824	John
+122853	Knightley
+122868	Donwell
+122885	Emma
+122947	Coles
+122970	John Knightley
+123004	Knightley
+123020	Hartfield
+123054	Emma
+123071	Uncle Knightley
+123109	Knightley
+123125	Elton
+123146	Emma
+123159	Frank Churchill
+123381	Weston
+123395	Frank Churchill
+123401	Enscombe
+123448	Hartfield
+123801	Frank Churchill
+123841	Randall
+123864	Churchill
+124062	Churchill
+124103	Emma
+124106	Frank
+124175	Emma
+124179	Weston
+124216	Weston
+124246	Frank
+124439	Frank
+124486	Weston
+124511	Woodhouse
+124535	Bates
+124545	James
+124558	Henry
+124562	John
+124574	Emma
+124607	Frank Churchill
+124640	Emma
+124667	Weston
+124734	Harriet
+124754	Frank Churchill
+124816	Emma
+124869	Weston
+124924	Emma
+124937	Weston
+125080	Emma
+125087	Weston
+125106	Bates
+125189	Elton
+125216	Elton
+125278	Elton
+125293	Elton
+125308	Bates
+125316	Weston
+125345	Emma
+125350	Frank
+125356	Elton
+125429	Frank
+125436	Bates
+125449	Weston
+125455	Elton
+125505	Weston
+125603	Suckling
+125623	Selina
+125648	Weston
+125659	Maple Grove
+125685	Elton
+125689	Weston
+125703	Bates
+125705	Jane
+125778	Bates
+125796	Elton
+125807	Weston
+125827	Emma
+125847	Bates
+125911	Jane
+125962	-- Jane
+125965	Jane
+125980	Weston
+125993	Stokes
+126021	Stokes
+126042	Weston
+126103	Elton
+126117	Jane
+126150	Weston
+126157	Elton
+126162	Jane
+126214	Woodhouse
+126237	Dixon
+126260	Dixon
+126269	Jane
+126280	Campbell
+126288	Jane
+126318	Frank Churchill
+126345	Frank Churchill
+126382	Jane
+126392	Frank Churchill
+126401	Woodhouse
+126406	Woodhouse
+126444	Emma
+126460	Woodhouse
+126470	Jane
+126508	Hughes
+126514	Hughes
+126524	Hughes
+126561	Richard
+126590	Richard
+126607	Otway
+126616	Otway
+126623	Caroline
+126635	George
+126638	Arthur
+126685	Coles
+126759	Frank Churchill
+126766	Emma
+126773	Bates
+126786	Elton
+126822	Jane
+126837	Elton
+126869	Wright
+126889	Elton
+126971	Frank Churchill
+126997	Frank Churchill
+127010	Frank
+127017	Emma
+127055	Elton
+127064	Elton
+127100	Jane
+127117	Jane
+127122	Frank Churchill
+127157	Elton
+127161	Emma
+127230	Emma
+127261	Weston
+127278	Emma
+127286	Weston
+127289	Elton
+127312	Emma
+127316	-- Emma
+127342	Weston
+127348	Frank
+127359	Emma
+127390	Weston
+127400	Elton
+127424	Weston
+127427	Elton
+127433	Frank Churchill
+127437	Woodhouse
+127440	Emma
+127448	Elton
+127474	Elton
+127497	Frank Churchill
+127509	Weston
+127527	Emma
+127569	Knightley
+127681	Emma
+127787	Frank Churchill
+127848	Frank Churchill
+127876	Weston
+127949	Emma
+127965	Harriet
+128004	Emma
+128014	Elton
+128022	Harriet
+128111	Smith
+128123	-- Emma
+128194	Elton
+128216	Weston
+128252	Weston
+128270	Elton
+128285	Weston
+128322	Gilbert
+128382	Gilbert
+128387	Gilbert
+128412	Smith
+128417	Smith
+128453	Weston
+128484	Weston
+128490	Emma
+128509	Elton
+128518	Elton
+128532	Knightley
+128592	Knightley
+128594	Harriet
+128625	Harriet
+128674	Harriet
+128744	Elton
+128753	Emma
+128796	Knightley
+128804	Smith
+128824	Bates
+128848	Jane
+128850	Jane
+128854	Jane
+128867	Weston
+128907	Jane
+128914	Churchill
+128985	Grandmama
+128996	Woodhouse
+129007	-- Tea
+129064	Jane
+129072	George Otway
+129092	Elton
+129106	William Cox
+129145	Jane
+129169	Elton
+129175	Elton
+129215	Jane
+129283	Jane
+129326	Woodhouse
+129382	Woodhouse
+129442	Jane
+129475	Churchill
+129501	Jane
+129542	Emma
+129550	Knightley
+129587	Elton
+129599	Elton
+129617	Harriet
+129624	Emma
+129686	Emma
+129695	Harriet
+129704	Emma
+129814	Elton
+129843	Harriet
+129891	Harriet Smith
+129900	Elton
+129930	Elton
+129934	Harriet
+129942	Emma
+129956	Weston
+129969	Woodhouse
+129985	Emma
+130011	Emma
+130032	Knightley
+130117	Knightley
+130119	Emma
+130162	Eltons
+130182	Harriet
+130238	Harriet
+130244	Harriet
+130281	Elton
+130298	Emma
+130321	Eltons
+130336	-- Harriet
+130340	Frank Churchill
+130350	Knightley
+130373	Frank Churchill
+130393	Hartfield
+130480	Frank Churchill
+130484	Harriet
+130491	Harriet
+130506	Harriet
+130544	Harriet
+130593	Emma
+130600	Smith
+130604	Bickerton
+130611	Goddard
+130734	Bickerton
+130747	Harriet
+130783	Harriet
+130866	Harriet
+130984	Frank Churchill
+131068	Bates
+131133	Harriet
+131148	Harriet
+131166	Hartfield
+131183	Hartfield
+131208	Harriet
+131245	Emma
+131255	Goddard
+131272	Knightley
+131333	Emma
+131541	Elton
+131589	Harriet
+131629	Harriet
+131648	Bickerton
+131722	Emma
+131820	Woodhouse
+131829	Emma
+131861	Woodhouse
+131879	Miss Smith
+131923	Harriet
+131928	Emma
+132027	Emma
+132042	Henry
+132044	John
+132054	Harriet
+132090	Harriet
+132095	Emma
+132116	Woodhouse
+132154	Emma
+132172	Harriet
+132291	Emma
+132315	Harriet
+132436	Woodhouse
+132611	Emma
+132634	Harriet
+132659	Harriet
+132677	Emma
+132691	Harriet
+132765	John Knightley
+132905	Harriet
+132909	Emma
+133084	Emma
+133128	Frank Churchill
+133148	Harriet
+133194	Emma
+133228	Harriet
+133291	Knightley
+133393	Emma
+133412	Knightley
+133423	Elton
+133443	Knightley
+133491	Elton
+133563	Harriet
+133648	Harriet
+133692	Harriet
+133727	Elton
+133736	Emma
+133746	Churchill
+133787	Harriet
+133809	Emma
+133843	Harriet
+133874	Harriet
+133889	Emma
+133968	Elton
+133973	Elton
+133978	Harriet
+133989	Emma
+134001	Elton
+134034	Harriet
+134057	Harriet
+134174	Harriet
+134234	Woodhouse
+134312	Harriet
+134447	Harriet
+134596	Harriet
+134661	Harriet
+134671	Emma
+134727	Hartfield
+134740	Eltons
+134763	Jane Fairfax
+134816	Elton
+134838	Knightley
+134857	Frank Churchill
+134881	Emma
+134884	Emma
+134939	Emma
+134942	Emma
+134948	Harriet
+134951	Knightley
+134962	Jane Fairfax
+135019	Emma
+135046	Jane
+135050	Eltons
+135077	Woodhouse
+135114	Cowper
+135149	Frank Churchill
+135152	Jane
+135176	Emma
+135178	Harriet
+135224	Weston
+135230	Bates
+135248	Hartfield
+135251	Emma
+135298	Bates
+135315	Woodhouse
+135330	Perry
+135350	Frank Churchill
+135354	Weston
+135362	Perry
+135373	Weston
+135443	Perry
+135533	Smith
+135568	Weston
+135572	Perry
+135578	Perry
+135586	Frank
+135639	Weston
+135719	Perry
+135760	Perry
+135828	Frank
+135845	Emma
+135857	Emma
+135885	Weston
+135900	Bates
+135931	Frank Churchill
+135984	Perry
+135994	Coles
+136024	Perry
+136052	Jane
+136093	Perry
+136228	Jane
+136265	Perry
+136283	Knightley
+136289	Bates
+136295	Jane
+136298	Frank Churchill
+136335	Weston
+136354	Knightley
+136357	Frank Churchill
+136382	Jane
+136414	Knightley
+136429	Emma
+136439	Emma
+136490	Woodhouse
+136494	Frank Churchill
+136573	Emma
+136638	Woodhouse
+136653	Weston
+136700	Emma
+136705	Frank Churchill
+136733	Emma
+136735	Jane
+136742	Knightley
+136818	Harriet
+136846	Knightley
+136864	Harriet
+136874	Jane
+136887	Knightley
+136968	Frank Churchill
+137004	Emma
+137020	Emma
+137060	Frank Churchill
+137069	Jane
+137088	Emma
+137160	Knightley
+137197	Dixon
+137200	Jane Fairfax
+137328	Jane
+137388	Jane
+137432	Knightley
+137461	Frank Churchill
+137485	Knightley
+137539	Emma
+137574	Emma
+137635	Emma
+137710	Churchill
+137758	Emma
+137822	Emma
+137860	Frank Churchill
+138171	Knightley
+138255	Woodhouse
+138303	Suckling
+138375	Churchill
+138393	Weston
+138429	Elton
+138494	Box Hill
+138522	Box Hill
+138548	Emma
+138553	Box Hill
+138573	Weston
+138635	Eltons
+138650	Emma
+138667	Weston
+138675	Elton
+138701	Elton
+138735	Elton
+138740	Weston
+138816	Elton
+138849	Weston
+138921	Emma
+138952	Elton
+138965	Weston
+139019	Elton
+139036	Knightley
+139099	Weston
+139113	Knightley
+139138	Knightley
+139182	Donwell
+139290	Jane Fairfax
+139341	Lady Patroness
+139366	Elton
+139482	Donwell
+139493	Weston
+139501	Elton
+139510	Knightley
+139573	Jane
+139577	Jane
+139599	Hartfield
+139632	Bates
+139647	Jane
+139668	Knightley
+139714	Jane
+139911	Knightley
+139921	Hodges
+140005	Jane
+140008	Bates
+140105	Donwell Lane
+140207	Knightley
+140238	Knightley
+140255	Woodhouse
+140260	Emma
+140290	Woodhouse
+140361	Emma
+140364	Harriet
+140378	Weston
+140427	Elton
+140449	Emma
+140453	Harriet
+140470	Knightley
+140497	Knightley
+140524	Elton
+140539	-- Emma
+140542	Harriet
+140554	Weston
+140561	Frank
+140585	Knightley
+140602	Weston
+140635	Box Hill
+140646	Donwell
+140654	Box Hill
+140678	Woodhouse
+140760	Weston
+140805	Emma
+140970	Hartfield
+141017	Emma
+141047	John Knightley
+141052	Isabella
+141114	Frank Churchill
+141127	Elton
+141360	Weston
+141406	Emma
+141413	Elton
+141415	Jane Fairfax
+141435	Elton
+141454	Suckling
+141461	Bragge
+141482	Bragge
+141488	Suckling
+141517	Elton
+141587	Elton
+141604	Jane
+141614	Emma
+141654	Knightley
+141944	Emma
+141947	Weston
+141962	Knightley
+141964	Harriet
+141976	Knightley
+141978	Harriet
+142033	Emma
+142040	Harriet
+142114	Harriet
+142124	Emma
+142155	Robert Martin
+142173	-- Robert
+142175	Martin
+142182	Harriet
+142203	Emma
+142240	Frank Churchill
+142247	Weston
+142323	Churchill
+142356	Weston
+142377	Churchill
+142385	Emma
+142388	Harriet
+142473	Woodhouse
+142517	Weston
+142538	Knightley
+142547	Woodhouse
+142596	Woodhouse
+142604	Weston
+142621	Emma
+142667	Emma
+142697	Jane Fairfax
+142721	Woodhouse
+142734	Woodhouse
+143014	Emma
+143084	Woodhouse
+143139	Emma
+143192	Woodhouse
+143248	Emma
+143284	Jane
+143311	Frank Churchill
+143317	Emma
+143343	Weston
+143364	Churchill
+143502	Woodhouse
+143524	Emma
+143591	Emma
+143601	Frank Churchill
+143721	Emma
+143763	Harriet
+144046	Miss Woodhouse
+144231	Box Hill
+144410	Frank Churchill
+144466	Frank Churchill
+144483	Emma
+144565	Weston
+144573	Hartfield
+144586	Emma
+144588	Harriet
+144593	Bates
+144600	Eltons
+144608	Weston
+144612	Woodhouse
+144689	Eltons
+144694	Knightley
+144699	Bates
+144701	Jane
+144704	Emma
+144706	Harriet
+144709	Frank Churchill
+144714	Weston
+144743	Elton
+144802	Weston
+144814	Emma
+144820	Frank Churchill
+144859	Harriet
+144889	Frank Churchill
+144934	Emma
+145024	Frank Churchill
+145028	Woodhouse
+145067	Emma
+145596	Miss Woodhouse
+145631	Bates
+145638	Elton
+145645	Woodhouse
+145650	Knightley
+145661	Woodhouse
+145686	Emma
+145751	Weston
+145753	Harriet
+145778	Elton
+145803	Chaperon
+145897	Frank
+145899	Emma
+145925	Miss Woodhouse
+146043	Bates
+146117	Emma
+146153	Bates
+146217	Knightley
+146260	Weston
+146328	Emma
+146341	Weston
+146374	Weston
+146436	Emma
+146483	Emma
+146499	Frank
+146501	Harriet
+146526	Knightley
+146544	Weston
+146590	Elton
+146698	Woodhouse
+146766	Churchill
+146772	Knightley
+146774	Jane
+146826	Woodhouse
+146871	Jane
+146879	Jane
+146899	Frank Churchill
+147097	Frank Churchill
+147277	Emma
+147419	Emma
+147439	Harriet
+147446	Hazle
+147465	Harriet
+147494	Jane
+147504	Elton
+147595	Knightley
+147598	Weston
+147603	Emma
+147606	Harriet
+147626	Emma
+147705	Elton
+147769	Knightley
+147793	Emma
+147846	Bates
+147869	-- Emma
+147880	Emma
+148015	Emma
+148124	Emma
+148269	Emma
+148566	Bates
+148642	Harriet
+148661	Emma
+148697	Box Hill
+148701	Emma
+148906	Bates
+149038	Knightley
+149085	Donwell
+149168	Bates
+149218	Jane
+149243	Bates
+149278	Bates
+149303	Jane
+149340	Woodhouse
+149351	Hetty
+149386	Emma
+149400	Bates
+149408	Bates
+149420	Emma
+149474	Woodhouse
+149565	Campbell
+149569	Dixon
+149644	Woodhouse
+149821	Miss Woodhouse
+149933	Patty
+149954	Woodhouse
+150037	Emma
+150051	Jane
+150097	Jane
+150143	Bates
+150186	Campbell
+150199	Bates
+150227	Emma
+150252	Smallridge
+150291	Suckling
+150298	Bragge
+150303	Smallridge
+150325	Jane
+150338	Elton
+150360	Elton
+150380	Jane
+150389	Jane
+150413	Jane
+150452	Campbell
+150474	Elton
+150501	Elton
+150538	Jane
+150558	Jane
+150578	Jane
+150595	-- Jane
+150599	Elton
+150616	Smallridge
+150653	Elton
+150664	Elton
+150686	Knightley
+150721	Knightley
+150735	Knightley
+150754	Elton
+150773	Jane
+150798	Woodhouse
+150958	Woodhouse
+151001	Elton
+151006	Smallridge
+151047	Jane
+151088	Miss Woodhouse
+151116	Jane
+151126	Emma
+151212	Smallridge
+151277	Campbell
+151295	Jane
+151337	Elton
+151342	Elton
+151412	Elton
+151423	John Abdy
+151435	John
+151488	Jane
+151503	John
+151511	Elton
+151562	Elton
+151570	John ostler
+151593	Frank Churchill
+151610	Jane
+151614	Elton
+151618	Bates
+151622	Emma
+151653	Frank Churchill
+151673	Elton
+151739	Churchill
+151759	Churchill
+151779	Frank Churchill
+151803	Tom
+151853	Emma
+151873	Churchill
+151881	Jane Fairfax
+151923	Bates
+151954	Jane
+152003	Campbell
+152057	Emma
+152124	Emma
+152153	Knightley
+152155	Harriet
+152171	Knightley
+152225	John
+152227	Isabella
+152279	Emma
+152375	Emma
+152384	Bates
+152387	Knightley
+152404	Emma
+152433	Knightley
+152736	Emma
+152745	Bates
+152769	Jane Fairfax
+152775	Knightley
+152909	Knightley
+152934	Emma
+152939	Jane Fairfax
+152973	Jane Fairfax
+152990	Knightley
+153023	Elton
+153077	Taylor
+153101	Taylor
+153162	Churchill
+153218	Churchill
+153270	Goldsmith
+153312	Churchill
+153369	Churchill
+153415	Churchill
+153421	Churchill
+153430	Churchill
+153441	Weston
+153522	Emma
+153528	Churchill
+153584	Harriet Smith
+153593	Churchill
+153647	Emma
+153658	Harriet
+153683	Emma
+153716	Churchill
+153726	Frank
+153745	Churchill
+153784	Churchill
+153805	Harriet
+153820	Emma
+153834	Jane Fairfax
+153843	Harriet
+153870	Emma
+153992	Perry
+154052	Smallridge
+154097	Perry
+154228	Emma
+154328	Jane
+154337	Perry
+154377	Emma
+154440	Bates
+154447	Jane
+154463	Bates
+154506	Bates
+154514	Jane
+154531	-- Emma
+154557	Bates
+154573	Woodhouse
+154586	Jane
+154601	Elton
+154612	Cole
+154621	Perry
+154632	Jane
+154639	Emma
+154649	Eltons
+154653	Perrys
+154658	Coles
+154685	Bates
+154710	Bates
+154719	Jane
+154728	Perry
+154752	Emma
+154782	Bates
+154804	Bates
+154809	Jane
+154853	Emma
+154857	Jane Fairfax
+154919	Jane
+155017	Knightley
+155027	Jane Fairfax
+155064	Churchill
+155068	Emma
+155074	Weston
+155150	Weston
+155302	Emma
+155346	Weston
+155371	Emma
+155386	Weston
+155442	Emma
+155461	Emma
+155475	Weston
+155522	Weston
+155570	Emma
+155661	Knightley
+155664	Emma
+155733	Emma
+155779	Emma
+155867	Frank
+155917	Weston
+156025	Frank
+156111	Emma
+156148	Weston
+156164	Emma
+156261	Weston
+156274	Emma
+156300	Frank Churchill
+156386	Emma
+156395	Harriet
+156408	Weston
+156424	Emma
+156437	Frank Churchill
+156456	Emma
+156470	Jane Fairfax
+156499	Weston
+156513	Emma
+156612	Emma
+156640	Harriet
+156731	Emma
+156758	Emma
+156811	Weston
+156820	Emma
+156941	Weston
+156951	Weston
+156989	Weston
+157080	Weston
+157201	Emma
+157270	Emma
+157363	Weston
+157444	Emma
+157491	Emma
+157501	Smallridge
+157505	Jane
+157550	Emma
+157685	Emma
+157703	Weston
+157859	Emma
+157879	Churchill
+157915	Churchill
+157994	Emma
+158004	Harriet
+158015	Frank
+158031	Bates
+158201	Emma
+158208	Dixon
+158245	Emma
+158415	Weston
+158524	Weston
+158564	Emma
+158628	Churchill
+158650	Frank
+158727	Emma
+158750	Jane Fairfax
+158783	Weston
+158876	Weston
+159017	Emma
+159024	Hartfield
+159043	Frank
+159055	Harriet
+159071	Emma
+159090	Frank Churchill
+159141	Harriet
+159156	Harriet
+159172	Knightley
+159183	Emma
+159191	Harriet Smith
+159249	Harriet
+159254	Harriet
+159262	Frank Churchill
+159348	Harriet
+159416	Frank Churchill
+159429	Jane Fairfax
+159447	Harriet
+159460	Jane
+159505	-- Emma
+159536	Jane
+159564	Hartfield
+159609	Jane Fairfax
+159623	Harriet
+159642	Emma
+159678	Harriet
+159714	Weston
+159735	Churchill
+159772	-- Emma
+159779	Harriet
+159819	Harriet
+159823	Weston
+159859	Harriet
+159873	Weston
+159911	Woodhouse
+159915	Harriet
+159944	Emma
+159956	Harriet
+159966	Jane Fairfax
+159994	Weston
+160046	Weston
+160053	Emma
+160069	Jane Fairfax
+160073	Frank Churchill
+160107	Harriet
+160116	Emma
+160149	Emma
+160167	Harriet
+160214	Emma
+160233	Harriet
+160283	Frank Churchill
+160291	Jane Fairfax
+160317	Harriet
+160340	Frank Churchill
+160360	Emma
+160409	Woodhouse
+160428	Emma
+160487	Harriet
+160491	Harriet
+160529	Emma
+160593	Frank Churchill
+160627	Frank Churchill
+160762	Emma
+160789	Knightley
+160837	Emma
+160872	Frank Churchill
+160881	Frank Churchill
+160903	Woodhouse
+160914	Harriet
+161010	Harriet
+161042	Frank Churchill
+161067	Knightley
+161078	Elton
+161139	Emma
+161218	Emma
+161229	Miss Woodhouse
+161276	Miss Woodhouse
+161322	Frank Churchill
+161363	Knightley
+161382	Woodhouse
+161414	Harriet
+161423	Emma
+161444	Knightley
+161456	Harriet
+161472	Emma
+161542	Harriet
+161549	Knightley
+161553	Frank Churchill
+161564	Harriet
+161587	Knightley
+161636	Harriet
+161716	Harriet
+161737	Knightley
+161756	Emma
+161787	Harriet
+161796	Harriet
+161848	Harriet
+161878	Jane Fairfax
+161896	Knightley
+161900	Harriet
+161937	Woodhouse
+161958	-- Emma
+161975	Harriet
+162039	Harriet
+162043	-- Methodical
+162101	Knightley
+162107	Harriet
+162109	Harriet
+162126	-- Emma
+162157	Woodhouse
+162166	Harriet
+162253	Emma
+162289	Emma
+162307	Harriet
+162356	Harriet
+162402	Emma
+162451	Harriet
+162461	Emma
+162492	Emma
+162545	Harriet
+162577	Woodhouse
+162612	Emma
+162686	Emma
+162704	Harriet
+162773	Martin
+162779	Martin
+162786	Harriet
+162795	Martin
+162808	Martin
+162822	Martin
+162833	Harriet
+162845	Woodhouse
+162953	Emma
+162966	Harriet
+162977	Knightley
+163006	Harriet
+163020	Emma
+163055	Harriet
+163072	Woodhouse
+163114	Emma
+163347	Knightley
+163385	Frank Churchill
+163482	Knightley
+163546	Frank Churchill
+163610	Knightley
+163677	Harriet
+163690	Knightley
+163733	Harriet
+163750	Harriet
+163759	Knightley
+163761	Harriet Smith
+163781	Frank Churchill
+163784	Jane Fairfax
+163814	Knightley
+163816	Harriet Smith
+163837	Emma
+163989	Harriet
+164066	Harriet
+164079	Knightley
+164103	Harriet
+164136	Elton
+164151	Knightley
+164172	Harriet
+164210	Harriet
+164238	Emma
+164255	Knightley
+164300	-- Long
+164327	Isabella
+164348	Isabella
+164510	Harriet Smith
+164527	Knightley
+164575	Bates
+164668	Harriet
+164741	Knightley
+164751	Knightley
+164758	Donwell
+164760	Hartfield
+164832	Knightley
+164841	Harriet
+164949	Harriet
+164998	Harriet
+165107	Harriet
+165129	Emma
+165153	Weston
+165166	Hartfield
+165178	Emma
+165197	Weston
+165203	Bates
+165258	Bates
+165277	Emma
+165293	Weston
+165350	Churchill
+165384	Weston
+165445	Emma
+165452	Weston
+165567	Jane
+165603	Weston
+165638	Weston
+165689	Weston
+165724	Weston
+165789	Weston
+165848	Emma
+165871	Emma
+166090	Emma
+166153	Emma
+166436	Emma
+166471	Weston
+166581	Weston
+166637	Emma
+166662	Weston
+166733	Emma
+166738	Weston
+166772	Weston
+166776	Emma
+166835	Knightley
+166882	Harriet Smith
+166998	Dixon
+167036	Jane
+167046	Frank Churchill
+167099	Jane Fairfax
+167110	Box Hill
+167199	Woodhouse
+167246	Weston
+167252	Knightley
+167274	Hartfield
+167375	Hartfield
+167415	Weston
+167443	-- Frank
+167445	Churchill
+167521	Knightley
+167573	Harriet
+167589	Harriet
+167598	Harriet
+167632	Emma
+167835	Emma
+167888	Perry
+167939	Knightley
+168194	Harriet
+168341	Frank Churchill
+168359	Emma
+168385	Goddard
+168402	Weston
+168424	Emma
+168563	Emma
+168669	Emma
+168790	Emma
+168947	-- Jane
+168950	Jane
+168962	Knightley
+168966	Emma
+169195	Weston
+169459	Frank Churchill
+169561	Emma
+169588	Knightley
+169658	Jane Fairfax
+169790	-- Frank
+169792	Churchill
+169933	Emma
+169947	Emma
+170007	Knightley
+170054	Emma
+170132	Emma
+170183	Harriet
+170244	Emma
+170268	Perry
+170295	Knightley
+170376	Knightley
+170378	-- ``
+170380	Emma
+170415	-- Emma
+170479	Emma
+170507	Emma
+170560	Emma
+170597	Emma
+170693	Emma
+170773	Emma
+170815	Harriet
+170840	Harriet
+170859	Harriet
+170921	Harriet
+170979	Harriet
+171020	Emma
+171028	Harriet
+171252	Knightley
+171328	Knightley
+171333	Emma
+171392	Frank Churchill
+171456	Frank Churchill
+171655	Frank Churchill
+171665	Emma
+171670	Frank Churchill
+171695	Frank Churchill
+171707	Box Hill
+171771	Isabella
+171776	Emma
+171834	Jane Fairfax
+171861	Frank Churchill
+171868	Emma
+171938	-- Frank
+171940	Churchill
+171957	Frank Churchill
+171970	Emma
+171991	Frank Churchill
+172014	Emma
+172169	Woodhouse
+172264	Perry
+172289	Knightley
+172294	Emma
+172363	Harriet
+172415	Knightley
+172499	Harriet
+172639	-- Isabella
+172645	Harriet
+172667	Harriet
+172744	Harriet
+172761	Knightley
+172767	Hartfield
+172881	Frank Churchill
+172942	Weston
+172954	Weston
+172965	Emma
+173110	Perry
+173131	Weston
+173745	Woodhouse
+173789	Woodhouse
+173842	Woodhouse
+173888	Woodhouse
+173977	Woodhouse
+174115	Elton
+174159	Emma Woodhouse
+174191	Emma Woodhouse
+175082	Donwell
+175285	Box Hill
+175343	Elton
+175406	Jane
+175448	Eltons
+175837	Smallridge
+176335	F. C.
+176337	WESTON
+176349	Emma
+176375	Weston
+176502	Weston
+176558	Knightley
+176574	Weston
+176590	Knightley
+176641	Weston
+176720	Emma
+176853	Knightley
+176923	Weston
+176940	Weston
+176976	Emma
+177017	Emma
+177049	Woodhouse
+177212	Emma
+177239	Emma
+177251	Harriet
+177385	Frank Churchill
+177461	Jane Fairfax
+177597	Emma
+177676	Box Hill
+177697	Eltons
+177795	Knightley
+177830	Smallridge
+177839	Elton
+177858	Elton
+177870	Emma
+177883	Elton
+178014	Woodhouse
+178028	Woodhouse
+178240	Frank Churchill
+178251	Emma
+178282	Knightley
+178313	Emma
+178367	Knightley
+178408	Woodhouse
+178429	Woodhouse
+178473	Woodhouse
+178507	Emma
+178544	Hartfield
+178563	Emma
+178612	Donwell
+178715	William Larkins
+178740	Emma
+178746	William Larkins
+178802	Emma
+178836	Henry
+178889	Knightley
+178892	Jane Fairfax
+179009	Harriet
+179035	Hartfield
+179042	Emma
+179049	Harriet
+179073	Emma
+179093	Harriet
+179137	Knightley
+179159	Knightley
+179174	Elton
+179177	Knightley
+179213	Harriet
+179241	Emma
+179244	Harriet
+179273	Harriet
+179294	Emma
+179355	Isabella
+179384	Harriet
+179400	John Knightley
+179432	Wingfield
+179440	Harriet
+179457	Emma
+179470	-- Harriet
+179492	Woodhouse
+179508	Harriet
+179516	Emma
+179523	Knightley
+179597	Harriet
+179600	Goddard
+179613	Emma
+179664	Harriet
+179718	Weston
+179868	Jane
+179895	Box Hill
+179900	Jane
+179958	Patty
+179970	Bates
+180010	Jane
+180028	-- Emma
+180098	Woodhouse
+180124	Emma
+180143	Elton
+180180	Bates
+180183	Elton
+180188	Bates
+180199	Emma
+180204	Elton
+180223	Elton
+180247	Elton
+180287	Emma
+180308	Bates
+180409	S.
+180574	Emma
+180584	Bates
+180627	Emma
+180659	Weston
+180674	Miss Woodhouse
+180694	Perry
+180709	Jane
+180716	Perry
+180751	Bates
+180756	Emma
+180774	Perry
+180794	Perry
+180813	Miss Woodhouse
+180827	Box Hill
+180907	Box Hill
+180944	Bates
+180949	Emma
+180991	Woodhouse
+181014	Jane
+181037	Woodhouse
+181086	Perry
+181092	Jane
+181109	Elton
+181114	Emma
+181126	Jane
+181155	Elton
+181237	Elton
+181259	Elton
+181275	Bates
+181439	Emma
+181459	Bates
+181483	Knightley
+181488	Knightley
+181499	E. is
+181501	Knightley
+181507	Emma
+181523	Elton
+181528	Donwell
+181556	Weston
+181580	E.
+181582	Knightley
+181601	Emma
+181621	Knightley
+181662	Elton
+181707	Jane
+181761	Bragge
+181797	Jane
+181869	Jane
+181880	Elton
+181885	Woodhouse
+181920	Elton
+182032	Elton
+182094	Knightley
+182185	Knightley
+182283	Hartfield
+182298	Woodhouse
+182306	Knightley
+182315	Emma
+182349	Elton
+182401	E.
+182421	Knightley
+182494	Hodges
+182496	Wright
+182506	Wright
+182519	William Larkins
+182525	Elton
+182555	-- William
+182595	William
+182613	Knightley
+182641	Emma
+182669	Knightley
+182680	Elton
+182685	William Larkins
+182798	Jane
+182807	Emma
+182858	Miss Woodhouse
+182977	Emma
+183180	Campbell
+183195	Emma
+183217	Jane
+183257	Churchill
+183342	Weston
+183364	Emma
+183389	Weston
+183413	Isabella
+183440	Weston
+183450	Weston
+183486	Weston
+183564	Theodore
+183590	Knightley
+183629	Emma
+183681	Emma
+183711	Emma
+183766	Taylor
+183909	Emma
+183943	Anna Weston
+184008	Knightley
+184026	Taylor
+184083	Knightley
+184094	Knightley
+184142	George
+184191	George
+184210	Knightley
+184225	Elton
+184231	K.
+184289	Emma
+184333	Harriet Smith
+184352	-- Harriet
+184378	Emma
+184439	Isabella
+184472	Harriet
+184475	Isabella
+184531	Harriet
+184541	-- Isabella
+184556	Harriet
+184574	Emma
+184586	Harriet
+184607	John Knightley
+184630	John
+184641	Knightley
+184669	Emma
+184706	John
+184718	Knightley
+184790	Emma
+184871	Emma
+184936	Emma
+184940	Emma
+185031	Emma
+185070	John
+185097	John
+185310	Weston
+185317	Woodhouse
+185321	Emma
+185377	Knightley
+185405	Knightley
+185531	Knightley
+185539	Hartfield
+185562	Weston
+185630	Isabella
+185635	Taylor
+185644	Emma
+185668	Isabella
+185671	Weston
+185695	Hartfield
+185736	Knightley
+185757	Knightley
+185786	Knightley
+185847	Knightley
+185890	Woodhouse
+185919	Emma
+185926	Knightley
+185967	Isabella
+185980	Weston
+186027	Woodhouse
+186107	Weston
+186142	Emma
+186181	Knightley
+186191	Emma
+186235	Emma
+186284	Emma
+186292	Hartfield
+186298	Knightley
+186305	Woodhouse
+186324	Woodhouse
+186342	Frank
+186344	Emma
+186354	Hartfield
+186365	Weston
+186468	Weston
+186530	Weston
+186654	Jane
+186700	Bates
+186715	Perry
+186719	Elton
+186815	Hartfield
+186818	John Knightleys
+186865	Elton
+186900	Knightley
+186930	Elton
+186940	Knightley
+186997	Knightley
+187047	Donwell
+187063	Knightley
+187157	Emma
+187180	Knightley
+187220	Emma
+187302	Emma
+187400	Harriet Smith
+187484	Harriet Smith
+187487	Robert Martin
+187491	Emma
+187538	Knightley
+187545	Robert Martin
+187577	Emma
+187686	Harriet Smith
+187690	Robert Martin
+187730	Knightley
+187885	John
+187893	John
+187912	Astley
+187925	Astley
+187938	Henry
+187940	John
+187943	Miss Smith
+187948	Robert
+188002	Harriet
+188081	Harriet
+188131	Robert Martin
+188170	Astley
+188179	John Knightley
+188183	John
+188190	Smith
+188192	Henry
+188210	Smith
+188218	-- Emma
+188274	Emma
+188389	Emma
+188397	William Larkins
+188407	Robert Martin
+188454	Harriet
+188551	Knightley
+188586	Emma
+188616	Knightley
+188693	Harriet
+188721	Knightley
+188723	Robert Martin
+188734	Emma
+188752	Harriet
+188781	Robert Martin
+188817	Knightley
+188894	Martin
+188896	Harriet
+188976	Goddard
+189006	Goddard
+189043	Emma
+189105	Harriet
+189121	Robert Martin
+189184	Martin
+189258	Emma
+189269	Harriet
+189377	James
+189436	Harriet
+189586	Robert Martin
+189611	Knightley
+189713	Weston
+189723	Weston
+189743	Woodhouse
+189783	Weston
+189842	Emma
+189906	Emma
+189924	Frank Churchill
+189934	Jane
+189945	Weston
+189976	Frank Churchill
+189992	Miss Woodhouse
+190005	Weston
+190040	Emma
+190112	Jane
+190131	Weston
+190164	Dixon
+190166	-- Emma
+190335	Emma
+190415	Woodhouse
+190440	Emma
+190484	Knightley
+190555	Emma
+190586	Jane
+190670	Emma
+190739	Emma
+191084	Emma
+191154	Weston
+191205	Perry
+191216	Weston
+191252	Woodhouse
+191264	Perry
+191282	Perry
+191312	Perry
+191351	Perry
+191357	Frank Churchill
+191370	Emma
+191390	Perry
+191398	Perry
+191416	-- Has
+191425	Emma
+191445	Jane
+191493	Miss Woodhouse
+191572	Jane
+191650	Emma
+191656	Jane
+191689	Frank Churchill
+191710	Knightley
+191744	Emma
+191755	Harriet
+191775	Knightley
+191828	Harriet
+191843	Robert Martin
+191849	Knightley
+191861	Harriet
+191934	Emma
+191953	-- Harriet
+191966	Astley
+192000	Emma
+192006	Harriet
+192010	Robert Martin
+192034	Emma
+192057	-- Harriet
+192106	Emma
+192145	Knightley
+192156	Elton
+192204	Emma
+192208	Robert Martin
+192244	Harriet
+192336	Emma
+192377	Harriet
+192387	Martins
+192409	Emma
+192456	Emma
+192458	Harriet
+192468	Robert Martin
+192484	Elton
+192506	Elton
+192523	-- Robert
+192525	Martin
+192527	Harriet Smith
+192545	Jane Fairfax
+192569	Churchills
+192599	Emma
+192602	Knightley
+192616	John
+192618	Isabella
+192643	-- John
+192646	Isabella
+192661	Woodhouse
+192666	Woodhouse
+192803	Knightleys
+192845	Woodhouse
+192872	Weston
+192907	Woodhouse
+192952	Knightleys
+192968	Hartfield
+192975	John Knightley
+193032	Elton
+193047	Robert Martin
+193056	Knightley
+193059	Woodhouse
+193083	Elton
+193123	-- Selina
+193177	FINIS

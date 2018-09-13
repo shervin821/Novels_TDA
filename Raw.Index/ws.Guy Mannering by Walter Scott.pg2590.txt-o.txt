@@ -1,0 +1,3640 @@
+345	Mannering
+556	Kippletringan
+643	Guy Mannering
+671	Mannering
+725	Mannering
+926	Mannering
+940	Kippletringan
+1125	Mannering
+1386	Hoff
+1455	James
+1570	Mannering
+1770	Laird
+1836	Mannering
+1887	Jock
+1961	Jock
+1974	Mannering
+2147	Mannering
+2192	Ellangowan Auld
+2194	Place
+2268	Mannering
+2300	Ellangowan
+2328	Mannering
+2381	Henry IV
+2438	Laird
+2485	Bertram
+2579	Godfrey Bertram
+2662	Knarths
+2704	Norman
+2707	Bertram
+2850	Allan Bertram
+2852	of Ellangowan
+2858	Caroli
+2867	Robert Douglas
+2905	Marquis
+2976	Allan
+2986	Dennis Bertram
+3089	Charles II
+3154	Dennis Bertram
+3173	Mearns
+3258	Donohoe Bertram
+3290	Aaron Macbriar
+3332	Laird
+3336	Theophilus Oglethorpe
+3341	James Turner
+3354	Clavers
+3402	Laird
+3409	Lewis
+3435	Donohoe
+3693	Lewis Bertram
+3822	Ellangowan
+3875	Godfrey Bertram
+3899	Laird Lewis
+3932	Godfrey
+4013	Ellangowan
+4157	Ellangowan
+4313	Ellangowan
+4455	Mannering
+4467	Laird
+4488	Abel Sampson
+4501	Dominie Sampson
+4587	Abel
+4629	Sampson
+4670	Dominie Sampson
+4880	Sampson
+4984	Abel Sampson
+5138	Dominie Sampson
+5176	Sampson
+5232	Sampson
+5327	Ellangowan
+5333	Laird
+5348	Dominie Sampson
+5365	Dominie
+5432	Laird
+5452	Ellangowan
+5467	Mannering
+5539	Mannering
+5598	Mannering
+5652	Laird
+5715	Luckie Howatson
+5749	Dominie
+5809	Mannering
+5816	Annan
+5846	Godfrey
+5886	Bertram
+5925	Laird
+5941	Kenmore
+5995	Thomas Kittlecourt
+6008	Luckie Howatson
+6029	Laird
+6078	Mannering
+6124	Meg Merrilies
+6141	Bertram
+6144	Dominie
+6194	Dominie
+6199	Meg
+6214	Dominie Sampson
+6237	Mannering
+6296	Meg Merrilies
+6303	Mannering
+6406	Ellangowan
+6517	John
+6540	Andrew
+6551	Colme
+6557	Michael
+6613	Laird
+6633	Meg
+6662	Laird
+6704	Meg
+6723	Laird
+6766	Dunbog
+6773	John Young
+6844	Birch
+6886	Meg
+6906	Mannering
+6908	Sampson
+6921	Dominie
+6950	Sampson
+6958	Laird
+6962	Meg
+7020	Laird
+7120	Meg
+7163	Mannering
+7191	Pythagoras
+7193	Hippocrates
+7195	Diocles
+7209	Haly
+7216	Guido Bonatus
+7225	Sampson
+7234	Bertram
+7251	Laird
+7285	Dominie
+7435	Mannering
+7493	Sampson
+7500	Isaac Newton
+7593	Isaac Newton
+7607	Bonatus
+7609	Ptolemy
+7611	Haly
+7613	Eztler
+7621	Zael
+7625	Agrippa
+7634	Argol
+7674	Dominie Sampson
+7711	Sampson
+7736	Ellangowan
+7769	Mannering
+7796	Meg
+7817	Mannering
+7885	Almuten
+7891	Catahibazon
+7909	Dominie
+7962	Bertram
+7970	Meg Merrilies
+8206	Mannering
+8237	Dominie
+8347	Mannering
+8648	Mannering
+8802	Mannering
+8830	Mannering
+9033	Venus
+9072	Heydon
+9185	Guy Mannering
+9193	Laird
+9231	Mannering
+9296	Coleridge
+9299	Schiller
+9438	Mannering
+9507	William Lilly
+9560	Ellangowan
+9695	Mannering
+9744	Mannering
+9845	Mannering
+9960	Mannering
+10092	Bacon
+10095	Thomas Browne
+10228	Prospero
+10263	Laird
+10383	Mannering
+10526	Mannering
+10750	Mannering
+10826	Ellangowan
+10921	Mannering
+11016	Sophia
+11030	Mannering
+11210	Deane
+11239	Mannering
+11310	Mannering
+11529	Mannering
+11621	Lo
+11859	Meg
+11861	Meg Merrilies
+11886	Meg
+12160	Mother Deyvilson
+12181	Donner
+12220	Mannering
+12233	Meg Merrilies
+12314	Ere Mannering
+12355	Mannering
+12447	Bertram
+12465	Mannering
+12498	Dirk Hatteraick
+12503	Yungfrauw Hagenslaapen
+12571	Douglas
+12676	-- Dirk
+12678	Hatteraick
+12739	Mannering
+12752	Hatteraick
+12912	Richard II
+12989	Laird
+12994	Mannering
+13017	Dirk Hatteraick
+13022	Yungfrauw Hagenslaapen
+13064	Mannering
+13118	Mannering
+13140	Bertram
+13179	Dirk Hatteraick
+13242	Ramsay
+13274	Mannering
+13329	Duncan Robb
+13360	Hatteraick
+13407	Macfie
+13447	Luckie Finniston
+13488	Duncan Finniston
+13505	Mannering
+13544	Dominie
+13558	Mannering
+13576	Hatteraick
+13585	Mannering
+13627	Bertram
+13706	Mannering
+13718	Mannering
+13748	Bertram
+13780	Godfrey Bertram
+13834	Thomas Kittlecourt
+13875	Laird
+13913	David Mac-Guffog
+13965	Dominie
+13982	Sandy Mac-Gruthar
+14031	Thomas
+14067	Mac-Crosskie
+14074	Deacon Mac-Crosskie
+14082	Mannering
+14099	Mannering
+14116	Thomas
+14248	Mannering
+14361	Thomas Kittlecourt
+14451	Mannering
+14471	John Hay
+14498	Laird
+14527	Mannering
+14676	Mannering
+14686	Bertram
+14696	Hatteraick
+14721	Mannering
+14766	Dominie
+14804	Dominie
+14843	Mannering
+14858	Mannering
+14895	Bertram
+14989	Laird
+14995	Mannering
+15034	Bertram
+15099	Bertram
+15106	Mannering
+15134	Mannering
+15138	Bertram
+15294	Bertram of
+15296	Ellangowan
+15339	Laird
+15391	Bertram
+15561	Dominie Sampson
+15611	Laird
+15649	Laird
+15833	Thomas Kittlecourt
+15881	John Featherhead
+15906	Gilbert Glossin
+15916	Laird
+15918	Ellangowan
+15968	Glossin
+15973	Ellangowan
+15997	Bertram
+16007	Ellangowan
+16088	Bertram
+16151	Gilbert Glossin
+16161	Godfrey Bertram
+16190	Bertram
+16261	Bertram
+16383	Bertram
+16398	Augustus Pease
+16476	Dominie Sampson
+16662	Laird
+16664	Ellangowan
+16700	Duke Humphrey
+17038	Ward
+17043	Benbow
+17247	Laird
+17304	Ellangowan
+17340	Laird
+17562	Godfrey Bertram
+17665	Frater
+17677	Bush
+17947	Fletcher
+17949	Saltoun
+18269	Fletcher
+18746	Fletcher
+18771	Meg Merrilies
+18792	Ellangowan
+19093	Ellangowan
+19101	Laird
+19155	Derncleugh
+19223	Bertram
+19337	Laird
+19688	Laird
+19745	Laird
+19916	Ellangowan
+20071	Bertram
+20233	Harry Bertram
+20363	Meg Merrilies
+20487	Harry
+20512	Arthur Mac-Dingawaie
+20615	Laird
+20664	Harry
+20672	Dominie Sampson
+20695	Dominie
+20745	Adam Smith
+20839	Dominie
+20881	Laird
+20893	Sampson
+20902	Laird
+20922	Dominie
+20951	Laird
+20967	Derncleugh
+20981	Dominie Sampson
+21024	Bertram
+21084	Martinmas
+21254	Ellangowan
+21285	Frank Kennedy
+21324	Bertram
+21390	Bertram
+21565	Bertram
+21624	Laird
+21693	Bertram
+21773	Giles Baillie
+21787	Gabriel
+21861	Laird
+22136	Godfrey Bertram
+22177	Meg Merrilies
+22220	Ellangowan
+22414	Laird
+22449	Laird
+22457	Godfrey Bertram
+22532	Godfrey Bertram
+22630	Ellangowan
+22714	Meg Merrilies
+22756	Margaret
+22783	Laird
+22824	Ellangowan
+22892	Meg Merrilies
+22947	Bertram
+23055	Francis Kennedy
+23178	Kennedy
+23192	Bertram
+23242	Laird
+23244	Ellangowan
+23255	Kennedy
+23280	Frank Kennedy
+23308	Ellangowan
+23317	Laird
+23319	Glengubble
+23342	Jean Hadaway
+23364	Frank Kennedy
+23406	Dirk Hatteraick
+23437	Laird
+23466	Frank Kennedy
+23544	Dirk Hatteraick
+23596	Bertram
+23610	Harry
+23643	Bertram
+23747	Frank Kennedy
+23755	Martinmas
+23774	Jenny Gairns
+23813	Frank Kennedy
+23832	Wigton
+23846	Dirk Hatteraick
+23876	Harry
+23891	Frank Kennedy
+23895	Dirk Hatteraick
+23949	Laird
+23971	Dirk Hatteraick
+23984	Bertram
+24013	Frank Kennedy
+24052	Bertram
+24154	Flanders
+24167	Dirk Hatteraick
+24190	Frank Kennedy
+24243	Frank Kennedy
+24258	Ellangowan
+24270	Laird
+24295	Laird
+24305	Kennedy
+24319	Ellangowan
+24338	Dirk Hatteraick
+24379	Laird
+24471	Kennedy
+24501	Nantz
+24518	Hatteraick
+24805	Kennedy
+24847	Ellangowan
+24879	Laird
+24941	Kennedy
+24944	Harry Bertram
+24952	Dominie Sampson
+25004	Kennedy
+25019	Dominie
+25031	Harry
+25046	Sampson
+25052	Kennedy
+25079	Kennedy
+25282	Bertram
+25294	Kennedy
+25312	Laird
+25335	Bertram
+25487	Dominie
+25489	John
+25507	Dominie
+25510	Harry
+25515	Sampson
+25531	Harry
+25555	Sampson
+25565	Sampson
+25631	Sampson
+25685	Francis Kennedy
+25715	Francis Kennedy
+25768	Ellangowan
+25821	Sampson
+25828	Kennedy
+25853	John
+25862	Grizzel
+25878	Sampson
+25971	Laird
+26080	Kennedy
+26136	Warroch
+26156	Kennedy
+26160	Laird
+26166	Dominie Sampson
+26189	Laird
+26644	Ellangowan
+26672	Kennedy
+26814	Ellangowan
+26896	Meg Merrilies
+26984	Meg Merrilies
+27189	Harry Bertram
+27197	Harry Bertram
+27222	Andrew
+27320	Bertram
+27415	Kennedy
+27442	Laird
+27477	Bertram
+27502	Ellangowan
+27601	Henry IV
+27801	Kennedy
+27993	Kennedy
+28072	Kennedy
+28087	Bertram
+28155	Kennedy
+28739	Kennedy
+29038	Harry Bertram
+29063	Dirk Hatteraick
+29307	Dirk Hatteraick
+29384	Dirk Hatteraick
+29394	Francis Kennedy
+29406	Kennedy
+29419	Hatteraick
+29458	Hatteraick
+29485	Hamburgh
+29514	Warroch
+29745	William Pritchard
+29759	Shark
+29803	Dirk Hatteraick
+29853	Kennedy
+29931	Hatteraick
+30151	Dirk Hatteraick
+30276	Francis Kennedy
+30374	Kennedy
+30456	Meg Merrilies
+30536	Meg Merrilies
+30641	Ellangowan
+30699	Meg Merrilies
+30727	Kennedy
+30823	Harry Bertram
+30891	Meg
+30914	Kennedy
+30945	Harry Bertram
+30981	Meg
+31047	Gauger
+31294	Mac-Candlish
+31336	Mac-Candlish
+31423	Deacon Bearcliff
+31539	Mac-Candlish
+31607	Bertram
+31649	Laird
+31677	Hazlewood
+31706	Ellangowan
+31756	Hazlewood
+31826	Blythe Bertram
+31849	Skreigh
+31862	Skreigh
+31907	Skreigh
+31948	Bertram
+31961	Jock Jabos
+32072	-- Grizzel
+32094	Grizzel
+32141	-- Ye
+32268	Mac-Candlish
+32318	Smith
+32465	Mac-Candlish
+32665	Laird
+32731	Bertram
+32740	Bertram
+32750	Bertram
+32927	Glossin
+32935	Laird
+32972	Ellangowan
+33096	Kennedy
+33117	Frank Kennedy
+33160	Bailie Mac-Candlish
+33230	Frank Kennedy
+33241	Dirk Hatteraick
+33249	Dirk Hatteraick
+33267	Deacon
+33299	Frank Kennedy
+33339	Gauger
+33350	Bertram
+33429	Luckie
+33434	Laird
+33446	Meg Merrilies
+33460	Ellangowan
+33673	Laird
+33675	Ellangowan
+33755	Laird
+33789	Meg Merrilies
+33802	Galloway
+33821	Mac-Candlish
+33890	Ellangowan
+33987	Laird
+34095	Skreigh
+34128	Allan Ramsay
+34186	Jock
+34207	Jabos
+34224	Skreigh
+34257	Laird
+34409	Souple Sam
+34416	George
+34449	Jock
+34454	Skreigh
+34526	Dominie Sampson
+34604	Laird
+34626	Laird
+34653	Frank Kennedy
+34687	Meg Merrilies
+34744	John Wilson
+34755	Meg
+34759	Laird
+34769	Gibbie
+34791	Meg
+34809	John
+34847	John Wilson
+34924	Kennedy
+34953	Warroch
+34971	Laird
+35029	Meg
+35342	Mac-Candlish
+35443	Mannering
+35482	Chingalore
+35491	Ram Jolli
+35493	Bundleman
+35690	BEN JONSON
+35763	Bertram
+35872	Laird
+35891	Miss Lucy
+36006	Mac-Candlish
+36142	Deil
+36338	Mannering
+36443	Glossin
+36479	Mac-Morlan
+36529	Mannering
+36568	Arthur Mervyn
+36579	Westmoreland
+36617	Mervyn
+36889	Marshall
+36964	Sloethorn
+37003	Sophia Wellwood
+37100	Paul Mannering
+37334	Brown
+37551	Sophia
+37590	Brown
+37780	Archer
+37799	Brown
+37926	Julia
+38071	Brown
+38128	Archer
+38242	Archer
+38311	Mervyn
+38322	Julia
+38604	Mervyn
+38625	Julia
+38634	Mervyn
+38638	Mac-Morlan
+38649	Mannering
+38755	Mannering
+38757	Mac-Morlan
+38852	Mannering
+38856	Mac-Morlan
+38875	Harry Bertram
+38906	Mac-Morlan
+38984	Mannering
+38996	Ellangowan
+39008	Laird
+39015	Jock Jabos
+39039	Bertram
+39127	Mannering
+39143	Ellangowan
+39446	Mannering
+39650	Ellangowan
+39690	Mannering
+39702	Ellangowan
+39728	Laird
+39748	Lucy
+39799	Mannering
+39852	Bertram
+39899	Dominie Sampson
+39903	Mannering
+39934	Mannering
+40070	Bertram
+40093	Mannering
+40116	Mannering
+40137	Bertram
+40189	Bertram
+40225	Dominie
+40245	Bertram
+40254	Mannering
+40307	-- ``
+40309	Father
+40319	Mannering
+40375	Lucy
+40399	-- Dominie
+40425	Mannering
+40542	Charles
+40563	Lady Jean
+40565	Devorgoil
+40591	Tom
+40616	Lucy Bertram
+40663	Mannering
+40684	Hazlewood
+40715	Charles Hazlewood
+40737	Charles Hazlewood
+40760	Lucy
+40855	Bertram
+40858	Sampson
+40865	Glossin
+40883	Sampson
+40937	Dominie Sampson
+40942	Glossin
+41016	Bertram
+41134	Ye
+41231	Bertram
+41252	Mannering
+41310	Glossin
+41378	Mannering
+41404	Glossin
+41516	Mac-Candlish
+41607	Bertram
+41947	Bertram
+42027	Mac-Morlan
+42077	Glossin
+42203	Glossin
+42232	Jock Jabos
+42278	Mannering
+42305	Ellangowan
+42359	Godfrey Bertram
+42520	Sampson
+42524	Mannering
+42584	Sampson
+42627	Sampson
+42639	Lucy
+42671	Mannering
+42678	Lucy
+42696	Sampson
+42724	Glossin
+42761	Bertram
+42819	Dominie
+42833	Dominie Sampson
+42854	Mannering
+42868	Sampson
+42894	Mannering
+42907	Dominie Sampson
+42931	Mannering
+42943	Dominie
+43032	Bertram
+43068	Bertram
+43112	Margaret Bertram
+43114	of Singleside
+43140	Bertram
+43195	Mac-Morlan
+43237	Mac-Morlan
+43264	Mac-Morlan
+43296	Mannering
+43390	Mac-Morlan
+43482	Mannering
+43531	Glossin
+43580	Mac-Morlan
+43603	Gilbert Glossin
+43628	Gilbert Glossin
+43635	Ellangowan
+43726	Mannering
+43750	Mac-Morlan
+43794	Arthur Mervyn
+43874	John
+43889	John
+43898	John
+43910	John
+43926	Linne
+43929	Galwegian John
+43967	Bertram
+43997	Mac-Morlan
+44056	Mac-Morlan
+44082	Bertram
+44188	Mac-Morlan
+44200	Dominie Sampson
+44205	Bertram
+44231	-- God
+44237	Sampson
+44296	Dominie Sampson
+44317	Lucy
+44352	Mac-Morlan
+44365	Sampson
+44432	Lucy
+44466	Lucy Bertram
+44496	Ruth
+44499	Naomi
+44590	Dominie Sampson
+44608	Lucy
+44626	Sampson
+44630	Mac-Morlan
+44662	Bertram
+44707	Bertram
+44770	Sampson
+44814	Mac-Candlish
+44862	Mac-Morlan
+44881	Dominie Sampson
+44908	MacMorlan
+44933	Dominie
+44949	Ellangowan
+44985	Dominie Sampson
+44995	Mac-Morlan
+45065	Dominie
+45069	Mac-Morlan
+45094	Lucy Bertram
+45102	Sampson
+45134	Dominie
+45143	Lucy Bertram
+45154	Dominie
+45168	Mac-Morlan
+45203	Dominie
+45210	Hazlewood
+45224	Mac-Candlish
+45229	Sampson
+45246	Mac-Morlan
+45255	Dominie Sampson
+45332	Dominie
+45354	Bertram
+45374	Charles
+45416	Charles
+45451	Sampson
+45493	Galloway Phoebus
+45522	Lucy
+45526	Charles Hazlewood
+45537	Mac-Morlan
+45579	Mac-Morlan
+45620	Hazlewood
+45713	Sampson
+45719	Bertram
+45760	Mannering
+45771	Mannering
+45783	Charles Hazlewood
+45805	Lucy
+45818	Mac-Morlan
+45826	Charles Hazlewood
+45880	Bertram
+45916	Bertram
+45924	Sampson
+45960	Charles Hazlewood
+46003	Sampson
+46115	Charles Hazlewood
+46155	Dominie Sampson
+46182	Virgil
+46197	Bertram
+46204	Hazlewood
+46332	Bertram
+46383	Charles Hazlewood
+46392	Mac-Candlish
+46394	Sampson
+46405	Charles Hazlewood
+46438	Mac-Morlan
+46552	Bertram
+46554	Mannering
+46633	Mervyn
+46730	Brown
+46979	Arthur Mervyn
+46991	Arthur
+47386	Westmoreland
+47402	Galloway
+47485	Laird
+47560	Julia Mannering
+47633	Julia
+47831	Mannering
+47895	Mannering
+48161	Julia
+48198	Mannering
+48280	Mannering
+48316	Julia
+48421	Mannering
+48478	Julia
+48577	Arthur Mervyn
+48629	Julia
+48722	Julia
+48846	Mac-Morlan
+48855	Mannering
+48884	Mervyn
+48895	Westmoreland
+48943	Pope
+48948	Mannering
+49000	Mannering
+49024	Matilda Marchmont
+49065	Mannering
+49096	Matilda
+49322	Matilda
+49465	Brown
+49608	Brown
+49695	Brown
+49728	Mannering
+49831	Brown
+49853	Matilda
+49948	Mervyn Hall
+49963	Matilda
+50024	Salvator
+50033	Claude
+50158	Matilda
+50199	Julia
+50212	Mervyn
+50247	Matilda
+50271	Mervyn
+50499	Matilda
+50626	Matilda
+50780	Mervyn Hall
+50925	Brown
+51626	Mannering
+51705	Mannering
+51762	Mannering
+51767	Mervyn
+51802	Mannering
+51818	Matilda
+51931	Matilda
+52125	Brown
+52183	Miles Mannering
+52249	Brown
+52389	Brown
+52491	Vanbeest Brown
+52531	Vanbeest Brown
+52563	Matilda
+52619	Brown
+52673	Brown
+52751	Mervyn
+52767	Brown
+52804	Mervyn
+52980	Mervyn
+53023	Mervyn
+53073	Matilda
+53082	Brown
+53127	Dawson
+53217	Mervyn
+53303	Mervyn
+53332	Brown
+53470	Matilda
+53685	Mervyn
+53703	Coward
+53775	Julia
+53871	Julia
+53891	Mervyn
+53965	Julia
+54041	Miss Mannering
+54172	Julia
+54209	Matilda
+54486	Mannering
+54538	Mannering
+54586	Julia
+54761	Matilda
+54875	Rozencrantz
+54878	Guildenstern
+54923	Matilda
+54932	Julia Mannering
+54983	-- Warton
+54991	Mannering
+54995	Mac-Morlan
+55123	Mannering
+55230	Glossin
+55273	MacMorlan
+55306	Mannering
+55369	Ellangowan
+55460	Glossin
+55488	Mannering
+55511	Julia
+55518	Lucy Bertram
+55541	Mac-Morlan
+55561	Hazlewood
+55625	Lucy Bertram
+55642	Mannering
+55705	Bertram
+55744	Bertram
+55782	Bertram
+55857	Lucy
+55925	Mannering
+55941	Bertram
+55983	Lucy
+56037	Mac-Morlan
+56051	Dominie Sampson
+56064	Mannering
+56077	Lucy Bertram
+56086	Mac-Morlan
+56108	Mannering
+56114	Dominie
+56132	Mac-Morlan
+56141	Sampson
+56248	Dominie
+56309	Sampson
+56384	Bertram
+56416	Dominie
+56437	Dominie
+56481	Dominie
+56503	Bertram
+56518	Dominie
+56670	Dominie
+56849	Dominie
+56857	Mannering
+56868	Bertram
+56884	Mac-Morlan
+56956	Mac-Morlan
+56967	Mannering
+56986	Bertram
+57037	Johnson
+57049	Mannering
+57090	Mannering
+57107	Mannering
+57172	Mac-Morlan
+57216	Dominie
+57251	Lucy
+57356	Lucy
+57381	Mac-Morlan
+57407	Mannering
+57501	Lucy Bertram
+57526	Mannering
+57553	Mac-Morlan
+57586	Bertram
+57613	Julia
+57653	Bertram
+57656	Ellangowan
+57686	Mannering
+57693	Dominie
+57741	Sampson
+57746	Mannering
+57786	Julia
+57854	Miss Bertram
+57899	Dominie
+57962	Mannering
+57987	Julia
+57994	Bertram
+58034	Julia
+58083	Sampson
+58138	Julia
+58175	Bertram
+58206	Sampson
+58246	Mac-Morlan
+58281	Mannering
+58289	Bertram
+58303	Dominie Sampson
+58350	Lucy
+58371	Mannering
+58432	Mannering
+58453	Charles Hazlewood
+58498	Mannering
+58550	Lucy Bertram
+58576	Mannering
+58587	Bertram
+58701	Dominie Sampson
+58745	Sampson
+59095	Dominie Sampson
+59326	V. Brown
+59451	Mannering
+59462	Brown
+59488	Mannering
+59492	Brown
+59513	Mannering
+59535	Julia
+59690	Mervyn
+59704	Brown
+59719	Dawson
+59724	Mannering
+59751	Julia
+59822	Delaserre
+59845	Delaserre
+59872	Ayre
+59878	Elliot
+59934	Philip
+60096	Delaserre
+60397	Dudley
+60421	Delaserre
+60482	Mervyn
+60549	Dawson
+60598	Squoire Mervyn
+60634	Noa
+60650	Joe Hodges
+60669	Joe Hodges
+60713	Julia
+60798	Delaserre
+60834	Brown
+60862	Mannering
+60972	Delaserre
+60993	Julia
+61104	Julia
+61149	Delaserre
+61593	Cameron
+61763	Mannering
+61796	Julia
+61798	Mervyn Hall
+61801	Dudley
+61823	Mannering
+61846	Dudley
+61871	Saul
+61883	Mannering
+61940	Archer
+61960	Viscount Archerfield
+61971	Archer
+62081	Dudley
+62215	Dudley
+62295	Delaserre
+62322	Dudley
+62634	Shakespeare
+62676	Brown
+62684	Dudley
+62902	Johnson
+62962	Brown
+63138	Vauban
+63377	Brown
+63616	Dinmont
+63703	Dinmont
+63764	Brown
+63854	Pepper
+63972	Deuke
+63986	Dandie Dinmont
+64000	Tam Hudson
+64132	Keswick
+64192	Dandie Dinmont
+64339	Grieve
+64468	Liddel
+64497	Dinmont
+64525	Sawney Culloch
+64532	Rowley Overdees
+64535	Jock Penny
+64610	Galloway
+64620	Carlisle
+64659	Galloway
+64715	Ellangowan
+64720	Bertram
+64731	Laird
+64784	Dinmont
+64869	Meg Merrilies
+64949	Ellangowan
+64954	Bertram
+64986	Ellangowan
+65011	Glossin
+65020	-- Gibbie
+65022	Glossin
+65055	-- Gude
+65251	Bertram
+65287	Derncleugh
+65296	Ellangowan
+65354	Meg
+65546	Willie
+65601	Brown
+65698	Meg
+65755	XXIII
+65780	Brown
+65796	Iris
+65799	Meg Merrilies
+66079	Brown
+66142	Brown
+66262	Brown
+66315	Meg Merrilies
+66349	Laird
+66425	Ellangowan
+66432	Brown
+66497	Dinmont
+66514	Brown
+66825	Brown
+66841	Dinmont
+67031	Dinmont
+67207	Brown
+67262	Brown
+67345	Brown
+67379	Dinmont
+67454	Wasp
+67637	Brown
+67707	Brown
+67894	Scotchman
+67905	Withershin
+67961	Dinmont
+67982	Dumple
+68029	Brown
+68120	Dumple
+68144	Brown
+68196	Dinmont
+68272	Dumple
+68367	Dinmont
+68427	Brown
+68515	Brown
+68554	Brown
+68691	Dumple
+68853	Dumple
+68888	Brown
+68947	Dinmont
+68963	Dandie Dinmont
+68989	Liddell
+69192	Deil
+69200	Dandie Dinmont
+69237	Ailie
+69293	Dinmont
+69320	Dandie
+69423	Lourie Lowther
+69651	Brown
+69724	Brown
+69778	Dinmont
+69856	Dandie Dinmont
+69905	Brown
+70047	Dinmont
+70058	Brown
+70149	Brown
+70217	Dumple
+70244	Elspeth
+70308	Gingerbread
+70364	Ailie
+70397	Dinmont
+70507	Wasp
+70605	Dinmont
+70673	Brown
+70742	Brown
+70896	Dinmont
+70907	Brown
+71031	Nelly
+71381	Charlie
+71383	Bush
+71453	Brown
+71593	Brown
+71627	Dinmont
+71634	Brown
+71759	Brown
+71820	Christenbury Craig
+71904	Tam
+71966	Dinmont
+71970	Brown
+72021	Brown
+72122	Dandie
+72154	Brown
+72306	Dinmont
+72344	Brown
+72487	Reynard
+73140	Brown
+73163	Arcot
+73210	Brown
+73218	Huntsman
+73259	Brown
+73326	Brown
+73392	Johnnie Armstrong
+73715	Brown
+73845	Dudley
+74033	Brown
+74113	Brown
+74143	Brown
+74190	Brown
+74290	Brown
+74350	Brown
+74381	Gabriel
+74451	Lum Cleeks
+74491	Brown
+74606	Dinmont
+74766	Brown
+74799	Johnnie Armstrong
+74954	Gabriel
+75061	Gabriel
+75088	Brown
+75134	Gabriel
+75139	Gabriel
+75244	Tam
+75255	Hobbie
+75271	-- Aweel
+75302	Glaiket Christie
+75309	Davie
+75317	Gabriel
+75327	Tod Gabble
+75434	Brown
+75537	Ailie
+75541	Venus
+75544	Bacchus
+75622	Pepper
+75648	Dinmont
+75700	Brown
+75817	Brown
+75825	Liddel
+75908	Jenny
+75915	Jenny
+75978	Brown
+76055	Dinmont
+76169	Johnnie Goodsire
+76335	Brown
+76533	Dinmont
+76580	Julia Mannering
+76611	Dinmont
+76703	Dandie
+76754	Brown
+76800	Ailie
+76915	Brown
+77002	Joanna Baillie
+77017	Dinmont
+77053	Mannering
+77188	Brown
+77375	Brown
+77497	Brown
+77649	Brown
+78115	Brown
+78211	Brown
+78250	Brown
+78492	Mary Mother
+78740	Brown
+78997	Brown
+79032	Meg Merrilies
+79108	Brown
+79175	Merrilies
+79215	Brown
+79291	Brown
+79429	Brown
+79672	Lady Macbeth
+79693	Brown
+79759	Meg Merrilies
+79938	Meg
+80060	Meg
+80078	Brown
+80126	Brown
+80194	JOANNA BAILLIE
+80197	Brown
+80262	Meg
+80380	Meg
+80409	Meg
+80499	Johnnie Faa
+80521	Christie
+80602	Straw
+80694	Meg
+80735	-- Bing
+80803	Patrico Salmon
+80824	Jean Baillie
+80891	Meg
+80910	Brown
+81044	Jack
+81144	Jack
+81163	Jack
+81233	Meg
+81309	Meg
+81395	Meg
+81418	Peter
+81442	Brown
+81592	Brown
+81780	Brown
+81829	Brown
+81971	Brown
+82294	Brown
+82426	Brown
+82484	Brown
+82750	Meg
+82790	Brown
+82854	Meg
+82901	Kippletringan
+82967	Meg
+83291	Brown
+83439	Brown
+83603	Brown
+83671	Brown
+83788	Meg
+83830	Meg
+83973	Brown
+84459	Brown
+84738	JULIA MANNERING
+84752	Matilda
+84792	Julia
+84815	Lucy Bertram
+84938	Mannering
+85025	Brown
+85049	Matilda
+85187	Lucy Bertram
+85204	Sampson
+85302	Lucy Bertram
+85412	Cicipici
+85426	Chichipichi
+85442	Bertram
+85640	Lucy Bertram
+85726	Brown
+85792	Vanbeest Brown
+85856	Brown
+85876	Lucy Bertram
+85883	Matilda
+85996	Matilda
+86025	Lucy Bertram
+86224	Lucy
+86236	Hazlewood
+86285	Bertram
+86331	Hazlewood
+86362	Hazlewood
+86379	Julia
+86399	Hazlewood
+86538	Matilda
+86589	Lucy
+86661	Bertram
+86753	Matilda
+86755	Hazlewood
+86775	Julia
+86790	Lucy
+87050	Hazlewood
+87052	Lucy
+87109	Bertram
+87181	Julia
+87398	Julia
+87493	Bertram
+87534	Matilda
+87577	Lucy
+87581	Hazlewood
+87679	Brown
+87797	Vanbeest Brown
+87912	Hazlewood
+88153	Matilda
+88194	Lucy Bertram
+88331	Brown
+88443	Duke
+88452	JULIA MANNERING
+88469	Matlida
+88559	Matilda
+88593	Salvator
+88794	Hazlewood
+88822	Lucy
+88960	Hazlewood
+89154	Hazlewood
+89168	Sampson
+89242	Dominie
+89327	Hazlewood
+89334	Dominie
+89430	Lucy
+89446	Hazlewood
+89605	Hazlewood
+89923	Mannering
+90237	Hazlewood
+90241	Hazlewood
+90266	Hazlewood
+90434	Matilda
+90560	Hazlewood
+90569	Lucy
+90602	Dominie
+90656	Ophir
+90815	Thomas Aquinas
+90821	Chrysostom
+90886	JULIA MANNERING
+90908	John JULIA
+90910	MANNERING
+90928	Matilda
+91279	Lucy
+91307	Hazlewood
+91367	Mannering
+91472	Hazlewood
+91482	Lucy
+91645	Hazlewood
+91780	Lucy
+91783	Hazlewood
+91811	Lucy
+91847	Brown
+91890	Hazlewood
+91901	Brown
+91924	Brown
+91954	Hazlewood
+92007	Brown
+92035	Brown
+92042	Hazlewood
+92075	Hazlewood
+92105	Lucy
+92233	Hazlewood
+92308	Hazlewood
+92380	Lucy
+92430	Hazlewood
+92482	Brown
+92541	Hazlewood
+92601	Hazlewood
+92613	Lucy
+92661	Hazlewood
+92690	Lucy
+92755	Bertram
+92771	Brown
+92843	Matilda
+93004	Brown
+93036	Hazlewood
+93151	JULIA MANNERING
+93209	Lear
+93228	Charles Hazlewood
+93237	Gilbert Glossin
+93248	Laird
+93250	Ellangowan
+93499	Ellangowan
+93507	Glossin
+93515	Glossin
+93548	Ellangowan
+93583	MacMorlan
+93628	Glossin
+93836	Burns
+93880	Mannering
+93889	Hazlewood
+94110	Mannering
+94135	Hazlewood
+94238	Glossin
+94269	Charles Hazlewood
+94375	Hazlewood
+94394	Glossin
+94408	Mac-Candlish
+94416	Glossin
+94477	Mac-Candlish
+94499	Mac-Candlish
+94551	Mac-Candlish
+94605	Glossin
+94639	Mac-Candlish
+94692	Glossin
+94717	Mac-Candlish
+94835	Mac-Candlish
+94911	Mac-Candlish
+94964	Mac-Candlish
+95068	Bailie Mac-Candlish
+95105	Kippletringan
+95113	Maister MacGrainer
+95167	Mac-Grainer
+95188	Charles Hazlewood
+95239	Nelly Mac-Candlish
+95255	Hazlewood
+95264	Glossin
+95334	Mac-Candlish
+95408	Hazlewood
+95502	Charles Hazlewood
+95705	Brown
+95750	-- Aweel
+95781	Grizy
+95843	Brown
+95857	Loch Creeran
+95922	Glossin
+95940	Charles
+95948	Glossin
+96028	Peg Pasley
+96104	Glossin
+96156	Deacon Bearcliff
+96162	Glossin
+96226	Mac-Candlish
+96236	Glossin
+96239	Deacon Bearcliff
+96252	Charles Hazlewood
+96299	MacCandlish
+96308	Brown
+96329	Mac-Candlish
+96370	Deacon Bearcliff
+96440	V. Brown
+96443	Esquire
+96500	Mac-Candlish
+96507	Glossin
+96528	Hazlewood
+96538	Jock Jabos
+96588	Glossin
+96669	Glossin
+96688	Jock Stevenson
+96718	Jock
+96734	Jowlia Mannering
+96738	Lucy Bertram
+96750	Glossin
+96759	Laird
+96761	Hazlewood
+96780	Glossin
+96791	Lucy Bertram
+96793	of Ellangowan
+96812	Jowlia Mannering
+96822	Hazlewood
+96891	Mannering
+96894	Hazlewood
+96923	Jean Clavers
+96936	Glossin
+96995	Glossin
+97056	Bonspiel
+97109	Mac-Candlish
+97149	Mac-Candlish
+97153	Glossin
+97190	Deacon Bearcliff
+97234	Jabos
+97449	MacCandlish
+97455	Brown
+97495	Glossin
+97511	Glossin
+97529	Maister Gilbert
+97558	Glossin
+97614	Mac-Candlish
+97641	Gordon Arms
+97656	Jock Jabos
+97678	Mac-Candlish
+97726	Glossin
+97791	Glossin
+97812	Jabos
+97884	Glossin
+97930	Brown
+97945	Kippletringan
+97964	Julia Mannering
+97981	Glossin
+97986	Ellangowan
+98017	Hazlewood
+98019	Mannering
+98157	Scrow
+98159	-- Scrow
+98176	George Mackenzie
+98252	Mac-Guffog
+98422	Ellangowan
+98436	Glossin
+98601	Slounging Jock
+98604	Dick
+98735	Mac-Guffog
+98915	Glossin
+99007	Justice
+99031	Glossin
+99073	Jans Janson
+99085	Glossin
+99172	Glossin
+99229	Dirk Hatteraick
+99302	Dirk Hatteraick
+99362	Glossin
+99400	Glossin
+99438	Hatteraick
+99453	Glossin
+99505	Hatteraick
+99543	Hatteraick
+99547	Glossin
+99588	Glossin
+99628	Dirk Hatteraick
+99664	Glossin
+99698	Hatteraick
+99711	Glossin
+99897	Glossin
+99923	Brown
+99949	Brown
+99984	Glossin
+99992	Glossin
+100040	Glossin
+100081	Hatteraick
+100133	Mac-Guffog
+100194	Hatteraick
+100207	Glossin
+100242	Hatteraick
+100268	Glossin
+100301	Kaim
+100365	Hatteraick
+100434	Dirk Hatteraick
+100462	Glossin
+100488	Janson
+100495	Mac-Guffog
+100547	Ellangowan
+100732	Glossin
+100884	Frank Kennedy
+100923	Dirk Hatteraick
+101099	Glossin
+101180	Kennedy
+101228	Hatteraick
+101237	Glossin
+101253	Bertram
+101509	Glossin
+101694	Hatteraick
+101793	Glossin
+101965	Hatteraick
+101974	Glossin
+102017	Glossin
+102102	Warroch
+102188	Mac-Guffog
+102191	Glossin
+102266	Glossin
+102307	Wood of
+102309	Warroch
+102316	Hatteraick
+102343	Ellangowan
+102364	Glossin
+102530	Kennedy
+103011	Dirk Hatteraick
+103019	Glossin
+103162	Ere Glossin
+103186	Hagel
+103215	Dirk Hatteraick
+103235	Glossin
+103279	Glossin
+103301	Hatteraick
+103354	Hatteraick
+103483	Glossin
+103585	Glossin
+103681	Hatteraick
+103721	Hatteraick
+103729	Glossin
+103763	Brown
+103778	Vanbruggen
+103933	Hatteraick
+104043	Glossin
+104109	Nicholas
+104227	Brown
+104333	Gabriel
+104343	Gabriel
+104370	Pritchard
+104393	Kennedy
+104402	Kennedy
+104411	Kennedy
+104528	Glossin
+104573	Hazlewood
+104599	Gott
+104615	Brown
+104635	Glossin
+104643	Hazlewood
+104671	-- Tausend
+104701	Glossin
+104726	Brown
+104729	Brown
+104731	yaw-Vanbeest Brown
+104735	Vanbeest Brown
+104759	Glossin
+104792	Hatteraick
+104794	Glossin
+104851	Dirk Hatteraick
+104920	Hazlewood
+104936	Dirk Hatteraick
+104970	Dirk
+104977	Hatteraick
+105008	Hatteraick
+105019	Gilbert Glossin
+105068	Hagel
+105225	Brown
+105271	Jericho
+105331	Dirk Hatteraick
+105357	Glossin
+105376	-- Donner
+105466	Dirk Hatteraick
+105639	Hatteraick
+105664	Dirk Hatteraick
+105761	Glossin
+105785	Hatteraick
+105877	Hatteraick
+105881	Glossin
+106093	Glossin
+106198	Glossin
+106310	Brown
+106319	Gipsy Gab
+106347	Meg
+106362	Meg
+106366	Meg Merrilies
+106552	Meg
+106573	Glossin
+106606	Hatteraick
+106649	Meg Merrilies
+106706	Donner
+106845	Glossin
+106886	Godfrey Bertram
+106893	Ellangowan
+106907	Margaret Bertram
+106909	of Singleside
+106944	Glossin
+106983	Lucy Bertram
+107106	Dirk Hatteraick
+107144	Bertram
+107330	Bertram
+107360	Glossin
+107366	Bertram
+107369	Lucy
+107395	Julia Mannering
+107414	Charles Hazlewood
+107426	Dominie
+107472	Mannering
+107502	Glossin
+107517	Bertram
+107520	Mannering
+107539	Mac-Morlan
+107555	Bertram
+107568	Glossin
+107612	Mannering
+107622	Glossin
+107640	Bertram
+107676	Mannering
+107759	Bertram
+107769	Glossin
+107791	Glossin
+107804	Mannering
+107836	Glossin
+107878	Sampson
+107882	Dominie
+107911	Sampson
+107964	Sampson
+108036	Glossin
+108057	Hazlewood
+108075	Hazlewood
+108117	Hazlewood
+108174	Hazlewood
+108230	Featherhead
+108274	Hazlewood
+108441	Hazlewood
+108505	Glossin
+108603	Glossin
+108621	Mannering
+108641	Glossin
+108650	Bertram
+108716	Glossin
+108773	Mannering
+108777	Bertram
+108830	Bertram
+108849	Mannering
+108911	Hazlewood
+108925	Bertram
+108947	Charles Hazlewood
+108956	Glossin
+109022	Glossin
+109037	Glossin
+109044	Mannering
+109095	Bertram
+109116	Glossin
+109135	Margaret Bertram
+109152	Lucy Bertram
+109165	Bertram
+109189	Sampson
+109271	Mannering
+109299	Bertram
+109316	Glossin
+109434	Glossin
+109465	Bertram
+109518	Glossin
+109642	Bertram
+109679	Bertram
+109721	Colonel Mannering
+109784	Mannering
+109823	Glossin
+109854	Mannering
+109902	Gillifidget
+109906	Liealone
+109954	Glossin
+109970	Mac-Morlan
+109994	Lucy Bertram
+109997	Mac-Morlan
+110035	Glossin
+110092	Bertram
+110158	Sampson
+110218	Mac-Morlan
+110247	Lucy
+110300	Mac-Morlan
+110311	Bertram
+110341	Mac-Morlan
+110386	Laird
+110423	Henry IV
+110428	MANNERING
+110431	Sampson
+110527	Sampson
+110567	Barnes
+110585	Moffat
+110592	Horace
+110675	Barnes
+110714	Mannering
+110743	Barnes
+110768	Dominie
+110807	Mannering
+110814	Dominie
+110855	Dominie
+110897	Mannering
+110941	Cockburn
+110962	Pleydell
+110978	Mac-Morlan
+110983	Barnes
+110990	Dominie
+111238	Paulus Pleydell
+111266	Mannering
+111321	Mannering
+111526	Mannering
+111593	Mannering
+111706	Pleydell
+111747	Pleydell
+111791	Mannering
+111882	Pleydell
+111894	Mannering
+112067	Dinmont
+112172	Mannering
+112177	Mannering
+112321	Mannering
+112360	Donald
+112369	Dinmont
+112413	Mannering
+112692	Mannering
+112739	Pleydell
+112968	Mannering
+112974	Counsellor Pleydell
+113045	Gerunto
+113055	Gerunto
+113081	Dinmont
+113123	Dinmont
+113126	Mannering
+113136	Pleydell
+113225	Andrew Dinmont
+113286	Carrick
+113369	Mannering
+113508	Dinmont
+113548	Mannering
+113579	Miles Mannering
+113610	Mannering
+113665	Dinmont
+113687	Paulus
+113710	Liddel
+113716	-- Seneschal
+113745	Mannering
+113794	Mac-Morlan
+113816	Lucy Bertram
+113818	of Ellangowan
+113886	Cophetua
+113941	Jean Logies
+113991	Charles V.
+114068	Mannering
+114095	Mannering
+114127	Mannering
+114166	Mannering
+114209	Dinmont
+114215	Mannering
+114239	Dandie Dinmont
+114380	Pleydell
+114392	Dandie
+114401	Pleydell
+114518	Mannering
+114560	Dandie
+114586	Jock
+114589	Dawston Cleugh
+114603	Touthop Rigg
+114616	Slackenspool
+114650	Charlie
+114652	Chuckie
+114655	Dawston Cleugh
+114685	Jock
+114688	Dawston Cleugh
+114746	Pleydell
+114765	Dandie
+114843	Dinmont
+114859	Pleydell
+114889	Dinmont
+115036	Jock
+115078	Pleydell
+115207	Pleydell
+115215	Soulis
+115254	Dandie
+115295	Dandie
+115331	Margaret Bertram
+115370	Dandie
+115387	Jean Liltup
+115424	Jean Liltup
+115430	Liddel
+115528	Dandie
+115548	-- Weel
+115604	Dandie
+115608	Dandie
+115683	Mannering
+115797	Mannering
+115821	Hamlet
+115871	MacMorlan
+115916	Ellangowan
+115921	Lucy
+115969	Mannering
+116216	Bertram
+116312	Miss Bertram
+116388	-- Good-night-Harry
+116395	Mannering
+116490	Dominie Sampson
+116498	Barnes
+116507	Dominie
+116516	Pleydell
+116691	-- Tros
+116693	Tyriusve
+116784	Mannering
+116819	Blair
+116822	Robertson
+116826	Henry
+116856	Sampson
+116877	Barnes
+116921	Dominie Sampson
+116952	Luckie Finlayson
+116959	Miles Macfin
+117003	Pleydell
+117057	Barnes
+117081	Dominie
+117170	Robertson
+117182	Rescan
+117298	Mannering
+117323	Erskine
+117535	Mannering
+117607	Pleydell
+117708	Pleydell
+117823	Mannering
+117915	Mannering
+117972	Jamieson
+118007	Pleydell
+118050	Mannering
+118118	Pleydell
+118134	Bertram
+118249	Bertram
+118370	Mannering
+118413	Margaret Bertram
+118448	Mannering
+118730	Margaret Bertram
+118771	Mannering
+118815	Margaret Bertram
+118941	Margaret
+118956	Mannering
+119005	Mannering
+119059	Jenny Gibson
+119123	Mannering
+119134	Tippoo Saib
+119181	Margaret
+119248	Mortcloke
+119260	Mortcloke
+119332	Bertram
+119371	Dinmont
+119537	Margaret Bertram
+119577	Jamie Duff
+119855	Andrew Bertram
+119921	Nathaniel
+119925	Bezaleel
+119971	Margaret Bertram
+120047	Lucian
+120140	Mortcloke
+120269	Charlie
+120430	Mannering
+120459	Pleydell
+120542	Dinmont
+120692	Bertram
+120723	Bertram
+120752	Bertram
+120759	Quid
+121012	Bertram
+121090	MacCasquil
+121109	Pleydell
+121112	Mannering
+121131	Dinmont
+121164	Margaret Bertram
+121228	Pleydell
+121285	Lucy Bertram
+121287	of Ellangowan
+121324	Pleydell
+121358	Pleydell
+121464	Pleydell
+121515	Pleydell
+121547	Pleydell
+121622	Toby Belch
+121631	Ellangowan
+121722	Hogarth
+121855	Mortcloke
+121928	Andrew Bertram
+121944	Allan Bertram
+121948	Baron of
+121950	Ellangowan
+121958	Henry Bertram
+121965	Godfrey Bertram
+122080	Henry Bertram
+122113	Peter Protocol
+122239	Janet Gibson
+122362	Margaret Bertram
+122393	Pleydell
+122431	Mannering
+122478	Mac-Casquil of
+122480	Drumquag
+122549	Bertram
+122664	Rebecca
+122715	Harry Bertram
+122740	Rebecca
+122796	Rebecca
+122827	Rebecca
+123102	Rebecca
+123151	Dinmont
+123314	Dinmont
+123342	Jenny Gibson
+123392	Protcol
+123408	Drumquag
+123527	Bertram
+123547	Mannering
+123632	Dinmont
+123705	Ailie
+123743	Jenny
+123924	Dandie Dinmont
+124019	Rebecca
+124042	Rebecca
+124061	Dandie
+124074	Pleydell
+124139	Dandie
+124256	Mannering
+124462	Dawston Cleugh
+124471	Dinmont
+124539	Mannering
+124823	Mannering
+125004	Pleydell
+125057	Pleydell
+125116	Pleydell
+125123	Mannering
+125144	David Hume
+125151	John Home
+125159	Ferguson
+125165	Black
+125171	Kaimes
+125177	Hutton
+125182	John Clerk
+125188	Eldin
+125193	Adam Smith
+125201	Robertson
+125253	Mannering
+125329	Pleydell
+125338	Mannering
+125392	Dominie Sampson
+125436	Sampson
+125461	Mannering
+125557	Sampson
+125593	Dominie
+125631	Pleydell
+125647	Dominie
+125731	Dominie
+125832	Dominie
+125869	Pleydell
+125900	Bertram
+125920	Pleydell
+125926	Lucy Bertram
+125954	Sampson
+126047	Dominie
+126091	Mannering
+126098	Pleydell
+126161	Kennedy
+126246	Dominie
+126274	Mannering
+126291	Margaret Bertram
+126311	Pleydell
+126360	Luckie Wood
+126429	Mannering
+126439	Hal
+126448	Pleydell
+126531	Pleydell
+126546	Driver
+126601	Margaret Bertram
+126857	John Falstaff
+127033	Clerihugh
+127341	Mannering
+127362	Pleydell
+127366	Rebecca
+127402	Rebecca
+127541	Rebecca
+127582	-- Ye
+127604	Gilsland
+127616	Ellangowan
+127706	Laird
+127755	Lucy Bertram
+127772	Becky
+127775	Becky
+128118	Harry Bertram
+128224	Martimas
+128246	Mannering
+128363	Ellangowan
+128384	Miss Bertram
+128484	Jenny Gibson
+128493	Dinmont
+128519	Rebecca
+128585	Pleydell
+128589	Rebecca
+128622	Mannering
+128631	Pleydell
+128635	Meg Merrilies
+128667	Mannering
+128706	Pleydell
+128746	Messabala
+129018	Hazlewood
+129035	Mannering
+129041	Brown
+129157	Hazlewood
+129320	Brown
+129328	Mannering
+129437	Mannering
+129441	Brown
+129529	Brown
+129605	Peggy
+129621	Hazlewood
+129627	Mannering
+129644	Brown
+129653	Julia
+129755	Mannering
+129875	Brown
+129879	Mannering
+130004	Allonby
+130071	Dudley
+130097	Wigton
+130124	Delaserre
+130143	Delaserre
+130204	Dinmont
+130308	Palmer
+130321	Dinmont
+130470	Brown
+130639	H.
+130762	Brown
+130788	Willie Johnstone
+130801	Peggy
+130923	Brown
+130945	Kippletringan
+130966	Mac-Candlish
+131016	Hazlewood
+131109	Brown
+131408	Brown
+131507	Brown
+131657	Ramsay
+131678	Brown
+131740	Brown
+132206	Gude
+132239	Brown
+132446	Brown
+132472	Bertram
+132588	Bertram
+132627	Bertram
+132669	Kippletringan
+132826	Bertram
+132939	Brahmin Moonshie
+133152	Brown
+133210	Bertram
+133279	Glossin
+133393	Glossin
+133405	Bertram
+133433	Glossin
+133502	Bertram
+133507	Glossin
+133552	Glossin
+133711	Glossin
+133721	Bertram
+133781	Glossin
+133845	Bertram
+133904	Bertram
+134025	Bertram
+134049	Glossin
+134059	Bertram
+134080	Glossin
+134182	Bertram
+134212	Glossin
+134245	Glossin
+134304	Cumming
+134353	Bertram
+134374	Glossin
+134403	Bertram
+134417	Glossin
+134489	Bertram
+134493	Bertram
+134540	Glossin
+134621	Glossin
+134633	Bertram
+134708	Glossin
+134845	Bertram
+134870	Glossin
+135050	Dee
+135073	Bertram
+135097	Glossin
+135206	Bertram
+135238	Brown
+135242	Glossin
+135253	Glossin
+135293	Bertram
+135310	Glossin
+135351	Bertram
+135503	Glossin
+135530	Charles Hazlewood
+135586	Bertram
+135638	Glossin
+135818	Lear
+135827	Glossin
+135858	Robert Hazlewood
+135861	Hazlewood
+135882	Ellangowan
+136001	Ellangowan
+136028	Hazlewood
+136078	Glossin
+136112	Gilbert Glossin
+136121	Ellangowan
+136137	Gilbert Glossin
+136150	Robert Hazlewood
+136173	C. Hazlewood
+136178	Robert Hazlewood
+136193	G. Glossin
+136215	Robert Hazlewood
+136227	Robert Hazlewood
+136233	G. Glossin
+136267	Robert Hazlewood
+136272	Bart
+136330	Bertram
+136407	Hazlewood
+136422	Robert Hazlewood
+136428	G. Glossin
+136450	Robert
+136459	G. G.
+136495	G. G.
+136505	Lady Hazlewood
+136518	Gilbert Glossin
+136535	Glossin
+136578	Robert
+136695	Mary
+136784	Glossin
+136796	Robert
+136824	Gilbert Glossin
+136862	G. G
+136877	Cumming
+136926	Laird
+136928	Ellangowan
+136964	Glossin
+136992	Robert Hazlewood
+137036	Laird
+137038	Ellangowan
+137162	Glossin
+137173	Hazlewood
+137202	Glossin
+137298	Glossin
+137354	Roturier
+137360	Robert
+137384	Glossin
+137458	Glossin
+137465	Robert Hazlewood
+137474	Robert Hazlewood
+137490	Glossin
+137609	John a
+137611	Nokes
+137753	Glossin
+137830	Hazlewood
+137838	Hazlewood
+137846	Glossin
+137868	Glossin
+137902	Hazlewood
+137965	Robert
+137992	Hazlewood
+138043	Robert
+138207	Glossin
+138249	Vanbeest Brown
+138269	Hazlewood
+138271	Hazlewood
+138318	Vanbeest Brown
+138328	Robert
+138373	Dirk Hatteraick
+138467	Vanbeest Brown
+138475	Robert
+138510	Robert
+138562	Hazlewood
+138665	Hazlewood
+138667	Hazlewood
+138685	Vanbeest Brown
+138759	Gilbert Glossin
+138893	Vanbeest Brown
+138974	Glossin
+138992	Robert Hazlewood
+139058	Robert Hazlewood
+139202	Robert
+139233	Bertram
+139266	Robert Hazlewood
+139302	Robert
+139321	Vanbeest Brown
+139370	Bertram
+139425	Robert
+139487	Robert
+139494	Hazlewood
+139496	Hazlewood
+139546	Hazlewood
+139548	Hazlewood
+139593	Bertram
+139649	Hazlewood
+139834	Hazlewood
+139836	Hazlewood
+139898	Robert
+139902	Glossin
+139942	Vanbeest Brown
+139977	Bertram
+140017	Robert
+140062	Bertram
+140309	Bertram
+140348	Robert
+140362	Derncleugh
+140390	Bertram
+140408	Robert
+140438	Vanbeest Brown
+140451	Glossin
+140464	Bertram
+140492	Bertram
+140586	Robert
+140627	Hazlewood
+140631	Hazlewood
+140643	Vanbeest Brown
+140675	Glossin
+140707	Robert Hazlewood
+140723	Bertram
+140808	Glossin
+140822	Robert
+140945	Bertram
+140969	Robert
+140975	Glossin
+140986	Mac-Candlish
+141007	Robert
+141037	Vanbeest Brown
+141070	Bertram
+141082	Glossin
+141122	Bertram
+141259	Glossin
+141276	Robert
+141384	Robert
+141388	Glossin
+141408	Robert
+141498	Robert
+141514	Guy Mannering
+141539	Guy Mannering
+141544	Glossin
+141559	Guy Mannering
+141654	Mannering
+141680	Robert
+141684	Glossin
+141754	Robert
+141838	Robert
+141847	Glossin
+141875	Robert Hazlewood
+141919	Vanbeest Brown
+141927	Brown
+142004	Brown
+142108	Mannering
+142121	Robert
+142125	Glossin
+142291	Bertram
+142309	Robert
+142412	Glossin
+142450	Lady Hazlewood
+142456	Hazlewood
+142501	Glossin
+142537	Glossin
+142544	Dirk Hatteraick
+142581	Mannering
+142648	Hatteraick
+142665	Hatteraick
+142791	Bertram
+142955	Bertram
+143085	MacGuffog
+143241	Bertram
+143264	Bertram
+143319	Mac-Guffog
+143369	Bertram
+143538	Mac-Guffog
+143547	Bertram
+143744	Bertram
+143809	Mac-Guffog
+143835	Bertram
+144020	Bertram
+144073	Mac-Guffog
+144136	Glossin
+144176	Bertram
+144217	Mac-Guffog
+144296	Donald Laider
+144674	Bertram
+144803	Bertram
+144953	Donald Laider
+144956	Bertram
+145006	Mac-Guffog
+145012	Bertram
+145110	Mac-Guffog
+145385	Bertram
+145480	Mac-Guffog
+145521	Ailie Dinmont
+145612	Bertram
+145964	Bertram
+146030	Bertram
+146109	Bertram
+146153	Sam Silverquill
+146181	Bertram
+146247	Bertram
+146510	Mannering
+146610	Julia
+146769	Mac-Guffog
+146798	-- Bertram
+146818	Wasp
+146899	Bertram
+146937	Dandie
+146965	Bertram
+146997	Dandie
+147075	Dumple
+147113	Wasp
+147130	Bertram
+147181	Dinmont
+147246	Sherra Pleydell
+147307	Dandie
+147357	Bertram
+147392	Mac-Guffog
+147400	Dinmont
+147577	Dinmont
+147599	Dandie
+147698	Dandie
+147777	Edinbro
+147892	Jock
+147895	Dawston
+147905	-- Weel
+147955	Tod Gabriel
+148069	Brown
+148086	Gabriel
+148406	-- Sae
+148589	Edinbro
+148683	Bertram
+148742	Dinmont
+148748	Gabriel
+148766	Dinmont
+148851	Liddel
+148878	Forster
+148944	Bertram
+148978	Jock-the-Giant-killer
+149073	Meg Merrilies
+149092	Bertram
+149147	Meg
+149285	Meg
+149424	Bertram
+149493	Ye
+149855	Dinmont
+149937	Mac-Guffog
+150015	Dinmont
+150039	Mac-Guffog
+150043	Dandie
+150195	Mac-Guffog
+150347	Bertram
+150374	Mac-Guffog
+150392	Dandie
+150459	Bertram
+150621	Bertram
+150629	Mannering
+150651	Julia
+150667	Bertram
+150702	Bertram
+150863	Dominie
+150896	Dominie
+150929	Mannering
+150939	Sampson
+151005	Sampson
+151062	Dominie
+151120	Sampson
+151209	Pleydell
+151214	Mannering
+151222	Harry Bertram
+151237	Sampson
+151245	Dominie
+151262	Frank Kennedy
+151286	Bertram
+151344	Bertram
+151375	Pleydell
+151386	Sampson
+151442	Margaret Bertram
+151455	Dominie
+151537	Warroch
+151559	Dominie
+151686	Dominie
+151838	Bertram
+151844	Meg Merrilies
+151851	Hatteraick
+151915	Hanlon MacDingawaie
+151924	Knarth MacDingawaie
+152163	Sampson
+152224	Dominie
+152273	Dominie Sampson
+152279	Kaim
+152371	Meg Merrilies
+152476	Dominie
+152482	-- Conjuro
+152501	-- Meg
+152514	Sampson
+152554	Dominie
+152634	Mannering
+152667	Bertram
+152671	Bertram
+152680	Hae
+152779	Dominie
+152845	Meg
+152902	ken
+152911	Frank Kennedy
+152940	Dominie
+153015	Meg
+153025	Dominie
+153143	Dominie
+153192	Dominie
+153266	Meg
+153401	Meg
+153435	Blackwood
+153510	Meg Merrilies
+153512	de Dernclough
+153541	Comacho
+153577	Henry
+153579	Charles
+153582	Dukes
+153651	Merrilies
+153738	Sampson
+153808	Saul
+153899	Dominie
+153913	Margaret
+153943	Sampson
+153976	Meg
+154003	Sampson
+154042	Sampson
+154095	Meg
+154133	Meg Merrilies
+154163	Margaret
+154167	Sampson
+154203	Meg
+154235	Bertram
+154239	Bertram
+154295	Sampson
+154333	Meg
+154402	Donagild
+154494	Laird
+154497	Ellangowan
+154552	Ellangowan
+154570	Ellangowan
+154607	Abel Sampson
+154617	Ellangowan
+154650	Dominie
+154681	Sampson
+154758	Sampson
+154768	Allan
+154814	Sampson
+154845	Sampson
+154862	Barnes
+154876	Dominie
+154886	Meg Merrilies
+154949	Sampson
+155039	Wae
+155138	Sampson
+155142	Mannering
+155147	Bertram
+155203	Sampson
+155219	Sampson
+155261	Mannering
+155306	Sampson
+155318	Mannering
+155321	Dominie
+155334	Bertram
+155345	Meg Merrilies
+155370	Julia
+155382	Sampson
+155405	Sampson
+155427	Dominie
+155434	Beelzebub
+155443	Meg Merrilies
+155508	Meg Merrilies
+155551	Robert Hazlewood
+155690	Barnes
+155736	Charles Hazlewood
+155755	Mannering
+155814	Mannering
+155826	Bertram
+155867	Mannering
+155882	Bertram
+155902	Lucy
+155956	Charles Hazlewood
+155987	Mannering
+156062	Mannering
+156104	Mannering
+156198	Charles Hazlewood
+156288	Hazlewood
+156324	Laird
+156349	Robert Hazlewood
+156413	Windyknowe
+156426	Simon
+156524	Hazlewood
+156543	Glossin
+156560	Hazlewood
+156575	Glossin
+156607	Hazlewood
+156739	Meg Merrilies
+156759	Hazlewood
+156806	Bertram
+156874	Hazlewood
+157048	Meg Merrilies
+157051	Hazlewood
+157151	Hazlewood
+157167	Ellangowan
+157184	Ellangowan
+157198	Ellangowan
+157217	Ellangowan
+157227	Bertram
+157461	Hazlewood
+157524	Charles Hazlewood
+157588	Meg Merrilies
+157805	Hazlewood
+157820	Hazlewood
+157901	Hazlewood
+157937	Robert Hazlewood
+157957	Charles Hazlewood
+157998	Robert
+158118	Robert
+158183	Young Hazlewood
+158205	Robert
+158321	Robert Hazlewood
+158414	Hazlewood
+158477	Charles
+158535	Hazlewood
+158618	Hazlewood
+158654	Glossin
+158660	Glossin
+158764	Charles
+158849	Charles
+158883	Glossin
+159075	Mac-Morlan
+159089	Robert
+159100	Mac-Morlan
+159105	Robert
+159209	Mac-Morlan
+159250	Robert
+159424	Robert
+159566	Mac-Morlan
+159714	Robert
+159718	Mac-Morlan
+159758	Robert
+159781	Charles Hazlewood
+159813	Mac-Morlan
+159850	Hazlewood
+159972	Willie O
+159975	Kinmont
+159991	Bertram
+160025	Bertram
+160258	Bertram
+160372	Bertram
+160518	Dinmont
+160576	Wasp
+160600	Dinmont
+160630	Yarrow
+160779	Bertram
+160884	-- Bertram
+161031	Tearum
+161053	Tearum
+161227	Bertram
+161316	Dinmont
+161330	-- Ailie
+161394	Bertram
+161552	Lordsake
+161592	-- Deil
+161652	Bertram
+161737	Bertram
+161769	Dinmont
+161901	Bertram
+162082	Bertram
+162233	Bertram
+162268	Bertram
+162298	Dinmont
+162322	Dinmont
+162332	Bertram
+162400	Hagel
+162437	Bertram
+162509	Bertram
+162532	Bertram
+162573	Dinmont
+162743	Glossin
+162795	Bertram
+162807	Dinmont
+162881	Jack Jabos
+162926	Bertram
+162937	Bertram
+162968	Dinmont
+162971	Wasp
+163005	Dinmont
+163053	Deuke
+163062	Bertram
+163117	Dinmont
+163154	Dandie
+163321	Tam
+163385	Mannering
+163458	Mannering
+163477	Barnes
+163488	Pleydell
+163545	Mannering
+163658	Lucy Bertram
+163697	Lucy
+163728	Julia
+163741	Julia
+163828	Mannering
+163865	Julia
+163964	Rebecca
+163975	Pleydell
+163979	Julia
+163999	Miss Mannering
+164068	Pleydell
+164136	Barnes
+164165	Mannering
+164259	Pleydell
+164293	Monboddo
+164338	Pleydell
+164370	Mannering
+164413	Mannering
+164460	Pleydell
+164485	Albumazar
+164517	Mannering
+164524	Ptolemy
+164561	Meg Merrilies
+164642	Pleydell
+164823	Bertram
+164827	Bertram
+164833	Ellangowan
+164869	Mannering
+164933	Pleydell
+164995	Mannering
+165279	Mannering
+165354	Mannering
+165367	Lucy Bertram
+165388	Julia
+165393	Scarlatti
+165446	Barnes
+165458	Allan
+165518	Julia
+165596	Julia
+165625	Pleydell
+165632	Julia
+165636	Pleydell
+165734	Mannering
+165782	Julia
+165936	Julia
+165948	Pleydell
+165984	Mannering
+166025	Sampson
+166126	Allan
+166148	Mannering
+166158	Pleydell
+166252	Pleydell
+166328	Sampson
+166338	Bertram
+166360	Barnes
+166366	Sampson
+166377	Barnes
+166397	Mannering
+166416	Mannering
+166534	Bertram
+166538	Mannering
+166552	Pleydell
+166618	Bertram
+166633	Hazlewood
+166650	Pleydell
+166654	Lucy
+166660	Mannering
+166696	Pleydell
+166700	Julia
+166718	Hazlewood
+166777	Miss Mannering
+166785	Hazlewood
+166870	Julia
+166922	Dominie Sampson
+166945	Sampson
+166954	De Lyra
+166965	Pleydell
+166991	Sampson
+167052	Dominie
+167180	Julia
+167187	Pleydell
+167196	Sampson
+167261	Mannering
+167306	L. Justice
+167361	Mannering
+167404	Pleydell
+167425	Julia
+167469	Pleydell
+167493	Barnes
+167543	Pleydell
+167571	Dinmont
+167652	Bertram
+167766	Mannering
+167781	Julia
+167794	Lucy Bertram
+167806	Hazlewood
+167808	Bertram
+167852	Brown
+167860	Mannering
+167930	Brown
+167992	Lucy Bertram
+168002	Mannering
+168110	Lucy
+168119	Bertram
+168134	Lucy
+168167	Hazlewood
+168284	Dandie
+168286	Davie
+168313	Pleydell
+168325	Brown
+168375	Dominie
+168413	Bertram
+168508	Dominie
+168540	Mannering
+168565	Mannering
+168648	Bertram
+168665	Mannering
+168668	Julia
+168679	Brown
+168700	Mannering
+168712	Bertram
+168740	Bertram
+168809	Hazlewood
+168851	Bertram
+168881	Julia
+168883	Mannering
+168941	Sampson
+168960	Bertram
+168975	Dinmont
+169133	Brown
+169141	Dominie
+169162	Pleydell
+169166	Dinmont
+169223	Dandie
+169309	Pleydell
+169324	Dandie
+169413	Bertram
+169496	Vanbeest Brown
+169508	Mannering
+169541	Brown
+169583	Pleydell
+169594	Brown
+169763	Dominie
+169805	Bertram
+169848	Harry Bertram
+169868	Bertram
+169912	Dominie
+169962	Mannering
+169969	Pleydell
+169984	Dinmont
+169995	Deil
+170105	Dominie
+170136	Dominie
+170265	Pleydell
+170283	Bertram
+170412	Sampson
+170430	Bertram
+170469	Harry
+170486	Dominie
+170497	Pleydell
+170508	Bertram
+170518	Bertram
+170548	Sampson
+170580	Dominie
+170625	Harry Bertram
+170644	Dominie
+170672	Pleydell
+170681	Sampson
+170704	Pleydell
+170721	Dominie
+170730	Bertram
+170887	Pleydell
+170908	Bertram
+171063	Mannering
+171124	Pleydell
+171154	Hazlewood
+171164	Bertram
+171186	Dinmont
+171212	Dinmont
+171279	Mannering
+171289	Hazlewood
+171356	Pleydell
+171481	Paulus Pleydell
+171522	Henry Bertram
+171578	Lewis
+171612	Mannering
+171616	Bertram
+171712	Brown
+171742	Bertram
+171755	Bertram
+171818	Hal
+171844	Dinmont
+171884	Pleydell
+171999	Pleydell
+172061	Deuke
+172181	Jock
+172184	Dawston
+172234	Dawston
+172298	Barnes
+172330	Clarence
+172349	Allan
+172374	Dominie Sampson
+172379	Dinmont
+172441	Lewis Bertram
+172473	Dominie
+172483	Harry Bertram
+172512	Bertram
+172527	Bertram
+172596	Frank Kennedy
+172607	Mac-Morlan
+172624	Dinmont
+172658	Bertram
+172669	Mannering
+172701	Barnes
+172744	Bertram
+172763	Mannering
+172775	Bertram
+172791	Julia
+172822	Bertram
+172856	Bertram
+172862	Sampson
+172879	Lucy
+172923	Merlin
+172942	Lucy
+172951	Sampson
+172976	Dominie
+172986	Lucy
+173019	Hazlewood
+173031	Dominie
+173045	Sampson
+173101	Sampson
+173107	Sampson
+173111	Lucy
+173195	Lucy
+173200	Abel
+173247	Dominie
+173283	Sampson
+173307	Dominie
+173338	Bertram
+173395	Lucy
+173401	Bertram
+173408	Dominie
+173457	Sampson
+173485	Lucy
+173490	Harry Bertram
+173514	Bertram
+173550	Lucy Bertram
+173555	Sampson
+173668	Julia Mannering
+173688	Bertram
+173712	Mannering
+173738	Lucy
+173796	Bertram
+173800	Dominie
+173843	Sampson
+173888	Bertram
+173931	Dominie
+173968	Mannering
+174010	Pleydell
+174033	Andrew Dinmont
+174184	Sampson
+174240	Bertram
+174250	Lucy
+174303	Harry
+174449	Dominie
+174453	Mannering
+174455	Bertram
+174460	Julia
+174537	Julia
+174550	Mincing
+174565	Mannering
+174591	Mincing
+174688	Julia
+174732	Julia
+174759	Canzade
+174776	Canzade
+174782	Lucy
+174821	Lucy
+174851	Julia Mannering
+174869	Brown
+174872	Bertram
+174886	Hazlewood
+174923	Julia
+174967	Brown
+174979	Julia
+175005	Brown
+175034	Julia Mannering
+175067	Julia
+175080	Mannering
+175155	Mannering
+175183	Julia
+175287	Mannering
+175375	Julia
+175405	Dominie
+175521	Julia
+175547	Julia
+175646	Julia
+175767	Bertram
+175861	Henry Bertram
+175864	Heir of
+175866	Ellangowan
+175899	Pleydell
+175921	Cressy
+176001	Julia
+176078	Brown
+176082	Bertram
+176113	Bertram
+176187	Julia
+176191	Mannering
+176346	Henry IV
+176389	Dandie
+176414	Allan
+176461	Barnes
+176508	Julia
+176516	Bertram
+176525	Bertram
+176536	Mannering
+176538	Lucy
+176562	Hazlewood
+176624	Dominie
+176637	Bertram
+176642	Lucy
+176717	Plato
+176762	Sampson
+176769	Plato
+176792	Dominie
+176814	Plato
+176833	Pleydell
+176885	Mac-Morlan
+177067	Robert Hazlewood
+177144	Sampson
+177147	Bertram
+177213	Bertram
+177233	Bertram
+177238	Sampson
+177274	Ellangowan
+177335	Meg Merrilies
+177380	Mannering
+177470	Dominie
+177481	Harry Bertram
+177503	Sampson
+177507	Pleydell
+177555	Mannering
+177558	Bertram
+177581	Leyden
+177614	Dominie
+177632	Pleydell
+177657	Dominie
+177691	Julia
+177743	Mannering
+177747	Pleydell
+177764	Robert
+177809	Hazlewood
+177811	Hazlewood
+177855	Robert Hazlewood
+177979	Brown
+178024	Pleydell
+178029	Robert
+178046	Brown
+178065	Bertram
+178150	Robert
+178160	Pleydell
+178258	Ellangowan
+178284	Robert
+178302	Ellangowan
+178329	Bertram
+178342	Robert
+178382	Mannering
+178440	Pleydell
+178445	Robert
+178599	Driver
+178633	Bertram
+178635	Brown
+178746	Glossin
+178814	Pleydell
+178860	Hazlewood
+178871	Bertram
+178890	Bertram
+178925	Ellangowan
+178951	Bertram
+179106	Julia
+179115	Lucy
+179258	Bertram
+179297	Bertram
+179326	Lucy
+179364	Julia
+179397	Brown
+179438	Gibbie
+179577	Lucy Bertram
+179692	Lucy
+179700	Ellangowan
+179797	Dinmont
+179839	Meg Merrilies
+179941	Arthur
+179992	Gawaine
+179999	Gawaine
+180027	Meg Merrilies
+180108	Lucy Bertram
+180111	Julia Mannering
+180135	Julia
+180162	Bertram
+180179	Meg
+180240	Bertram
+180278	Julia
+180301	Lucy
+180316	Meg
+180321	Bertram
+180342	Bertram
+180387	Julia
+180405	Dinmont
+180420	Meg
+180468	Luckie
+180518	Dinmont
+180541	Bertram
+180582	Julia
+180604	Bertram
+180644	Bertram
+180646	Dinmont
+180827	Lucy
+180860	Julia
+180950	Lucy
+180980	Henry
+181016	Bertram
+181098	Hazlewood
+181123	Bertram
+181148	Bertram
+181179	Lucy
+181215	Mannering
+181235	Meg Merrilies
+181264	Bertram
+181339	Glossin
+181368	Hazlewood
+181422	Meg
+181441	Pleydell
+181472	Hazlewood
+181505	Glossin
+181510	-- Hie
+181541	Hazlewood
+181554	Hazlewood
+181576	Bertram
+181578	Dinmont
+181765	Dinmont
+181829	Bertram
+181869	Dandie Dinmont
+181882	Meg
+181915	Bertram
+181966	Henry Bertram
+182024	Bertram
+182044	Meg
+182292	Henry Bertram
+182316	Meg Merrilies
+182541	Ihave
+182573	Meg
+182631	Meg
+182654	Bertram
+182665	Dinmont
+182703	Bertram
+182719	Luckie
+182723	Dinmont
+182801	Bertram
+182859	Dinmont
+182890	Bertram
+182897	Dandie
+182921	Bertram
+182928	Dinmont
+182965	Dinmont
+183010	Ellangowan
+183016	Derncleugh
+183028	Kennedy
+183033	Meg Merrilies
+183241	Bertram
+183258	Meg
+183291	Bertram
+183410	Meg
+183466	Bertram
+183578	Henry
+183589	Jansen
+183595	Jansen
+183619	Bertram
+183717	Dandie
+183751	Meg
+183760	Bertram
+183763	Dinmont
+183808	Henry VI
+183946	Charles Hazlewood
+183967	Meg Merrilies
+184041	Deyvil
+184051	Dirk Hatteraick
+184127	Dirk Hatteraick
+184184	Bertram
+184186	Dinmont
+184334	Dinmont
+184342	Hazlewood
+184350	Bertram
+184357	Hazlewood
+184558	Dirk Hatteraick
+184705	Meg Merrilies
+184734	Hatteraick
+184769	Bertram
+184788	Jansen
+184799	Kennedy
+184808	Jansen
+184813	Brown
+184832	Bertram
+184846	Mannering
+184848	Pleydell
+184899	Hatteraick
+184997	Bertram
+185002	Dinmont
+185009	Hazlewood
+185022	Bertram
+185130	Hatteraick
+185154	Meg Merrilies
+185179	Hagel
+185281	Harry Bertram
+185347	Hatteraick
+185377	Ellangowan
+185393	Glossin
+185450	-- Hagel
+185502	Meg
+185564	Meg
+185595	Bertram
+185597	Dinmont
+185606	Hatteraick
+185608	Hazlewood
+185637	Meg Merrilies
+185691	Bertram
+185714	Hatteraick
+185752	Dinmont
+185804	Dinmont
+185832	Bertram
+185837	Hazlewood
+185928	Dinmont
+185946	Dandie
+185982	Bertram
+186010	Hazlewood
+186015	Meg Merrilies
+186065	Bertrarn
+186097	Hazlewood
+186125	Hazlewood
+186172	Bertram
+186176	Meg Merrilies
+186202	Dinmont
+186206	Hatteraick
+186326	Hazlewood
+186354	Bertram
+186366	Hazlewood
+186387	Hatteraick
+186521	Meg Merrilies
+186528	Hatteraick
+186569	Hagel
+186616	Meg Merrilies
+186645	Hazlewood
+186684	Kaim
+186690	Kaim
+186720	Bertram
+186811	Hazlewood
+186841	Hazlewood
+186848	Bertram
+186867	Mannering
+186902	Dinmont
+187011	Bertram
+187035	Charles Hazlewood
+187054	Kennedy
+187129	Meg
+187184	Henry Bertram
+187224	Henry Bertram
+187246	Bertram
+187325	Hatteraick
+187354	Henry Bertram
+187359	Godfrey Bertram
+187374	Dirk Hatteraick
+187629	Hatteraick
+187661	Dirk Hatteraick
+187711	Dirk Hatteraick
+188044	Bertram
+188058	Ellangowan
+188070	Meg Merrilies
+188111	Jock Jabos
+188134	Bertram
+188161	Ellangowan
+188198	Bertram
+188455	Dinmont
+188554	Meg
+188577	Dinna
+188781	Hazlewood
+188787	Bertram
+188812	Jabos
+188814	Bertram
+188834	Bertram
+188854	Bertram
+188883	Ellangowan
+189003	Hazlewood
+189039	MacMorlan
+189068	Bertram
+189287	-- Bertram
+189367	Dan Dunkieson
+189402	Bertram
+189435	Meg Merrilies
+189677	Bertram
+189725	Dinmont
+189753	Bertram
+189755	Hazlewood
+189795	Laird
+189822	Dinmont
+189892	Elspeth
+189899	Beadle
+189972	Bertram
+189974	Lucy
+189984	Julia
+190013	Lucy
+190016	Hazlewood
+190020	Dinmont
+190137	Pleydell
+190141	Julia
+190180	Bertram
+190189	Dirk Hatteraick
+190193	Gad
+190240	Julia
+190249	Pleydell
+190344	Mannering
+190347	Bertram
+190375	Mac-Morlan
+190384	Bertram
+190411	Dominie
+190523	Pleydell
+190538	Kennedy
+190559	Mac-Morlan
+190562	Robert Hazlewood
+190588	Mannering
+190631	Meg Merrilies
+190651	Kennedy
+190736	Gabrie Faa
+190811	Dirk Hatteraick
+190870	Pleydell
+190895	Mannering
+190901	Dogberry
+190924	-- Soles
+190975	-- Soles
+191045	Mannering
+191063	Brown
+191079	Soles
+191090	Mannering
+191092	Hatteraick
+191161	Hatteraick
+191214	Hatteraick
+191218	Pleydell
+191245	Hatteraick
+191271	Pleydell
+191294	Gilbert Glossin
+191321	Meg Merrilies
+191466	Robert Hazlewood
+191470	Robert
+191507	Corsand
+191511	Glossin
+191532	Glossin
+191537	Corsand
+191568	Glossin
+191601	Mannering
+191611	Pleydell
+191638	Pleydell
+191664	Mannering
+191692	Glossin
+191723	Pleydell
+191737	Glossin
+191790	Glossin
+191838	Pleydell
+191853	Glossin
+191874	Glossin
+191885	Dirk Hatteraick
+191911	Glossin
+191957	Mac-Morlan
+191961	Glossin
+191965	Bertram
+191973	Glossin
+191991	Robert Hazlewood
+192036	Glossin
+192086	Pleydell
+192132	Pleydell
+192136	Glossin
+192173	Ellangowan
+192239	Robert Hazlewood
+192242	Hazlewood
+192253	Glossin
+192257	Pleydell
+192279	Glossin
+192305	Ellangowan
+192311	Janet Lightoheel
+192329	Annan
+192334	Godfrey Bertram
+192336	Hewit
+192356	Pleydell
+192417	Godfrey Bertram
+192419	Hewit
+192469	Pleydell
+192478	Hatteraick
+192614	Kennedy
+192666	Ellangowan
+192699	Glossin
+192720	Pleydell
+192735	Glossin
+192749	Vanbeest
+192757	Dirk Hatteraick
+192795	Glossin
+192810	Pleydell
+192828	Gabriel Faa
+192861	Pleydell
+192865	Glossin
+192960	Glossin
+192998	Pleydell
+193016	Pleydell
+193026	Torrence
+193028	Waldie
+193144	Mac-Morlan
+193168	Glossin
+193180	Gabriel
+193199	Pritchard
+193212	Dirk Hatteraick
+193257	Hatteraick
+193262	Vanbeest Brown
+193297	Kennedy
+193301	Hatteraick
+193303	Brown
+193371	Hatteraick
+193390	Brown
+193399	Kennedy
+193407	Glossin
+193419	Hatteraick
+193429	Bertram
+193460	Gabriel Faa
+193474	Meg Merrilies
+193481	Hatteraick
+193528	Ellangowan
+193541	Dirk Hatteraick
+193579	Bertram
+193603	Meg Merrilies
+193621	Bertram
+193635	Meg
+193681	Harry Bertram
+193733	Bertram
+193818	Mannering
+193872	Pleydell
+193883	Glossin
+193914	Mannering
+193981	Glossin
+194012	Mannering
+194037	Pleydell
+194046	Law
+194136	Hatteraick
+194214	Hatteraick
+194319	Gad
+194425	Hatteraick
+194436	Glossin
+194492	Glossin
+194635	Bertram
+194661	Meg Merrilies
+194674	Hatteraick
+194754	Mac-Guffog
+194804	Glossin
+194819	Dirk Hatteraick
+194837	Mac-Morlan
+194875	Glossin
+194883	Mac-Guffog
+194905	Glossin
+194916	-- Lookee
+195017	Mac-Guffog
+195044	Glossin
+195051	Mac-Guffog
+195097	Glossin
+195127	Glossin
+195163	Glossin
+195209	Glossin
+195214	Dirk Hatteraick
+195219	Donner
+195276	Glossin
+195341	Dirk
+195350	Glossin
+195398	Meg Merrilies
+195444	Hatteraick
+195460	Glossin
+195485	Meg
+195622	Dirk
+195637	Hagel
+195668	Glossin
+195676	Hatteraick
+195682	Donner
+195688	Hatteraick
+195705	Glossin
+195731	Hatteraick
+195785	Glossin
+195828	Mac-Guffog
+195833	Glossin
+195851	Dirk Hatteraick
+195856	Glossin
+195877	Hatteraick
+195887	Mac-Guffog
+195907	Glossin
+195938	Glossin
+195960	Hatteraick
+195976	Glossin
+196096	Mac-Morlan
+196113	Glossin
+196159	Mac-Morlan
+196412	Ellangowan
+196425	Meg Merrilies
+196449	Mac-Guffog
+196473	Glossin
+196488	Dirk Hatteraick
+196504	Skreigh
+196570	Glossin
+196585	Ellangowan
+196594	Godfrey Bertram
+196611	Henry Bertram
+196633	Pleydell
+196636	Mac-Morlan
+196675	Mannering
+196706	Margaret Bertram
+196772	Bertram
+196814	Mannering
+196824	Bertram
+196835	Ellangowan
+196850	Dominie
+196947	Mannering
+197000	Dominie
+197025	MR. SAMPSON
+197042	Dominie
+197045	Pleydell
+197131	Julia
+197139	Haziewood
+197141	Bertram
+197145	Delaserre
+197311	Bertram
+197341	Mannering
+197379	Cujacius
+197431	Walker
+197434	Mac-Morlan
+197468	Mac-Candlish
+197477	Jock Jabos
+197500	Dandie
+197523	Julia
+197564	Blind Harry
+197567	Hy Spy
+197581	Pleydell
+197677	Julia
+197710	Pleydell
+197725	Lucy
+197760	Robert Hazlewood
+197765	Mannering
+197772	Bertram
+197804	Mannering
+197864	Bertram
+197870	Bertram
+197881	Margaret Bertram
+197916	Pleydell
+197943	Robert
+198012	Charles Hazlewood
+198016	Bertram
+198044	Lucy
+198161	Donagild
+198398	Armstrong
+198400	Elliot
+198409	Charlie
+198456	Charlie
+198576	Charlie
+198628	Charlie
+198700	Charlie
+198739	Meg
+198803	Meg
+198914	Charlie
+199021	Charlie
+199070	Charlie
+199091	Charlie
+199136	Charlie
+199207	Charlie
+199285	Dandie Dinmont
+199384	James Davidson
+199387	Hindlee
+199393	Douglas
+199416	Dandie Dinmont
+199471	Davidson
+199578	Dandie Dinmont
+199588	Davidson
+199687	Davidson
+199748	Davidson
+199784	Davidson
+199889	Dandie Dinmont
+199907	Baillie
+200192	-- Lum
+200194	Cleeks
+200298	Redgill
+200382	Andrew
+200385	Dandie Oliver
+200395	Dandie Wassil-gate
+200398	Dandie Thumbie
+200402	Dandie Dumbie
+200517	Johnston
+200533	Meg Merrilies
+200591	Blackwood
+200994	Tappit Hen
+201027	Haswell
+201112	Pleydell
+201146	Dundas
+201159	Melville
+201440	Bacchus
+201563	Alexander Keith
+201576	Alexander Keith
+201599	MONBODDO
+201617	Pleydell
+201628	Monboddo
+201750	Horace
+201862	Pleydell
+202034	Tom Fool
+202146	Guy Mannering
+202152	Dirk Hatteraick
+202174	Galloway
+202254	Bogle-Bush
+202329	Galloway
+202354	Pitt
+202414	Yawkins
+202481	Yawkins
+202529	Yawkins
+202589	Muckle Ron
+202668	Yawkins
+202704	Buckkar
+202749	Dee
+202788	Yawkins
+202804	Dirk Hatteraick
+202832	Gauger
+202834	Loup
+202850	Kennedy
+202854	Meg Merrilies
+202858	Galloway
+202980	Willie
+203132	Caird
+203137	Laird
+203214	Bargally
+203250	Bargally
+203291	Bargally
+203380	Caird
+203398	Bargally
+203417	Laird
+203469	Dalmellington
+203472	Bargally
+203554	Dalmellington
+203567	Willie Marshal
+203585	Bargally
+203669	Meg Merrilies
+203695	Jean Gordon
+203704	Laird
+203706	Bargally
+203725	Meg
+203791	Joe Miller
+203820	Balaam
+203840	Balaam
+203863	Cicerone
+203930	Guy Mannering

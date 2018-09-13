@@ -1,0 +1,556 @@
+3	MARLEY
+6	Marley
+44	Scrooge
+49	Scrooge
+68	Marley
+164	Marley
+172	Scrooge
+189	Scrooge
+203	Scrooge
+232	Scrooge
+272	Marley
+290	Marley
+375	Paul
+391	Scrooge
+396	Marley
+412	Scrooge
+414	Marley
+423	Marley
+432	Scrooge Scrooge
+437	Marley
+690	Scrooge
+711	Scrooge
+827	Scrooge
+889	Scrooge
+1054	Scrooge
+1087	Scrooge
+1119	Scrooge
+1208	Scrooge
+1235	Scrooge
+1258	Scrooge
+1295	Scrooge
+1317	Scrooge
+1379	Scrooge
+1541	Scrooge
+1621	Scrooge
+1645	Scrooge
+1902	Scrooge
+1961	Scrooge
+2002	Scrooge
+2019	Scrooge
+2038	Scrooge
+2097	Scrooge
+2126	Scrooge
+2194	Scrooge
+2210	Scrooge
+2251	Scrooge
+2267	Scrooge
+2307	Scrooge
+2338	Scrooge
+2359	Marley
+2385	Scrooge
+2389	Marley
+2394	Marley
+2403	Scrooge
+2485	Scrooge
+2555	Scrooge
+2629	Scrooge
+2667	Scrooge
+2765	Scrooge
+2786	Scrooge
+2872	Scrooge
+2919	Scrooge
+2971	Scrooge
+3324	Dunstan
+3416	Scrooge
+3460	Scrooge
+3505	Scrooge
+3523	Scrooge
+3565	Scrooge
+3617	Scrooge
+3654	Scrooge
+3698	Cornhill
+3740	Scrooge
+3884	Scrooge
+3966	Scrooge
+3985	Scrooge
+4030	Scrooge
+4037	Marley
+4069	Scrooge
+4100	Marley
+4104	Marley
+4153	Marley
+4345	Marley
+4429	Scrooge
+4552	Scrooge
+4592	Scrooge
+4612	Scrooge
+4692	Scrooge
+4890	Abels
+4912	Abrahams
+4937	Marley
+4993	Marley
+5005	Scrooge
+5188	Scrooge
+5249	Scrooge
+5309	Marley
+5326	Marley
+5389	Scrooge
+5419	Scrooge
+5440	Scrooge
+5447	Marley
+5539	Scrooge
+5560	-- Marley
+5597	Scrooge
+5642	Jacob Marley
+5657	Scrooge
+5676	Scrooge
+5766	Scrooge
+5793	Scrooge
+5809	Scrooge
+5870	Scrooge
+5951	Scrooge
+5982	Scrooge
+6032	Scrooge
+6086	Scrooge
+6108	Scrooge
+6170	Scrooge
+6285	Scrooge
+6330	Scrooge
+6454	Scrooge
+6520	Scrooge
+6579	Scrooge
+6620	Jacob Marley
+6632	Jacob
+6745	Scrooge
+6797	Jacob
+6800	Scrooge
+6828	Scrooge
+6868	Scrooge
+6900	Scrooge
+7064	Jacob
+7068	Scrooge
+7239	Scrooge
+7283	Scrooge
+7299	Jacob
+7346	Scrooge
+7401	Ebenezer
+7416	Scrooge
+7439	Scrooge
+7463	Jacob
+7490	Scrooge
+7540	Jacob
+7733	Marley
+7748	Scrooge
+7819	Scrooge
+7862	Marley
+8131	Scrooge
+8284	Scrooge
+8447	Ebenezer Scrooge
+8527	Marley
+8589	Scrooge
+8702	Ding
+8714	Scrooge
+8719	Ding
+8730	Scrooge
+8733	Ding
+8746	Scrooge
+8749	Ding
+8761	Scrooge
+8862	Scrooge
+9159	Scrooge
+9304	Scrooge
+9346	Scrooge
+9521	Scrooge
+9705	Scrooge
+9826	Scrooge
+9938	Scrooge
+10059	Scrooge
+10191	Scrooge
+10260	Scrooge
+10305	Scrooge
+10484	Scrooge
+10542	Scrooge
+10712	Ali Baba
+10716	Scrooge
+10727	Ali Baba
+10768	Valentine
+10772	Scrooge
+10914	Ali Baba
+10918	Scrooge
+10929	Ali Baba
+10972	Robin Crusoe
+10991	Robin Crusoe
+10999	Robin Crusoe
+11081	Scrooge
+11129	Scrooge
+11187	Scrooge
+11240	Scrooge
+11938	Scrooge
+11954	Scrooge
+12067	Scrooge
+12079	Scrooge
+12129	Scrooge
+12155	Fezziwig
+12225	Dick
+12228	Scrooge
+12252	Dick Wilkins
+12261	Scrooge
+12285	Dick
+12288	Dick
+12304	Fezziwig
+12314	Dick
+12318	Ebenezer
+12345	Jack Robinson
+12422	Fezziwig
+12452	Dick
+12589	Fezziwig
+12825	Fezziwig
+13017	Roger de
+13019	Coverley
+13024	Fezziwig
+13031	Fezziwig
+13097	Fezziwig
+13110	Fezziwig
+13192	Fezziwig
+13195	Fezziwig
+13228	Fezziwig
+13271	Fezziwig
+13355	Scrooge
+13412	Dick
+13472	Scrooge
+13551	Scrooge
+13676	Scrooge
+13694	Scrooge
+13738	Scrooge
+13792	Scrooge
+14633	Scrooge
+14748	Scrooge
+15427	Belle
+15491	Scrooge
+15496	Scrooge
+15562	Scrooge
+15614	Scrooge
+15768	Scrooge
+15881	Scrooge
+15930	Jacob Marley
+16392	Scrooge
+16518	Marley
+16649	Scrooge
+16679	Scrooge
+16741	Scrooge
+16912	Scrooge
+16963	Scrooge
+17068	Scrooge
+17080	Holly
+18288	Scrooge
+18313	Scrooge
+18338	Scrooge
+18353	Scrooge
+18428	Scrooge
+18458	Scrooge
+18508	Scrooge
+18592	Scrooge
+18628	Scrooge
+18727	Scrooge
+18739	Scrooge
+18765	Bob Cratchit
+18780	Bob
+18785	Bob
+18819	Cratchit
+18821	Cratchit
+18859	Belinda Cratchit
+18874	Peter Cratchit
+18896	Bob
+18982	Cratchits
+18991	Peter Cratchit
+19049	Cratchit
+19056	Tiny Tim
+19060	Martha
+19076	Martha
+19093	Martha
+19115	Martha
+19137	Cratchit
+19203	Cratchit
+19252	Martha
+19258	Martha
+19266	Bob
+19302	Tiny Tim
+19310	Tiny Tim
+19335	Martha
+19339	Bob Cratchit
+19352	Cratchit
+19360	Bob
+19374	Tim
+19397	Martha
+19436	Tiny Tim
+19469	Cratchit
+19474	Bob
+19480	Bob
+19499	Bob
+19572	Bob
+19590	Tiny Tim
+19612	Tim
+19634	Bob
+19685	Peter
+19755	Cratchit
+19771	Peter
+19780	Belinda
+19787	Martha
+19793	Bob
+19795	Tiny Tim
+19810	Cratchits
+19871	Cratchit
+19915	Tiny Tim
+19923	Cratchits
+19948	Bob
+20001	Cratchit
+20062	Belinda
+20065	Cratchit
+20206	Cratchit
+20254	Bob Cratchit
+20273	Cratchit
+20279	Cratchit
+20340	Cratchit
+20408	Cratchit
+20416	Bob Cratchit
+20429	Bob Cratchit
+20471	Bob
+20491	Bob
+20525	Tiny Tim
+20548	Bob
+20588	Scrooge
+20602	Tiny Tim
+20658	Scrooge
+20725	Scrooge
+20851	Scrooge
+20883	Scrooge
+20887	Bob
+20895	Scrooge
+20916	Cratchit
+20960	Bob
+21003	Scrooge
+21010	Robert
+21030	Bob
+21056	Cratchit
+21115	Tim
+21131	Scrooge
+21186	Bob Cratchit
+21224	Peter
+21233	Peter
+21267	Martha
+21350	Peter
+21355	Peter
+21407	Tiny Tim
+21460	Peter
+21516	Scrooge
+21526	Tiny Tim
+21548	Scrooge
+22000	Scrooge
+22193	Scrooge
+22217	Scrooge
+22479	Scrooge
+22742	Scrooge
+22774	Scrooge
+22842	Scrooge
+22868	Scrooge
+22925	Scrooge
+22943	Fred
+22947	Scrooge
+23072	Scrooge
+23119	Fred
+23123	Scrooge
+23150	Scrooge
+23219	Scrooge
+23223	Scrooge
+23248	Scrooge
+23330	Scrooge
+23389	Scrooge
+23413	Topper
+23416	Topper
+23425	Scrooge
+23483	Fred
+23487	Scrooge
+23513	Scrooge
+23562	Scrooge
+23696	Uncle Scrooge
+23823	Topper
+23856	Scrooge
+23985	Jacob Marley
+24053	Topper
+24080	Scrooge
+24355	Scrooge
+24388	Scrooge
+24439	Scrooge
+24456	Topper
+24482	Scrooge
+24548	Scrooge
+24616	Scrooge
+24638	Scrooge
+24864	Fred
+24880	Fred
+24939	Scrooge
+24966	Fred
+25035	Scrooge
+25060	Scrooge
+25252	Scrooge
+25285	Scrooge
+25301	Scrooge
+25355	Scrooge
+25426	Scrooge
+25662	Scrooge
+25712	Scrooge
+25882	Scrooge
+25909	Jacob Marley
+25960	Scrooge
+26102	Scrooge
+26142	Scrooge
+26195	Scrooge
+26243	Scrooge
+26397	Scrooge
+26437	Scrooge
+26543	Scrooge
+26944	Scrooge
+26974	Scrooge
+27145	Scrooge
+27202	Jacob
+27485	Scrooge
+27720	Scrooge
+27867	Joe
+27901	Joe
+28121	Dilber
+28213	Dilber
+28273	Dilber
+28358	Dilber
+28413	Joe
+28471	Joe
+28541	Joe
+28584	Joe
+28612	Dilber
+28680	Joe
+28726	Joe
+28734	Joe
+28777	Joe
+28827	Joe
+28856	Joe
+28903	Joe
+28930	Joe
+28977	Joe
+29093	Joe
+29174	Scrooge
+29241	Joe
+29304	Scrooge
+29473	Scrooge
+29507	Scrooge
+29845	Scrooge
+29903	Scrooge
+29961	Scrooge
+30219	Caroline
+30448	Caroline
+30529	Scrooge
+30573	Scrooge
+30593	Bob Cratchit
+30642	Peter
+30759	Tiny Tim
+30771	Cratchit
+30817	Peter
+30885	Tiny Tim
+30903	Peter
+30977	Bob
+31020	Cratchits
+31058	Bob
+31090	Cratchit
+31115	Robert
+31130	Bob
+31182	Bob
+31272	Bob
+31327	Bob
+31336	Scrooge
+31378	Bob
+31394	Bob
+31420	Cratchit
+31471	Bob
+31480	Peter
+31492	Bob
+31556	Bob
+31618	Cratchit
+31633	Bob
+31661	Peter
+31672	Peter
+31677	Cratchit
+31691	Peter
+31715	Peter
+31730	Bob
+31771	Tiny Tim
+31805	Bob
+31846	Tiny Tim
+31875	Bob
+31885	Cratchit
+31897	Cratchits
+31902	Peter
+31910	Tiny Tim
+31925	Scrooge
+32042	Scrooge
+32055	Scrooge
+32116	Scrooge
+32134	Scrooge
+32336	Scrooge
+32403	Scrooge
+32437	Scrooge
+32465	EBENEZER SCROOGE
+32861	Jacob Marley
+32882	Jacob
+32941	Scrooge
+33056	Laocoön
+33171	Jacob Marley
+33273	Scrooge
+33486	Scrooge
+33511	Scrooge
+33583	Scrooge
+33605	Scrooge
+33663	Scrooge
+33699	Scrooge
+33723	Scrooge
+33823	Bob Cratchit
+33829	Scrooge
+33859	Joe Miller
+33870	Bob
+33944	Scrooge
+34045	Scrooge
+34231	Scrooge
+34272	Scrooge
+34329	Marley
+34379	Scrooge
+34425	Scrooge
+34433	Scrooge
+34468	Scrooge
+34496	Scrooge
+34510	Scrooge
+34618	Scrooge
+34765	Scrooge
+34790	Scrooge
+34825	Scrooge
+34898	Fred
+34902	Scrooge
+34915	Scrooge
+34953	Fred
+34967	Scrooge
+34981	Fred
+35022	Topper
+35089	Bob Cratchit
+35121	Bob
+35128	Bob
+35142	Scrooge
+35204	Scrooge
+35242	Bob
+35293	Bob
+35331	Scrooge
+35361	Bob
+35389	Bob
+35435	Bob
+35439	Scrooge
+35462	Bob
+35510	Bob
+35526	Bob Cratchit
+35553	Tiny Tim
+35769	Tiny Tim

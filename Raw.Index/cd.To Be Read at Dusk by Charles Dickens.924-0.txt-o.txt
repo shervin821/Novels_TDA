@@ -1,0 +1,59 @@
+34	Bernard
+344	Ananias Dodger
+603	Heinrich
+615	Heinrich
+632	Heinrich
+708	Marchesa Senzanima
+750	Marchesa
+962	Giovanni Baptista
+1012	Baptista
+1416	Baptista
+1958	Carolina
+2622	Madonna
+2632	Venus
+2656	Doges
+2800	Clara
+2898	Baptista
+3012	Baptista
+3016	Signore
+3036	Signor Dellombra
+3089	Altro
+3091	Dellombra
+3104	Signor Dellombra
+3183	Signor Dellombra
+3285	Signor Dellombra
+3502	Signor Dellombra
+3569	Signor Dellombra
+3629	Signor Dellombra
+3731	Clara
+3737	Dellombra
+3816	Clara
+3858	Baptista
+3949	Carolina
+3975	Baptista
+3994	Carolina
+4182	Campagna
+4219	Signor Dellombra
+4422	James
+4463	James
+4478	John
+4485	James
+4506	John
+4527	James
+4549	James
+4638	James
+4662	John
+4703	James
+4734	Wilhelm
+4766	Wilhelm
+4890	James
+4913	John
+5101	James
+5135	James
+5163	James
+5174	Robert
+5192	John
+5244	James
+5253	Wilhelm
+5318	James
+5595	Ananias Dodger
