@@ -1,0 +1,18 @@
+"BookCoref.java"
+
+This code will read all the books from the folder "./novels_mannually_cleaned" and writes down the co-reference results in the folder "./Raw.Index".
+List of the books can be found in "_List.of.Novels.csv". Please download and put in the "./novels_mannually_cleaned" folder. 
+For the best same results, manually remove the meta data and indexes.
+
+
+"1.from.indices.to.graphs.r"
+This code will transform the books in the folder "Raw.Index" to the graph of characters in the folder "./wasserstein"
+You need to set the working directory.
+
+"2.graphs.to.persistence.diagrams.and.classification.r"
+This code will use the graphs in "./wasserstein" folder to generate persistence diagrams and save the classification results in "./PH.results".
+You need to set the working directory.
+
+"3. draw.persistence.diagrams.r"
+This code will draw the persistent diagrams in in the folder "./diagrams".
+You need to set the working directory.
